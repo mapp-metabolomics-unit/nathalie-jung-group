@@ -22,7 +22,7 @@
                     <parameter name="Noise level">1000.0</parameter>
                 </module>
                 <module name="Centroid">
-                    <parameter name="Noise level">500000.0</parameter>
+                    <parameter name="Noise level">250000.0</parameter>
                 </module>
                 <module name="Exact mass">
                     <parameter name="Noise level"/>
@@ -95,10 +95,10 @@
                 <parameter name="Noise factor">5.0</parameter>
             </module>
             <module name="Auto">
-                <parameter name="Noise level">500000.0</parameter>
+                <parameter name="Noise level">250000.0</parameter>
             </module>
             <module name="Centroid">
-                <parameter name="Noise level">500000.0</parameter>
+                <parameter name="Noise level">250000.0</parameter>
             </module>
             <module name="Exact mass">
                 <parameter name="Noise level"/>
@@ -176,8 +176,8 @@
             <parameter name="Spectrum type">ANY</parameter>
         </parameter>
         <parameter name="Minimum consecutive scans">5</parameter>
-        <parameter name="Minimum intensity for consecutive scans">500000.0</parameter>
-        <parameter name="Minimum absolute height">500000.0</parameter>
+        <parameter name="Minimum intensity for consecutive scans">250000.0</parameter>
+        <parameter name="Minimum absolute height">250000.0</parameter>
         <parameter name="m/z tolerance (scan-to-scan)">
             <absolutetolerance>0.002</absolutetolerance>
             <ppmtolerance>15.0</ppmtolerance>
@@ -373,7 +373,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_gnps.fbmn.GnpsFbmnExportAndSubmitModule" parameter_version="3">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257.mgf</current_file>
+            <current_file>/home/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257.mgf</current_file>
         </parameter>
         <parameter name="Filter rows">MS2 OR ION IDENTITY</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="input_scans">
@@ -417,7 +417,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_sirius.SiriusExportModule" parameter_version="2">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257_sirius.mgf</current_file>
+            <current_file>/home/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257_sirius.mgf</current_file>
         </parameter>
         <parameter name="Intensity normalization" scientific="true">no_normalization</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="simple_merged">
