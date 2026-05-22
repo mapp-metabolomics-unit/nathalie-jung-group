@@ -1,0 +1,15 @@
+[project]
+name = "mapp-reporting"
+version = "0.1.0"
+description = "Quarto reporting utilities for MAPP metabolomics projects"
+requires-python = ">=3.10"
+dependencies = [
+  "ipykernel>=6.30",
+  "nbclient>=0.10",
+  "nbformat>=5.10",
+  "pandas>=2.3",
+  "pyyaml>=6.0"
+]
+
+[tool.uv]
+package = false

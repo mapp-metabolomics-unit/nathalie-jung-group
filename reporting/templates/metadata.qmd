@@ -1,0 +1,67 @@
+## Sample Metadata
+
+```{python}
+metadata_ctx = context.get("metadata", {})
+original_meta = metadata_ctx.get("original_file")
+treated_meta = metadata_ctx.get("treated_file")
+summary = metadata_ctx.get("summary", {})
+missing_sections = []
+
+links = []
+if treated_meta:
+    links.append(f"- Treated metadata: {link_label(treated_meta)}")
+else:
+    missing_sections.append("treated metadata path")
+if original_meta:
+    links.append(f"- Original metadata: {link_label(original_meta)}")
+else:
+    missing_sections.append("original metadata path")
+
+if links:
+    emit_markdown("\n".join(links))
+if missing_sections:
+    missing_line = ", ".join(missing_sections)
+    emit_markdown(f"::: {{.callout-warning}}\nMissing {missing_line} in context.\n:::\n")
+
+if summary:
+    total = summary.get("total_samples")
+    groups = summary.get("groups", {})
+    bullet_lines = []
+    if total is not None:
+        bullet_lines.append(f"- Total samples: **{total}**")
+    for label, value in groups.items():
+        bullet_lines.append(f"- {label}: **{value}**")
+    if bullet_lines:
+        emit_markdown("\n".join(bullet_lines))
+else:
+    emit_markdown("> TODO: Populate metadata summary fields in the context file.")
+
+for categorical in metadata_ctx.get("categorical_counts", []):
+    column = categorical.get("column")
+    if not column:
+        continue
+    emit_markdown(f"### Distribution by `{column}`")
+    rows = categorical.get("counts", [])
+    if not rows:
+        emit_markdown("> No data available.")
+        continue
+    table_lines = ["| Level | Count | Fraction |", "| --- | --- | --- |"]
+    for row in rows:
+        level = row.get("level", "")
+        count = row.get("count", 0)
+        fraction = row.get("fraction")
+        fraction = f"{fraction:.1%}" if isinstance(fraction, float) else (fraction or "")
+        table_lines.append(f"| {level} | {count} | {fraction} |")
+    emit_markdown("\n".join(table_lines))
+
+featured_cols = metadata_ctx.get("featured_columns", [])
+if featured_cols:
+    emit_markdown("### Columns of Interest")
+    lines = ["| Column | Description | Example Values |", "| --- | --- | --- |"]
+    for col in featured_cols:
+        name = col.get("name", "")
+        description = col.get("description", "")
+        examples = ", ".join(col.get("examples", [])[:5])
+        lines.append(f"| {name} | {description} | {examples} |")
+    emit_markdown("\n".join(lines))
+```

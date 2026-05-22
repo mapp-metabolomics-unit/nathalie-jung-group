@@ -1,0 +1,45 @@
+\usepackage{float}
+%\usepackage{helvet}
+%\renewcommand\familydefault{\sfdefault}
+
+\usepackage{fancyhdr}
+
+\let\oldsection\section
+\renewcommand\section{\clearpage\oldsection}
+
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+  \expandafter\origfigure\expandafter[H]
+} {
+  \endorigfigure
+}
+
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\definecolor{col1}{HTML}{337AB7}
+\hypersetup{colorlinks = true, linkcolor = black, urlcolor = blue, citecolor = blue}
+\fancypagestyle{ttlpage}{\fancyfoot[C]{{\thepage} of \pageref{LastPage}}}
+\thispagestyle{ttlpage}
+\pagestyle{fancy}
+\fancyhead[EL,OL]{\rightmark}
+\fancyhead[EC,OC]{}
+\fancyhead[ER,OR]{MAPP Data Analysis Report}
+\fancyfoot[EC,OL]{\textbf{UniFr}}
+\fancyfoot[EL,OC]{\textbf{\color{col1}{MAPP Metabolomics Unit}}}
+\fancyfoot[ER,OR]{{\thepage} of \pageref{LastPage}}

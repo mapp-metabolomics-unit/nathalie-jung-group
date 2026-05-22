@@ -1,0 +1,53 @@
+## Statistical Highlights
+
+```{python}
+stats_ctx = context.get("stats", {})
+if not stats_ctx:
+    emit_markdown("> TODO: Populate 'stats' in the context file to surface multivariate analyses.")
+else:
+    def render_plot_block(title, block):
+        emit_markdown(f"### {title}")
+        primary = block.get("primary_plot")
+        if primary and any(primary.lower().endswith(ext) for ext in (".png", ".jpg", ".jpeg", ".svg")):
+            caption = block.get("caption", title)
+            emit_markdown(f"![{caption}]({primary})")
+        elif primary:
+            emit_markdown(f"- {block.get('caption', 'Primary plot')}: {link_label(primary, block.get('caption', 'Primary plot'))}")
+        extras = block.get("extra_plots", [])
+        for extra in extras:
+            path = extra.get("path")
+            if not path:
+                continue
+            caption = extra.get("caption", path)
+            if any(path.lower().endswith(ext) for ext in (".png", ".jpg", ".jpeg", ".svg")):
+                emit_markdown(f"![{caption}]({path})")
+            else:
+                emit_markdown(f"- {link_label(path, caption)}")
+        tables = block.get("tables", [])
+        table_lines = []
+        for table in tables:
+            label = table.get("label", table.get("path", "Table"))
+            path = table.get("path")
+            if path:
+                table_lines.append(f"- {label}: {link_label(path, label)}")
+        if table_lines:
+            emit_markdown("\n".join(table_lines))
+        if block.get("notes"):
+            emit_markdown(f"> {block['notes']}")
+
+    if stats_ctx.get("pca"):
+        render_plot_block("Principal Component Analysis", stats_ctx["pca"])
+    if stats_ctx.get("plsda"):
+        render_plot_block("PLS-DA", stats_ctx["plsda"])
+    for volcano in stats_ctx.get("volcano_plots", []):
+        title = volcano.get("title", "Volcano Plot")
+        render_plot_block(title, volcano)
+    summary_tables = stats_ctx.get("summary_tables", [])
+    if summary_tables:
+        emit_markdown("### Summary Tables")
+        for table in summary_tables:
+            label = table.get("label", table.get("path", "Table"))
+            path = table.get("path")
+            if path:
+                emit_markdown(f"- {label}: {link_label(path, label)}")
+```

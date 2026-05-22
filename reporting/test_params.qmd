@@ -1,0 +1,11 @@
+---
+title: Test Params
+format: html
+params:
+  foo: bar
+---
+
+```{python}
+import os, json
+print(os.environ.get('QUARTO_RENDER_PARAMS'))
+```

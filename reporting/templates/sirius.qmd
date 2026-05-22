@@ -1,0 +1,43 @@
+## Structural Annotation (SIRIUS)
+
+```{python}
+sirius = context.get("sirius", {})
+if not sirius:
+    emit_markdown("> TODO: Populate 'sirius' in the context file to surface annotation results.")
+else:
+    files = sirius.get("files", [])
+    if files:
+        emit_markdown("Key outputs:")
+        for item in files:
+            label = item.get("label", item.get("path", "Output"))
+            path = item.get("path")
+            if path:
+                emit_markdown(f"- {label}: {link_label(path, label)}")
+
+    top_hits = sirius.get("top_annotations", [])
+    if top_hits:
+        emit_markdown("### Top Candidate Structures")
+        lines = [
+            "| Feature | Candidate | Score | Formula | Class |",
+            "| --- | --- | --- | --- | --- |",
+        ]
+        for hit in top_hits:
+            feature = hit.get("feature_id", "")
+            name = hit.get("compound", "")
+            score = hit.get("score")
+            score = f"{score:.2f}" if isinstance(score, (float, int)) else (score or "")
+            formula = hit.get("formula", "")
+            chem_class = hit.get("class", "")
+            lines.append(f"| {feature} | {name} | {score} | {formula} | {chem_class} |")
+        emit_markdown("\n".join(lines))
+
+    canopus = sirius.get("class_distribution")
+    if canopus:
+        emit_markdown("### CANOPUS Class Distribution")
+        lines = [
+            "| Class | Count |", "| --- | --- |"
+        ]
+        for row in canopus:
+            lines.append(f"| {row.get('class', '')} | {row.get('count', '')} |")
+        emit_markdown("\n".join(lines))
+```

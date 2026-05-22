@@ -1,0 +1,43 @@
+## Project Overview
+
+```{python}
+
+if not context_loaded:
+    missing_note = "Context file not found." if not context_file else f"Context file '{context_file}' not found."
+    emit_markdown(f"::: {{.callout-warning}}\n{missing_note}\n:::\n")
+
+project = context.get("project", {})
+fields = [
+    ("Project ID", project.get("id", "")),
+    ("Batch ID", project.get("batch_id", "")),
+    ("Project Title", project.get("title", "")),
+    ("Lead", project.get("lead", "")),
+    ("Contact", project.get("contact", "")),
+    ("Acquisition Date", project.get("acquisition_date", "")),
+    ("Matrix", project.get("matrix", "")),
+    ("Organism", project.get("organism", "")),
+    ("Report Generated", report_generated_at),
+    ("Context Generated", context.get("generated_at", "")),
+]
+
+lines = ["| Field | Value |", "| --- | --- |"]
+for label, value in fields:
+    if value is None:
+        value = ""
+    value = str(value)
+    value = value.replace("\n", "<br>")
+    lines.append(f"| {label} | {value} |")
+
+emit_markdown("\n".join(lines))
+
+description = project.get("description") or context.get("project_description")
+if description:
+    emit_markdown(description)
+else:
+    emit_markdown("> TODO: Add a short project description to `project.description` in the context file.")
+
+notes = project.get("notes")
+if notes:
+    note_block = "::: {.callout-note}\n" + notes + "\n:::\n"
+    emit_markdown(note_block)
+```

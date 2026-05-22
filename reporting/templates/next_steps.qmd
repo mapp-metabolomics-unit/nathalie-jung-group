@@ -1,0 +1,13 @@
+## Next Steps
+
+```{python}
+checklist = context.get("todo", [])
+if not checklist:
+    checklist = [
+        "Review the automatically generated sections and refine the narrative.",
+        "Add experimental design details (sample prep, acquisition, QC).",
+        "Summarise key biological insights and hypotheses.",
+    ]
+for item in checklist:
+    emit_markdown(f"- {item}")
+```

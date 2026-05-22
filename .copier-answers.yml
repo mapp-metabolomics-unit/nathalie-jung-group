@@ -1,0 +1,27 @@
+_commit: 0.2.6
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: MAPP Metabolomics Unit
+common_filename_pattern: '*mapp_01_*.mzML'
+email: colin.volet@unifr.ch
+gap_filling: true
+git_repo_path: /Users/voletco/git_repos/mapp-metabolomics-unit
+github_username: mapp-metabolomics-unit
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00257
+mapp_batch_description: Untargeted metabolomics on human cells - nanoplastics pilot
+    project
+mapp_project: mapp_project_00084
+noise_level: 500000.0
+repository_name: nathalie-jung-group
+stats_job_id: ''
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "nathalie-jung-group"
+recorded_author: "MAPP Metabolomics Unit"
+recorder_email: "colin.volet@unifr.ch"
+recorded_github_username: "mapp-metabolomics-unit"
+recorded_mapp_project: "mapp_project_00084"
+recorded_mapp_batch: "mapp_batch_00257"
+
+

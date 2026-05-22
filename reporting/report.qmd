@@ -1,0 +1,160 @@
+---
+title: "Metabolomics Analysis Draft Report"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-tools: true
+  pdf:
+    toc: true
+    number-sections: false
+params:
+  project_id: null
+  batch_id: null
+  context_file: null
+  report_title: null
+  report_subtitle: null
+---
+
+```{python}
+#| label: report-params
+#| parameters: true
+
+from pathlib import Path
+import yaml
+
+params = locals().get("params", {})
+
+answers = {}
+answers_path = Path("../.copier-answers.yml")
+if answers_path.exists():
+    try:
+        answers = yaml.safe_load(answers_path.read_text(encoding="utf-8")) or {}
+    except Exception:  # pragma: no cover - best effort fallback
+        answers = {}
+
+project_id = (
+    params.get("project_id")
+    or answers.get("recorded_mapp_project")
+    or answers.get("mapp_project")
+)
+batch_id = (
+    params.get("batch_id")
+    or answers.get("recorded_mapp_batch")
+    or answers.get("mapp_batch")
+)
+
+context_file = params.get("context_file")
+if not context_file and project_id and batch_id:
+    context_file = f"../docs/{project_id}/{batch_id}/report/context.yml"
+
+report_title = params.get("report_title")
+report_subtitle = params.get("report_subtitle")
+```
+
+```{python}
+from __future__ import annotations
+
+import datetime as dt
+import pathlib
+
+import yaml
+from IPython.display import Markdown, display
+
+context_path = pathlib.Path(context_file) if context_file else None
+context = {}
+context_loaded = False
+if context_path and context_path.exists():
+    with context_path.open("r", encoding="utf-8") as fp:
+        context = yaml.safe_load(fp) or {}
+    context_loaded = True
+else:
+    context = {}
+    context_loaded = False
+
+if not report_title:
+    title_parts = [part for part in (project_id, batch_id) if part]
+    report_title_value = " · ".join(title_parts) if title_parts else "Metabolomics Analysis Draft Report"
+else:
+    report_title_value = report_title
+
+report_subtitle_value = report_subtitle
+report_generated_at = (
+    dt.datetime.now(dt.timezone.utc)
+    .replace(microsecond=0)
+    .isoformat()
+    .replace("+00:00", "Z")
+)
+
+project_info = context.get("project", {})
+project_info.setdefault("id", project_id)
+project_info.setdefault("batch_id", batch_id)
+context["project"] = project_info
+
+
+def emit_markdown(text: str) -> None:
+    """Render Markdown content in the notebook output."""
+    if not text:
+        return
+    display(Markdown(text))
+
+
+site_config = context.get("site") or {}
+site_base_url = site_config.get("base_url")
+report_dir = context_path.parent if context_path else None
+if report_dir:
+    report_dir = report_dir.resolve()
+batch_dir = report_dir.parent if report_dir else None
+project_dir_path = batch_dir.parent if batch_dir else None
+docs_root = project_dir_path.parent if project_dir_path else None
+
+
+def to_site_url(rel_path: str | pathlib.Path | None) -> str | None:
+    if not rel_path:
+        return None
+    rel_str = str(rel_path)
+    url = rel_str
+    if site_base_url and report_dir and docs_root:
+        target = (report_dir / rel_str).resolve()
+        try:
+            rel_docs = target.relative_to(docs_root)
+            url = site_base_url.rstrip("/") + "/" + rel_docs.as_posix()
+        except ValueError:
+            url = rel_str
+    return url
+
+
+def link_markup(rel_path: str | pathlib.Path | None, label: str | None = None) -> str | None:
+    if not rel_path:
+        return None
+    rel_str = str(rel_path)
+    url = to_site_url(rel_str) or rel_str
+    text = label or rel_str
+    return f"[{text}]({url})"
+
+
+def link_label(rel_path: str | pathlib.Path | None, label: str | None = None) -> str:
+    markup = link_markup(rel_path, label)
+    if markup:
+        return markup
+    return label or (str(rel_path) if rel_path is not None else "")
+```
+
+```{python}
+emit_markdown(f"# {report_title_value}")
+if report_subtitle_value:
+    emit_markdown(f"_{report_subtitle_value}_")
+```
+
+{{< include templates/overview.qmd >}}
+
+{{< include templates/metadata.qmd >}}
+
+{{< include templates/mzmine.qmd >}}
+
+{{< include templates/sirius.qmd >}}
+
+{{< include templates/stats.qmd >}}
+
+{{< include templates/next_steps.qmd >}}

@@ -1,0 +1,42 @@
+## MZmine Summary
+
+```{python}
+mzmine = context.get("mzmine", {})
+if not mzmine:
+    emit_markdown("> TODO: Populate 'mzmine' in the context file to surface preprocessing outputs.")
+else:
+    bullet_lines = []
+    batch_file = mzmine.get("batch_file")
+    if batch_file:
+        bullet_lines.append(f"- Batch file: {link_label(batch_file)}")
+    quant_file = mzmine.get("quant_table")
+    if quant_file:
+        bullet_lines.append(f"- Quant table: {link_label(quant_file)}")
+    mgf_files = mzmine.get("mgf_files", [])
+    for mgf in mgf_files:
+        label = mgf.get("label", mgf.get("path", "MGF"))
+        path = mgf.get("path")
+        if path:
+            bullet_lines.append(f"- {label}: {link_label(path, label)}")
+    export_links = mzmine.get("exports", [])
+    for export in export_links:
+        label = export.get("label", export.get("path", "Export"))
+        path = export.get("path")
+        if path:
+            bullet_lines.append(f"- {label}: {link_label(path, label)}")
+    if bullet_lines:
+        emit_markdown("\n".join(bullet_lines))
+
+    plots = mzmine.get("quality_plots", [])
+    if plots:
+        emit_markdown("### Quality Control Plots")
+        for plot in plots:
+            path = plot.get("path")
+            caption = plot.get("caption", path)
+            if not path:
+                continue
+            if any(path.lower().endswith(ext) for ext in (".png", ".jpg", ".jpeg", ".svg")):
+                emit_markdown(f"![{caption}]({path})")
+            else:
+                emit_markdown(f"- {link_label(path, caption)}")
+```
