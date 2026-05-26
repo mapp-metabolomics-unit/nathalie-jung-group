@@ -3,9 +3,9 @@ _src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
 common_filename_pattern: '*20260505_CVOL_02_29*.mzML'
 email: colin.volet@unifr.ch
 gap_filling: true
-git_repo_path: /home/voletco/git_repos/mapp-metabolomics-unit
+git_repo_path: /Users/voletco/git_repos/mapp-metabolomics-unit
 github_username: mapp-metabolomics-unit
-gnps_job_id: ''
+gnps_job_id: bcc4eec8265d4654b18702e6e65dbb86
 ionization_mode: positive
 mapp_batch: mapp_batch_00257
 mapp_batch_description: Untargeted metabolomics on human cells - nanoplastics pilot

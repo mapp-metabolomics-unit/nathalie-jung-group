@@ -1,0 +1,315 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00006581625	creatine [M+H]+	CN(CC(O)=O)C(N)=N	0			1+	NA	132.077
+CCMSLIB00006581626	(R)-carnitine [M+H]+	C[N+](C)(C)C[C@H](O)CC([O-])=O	0			1+	NA	162.113
+CCMSLIB00006581627	nicotinamide [M+H]+	NC(=O)c1cccnc1	0			1+	NA	123.055
+CCMSLIB00006581628	(R)-pantothenic acid [M+H]+	CC(C)(CO)[C@@H](O)C(=O)NCCC(O)=O	0			1+	NA	220.118
+CCMSLIB00006581629	riboflavin [M+H]+	Cc1cc2nc3c(nc(=O)[nH]c3=O)n(C[C@H](O)[C@H](O)[C@H](O)CO)c2cc1C	0			1+	NA	377.146
+CCMSLIB00006581630	spermidine [M+H]+	NCCCCNCCCN	0			1+	NA	146.165
+CCMSLIB00006581631	thymidine [M+H]+	Cc1cn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)[nH]c1=O	0			1+	NA	243.098
+CCMSLIB00006581632	xanthosine [M+H]+	OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c1[nH]c(=O)[nH]c2=O	0			1+	NA	285.083
+CCMSLIB00006581633	L-glutamic acid [M+H]+	N[C@@H](CCC(O)=O)C(O)=O	0			1+	NA	148.06
+CCMSLIB00006581634	L-asparagine [M+H]+	N[C@@H](CC(N)=O)C(O)=O	0			1+	NA	133.061
+CCMSLIB00006581635	pentadecanoic acid [M+H]+	CCCCCCCCCCCCCCC(O)=O	0			1+	NA	243.232
+CCMSLIB00006581636	"""all-cis-docosa-4,7,10,13,16,19-hexaenoic acid"" [M+H]+"	C(\C/C=C\C/C=C\C/C=C\CC)=C\C/C=C\C/C=C\CCC(=O)O	0			1+	NA	329.247
+CCMSLIB00006581637	"""all-cis-5,8,11,14,17-icosapentaenoic acid"" [M+H]+"	CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCCC(O)=O	0			1+	NA	303.232
+CCMSLIB00006581638	gamma-linolenic acid [M+H]+	CCCCC\C=C/C\C=C/C\C=C/CCCCC(O)=O	0			1+	NA	279.232
+CCMSLIB00006581639	oleic acid [M+H]+	CCCCCCCC\C=C/CCCCCCCC(O)=O	0			1+	NA	283.263
+CCMSLIB00006581640	linoleic acid [M+H]+	CCCCC\C=C/C\C=C/CCCCCCCC(O)=O	0			1+	NA	281.247
+CCMSLIB00006581641	L-arginine [M+H]+	N[C@@H](CCCNC(N)=N)C(O)=O	0			1+	NA	175.119
+CCMSLIB00006581642	L-glutamine [M+H]+	N[C@@H](CCC(N)=O)C(O)=O	0			1+	NA	147.076
+CCMSLIB00006581643	L-aspartic acid [M+H]+	N[C@@H](CC(O)=O)C(O)=O	0			1+	NA	134.045
+CCMSLIB00006581644	L-methionine [M+H]+	CSCC[C@H](N)C(O)=O	0			1+	NA	150.058
+CCMSLIB00006581645	L-histidine [M+H]+	N[C@@H](Cc1c[nH]cn1)C(O)=O	0			1+	NA	156.077
+CCMSLIB00006581646	tetradecanoic acid [M+H]+	CCCCCCCCCCCCCC(O)=O	0			1+	NA	229.216
+CCMSLIB00006581647	cytidine [M+H]+	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1	0			1+	NA	244.093
+CCMSLIB00006581648	L-norleucine [M+H]+	CCCC[C@H](N)C(O)=O	0			1+	NA	132.102
+CCMSLIB00006581649	7-methylguanosine [M+H]+	C[n+]1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c2nc(N)[nH]c(=O)c12	0			1+	NA	299.122
+CCMSLIB00006581650	biotin [M+H]+	[H][C@]12CS[C@@H](CCCCC(O)=O)[C@@]1([H])NC(=O)N2	0			1+	NA	245.095
+CCMSLIB00006581651	FAD [M+H]+	Cc1cc2nc3c(nc(=O)[nH]c3=O)n(C[C@H](O)[C@H](O)[C@H](O)COP(O)(=O)OP(O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n3cnc4c(N)ncnc34)c2cc1C	0			1+	NA	786.164
+CCMSLIB00006581652	N-benzoylglycine [M+H]+	OC(=O)CNC(=O)c1ccccc1	0			1+	NA	180.066
+CCMSLIB00006581653	L-tryptophan [M+H]+	N[C@@H](Cc1c[nH]c2ccccc12)C(O)=O	0			1+	NA	205.097
+CCMSLIB00006581654	L-leucine [M+H]+	CC(C)C[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00006581655	L-serine [M+H]+	N[C@@H](CO)C(O)=O	0			1+	NA	106.05
+CCMSLIB00006581656	L-valine [M+H]+	CC(C)[C@H](N)C(O)=O	0			1+	NA	118.086
+CCMSLIB00006581657	L-threonine [M+H]+	C[C@@H](O)[C@H](N)C(O)=O	0			1+	NA	120.065
+CCMSLIB00006581658	L-lysine [M+H]+	NCCCC[C@H](N)C(O)=O	0			1+	NA	147.113
+CCMSLIB00006581659	acephate [M+H]+	CC(=O)NP(=O)(OC)SC	0			1+	NA	184.019
+CCMSLIB00006581660	azaconazole [M+H]+	c1cc(c(cc1Cl)Cl)C2(OCCO2)Cn3cncn3	0			1+	NA	300.03
+CCMSLIB00006581661	azinphos-ethyl [M+H]+	CCOP(=S)(OCC)SCn1c(=O)c2ccccc2nn1	0			1+	NA	346.044
+CCMSLIB00006581662	(E)-buprofezin [M+H]+	CC(C)N1/C(=N\C(C)(C)C)/SCN(C1=O)C2=CC=CC=C2	0			1+	NA	306.164
+CCMSLIB00006581663	cymiazol [M+H]+	Cc1ccc(c(c1)C)/N=c\2/n(ccs2)C	0			1+	NA	219.095
+CCMSLIB00006581664	cyproconazole [M+H]+	CC(C1CC1)C(Cn2cncn2)(c3ccc(cc3)Cl)O	0			1+	NA	292.121
+CCMSLIB00006581665	diflufenican [M+H]+	c1cc(cc(c1)Oc2c(cccn2)C(=O)Nc3ccc(cc3F)F)C(F)(F)F	0			1+	NA	395.081
+CCMSLIB00006581666	dimethachlor [M+H]+	Cc1cccc(c1N(CCOC)C(=O)CCl)C	0			1+	NA	256.11
+CCMSLIB00006581667	dimoxystrobin [M+H]+	Cc1ccc(c(c1)OCc2ccccc2/C(=N\OC)/C(=O)NC)C	0			1+	NA	327.17
+CCMSLIB00006581668	disulfoton [M+H]+	CCOP(=S)(OCC)SCCSCC	0			1+	NA	275.036
+CCMSLIB00006581669	fenamiphos [M+H]+	CCOP(=O)(NC(C)C)Oc1ccc(c(c1)C)SC	0			1+	NA	304.113
+CCMSLIB00006581670	flufenacet [M+H]+	CC(C)N(c1ccc(cc1)F)C(=O)COc2nnc(s2)C(F)(F)F	0			1+	NA	364.074
+CCMSLIB00006581671	fluopicolide [M+H]+	c1cc(c(c(c1)Cl)C(=O)NCc2c(cc(cn2)C(F)(F)F)Cl)Cl	0			1+	NA	382.973
+CCMSLIB00006581672	fosthiazate [M+H]+	CCC(C)SP(=O)(N1CCSC1=O)OCC	0			1+	NA	284.054
+CCMSLIB00006581673	azinphos-methyl [M+H]+	COP(=S)(OC)SCn1c(=O)c2ccccc2nn1	0			1+	NA	318.013
+CCMSLIB00006581674	isofenphos-methyl [M+H]+	CC(C)NP(=S)(OC)Oc1ccccc1C(=O)OC(C)C	0			1+	NA	332.108
+CCMSLIB00006581675	isoprothiolane [M+H]+	CC(C)OC(=O)C(=C1SCCS1)C(=O)OC(C)C	0			1+	NA	291.072
+CCMSLIB00006581676	lenacil [M+H]+	C1CCC(CC1)n2c(=O)c3c([nH]c2=O)CCC3	0			1+	NA	235.144
+CCMSLIB00006581677	prochloraz [M+H]+	CCCN(CCOc1c(cc(cc1Cl)Cl)Cl)C(=O)n2ccnc2	0			1+	NA	376.038
+CCMSLIB00006581678	proquinazid [M+H]+	CCCn1c(=O)c2cc(ccc2nc1OCCC)I	0			1+	NA	373.041
+CCMSLIB00006581679	Cycloate [M+H]+	CCN(C1CCCCC1)C(=O)SCC	0			1+	NA	216.142
+CCMSLIB00006581680	spiridiclofen [M+H]+	CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)c3cc(cc(c3)Cl)Cl	0			1+	NA	411.112
+CCMSLIB00006581681	spiroxamine [M+H]+	CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C	0			1+	NA	298.274
+CCMSLIB00006581682	tralkoxydim [M+H]+	CC/C(=N\OCC)/C1=C(CC(CC1=O)c2c(cc(cc2C)C)C)O	0			1+	NA	330.206
+CCMSLIB00006581683	myclobutanil [M+H]+	CCCCC(Cn1cncn1)(C#N)c2ccc(cc2)Cl	0			1+	NA	289.121
+CCMSLIB00006581684	azamethiphos [M+H]+	COP(=O)(OC)SCn1c2c(cc(cn2)Cl)oc1=O	0			1+	NA	324.981
+CCMSLIB00006581685	benalaxyl [M+H]+	Cc1cccc(c1N(C(C)C(=O)OC)C(=O)Cc2ccccc2)C	0			1+	NA	326.175
+CCMSLIB00006581686	bromuconazole [M+H]+	c1cc(c(cc1Cl)Cl)C2(CC(CO2)Br)Cn3cncn3	0			1+	NA	375.961
+CCMSLIB00006581687	bupirimate [M+H]+	CCCCc1c(nc(nc1OS(=O)(=O)N(C)C)NCC)C	0			1+	NA	317.164
+CCMSLIB00006581688	(Z)-chlorfenvinfos [M+H]+	CCOP(=O)(OCC)O/C(=C\Cl)/c1ccc(cc1Cl)Cl	0			1+	NA	358.977
+CCMSLIB00006581689	chlorpyrifos-methyl [M+H]+	COP(=S)(OC)Oc1c(cc(c(n1)Cl)Cl)Cl	0			1+	NA	321.902
+CCMSLIB00006581690	coumaphos [M+H]+	CCOP(=S)(OCC)Oc1ccc2c(c(c(=O)oc2c1)Cl)C	0			1+	NA	363.022
+CCMSLIB00006581691	diazinon [M+H]+	CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C	0			1+	NA	305.108
+CCMSLIB00006581692	dichlorvos [M+H]+	COP(=O)(OC)OC=C(Cl)Cl	0			1+	NA	220.953
+CCMSLIB00006581693	diniconazole-M [M+H]+	CC(C)(C)[C@H](/C(=C\c1ccc(cc1Cl)Cl)/n2cncn2)O	0			1+	NA	326.082
+CCMSLIB00006581694	chlorpyrifos [M+H]+	CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl	0			1+	NA	349.934
+CCMSLIB00006581695	epoxiconazol [M+H]+	c1ccc(c(c1)C2C(O2)(Cn3cncn3)c4ccc(cc4)F)Cl	0			1+	NA	330.08
+CCMSLIB00006581696	ethion [M+H]+	CCOP(=S)(OCC)SCSP(=S)(OCC)OCC	0			1+	NA	384.995
+CCMSLIB00006581697	fenarimol [M+H]+	c1ccc(c(c1)C(c2ccc(cc2)Cl)(c3cncnc3)O)Cl	0			1+	NA	331.04
+CCMSLIB00006581698	fenbucanozole [M+H]+	c1ccc(cc1)C(CCc2ccc(cc2)Cl)(Cn3cncn3)C#N	0			1+	NA	337.121
+CCMSLIB00006581699	fluquinconazole [M+H]+	c1cc2c(cc1F)c(=O)n(c(n2)n3cncn3)c4ccc(cc4Cl)Cl	0			1+	NA	376.016
+CCMSLIB00006581700	flusilazole [M+H]+	C[Si](Cn1cncn1)(c2ccc(cc2)F)c3ccc(cc3)F	0			1+	NA	316.108
+CCMSLIB00006581701	hexaconazole [M+H]+	CCCCC(Cn1cncn1)(c2ccc(cc2Cl)Cl)O	0			1+	NA	314.082
+CCMSLIB00006581702	imazalil [M+H]+	C=CCOC(Cn1ccnc1)c2ccc(cc2Cl)Cl	0			1+	NA	297.056
+CCMSLIB00006581703	ipconazole [M+H]+	CC(C)[C@H]1CC[C@H]([C@@]1(Cn2cncn2)O)Cc3ccc(cc3)Cl	0			1+	NA	334.168
+CCMSLIB00006581704	metconazole [M+H]+	CC1(CCC(C1(Cn2cncn2)O)Cc3ccc(cc3)Cl)C	0			1+	NA	320.152
+CCMSLIB00006581705	ethoprophos [M+H]+	CCCSP(=O)(OCC)SCCC	0			1+	NA	243.064
+CCMSLIB00006581706	tebuconazole [M+H]+	CC(C)(C)C(CCc1ccc(cc1)Cl)(Cn2cncn2)O	0			1+	NA	308.152
+CCMSLIB00006581707	propiconazole [M+H]+	CCCC1COC(O1)(Cn2cncn2)c3ccc(cc3Cl)Cl	0			1+	NA	342.077
+CCMSLIB00006581708	tricyclazole [M+H]+	Cc1cccc2c1n3cnnc3s2	0			1+	NA	190.043
+CCMSLIB00006581709	triticonazole [M+H]+	CC1(CC/C(=C\c2ccc(cc2)Cl)/C1(Cn3cncn3)O)C	0			1+	NA	318.137
+CCMSLIB00006581710	vamidothion [M+H]+	CC(C(=O)NC)SCCSP(=O)(OC)OC	0			1+	NA	288.049
+CCMSLIB00006581711	bitertanol [M+H]+	CC(C)(C)C(C(n1cncn1)Oc2ccc(cc2)c3ccccc3)O	0			1+	NA	338.186
+CCMSLIB00006581712	clethodim [M+H]+	CCC(=C1C(=O)CC(CC1=O)CC(C)SCC)NOC/C=C/Cl	0			1+	NA	360.139
+CCMSLIB00006581713	difenoconazole [M+H]+	CC1COC(O1)(Cn2cncn2)c3ccc(cc3Cl)Oc4ccc(cc4)Cl	0			1+	NA	406.072
+CCMSLIB00006581714	fenhexamid [M+H]+	CC1(CCCCC1)C(=O)Nc2ccc(c(c2Cl)Cl)O	0			1+	NA	302.071
+CCMSLIB00006581715	foramsulfuron [M+H]+	CN(C)C(=O)c1ccc(cc1S(=O)(=O)NC(=O)Nc2nc(cc(n2)OC)OC)NC=O	0			1+	NA	453.119
+CCMSLIB00006581716	indoxacarb [M+H]+	COC(=O)C12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl	0			1+	NA	528.078
+CCMSLIB00006581717	isoxaflutole [M+H]+	CS(=O)(=O)c1cc(ccc1C(=O)c2cnoc2C3CC3)C(F)(F)F	0			1+	NA	360.051
+CCMSLIB00006581718	malaoxon [M+H]+	CCOC(=O)CC(C(=O)OCC)SP(=O)(OC)OC	0			1+	NA	315.066
+CCMSLIB00006581719	malathion [M+H]+	CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC	0			1+	NA	331.043
+CCMSLIB00006581720	mecarbam [M+H]+	CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC	0			1+	NA	330.059
+CCMSLIB00006581721	mepanipyrim [M+H]+	CC#Cc1cc(nc(n1)Nc2ccccc2)C	0			1+	NA	224.118
+CCMSLIB00006581722	metalaxyl [M+H]+	Cc1cccc(c1N(C(C)C(=O)OC)C(=O)COC)C	0			1+	NA	280.154
+CCMSLIB00006581723	metazachlor [M+H]+	Cc1cccc(c1N(Cn2cccn2)C(=O)CCl)C	0			1+	NA	278.105
+CCMSLIB00006581724	methidathion [M+H]+	COc1nn(c(=O)s1)CSP(=S)(OC)OC	0			1+	NA	302.969
+CCMSLIB00006581725	molinate [M+H]+	CCSC(=O)N1CCCCCC1	0			1+	NA	188.11
+CCMSLIB00006581726	oxadiazon [M+H]+	CC(C)Oc1cc(c(cc1Cl)Cl)n2c(=O)oc(n2)C(C)(C)C	0			1+	NA	345.077
+CCMSLIB00006581727	oxadixyl [M+H]+	Cc1cccc(c1N(C(=O)COC)N2CCOC2=O)C	0			1+	NA	279.134
+CCMSLIB00006581728	"""(S,S)-paclobutrazol"" [M+H]+"	CC(C)(C)[C@@H]([C@H](Cc1ccc(cc1)Cl)n2cncn2)O	0			1+	NA	294.137
+CCMSLIB00006581729	penconazole [M+H]+	CCCC(Cn1cncn1)c2ccc(cc2Cl)Cl	0			1+	NA	284.072
+CCMSLIB00006581730	phenthoate [M+H]+	CCOC(=O)C(c1ccccc1)SP(=S)(OC)OC	0			1+	NA	321.038
+CCMSLIB00006581731	(E)-mevinphos [M+H]+	C/C(=C\C(=O)OC)/OP(=O)(OC)OC	0			1+	NA	225.052
+CCMSLIB00006581732	phospamidon [M+H]+	CCN(CC)C(=O)/C(=C(\C)/OP(=O)(OC)OC)/Cl	0			1+	NA	300.076
+CCMSLIB00006581733	picolinafen [M+H]+	c1cc(cc(c1)Oc2cccc(n2)C(=O)Nc3ccc(cc3)F)C(F)(F)F	0			1+	NA	377.091
+CCMSLIB00006581734	pirimicarb [M+H]+	Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C	0			1+	NA	239.15
+CCMSLIB00006581735	pirimiphos-methyl [M+H]+	CCN(CC)c1nc(cc(n1)OP(=S)(OC)OC)C	0			1+	NA	306.104
+CCMSLIB00006581736	propyzamide [M+H]+	CC(C)(C#C)NC(=O)c1cc(cc(c1)Cl)Cl	0			1+	NA	256.029
+CCMSLIB00006581737	propham [M+H]+	CC(C)OC(=O)Nc1ccccc1	0			1+	NA	180.102
+CCMSLIB00006581738	pendimethalin [M+H]+	CCC(CC)Nc1c(cc(c(c1[N+](=O)[O-])C)C)[N+](=O)[O-]	0			1+	NA	282.145
+CCMSLIB00006581739	quinalphos [M+H]+	CCOP(=S)(OCC)Oc1cnc2ccccc2n1	0			1+	NA	299.061
+CCMSLIB00006581740	quinoxyfen [M+H]+	c1cc(ccc1Oc2ccnc3c2c(cc(c3)Cl)Cl)F	0			1+	NA	308.004
+CCMSLIB00006581741	propetamphos [M+H]+	CCNP(=S)(OC)O/C(=C/C(=O)OC(C)C)/C	0			1+	NA	282.092
+CCMSLIB00006581742	tebufenpyrad [M+H]+	CCc1c(c(n(n1)C)C(=O)NCc2ccc(cc2)C(C)(C)C)Cl	0			1+	NA	334.168
+CCMSLIB00006581743	tepraloxydim [M+H]+	CC/C(=N\OC/C=C/Cl)/C1=C(CC(CC1=O)C2CCOCC2)O	0			1+	NA	342.147
+CCMSLIB00006581744	terbufos [M+H]+	CCOP(=S)(OCC)SCSC(C)(C)C	0			1+	NA	289.051
+CCMSLIB00006581745	tolclofos-methyl [M+H]+	Cc1cc(c(c(c1)Cl)OP(=S)(OC)OC)Cl	0			1+	NA	300.962
+CCMSLIB00006581746	tolylfluanid [M+H]+	Cc1ccc(cc1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C	0			1+	NA	346.985
+CCMSLIB00006581747	triadimefon [M+H]+	CC(C)(C)C(=O)C(n1cncn1)Oc2ccc(cc2)Cl	0			1+	NA	294.1
+CCMSLIB00006581748	triazophos [M+H]+	CCOP(=S)(OCC)Oc1ncn(n1)c2ccccc2	0			1+	NA	314.072
+CCMSLIB00006581749	trifumizole [M+H]+	FC(F)(F)c2cc(Cl)ccc2\N=C(\COCCC)n1ccnc1	0			1+	NA	346.093
+CCMSLIB00006581750	phosalone [M+H]+	CCOP(=S)(OCC)SCn1c2ccc(cc2oc1=O)Cl	0			1+	NA	367.994
+CCMSLIB00006581751	amidosulfuron [M+H]+	CN(S(=O)(=O)C)S(=O)(=O)NC(=O)Nc1nc(cc(n1)OC)OC	0			1+	NA	370.049
+CCMSLIB00006581752	aminocarb [M+H]+	Cc1cc(ccc1N(C)C)OC(=O)NC	0			1+	NA	209.128
+CCMSLIB00006581753	benfuracarb [M+H]+	CCOC(=O)CCN(C(C)C)SN(C)C(=O)Oc1cccc2c1OC(C2)(C)C	0			1+	NA	411.195
+CCMSLIB00006581754	boscalid [M+H]+	c1ccc(c(c1)c2ccc(cc2)Cl)NC(=O)c3cccnc3Cl	0			1+	NA	343.04
+CCMSLIB00006581755	butocarboxim [M+H]+	CC(C(=NOC(=O)NC)C)SC	0			1+	NA	191.085
+CCMSLIB00006581756	carfentrazone-ethyl [M+H]+	CCOC(=O)C(Cc1cc(c(cc1Cl)F)n2c(=O)n(c(n2)C)C(F)F)Cl	0			1+	NA	412.044
+CCMSLIB00006581757	chloridazon [M+H]+	c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl	0			1+	NA	222.043
+CCMSLIB00006581758	chlorsulfuron [M+H]+	Cc1nc(nc(n1)OC)NC(=O)NS(=O)(=O)c2ccccc2Cl	0			1+	NA	358.037
+CCMSLIB00006581759	cyazofamid [M+H]+	Cc1ccc(cc1)c2c(nc(n2S(=O)(=O)N(C)C)C#N)Cl	0			1+	NA	325.052
+CCMSLIB00006581760	cymoxanil [M+H]+	CCNC(=O)NC(=O)C(=NOC)C#N	0			1+	NA	199.083
+CCMSLIB00006581761	"""N,N-diethyl-m-toluamide"" [M+H]+"	CCN(CC)C(=O)c1cccc(c1)C	0			1+	NA	192.138
+CCMSLIB00006581762	diflubenzuron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2ccc(cc2)Cl)F	0			1+	NA	311.039
+CCMSLIB00006581763	ethirimol [M+H]+	CCCCc1c(nc(nc1O)NCC)C	0			1+	NA	210.16
+CCMSLIB00006581764	ethofumesate [M+H]+	CCOC1C(c2cc(ccc2O1)OS(=O)(=O)C)(C)C	0			1+	NA	287.095
+CCMSLIB00006581765	fipronil [M+H]+	c1c(cc(c(c1Cl)n2c(c(c(n2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F	0			1+	NA	436.946
+CCMSLIB00006581766	flufenoxuron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2ccc(cc2F)Oc3ccc(cc3Cl)C(F)(F)F)F	0			1+	NA	489.043
+CCMSLIB00006581767	fuberidazole [M+H]+	c1ccc2c(c1)[nH]c(n2)c3ccco3	0			1+	NA	185.071
+CCMSLIB00006581768	hexythiazox [M+H]+	CC1C(SC(=O)N1C(=O)NC2CCCCC2)c3ccc(cc3)Cl	0			1+	NA	353.108
+CCMSLIB00006581769	isocarbophos [M+H]+	CC(C)OC(=O)c1ccccc1OP(=S)(N)OC	0			1+	NA	290.061
+CCMSLIB00006581770	isoxaben [M+H]+	CCC(C)(CC)c1cc(on1)NC(=O)c2c(cccc2OC)OC	0			1+	NA	333.181
+CCMSLIB00006581771	kresoxim-methyl [M+H]+	Cc1ccccc1OCc2ccccc2/C(=N\OC)/C(=O)OC	0			1+	NA	314.139
+CCMSLIB00006581772	linuron [M+H]+	CN(C(=O)Nc1ccc(c(c1)Cl)Cl)OC	0			1+	NA	249.019
+CCMSLIB00006581773	lufenuron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2cc(c(cc2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F	0			1+	NA	510.986
+CCMSLIB00006581774	mandipropamid [M+H]+	COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C	0			1+	NA	412.131
+CCMSLIB00006581775	metamitron [M+H]+	Cc1nnc(c(=O)n1N)c2ccccc2	0			1+	NA	203.093
+CCMSLIB00006581776	metrafenone [M+H]+	Cc1cc(c(c(c1C(=O)c2c(c(ccc2OC)Br)C)OC)OC)OC	0			1+	NA	409.065
+CCMSLIB00006581777	metribuzin [M+H]+	CC(C)(C)c1c(=O)n(c(nn1)SC)N	0			1+	NA	215.096
+CCMSLIB00006581778	metsulfuron methyl [M+H]+	Cc1nc(nc(n1)OC)NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC	0			1+	NA	382.082
+CCMSLIB00006581779	monocrotophos [M+H]+	C/C(=C\C(=O)NC)/OP(=O)(OC)OC	0			1+	NA	224.068
+CCMSLIB00006581780	novaluron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2ccc(c(c2)Cl)OC(C(OC(F)(F)F)F)(F)F)F	0			1+	NA	493.02
+CCMSLIB00006581781	phenmedipham [M+H]+	Cc1cccc(c1)NC(=O)Oc2cccc(c2)NC(=O)OC	0			1+	NA	301.118
+CCMSLIB00006581782	triflumuron [M+H]+	c1ccc(c(c1)C(=O)NC(=O)Nc2ccc(cc2)OC(F)(F)F)Cl	0			1+	NA	359.04
+CCMSLIB00006581783	phoxim [M+H]+	CCOP(=S)(OCC)O/N=C(\C#N)/C1=CC=CC=C1	0			1+	NA	299.061
+CCMSLIB00006581784	quinoclamin [M+H]+	c1ccc2c(c1)C(=O)C(=C(C2=O)Cl)N	0			1+	NA	208.016
+CCMSLIB00006581785	tribenuron methyl [M+H]+	Cc1nc(nc(n1)OC)N(C)C(=O)NS(=O)(=O)c2ccccc2C(=O)OC	0			1+	NA	396.097
+CCMSLIB00006581786	oxasulfuron [M+H]+	Cc1cc(nc(n1)NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC3COC3)C	0			1+	NA	407.102
+CCMSLIB00006581787	propaquizafop [M+H]+	C[C@H](C(=O)OCCON=C(C)C)Oc1ccc(cc1)Oc2cnc3cc(ccc3n2)Cl	0			1+	NA	444.132
+CCMSLIB00006581788	prosulfocarb [M+H]+	CCCN(CCC)C(=O)SCc1ccccc1	0			1+	NA	252.142
+CCMSLIB00006581789	rimsulfuron [M+H]+	CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc2nc(cc(n2)OC)OC	0			1+	NA	432.064
+CCMSLIB00006581790	triasulfuron [M+H]+	Cc1nc(nc(n1)OC)NC(=O)NS(=O)(=O)c2ccccc2OCCCl	0			1+	NA	402.063
+CCMSLIB00006581791	silthiofam [M+H]+	Cc1c(sc(c1C(=O)NCC=C)[Si](C)(C)C)C	0			1+	NA	268.119
+CCMSLIB00006581792	thifensulfuron-methyl [M+H]+	Cc1nc(nc(n1)OC)NC(=O)NS(=O)(=O)c2ccsc2C(=O)OC	0			1+	NA	388.038
+CCMSLIB00006581793	teflubenzuron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2cc(c(c(c2F)Cl)F)Cl)F	0			1+	NA	380.982
+CCMSLIB00006581794	(E)-acetamiprid [M+H]+	C/C(=N\C#N)/N(C)Cc1ccc(nc1)Cl	0			1+	NA	223.074
+CCMSLIB00006581795	alanycarb [M+H]+	CCOC(=O)CCN(Cc1ccccc1)SN(C)C(=O)O/N=C(/C)\SC	0			1+	NA	400.136
+CCMSLIB00006581796	aldicarb [M+H]+	CC(C)(C=NOC(=O)NC)SC	0			1+	NA	191.085
+CCMSLIB00006581797	azoxystrobin [M+H]+	CO/C=C(\c1ccccc1Oc2cc(ncn2)Oc3ccccc3C#N)/C(=O)OC	0			1+	NA	404.124
+CCMSLIB00006581798	carbendazim [M+H]+	COC(=O)Nc1[nH]c2ccccc2n1	0			1+	NA	192.077
+CCMSLIB00006581799	carboxin [M+H]+	CC1=C(SCCO1)C(=O)Nc2ccccc2	0			1+	NA	236.074
+CCMSLIB00006581800	(E)-dimethomorph [M+H]+	COc1ccc(cc1OC)/C(=C/C(=O)N2CCOCC2)/c3ccc(cc3)Cl	0			1+	NA	388.131
+CCMSLIB00006581801	diuron [M+H]+	CN(C)C(=O)Nc1ccc(c(c1)Cl)Cl	0			1+	NA	233.024
+CCMSLIB00006581802	fenamidone [M+H]+	C[C@@]1(C(=O)N(C(=N1)SC)Nc2ccccc2)c3ccccc3	0			1+	NA	312.116
+CCMSLIB00006581803	fenazaquin [M+H]+	CC(C)(C)c1ccc(cc1)CCOc2c3ccccc3ncn2	0			1+	NA	307.181
+CCMSLIB00006581804	fenobucarb [M+H]+	CCC(C)c1ccccc1OC(=O)NC	0			1+	NA	208.133
+CCMSLIB00006581805	fenpropidine [M+H]+	CC(Cc1ccc(cc1)C(C)(C)C)CN2CCCCC2	0			1+	NA	274.253
+CCMSLIB00006581806	fenpyroximate [M+H]+	Cc1c(c(n(n1)C)Oc2ccccc2)/C=N/OCc3ccc(cc3)C(=O)OC(C)(C)C	0			1+	NA	422.207
+CCMSLIB00006581807	imidacloprid [M+H]+	c1cc(ncc1CN2CCN=C2N[N+](=O)[O-])Cl	0			1+	NA	256.06
+CCMSLIB00006581808	iprovalicarb [M+H]+	Cc1ccc(cc1)C(C)NC(=O)[C@@H](C(C)C)NC(=O)OC(C)C	0			1+	NA	321.217
+CCMSLIB00006581809	methabenzthiazuron [M+H]+	CNC(=O)N(C)c1nc2ccccc2s1	0			1+	NA	222.07
+CCMSLIB00006581810	methomyl [M+H]+	CC(=NOC(=O)NC)SC	0			1+	NA	163.054
+CCMSLIB00006581811	methoxyfenozide [M+H]+	Cc1cc(cc(c1)C(=O)N(C(C)(C)C)NC(=O)c2cccc(c2C)OC)C	0			1+	NA	369.217
+CCMSLIB00006581812	(Z)-oxamyl [M+H]+	CNC(=O)O/N=C(/C(=O)N(C)C)\SC	0			1+	NA	220.075
+CCMSLIB00006581813	picoxystrobin [M+H]+	CO/C=C(\c1ccccc1COc2cccc(n2)C(F)(F)F)/C(=O)OC	0			1+	NA	368.11
+CCMSLIB00006581814	propamocarb [M+H]+	CCCOC(=O)NCCCN(C)C	0			1+	NA	189.16
+CCMSLIB00006581815	pyraclostrobin [M+H]+	COC(=O)N(c1ccccc1COc2ccn(n2)c3ccc(cc3)Cl)OC	0			1+	NA	388.106
+CCMSLIB00006581816	pyridaben [M+H]+	CC(C)(C)c1ccc(cc1)CSc2cnn(c(=O)c2Cl)C(C)(C)C	0			1+	NA	365.145
+CCMSLIB00006581817	pyridate [M+H]+	CCCCCCCCSC(=O)Oc1cc(nnc1c2ccccc2)Cl	0			1+	NA	379.124
+CCMSLIB00006581818	pyriproxyfen [M+H]+	CC(COc1ccc(cc1)Oc2ccccc2)Oc3ccccn3	0			1+	NA	322.144
+CCMSLIB00006581819	tebufenozide [M+H]+	CCc1ccc(cc1)C(=O)NN(C(=O)c2cc(cc(c2)C)C)C(C)(C)C	0			1+	NA	353.222
+CCMSLIB00006581820	thiabendazole [M+H]+	c1ccc2c(c1)[nH]c(n2)c3cscn3	0			1+	NA	202.043
+CCMSLIB00006581821	(E)-thiacloprid [M+H]+	c1cc(ncc1CN\2CCS/C2=N/C#N)Cl	0			1+	NA	253.031
+CCMSLIB00006581822	thiamethoxam [M+H]+	CN1COCN(C1=N[N+](=O)[O-])Cc2cnc(s2)Cl	0			1+	NA	292.027
+CCMSLIB00006581823	thiodicarb [M+H]+	C/C(=N\OC(=O)N(SN(C(=O)O/N=C(/SC)\C)C)C)/SC	0			1+	NA	355.056
+CCMSLIB00006581824	thiofanox [M+H]+	CC(C)(C)C(=NOC(=O)NC)CSC	0			1+	NA	219.116
+CCMSLIB00006581825	trifloxystrobin [M+H]+	C/C(=N\OCc1ccccc1/C(=N\OC)/C(=O)OC)/c2cccc(c2)C(F)(F)F	0			1+	NA	409.137
+CCMSLIB00006581826	diethofencarb [M+H]+	CCOc1ccc(cc1OCC)NC(=O)OC(C)C	0			1+	NA	268.154
+CCMSLIB00006581827	fenoxycarb [M+H]+	CCOC(=O)NCCOc1ccc(cc1)Oc2ccccc2	0			1+	NA	302.139
+CCMSLIB00006581828	flonicamid [M+H]+	c1cncc(c1C(F)(F)F)C(=O)NCC#N	0			1+	NA	230.054
+CCMSLIB00006581829	flumioxazin [M+H]+	C#CCN1c2cc(c(cc2OCC1=O)F)N3C(=O)C4=C(C3=O)CCCC4	0			1+	NA	355.109
+CCMSLIB00006581830	furathiocarb [M+H]+	CCCCOC(=O)N(C)SN(C)C(=O)Oc1cccc2c1OC(C2)(C)C	0			1+	NA	383.164
+CCMSLIB00006581831	mesosulfuron-methly [M+H]+	COc1cc(nc(n1)NC(=O)NS(=O)(=O)c2cc(ccc2C(=O)OC)CNS(=O)(=O)C)OC	0			1+	NA	504.085
+CCMSLIB00006581832	omethoate [M+H]+	CNC(=O)CSP(=O)(OC)OC	0			1+	NA	214.03
+CCMSLIB00006581833	pencycuron [M+H]+	c1ccc(cc1)NC(=O)N(Cc2ccc(cc2)Cl)C3CCCC3	0			1+	NA	329.142
+CCMSLIB00006581834	phosmet [M+H]+	COP(=S)(OC)SCN1C(=O)c2ccccc2C1=O	0			1+	NA	318.002
+CCMSLIB00006581835	propoxur [M+H]+	CC(C)Oc1ccccc1OC(=O)NC	0			1+	NA	210.113
+CCMSLIB00006581836	pyrimethanil [M+H]+	Cc1cc(nc(n1)Nc2ccccc2)C	0			1+	NA	200.118
+CCMSLIB00006581837	carbaryl [M+H]+	CNC(=O)Oc1cccc2c1cccc2	0			1+	NA	202.086
+CCMSLIB00006581838	spiromesifen [M+H]+	Cc1cc(c(c(c1)C)C2=C(C3(CCCC3)OC2=O)OC(=O)CC(C)(C)C)C	0			1+	NA	371.222
+CCMSLIB00006581839	spirotetramat [M+H]+	CCOC(=O)OC1=C(C(=O)N[C@@]12CC[C@@H](CC2)OC)c3c(ccc(c3)C)C	0			1+	NA	374.196
+CCMSLIB00006581840	sulfentrazone [M+H]+	Cc1nn(c(=O)n1C(F)F)c2cc(c(cc2Cl)Cl)NS(=O)(=O)C	0			1+	NA	386.989
+CCMSLIB00006581841	triadimenol [M+H]+	CC(C)(C)C(C(n1cncn1)Oc2ccc(cc2)Cl)O	0			1+	NA	296.116
+CCMSLIB00006581842	trichlorfon [M+H]+	COP(=O)(C(C(Cl)(Cl)Cl)O)OC	0			1+	NA	256.93
+CCMSLIB00006581843	trietazine [M+H]+	CCNc1nc(nc(n1)Cl)N(CC)CC	0			1+	NA	230.117
+CCMSLIB00006581844	"""2,3,5-trimethylphenyl methylcarbamate"" [M+H]+"	Cc1cc(c(c(c1)OC(=O)NC)C)C	0			1+	NA	194.118
+CCMSLIB00006581845	temephos [M+H]+	COP(=S)(OC)Oc1ccc(cc1)Sc2ccc(cc2)OP(=S)(OC)OC	0			1+	NA	466.997
+CCMSLIB00006581846	benzoximate [M+H]+	CCO/N=C(\c1c(ccc(c1OC)Cl)OC)/OC(=O)c2ccccc2	0			1+	NA	364.095
+CCMSLIB00006581847	bispyribac-sodium [M+H]+	COc1cc(nc(n1)Oc2cccc(c2C(=O)[O-])Oc3nc(cc(n3)OC)OC)OC.[Na+]	0			1+	NA	453.102
+CCMSLIB00006581848	chlorotoluron [M+H]+	Cc1ccc(cc1Cl)NC(=O)N(C)C	0			1+	NA	213.079
+CCMSLIB00006581849	chloroxuron [M+H]+	CN(C)C(=O)Nc1ccc(cc1)Oc2ccc(cc2)Cl	0			1+	NA	291.09
+CCMSLIB00006581850	Cycluron [M+H]+	CN(C)C(=O)NC1CCCCCCC1	0			1+	NA	199.18
+CCMSLIB00006581851	dinotefuran [M+H]+	CN/C(=N/[N+](=O)[O-])/NCC1CCOC1	0			1+	NA	203.114
+CCMSLIB00006581852	dioxacarb [M+H]+	CNC(=O)Oc1ccccc1C2OCCO2	0			1+	NA	224.092
+CCMSLIB00006581853	fenuron [M+H]+	CN(C)C(=O)Nc1ccccc1	0			1+	NA	165.102
+CCMSLIB00006581854	flubendiamide [M+H]+	Cc1cc(ccc1NC(=O)c2cccc(c2C(=O)NC(C)(C)CS(=O)(=O)C)I)C(C(F)(F)F)(C(F)(F)F)F	0			1+	NA	683.031
+CCMSLIB00006581855	Forchlorfenuron [M+H]+	c1ccc(cc1)NC(=O)Nc2ccnc(c2)Cl	0			1+	NA	248.059
+CCMSLIB00006581856	furalaxyl [M+H]+	Cc1cccc(c1N(C(C)C(=O)OC)C(=O)c2ccco2)C	0			1+	NA	302.139
+CCMSLIB00006581857	hexaflumuron [M+H]+	c1cc(c(c(c1)F)C(=O)NC(=O)Nc2cc(c(c(c2)Cl)OC(C(F)F)(F)F)Cl)F	0			1+	NA	460.989
+CCMSLIB00006581858	hydramethylnon [M+H]+	CC1(CNC(=NN=C(/C=C/c2ccc(cc2)C(F)(F)F)/C=C/c3ccc(cc3)C(F)(F)F)NC1)C	0			1+	NA	495.198
+CCMSLIB00006581859	methiocarb [M+H]+	Cc1cc(cc(c1SC)C)OC(=O)NC	0			1+	NA	226.09
+CCMSLIB00006581860	Methoprotryne [M+H]+	CC(C)Nc1nc(nc(n1)SC)NCCCOC	0			1+	NA	272.154
+CCMSLIB00006581861	moxidectin [M+H]+	C[C@@H]\1C/C(=C/C[C@@H]2C[C@@H](C[C@@]3(O2)C/C(=N\OC)/[C@@H]([C@H](O3)/C(=C/C(C)C)/C)C)OC(=O)[C@@H]4C=C([C@H]([C@@H]5[C@]4(/C(=C/C=C1)/CO5)O)O)C)/C	0			1+	NA	640.384
+CCMSLIB00006581862	(E)-nitenpyram [M+H]+	CCN(Cc1ccc(nc1)Cl)/C(=C/[N+](=O)[O-])/NC	0			1+	NA	271.096
+CCMSLIB00006581863	Promecarb [M+H]+	Cc1cc(cc(c1)OC(=O)NC)C(C)C	0			1+	NA	208.133
+CCMSLIB00006581864	pymetrozine [M+H]+	CC1=NNC(=O)N(C1)/N=C/c2cccnc2	0			1+	NA	218.104
+CCMSLIB00006581865	Pyracarbolid [M+H]+	CC1=C(CCCO1)C(=O)Nc2ccccc2	0			1+	NA	218.118
+CCMSLIB00006581866	quinmerac [M+H]+	Cc1cc2ccc(c(c2nc1)C(=O)O)Cl	0			1+	NA	222.032
+CCMSLIB00006581867	rotenone [M+H]+	CC(=C)[C@H]1Cc2c(ccc3c2O[C@@H]4COc5cc(c(cc5[C@@H]4C3=O)OC)OC)O1	0			1+	NA	395.149
+CCMSLIB00006581868	(R)-secbumeton [M+H]+	CC[C@@H](C)Nc1nc(nc(n1)OC)NCC	0			1+	NA	226.166
+CCMSLIB00006581869	spinosyn A [M+H]+	CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C	0			1+	NA	732.468
+CCMSLIB00006581870	tebuthiuron [M+H]+	CC(C)(C)c1nnc(s1)N(C)C(=O)NC	0			1+	NA	229.112
+CCMSLIB00006581871	Thidiazuron [M+H]+	c1ccc(cc1)NC(=O)Nc2cnns2	0			1+	NA	221.049
+CCMSLIB00006581872	mexacarbate [M+H]+	Cc1cc(cc(c1N(C)C)C)OC(=O)NC	0			1+	NA	223.144
+CCMSLIB00006581873	beflubutamid [M+H]+	CCC(C(=O)NCc1ccccc1)Oc2ccc(c(c2)C(F)(F)F)F	0			1+	NA	356.127
+CCMSLIB00006581874	carbofuran [M+H]+	CC1(Cc2cccc(c2O1)OC(=O)NC)C	0			1+	NA	222.113
+CCMSLIB00006581875	clomazone [M+H]+	CC1(CON(C1=O)Cc2ccccc2Cl)C	0			1+	NA	240.079
+CCMSLIB00006581876	cyprodinil [M+H]+	Cc1cc(nc(n1)Nc2ccccc2)C3CC3	0			1+	NA	226.134
+CCMSLIB00006581877	desmedipham [M+H]+	CCOC(=O)Nc1cccc(c1)OC(=O)Nc2ccccc2	0			1+	NA	301.118
+CCMSLIB00006581878	dimethoate [M+H]+	CNC(=O)CSP(=S)(OC)OC	0			1+	NA	230.007
+CCMSLIB00006581879	Ethidimuron [M+H]+	CCS(=O)(=O)c1nnc(s1)N(C)C(=O)NC	0			1+	NA	265.042
+CCMSLIB00006581880	ethoxyquin [M+H]+	CCOc1ccc2c(c1)C(=CC(N2)(C)C)C	0			1+	NA	218.154
+CCMSLIB00006581881	fluazinam [M+H]+	c1c(cnc(c1Cl)Nc2c(cc(c(c2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F	0			1+	NA	464.959
+CCMSLIB00006581882	flumetsulam [M+H]+	Cc1ccn2c(n1)nc(n2)S(=O)(=O)Nc3c(cccc3F)F	0			1+	NA	326.052
+CCMSLIB00006581883	fluometuron [M+H]+	CN(C)C(=O)Nc1cccc(c1)C(F)(F)F	0			1+	NA	233.09
+CCMSLIB00006581884	fluoxastrobin [M+H]+	CO/N=C(\c1ccccc1Oc2c(c(ncn2)Oc3ccccc3Cl)F)/C4=NOCCO4	0			1+	NA	459.087
+CCMSLIB00006581885	flutriafol [M+H]+	c1ccc(c(c1)C(Cn2cncn2)(c3ccc(cc3)F)O)F	0			1+	NA	302.11
+CCMSLIB00006581886	halofenozide [M+H]+	CC(C)(C)N(C(=O)c1ccccc1)NC(=O)c2ccc(cc2)Cl	0			1+	NA	331.121
+CCMSLIB00006581887	halosulfuron-methyl [M+H]+	Cn1c(c(c(n1)Cl)C(=O)OC)S(=O)(=O)NC(=O)Nc2nc(cc(n2)OC)OC	0			1+	NA	435.048
+CCMSLIB00006581888	methacrifos [M+H]+	C/C(=C\OP(=S)(OC)OC)/C(=O)OC	0			1+	NA	241.029
+CCMSLIB00006581889	metobromuron [M+H]+	CN(C(=O)Nc1ccc(cc1)Br)OC	0			1+	NA	259.008
+CCMSLIB00006581890	"""cholesta-5,7-dien-3beta-ol"" [M+H]+"	[H][C@@]1(CC[C@@]2([H])C3=CC=C4C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C	0			1+	NA	385.346
+CCMSLIB00006581891	deoxycholic acid [M+H]+	[H][C@]12CC[C@@]3([H])[C@]4([H])CC[C@]([H])([C@H](C)CCC(O)=O)[C@@]4(C)[C@@H](O)C[C@]3([H])[C@@]1(C)CC[C@@H](O)C2	0			1+	NA	393.3
+CCMSLIB00006581892	brassicasterol [M+H]+	[C@@]12([C@]3([C@@]([C@@]4(C(C[C@@H](O)CC4)=CC3)C)(CC[C@@]1([C@@]([C@@H](/C=C/[C@@H](C(C)C)C)C)(CC2)[H])C)[H])[H])[H]	0			1+	NA	399.362
+CCMSLIB00006581893	7alpha-hydroxycholest-4-en-3-one [M+H]+	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)CC4=CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C	0			1+	NA	401.341
+CCMSLIB00006581894	allocholic acid [M+H]+	C1[C@@]2([C@]3(C[C@@H]([C@]4([C@]([C@@]3([C@@H](C[C@]2(C[C@@H](C1)O)[H])O)[H])(CC[C@]4([H])[C@@H](CCC(O)=O)C)[H])C)O)[H])C	0			1+	NA	409.295
+CCMSLIB00006581895	diosgenin [M+H]+	[H][C@]12C[C@@]3([H])[C@]4([H])CC=C5C[C@@H](O)CC[C@]5(C)[C@@]4([H])CC[C@]3(C)[C@@]1([H])[C@H](C)[C@@]1(CC[C@@H](C)CO1)O2	0			1+	NA	415.321
+CCMSLIB00006581896	7alpha-hydroxy-3-oxo-4-cholestenoic acid [M+H]+	C1[C@@]2([C@]3(CC[C@]4([C@]([C@@]3([C@@H](CC2=CC(C1)=O)O)[H])(CC[C@@]4([C@H](C)CCCC(C)C(O)=O)[H])[H])C)[H])C	0			1+	NA	431.316
+CCMSLIB00006581897	glycochenodeoxycholic acid [M+H]+	[H][C@@]12C[C@H](O)CC[C@]1(C)[C@@]1([H])CC[C@]3(C)[C@]([H])(CC[C@@]3([H])[C@]1([H])[C@H](O)C2)[C@H](C)CCC(=O)NCC(O)=O	0			1+	NA	450.321
+CCMSLIB00006581898	taurocholic acid [M+H]+	[H][C@@]12C[C@H](O)CC[C@]1(C)[C@@]1([H])C[C@H](O)[C@]3(C)[C@]([H])(CC[C@@]3([H])[C@]1([H])[C@H](O)C2)[C@H](C)CCC(=O)NCCS(O)(=O)=O	0			1+	NA	516.299
+CCMSLIB00006581899	cortisone [M+H]+	[H][C@@]12CCC3=CC(=O)CC[C@]3(C)[C@@]1([H])C(=O)C[C@@]1(C)[C@@]2([H])CC[C@]1(O)C(=O)CO	0			1+	NA	361.201
+CCMSLIB00006581900	7-ketocholesterol [M+H]+	[H][C@@]1(CC[C@@]2([H])[C@]3([H])C(=O)C=C4C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C	0			1+	NA	401.341
+CCMSLIB00006581901	"""5,6alpha-epoxy-5alpha-cholestan-3beta-ol"" [M+H]+"	[H][C@@]1(CC[C@@]2([H])[C@]3([H])C[C@@H]4O[C@@]44C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C	0			1+	NA	403.357
+CCMSLIB00006581902	5alpha-cholest-7-en-3beta-ol [M+H]+	[H][C@@]12CC=C3[C@]4([H])CC[C@]([H])([C@H](C)CCCC(C)C)[C@@]4(C)CC[C@]3([H])[C@@]1(C)CC[C@H](O)C2	0			1+	NA	387.362
+CCMSLIB00006581903	chenodeoxycholic acid [M+H]+	[H][C@@]12C[C@H](O)CC[C@]1(C)[C@@]1([H])CC[C@]3(C)[C@]([H])(CC[C@@]3([H])[C@]1([H])[C@H](O)C2)[C@H](C)CCC(O)=O	0			1+	NA	393.3
+CCMSLIB00006581904	cholic acid [M+H]+	[H][C@@]12C[C@H](O)CC[C@]1(C)[C@@]1([H])C[C@H](O)[C@]3(C)[C@]([H])(CC[C@@]3([H])[C@]1([H])[C@H](O)C2)[C@H](C)CCC(O)=O	0			1+	NA	409.295
+CCMSLIB00006581905	O-acetylcarnitine [M+H]+	CC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	204.123
+CCMSLIB00006581906	2-methylbutyrylcarnitine [M+H]+	CCC(C)C(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	246.17
+CCMSLIB00006581907	O-malonylcarnitine [M+H]+	C[N+](C)(C)CC(CC([O-])=O)OC(=O)CC(O)=O	0			1+	NA	248.113
+CCMSLIB00006581908	O-hexanoylcarnitine [M+H]+	C(OC(CCCCC)=O)(C[N+](C)(C)C)CC(=O)[O-]	0			1+	NA	260.186
+CCMSLIB00006581909	3-oxo-5beta-cholanic acid [M+H]+	[H][C@]12CC[C@]3([H])[C@]([H])(CC[C@]4(C)[C@]([H])(CC[C@@]34[H])[C@H](C)CCC(O)=O)[C@@]1(C)CCC(=O)C2	0			1+	NA	375.289
+CCMSLIB00006581910	7-oxolithocholic acid [M+H]+	C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@H]3[C@H](CC[C@]12C)[C@@]1(C)CC[C@@H](O)C[C@H]1CC3=O	0			1+	NA	391.284
+CCMSLIB00006581911	alpha-muricholic acid [M+H]+	C1[C@H](C[C@@]2([C@](C1)([C@@]3([C@@]([C@@H]([C@H]2O)O)([C@@]4([H])[C@@](CC3)(C)[C@](CC4)([C@@H](CCC(O)=O)C)[H])[H])[H])C)[H])O	0			1+	NA	409.295
+CCMSLIB00006581912	glycoursodeoxycholic acid [M+H]+	C1[C@@]2([C@]3(CC[C@]4([C@]([C@@]3([C@H](C[C@@]2(C[C@@H](C1)O)[H])O)[H])(CC[C@]4([H])[C@@H](CCC(NCC(O)=O)=O)C)[H])C)[H])C	0			1+	NA	450.321
+CCMSLIB00006581913	glycocholic acid [M+H]+	C[C@H](CCC(=O)NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C	0			1+	NA	466.316
+CCMSLIB00006581914	3-hydroxybutyrylcarnitine [M+H]+	CC(O)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	248.149
+CCMSLIB00006581915	corticosterone [M+H]+	[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])[C@@H](O)C[C@]12C)C(=O)CO	0			1+	NA	347.222
+CCMSLIB00006581916	23-nordeoxycholic acid [M+H]+	O[C@@H]1[C@]2([C@]([C@]3([C@@]([C@@]4([C@](CC3)(C[C@H](O)CC4)[H])C)(C1)[H])[H])(CC[C@@]2([C@@H](CC(O)=O)C)[H])[H])C	0			1+	NA	379.284
+CCMSLIB00006581917	"""3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid"" [M+H]+"	[H][C@@]12C[C@H](O)CC[C@]1(C)[C@@]1([H])CC(=O)[C@]3(C)[C@]([H])(CC[C@@]3([H])[C@]1([H])[C@H](O)C2)[C@H](C)CCC(O)=O	0			1+	NA	407.279
+CCMSLIB00006581918	taurolithocholic acid [M+H]+	C[C@H](CCC(=O)NCCS(O)(=O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	0			1+	NA	484.309
+CCMSLIB00006581919	taurodeoxycholic acid [M+H]+	[H][C@]12CC[C@@]3([H])[C@]4([H])CC[C@]([H])([C@H](C)CCC(=O)NCCS(O)(=O)=O)[C@@]4(C)[C@@H](O)C[C@]3([H])[C@@]1(C)CC[C@@H](O)C2	0			1+	NA	500.304
+CCMSLIB00006581920	tauro-beta-muricholic acid [M+H]+	C1[C@@]2([C@]3(CC[C@]4([C@]([C@@]3([C@H]([C@H]([C@@]2(C[C@@H](C1)O)[H])O)O)[H])(CC[C@@]4([C@@H](CCC(NCCS(O)(=O)=O)=O)C)[H])[H])C)[H])C	0			1+	NA	516.299
+CCMSLIB00006581921	O-butanoylcarnitine [M+H]+	CCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	232.154
+CCMSLIB00006581922	O-adipoylcarnitine [M+H]+	C[N+](C)(C)CC(CC([O-])=O)OC(=O)CCCCC(O)=O	0			1+	NA	290.16
+CCMSLIB00006581923	O-decanoylcarnitine [M+H]+	O(C(C[N+](C)(C)C)CC([O-])=O)C(CCCCCCCCC)=O	0			1+	NA	316.248
+CCMSLIB00006581924	O-dodecanoylcarnitine [M+H]+	CCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	344.28
+CCMSLIB00006581925	ursocholic acid [M+H]+	C1[C@@]2([C@]3(C[C@@H]([C@]4([C@]([C@@]3([C@H](C[C@@]2(C[C@@H](C1)O)[H])O)[H])(CC[C@@]4([C@@H](CCC(O)=O)C)[H])[H])C)O)[H])C	0			1+	NA	409.295
+CCMSLIB00006581926	tauroursodeoxycholic acid [M+H]+	C1[C@@]2([C@]3(CC[C@]4([C@]([C@@]3([C@H](C[C@@]2(C[C@@H](C1)O)[H])O)[H])(CC[C@]4([H])[C@@H](CCC(NCCS(O)(=O)=O)=O)C)[H])C)[H])C	0			1+	NA	500.304
+CCMSLIB00006581927	O-arachidonoylcarnitine [M+H]+	CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	448.342
+CCMSLIB00006581928	tauro-alpha-muricholic acid [M+H]+	S(O)(=O)(=O)CCNC(=O)CC[C@H]([C@@]1([C@@]2([C@]([C@]3([C@@]([C@@]4([C@]([C@H](O)[C@H]3O)(C[C@H](O)CC4)[H])C)(CC2)[H])[H])(CC1)[H])C)[H])C	0			1+	NA	516.299
+CCMSLIB00006581929	carnitine [M+H]+	C[N+](C)(C)CC(O)CC([O-])=O	0			1+	NA	162.113
+CCMSLIB00006581930	O-valeroylcarnitine [M+H]+	CCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	246.17
+CCMSLIB00006581931	O-succinylcarnitine [M+H]+	C[N+](C)(C)CC(CC([O-])=O)OC(=O)CCC(O)=O	0			1+	NA	262.129
+CCMSLIB00006581932	(2E)-octenoylcarnitine [M+H]+	CCCCC\C=C\C(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	286.201
+CCMSLIB00006581933	O-octanoylcarnitine [M+H]+	CCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	288.217
+CCMSLIB00006581934	O-3-methylglutarylcarnitine [M+H]+	CC(CC(O)=O)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	290.16
+CCMSLIB00006581935	O-(2-tetradecenoyl)carnitine [M+H]+	CCCCCCCCCCCC=CC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	370.295
+CCMSLIB00006581936	O-oleoylcarnitine [M+H]+	CCCCCCCC\C=C/CCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	426.358
+CCMSLIB00006581937	O-stearoylcarnitine [M+H]+	CCCCCCCCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C	0			1+	NA	428.373
+CCMSLIB00006581938	glycodeoxycholic acid [M+H]+	C1[C@@]2([C@]3(C[C@@H]([C@]4([C@]([C@@]3(CC[C@@]2(C[C@@H](C1)O)[H])[H])(CC[C@@]4([C@@H](CCC(NCC(O)=O)=O)C)[H])[H])C)O)[H])C	0			1+	NA	450.321

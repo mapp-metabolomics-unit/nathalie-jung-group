@@ -1,0 +1,753 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00004683304	3-GluA-28-Xyl(1-4)Rha(1-2)Ara Medicagenic acid (NMR) - 59.5317eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O)O	0			1+	NA	1087.51
+CCMSLIB00004683306	3-Glu(1-3)GluA-28-Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 70.5601eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)C(=O)O)O	0			1+	NA	1381.61
+CCMSLIB00004683307	3-GluA-28-Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 41.5979eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O)O	0			1+	NA	609.265
+CCMSLIB00004683308	3-GluA-28-Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 64.4835eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O)O	0			1+	NA	1219.53
+CCMSLIB00004683310	3-Glu-28-Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 63.9592eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	1205.56
+CCMSLIB00004683312	Oct-1-en-3-yl Ara (1-6)Glu (NMR) - 33.0683eV M-H	CCCCC[C@@H](O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O)C=C	0			1+	NA	421.208
+CCMSLIB00004683314	6'-Malonyl Ononin (NMR) - 22.8316eV M-H	c1(ccc2c(c1)occ(c2=O)c1ccc(cc1)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O	0			1+	NA	267.066
+CCMSLIB00004683318	6'-Malonyl Ononin (NMR) - 30.4398eV M-H	c1(ccc2c(c1)occ(c2=O)c1ccc(cc1)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O	0			1+	NA	267.03
+CCMSLIB00004683320	6'-Malonyl Ononin (NMR) - 57.4223eV M-H	c1(ccc2c(c1)occ(c2=O)c1ccc(cc1)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O	0			1+	NA	1031.26
+CCMSLIB00004683323	3-(6'-O-Malonyl)-Glu-28-Glu Medicagenic acid (NMR) - 70.0587eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O)O	0			1+	NA	1368.23
+CCMSLIB00004683325	3-(6'-O-Malonyl)-Glu-28-Glu Medicagenic acid (NMR) - 52.9308eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O)O	0			1+	NA	911.489
+CCMSLIB00004683327	3-Rha(1-2)Gal(1-2)GluA-Soyasaponenol B (NMR) - 52.5eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	941.512
+CCMSLIB00004683335	6'-Malonyl-3-Glu Medicarpin (NMR) - 22.2218eV M-H	c1(ccc2c(c1)OC[C@@H]1[C@H]2Oc2c1ccc(c2)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O	0			1+	NA	254.058
+CCMSLIB00004683336	6'-Malonyl-3-Glu Medicarpin (NMR) - 22.9261eV M-H	c1(ccc2c(c1)OC[C@@H]1[C@H]2Oc2c1ccc(c2)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)COC(=O)CC(=O)O	0			1+	NA	269.082
+CCMSLIB00004683337	3-Rha-7-Rha Kaempferol (NMR) - 45.7128eV M-H	O=c1c2c(oc(c1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)c1ccc(cc1)O)cc(cc2O)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C	0			1+	NA	755.166
+CCMSLIB00004683338	3-Rha-7-Rha Quercetin (NMR) - 38.1163eV M-H	O=c1c2c(oc(c1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)c1cc(c(cc1)O)O)cc(cc2O)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C	0			1+	NA	593.122
+CCMSLIB00004683340	3-O-Neohesperidoside Kaempferol (NMR) - 52.5eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(cc1)O)O)O	0			1+	NA	933.185
+CCMSLIB00004683342	3-O-Neohesperidoside Kaempferol (NMR) - 38.1163eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(cc1)O)O)O	0			1+	NA	593.122
+CCMSLIB00004683344	3-O-Neohesperidoside Quercetin (NMR) - 52.5eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(c(c1)O)O)O)O	0			1+	NA	1219.24
+CCMSLIB00004683346	3-O-Neohesperidoside Quercetin (NMR) - 38.8662eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(c(c1)O)O)O)O	0			1+	NA	609.117
+CCMSLIB00004683348	3-Glu-7-Rha Quercetin (NMR) - 38.8662eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)c1ccc(c(c1)O)O)O)O[C@@H]1O[C@H]([C@H]([C@@H]([C@H]1O)O)O)C	0			1+	NA	609.116
+CCMSLIB00004683350	3-O-Neohesperidoside-7-Rha Kaempferol (NMR) - 44.9628eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(cc1)O)O)O[C@@H]1O[C@H]([C@H]([C@@H]([C@H]1O)O)O)C	0			1+	NA	739.172
+CCMSLIB00004683354	3-O-Neohesperidoside-7-Rha Quercetin (NMR) - 45.7128eV M-H	c1(cc(c2c(c1)oc(c(c2=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)c1ccc(c(c1)O)O)O)O[C@@H]1O[C@H]([C@H]([C@@H]([C@H]1O)O)O)C	0			1+	NA	755.166
+CCMSLIB00004683356	Sinapoyl malate (NMR) - 20.7684eV M-H	COc1cc(cc(c1O)OC)/C=C/C(=O)O[C@@H](CC(=O)O)C(=O)O	0			1+	NA	223.051
+CCMSLIB00004683358	Sinapoyl malate-4'-methyl ester (NMR) - 20.7683eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)OC)C(=O)O)OC)O)OC	0			1+	NA	223.049
+CCMSLIB00004683359	Sinapoyl malate-4'-methyl ester (NMR) - 30.3328eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)OC)C(=O)O)OC)O)OC	0			1+	NA	427.082
+CCMSLIB00004683360	Sinapoyl malate-4'-methyl ester (NMR) - 26.8632eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)OC)C(=O)O)OC)O)OC	0			1+	NA	353.07
+CCMSLIB00004683362	Sinapoyl malate-4'-methyl ester (NMR) - 43.3667eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)OC)C(=O)O)OC)O)OC	0			1+	NA	705.132
+CCMSLIB00004683364	Sinapoyl malate-1'-methyl ester (NMR) - 26.8638eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)O)C(=O)OC)OC)O)OC	0			1+	NA	353.077
+CCMSLIB00004683366	Sinapoyl malate-1'-methyl ester (NMR) - 43.3666eV M-H	c1c(c(c(cc1/C=C/C(=O)OC(CC(=O)O)C(=O)OC)OC)O)OC	0			1+	NA	705.134
+CCMSLIB00004683372	1-Hydroxy-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine (NMR) - 36.1656eV M-H	C(C(=O)O[C@H](CO)COP(=O)([O-])OCCN)CCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	476.277
+CCMSLIB00004683373	1-Hydroxy-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phosphoethanolamine (NMR) - 36.0522eV M-H	C(C(=O)O[C@H](CO)COP(=O)([O-])OCCN)CCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	474.261
+CCMSLIB00004683374	1-Hydroxy-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-2-phosphocholine (NMR) - 39.9123eV M-H	C(C(=O)O[C@H](CO)COP(=O)([O-])OCC[N+](C)(C)C)CCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	564.328
+CCMSLIB00004683375	1-(9Z,12Z-Octadecadienoyl-2-hydroxy-sn-glycero-3-phosphocholine (NMR) - 39.9124eV M-H	C([C@H](COP(=O)([O-])OCC[N+](C)(C)C)O)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	564.329
+CCMSLIB00004683376	1-(9Z,12Z-Octadecadienoyl)-2-hydroxy-sn-glycero-3-phosphoethanolamine (NMR) - 36.1656eV M-H	C([C@H](COP(=O)([O-])OCCN)O)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	476.277
+CCMSLIB00004683377	1-Hydroxy-2-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phosphocholine (NMR) - 39.8367eV M-H	C(C(=O)O[C@H](CO)COP(=O)([O-])OCC[N+](C)(C)C)CCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	562.313
+CCMSLIB00004683378	1-(9Z,12Z,15Z-Octadecatrienoyl)-2-hydroxy-sn-glycero-3-phosphocholine (NMR) - 39.8368eV M-H	C([C@H](COP(=O)([O-])OCC[N+](C)(C)C)O)OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	562.313
+CCMSLIB00004683379	9Z,12Z-Linoleic acid (NMR) - 10eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	279.233
+CCMSLIB00004683380	9Z,12Z-Linoleic acid (NMR) - 20eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	279.233
+CCMSLIB00004683381	9Z,12Z-Linoleic acid (NMR) - 30eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	0			1+	NA	279.23
+CCMSLIB00004683382	a-Linolenic acid (NMR) - 10eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	277.218
+CCMSLIB00004683383	a-Linolenic acid (NMR) - 20eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	277.218
+CCMSLIB00004683384	a-Linolenic acid (NMR) - 30eV M-H	OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	0			1+	NA	277.219
+CCMSLIB00004683385	Palmitic acid (NMR) - 30eV M-H	OC(=O)CCCCCCCCCCCCCCC	0			1+	NA	255.232
+CCMSLIB00004683387	Palmitic acid (NMR) - 10eV M-H	OC(=O)CCCCCCCCCCCCCCC	0			1+	NA	255.233
+CCMSLIB00004683389	Palmitic acid (NMR) - 20eV M-H	OC(=O)CCCCCCCCCCCCCCC	0			1+	NA	255.233
+CCMSLIB00004683390	4'-O-(2'-E-Coumaroyl GluA)(1-2)GluA) Apigenin (NMR) - 32.3054eV M+H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C/c1ccc(cc1)O)O)O)C(=O)O)O)O	0			1+	NA	769.156
+CCMSLIB00004683395	4'-O-(2'-E-Coumaroyl GluA)(1-2)GluA) Apigenin (NMR) - 24.509eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C/c1ccc(cc1)O)O)O)C(=O)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683397	4'-O-(2'-E-Coumaroyl GluA)(1-2)GluA) Apigenin (NMR) - 47.5185eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C/c1ccc(cc1)O)O)O)C(=O)O)O)O	0			1+	NA	767.146
+CCMSLIB00004683403	4'-O-(2'-E-Feruloyl GluA(1-2)GluA) Apigenin (NMR) - 32.9807eV M+H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C/c1ccc(c(c1)OC)O)O)O)C(=O)O)O)O	0			1+	NA	799.172
+CCMSLIB00004683405	4'-O-(2'-E-Feruloyl GluA(1-2)GluA) Apigenin (NMR) - 48.6439eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C/c1ccc(c(c1)OC)O)O)O)C(=O)O)O)O	0			1+	NA	797.156
+CCMSLIB00004683407	4'-O-(2'-Z-Feruloyl GluA(1-2)GluA) Apigenin (NMR) - 48.6454eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C\c1cc(c(cc1)O)OC)O)O)C(=O)O)O)O	0			1+	NA	797.179
+CCMSLIB00004683409	4'-O-(2'-Z-Feruloyl GluA(1-2)GluA) Apigenin (NMR) - 32.9806eV M+H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C\c1cc(c(cc1)O)OC)O)O)C(=O)O)O)O	0			1+	NA	799.14
+CCMSLIB00004683411	4'-O-(Glucuronyl-(1-3)-2'-E-Feruloyl-O-glucuronyl)-(1-2)-glucuronyl Apigenin (NMR) - 36.9412eV M+H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O)OC(=O)/C=C/c1ccc(c(c1)OC)O)O)O)C(=O)O)O)O	0			1+	NA	975.166
+CCMSLIB00004683413	4'-O-(Glucuronyl-(1-3)-2'-E-Feruloyl-O-glucuronyl)-(1-2)-glucuronyl Apigenin (NMR) - 55.247eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O)OC(=O)/C=C/c1ccc(c(c1)OC)O)O)O)C(=O)O)O)O	0			1+	NA	973.27
+CCMSLIB00004683415	4'-O-(2'-Z-Coumaroyl GluA)(1-2)GluA) Apigenin (NMR) - 24.5091eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C\c1ccc(cc1)O)O)O)C(=O)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683417	4'-O-(2'-Z-Coumaroyl GluA)(1-2)GluA) Apigenin (NMR) - 47.5199eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)OC(=O)/C=C\c1ccc(cc1)O)O)O)C(=O)O)O)O	0			1+	NA	767.155
+CCMSLIB00004683419	3-(Rha(1-2)Glu(1-2)Glu-28-Glu oleanolic acid (NMR) - 59.5365eV M-H	C1[C@@H](C(C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)CO	0			1+	NA	1087.64
+CCMSLIB00004683421	3-(Rha(1-2)Glu(1-2)Glu-28-Glu oleanolic acid (NMR) - 61.2619eV M-H	C1[C@@H](C(C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)CO	0			1+	NA	1133.65
+CCMSLIB00004683423	3-Rha-Gal-GluA-22-DDMP Soyasaponenol B (NMR) - 60.5081eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)OC1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	1113.55
+CCMSLIB00004683426	3-Rha-Gal-GluA-22-DDMP Soyasaponenol B (NMR) - 58.7829eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)OC1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	1067.54
+CCMSLIB00004683429	3-GluA Soyasapogenol B (NMR) - 42.5041eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	633.401
+CCMSLIB00004683431	3-Glucuronyl-22-DDMP Soyasapogenol B (NMR) - 47.2306eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O[C@H]1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	759.434
+CCMSLIB00004683432	3-(Glucosyl(1-2) glucuronyl)-22-DDMP Soyasapogenol B (NMR) - 53.3081eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O[C@H]1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)C(=O)O	0			1+	NA	921.495
+CCMSLIB00004683433	3-(Galactosyl(1-2) glucuronyl)-22-DDMP Soyasapogenol B (NMR) - 53.3081eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O[C@H]1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O)O)O)CO)O)O)C(=O)O	0			1+	NA	921.492
+CCMSLIB00004683434	3-Gal(1-2)GluA Soyasapogenol B (NMR) - 48.5799eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O)O)O)CO)O)O)C(=O)O	0			1+	NA	795.448
+CCMSLIB00004683435	3-Glu(1-2)GluA Soyasapogenol B (NMR) - 48.5816eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)C(=O)O	0			1+	NA	795.457
+CCMSLIB00004683436	3-Glu(1-2)Glu-28-Glu Hederagenin (NMR) - 56.3842eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO	0			1+	NA	1003.58
+CCMSLIB00004683449	3-Glu(1-2)Glu-28-Glu Hederagenin (NMR) - 54.6589eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO	0			1+	NA	957.57
+CCMSLIB00004683451	3-Rha(1-2)Gal(1-2)GluA-Soyasaponenol E (NMR) - 53.9815eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(C(=O)CC(C1)(C)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	939.49
+CCMSLIB00004683456	3-Rha(1-2)Gal(1-2)GluA-Soyasaponenol E (NMR) - 52.5eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(C(=O)CC(C1)(C)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	939.496
+CCMSLIB00004683459	7-Glu tricin (NMR) - 37.001eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1cc(c(c(c1)OC)O)OC)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO	0			1+	NA	491.128
+CCMSLIB00004683461	3-Glu-(1-2)Ara-28-Glu Hederagenin (NMR) - 55.2569eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1OC[C@@H]([C@@H]([C@H]1C[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O	0			1+	NA	973.498
+CCMSLIB00004683462	3-Glu-(1-2)Ara-28-Glu Hederagenin (NMR) - 53.5317eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1OC[C@@H]([C@@H]([C@H]1C[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O	0			1+	NA	927.494
+CCMSLIB00004683463	3-Glu(1-3)Glu-28-Glu Medicagenic acid (NMR) - 55.782eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	987.477
+CCMSLIB00004683465	3-Glu-28-Glu-Bayogenin (NMR) - 50.9057eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	857.452
+CCMSLIB00004683467	3-(Rha(1-2)Glu(1-2)Glu-28-Glu Hederagenin (NMR) - 61.8604eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C)O)O)CO)O)O)CO	0			1+	NA	1149.56
+CCMSLIB00004683469	3-Glu(1,3)Glu-28-Glu Bayogenin (NMR) - 55.2568eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	973.499
+CCMSLIB00004683470	3-Glu(1,3)Glu-28-Glu Bayogenin (NMR) - 56.9821eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	1019.5
+CCMSLIB00004683471	3-Ara-28-Glu Hederagenin (NMR) - 49.1798eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1OC[C@@H]([C@@H]([C@H]1O)O)O	0			1+	NA	811.445
+CCMSLIB00004683472	3-Glu(1-3)Glu-28-Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Zanhic acid (NMR) - 70.6357eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	1383.6
+CCMSLIB00004683473	3-Glu-28-Glu Medicagenic acid (NMR) - 49.7041eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	825.427
+CCMSLIB00004683475	3-Glu-28-Glu Medicagenic acid (NMR) - 49.0056eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	825.426
+CCMSLIB00004683477	3-(3'-O-Malonyl)Glu(1-4)Glu-28-Glu Bayogenin (NMR) - 52.5eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)CO)O	0			1+	NA	1059.5
+CCMSLIB00004683479	3-(3'-O-Malonyl)Glu(1-4)Glu-28-Glu Bayogenin (NMR) - 58.4827eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)CO)O	0			1+	NA	1059.5
+CCMSLIB00004683481	3-(4'O-Malonyl)Rha(1-2)Gal(1-2)GluA-Soyasaponenol B( NMR) - 57.2822eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)O)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)OC(=O)CC(=O)O)C)O)O)CO)O)O)C(=O)O	0			1+	NA	1027.51
+CCMSLIB00004683483	7-Glu Chrysoeriol (NMR) - 35.3135eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(c(c1)OC)O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO	0			1+	NA	461.109
+CCMSLIB00004683485	3-Glu-28-Xyl(1-4)Rha(1-2)Ara Medicagenic acid (NMR) - 59.0074eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	1073.53
+CCMSLIB00004683487	3-GluA-28-Xyl(1-4)Rha(1-2)Ara Zanhic acid (NMR) - 60.1313eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O)O	0			1+	NA	1103.53
+CCMSLIB00004683489	4-Malonyl ononin (NMR) - 24.3977eV M-H	c1(ccc2c(c1)occ(c2=O)c1ccc(cc1)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)OC(=O)CC(=O)O)CO	0			1+	NA	267.071
+CCMSLIB00004683491	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Zanhic acid (NMR) - 75eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@]([C@H]1O)(CO)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1545.65
+CCMSLIB00004683497	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Zanhic acid (NMR) - 101.522eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@]([C@H]1O)(CO)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1545.66
+CCMSLIB00004683499	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Ara(1-3)]Rha(1-2)Ara Zanhic acid (NMR) - 75eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@H]([C@@H]([C@H]1O)O)[O-])O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1545.67
+CCMSLIB00004683501	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 75eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@]([C@H]1O)(CO)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1529.65
+CCMSLIB00004683503	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 100.989eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@]([C@H]1O)(CO)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1529.66
+CCMSLIB00004683505	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Ara(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 75eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@H]([C@@H]([C@H]1O)O)[O-])O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1529.66
+CCMSLIB00004683506	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)[Ara(1-3)]Rha(1-2)Ara Medicagenic acid (NMR) - 100.989eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O[C@@H]1OC[C@@H]([C@@H]([C@H]1O)O)[O-])O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1529.66
+CCMSLIB00004683508	3-(Glc(1-2)Glc(1-2)Glc)-28-(Xyl(1-4)Rha(1-2)Ara Medicagenic acid (NMR) - 71.1607eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)OC1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)[O-])O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1397.59
+CCMSLIB00004683509	3-GlcA-28-Glc oleanolic acid (NMR) - 48.5045eV M-H	C1[C@@H](C(C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	793.452
+CCMSLIB00004683510	3-Glu-3,4',7-trihydroxyisoflavanone (NMR) - 33.7385eV M-H	c1(ccc2c(c1)OCC(C2=O)(c1ccc(cc1)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O	0			1+	NA	433.115
+CCMSLIB00004683511	3-((3'-Malonyl)Xyl)-28-Glu Bayogenin (NMR) - 51.2807eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)CO)O[C@@H]1OC[C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O)O	0			1+	NA	867.438
+CCMSLIB00004683512	3-((3'-Malonyl)Xyl)-28-Glu Polygalagenin (NMR) - 51.2032eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C=O)O[C@@H]1OC[C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O)O	0			1+	NA	865.425
+CCMSLIB00004683514	3-((3'-Malonyl)Xyl)-28-Glu-2-hydroxy oleanolic acid (NMR) - 50.6807eV M-H	[C@H]1([C@@H](C(C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)C)C)C)(C)C)O[C@@H]1OC[C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O)O	0			1+	NA	851.443
+CCMSLIB00004683517	3-Glu(1-3)Glu-28-Xyl(1-4)Rha(1-2)Ara zanhic acid (NMR) - 65.6843eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	1251.57
+CCMSLIB00004683518	3-(Glu(1-3)Glu)-28-(Rha(4-O-acetyl)(1-2)Ara) Zanhic acid (NMR) - 54.0141eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)OC(=O)C)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	580.265
+CCMSLIB00004683519	3-(Glu(1-3)Glu)-28-(Rha(4-O-acetyl)(1-2)Ara) Zanhic acid (NMR) - 83.0788eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)OC(=O)C)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O	0			1+	NA	1161.54
+CCMSLIB00004683522	3-Rha(1-2)Ara(1-2)GluA-22-DDMP Soyasaponenol B (NMR) - 76.8786eV M-H	C1[C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)([C@@H](CC(C1)(C)C)OC1OC(=C(C(=O)C1)O)C)C)C)C)C)(CO)C)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	1037.53
+CCMSLIB00004683524	4'-O-(GlcA(1-2)GlcA) Apigenin (NMR) - 42.0426eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)C(=O)O)O)O)O)O)O)C(=O)O)O)O	0			1+	NA	621.11
+CCMSLIB00004683526	5-Glc tricin (NMR) - 37.0017eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1cc(c(c(c1)OC)O)OC)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O	0			1+	NA	491.121
+CCMSLIB00004683529	7-GlcA tricin (NMR) - 37.692eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1cc(c(c(c1)OC)O)OC)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	505.099
+CCMSLIB00004683531	7-GlcA tricin (NMR) - 56.6718eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1cc(c(c(c1)OC)O)OC)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	1011.21
+CCMSLIB00004683532	3-Glc(1-2)Glc(1-2)Glc-28-Api(1-3)Xyl(1-4)[Api(1-3)]Rha(1-2)Ara Zanhic acid (NMR) - 105.924eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@]([C@@H](C2)O)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O[C@@H]1OC[C@@]([C@H]1O)(CO)O)O)O[C@@H]1OC[C@]([C@H]1O)(O)CO)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)O)CO)O)O)CO)O	0			1+	NA	1677.7
+CCMSLIB00004683533	3-((3'-Malonyl)GlcA)-28-Xyl(1-4)Rha(1-2)Ara Medicagenic acid (NMR) - 62.7562eV M-H	[C@H]1([C@@H]([C@@](C2[C@](C1)(C1[C@@](CC2)([C@]2(C(=CC1)[C@H]1[C@@](CC2)(CCC(C1)(C)C)C(=O)O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O[C@H]1[C@@H]([C@H]([C@@H](CO1)O)O)O)O)O)C)C)C)(C)C(=O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)OC(=O)CC(=O)O)O)C(=O)O)O	0			1+	NA	1173.49
+CCMSLIB00004683534	4'-O-GlcA-7-O-GlcA Apigenin (NMR) - 42.0417eV M-H	c1(cc(c2c(c1)oc(cc2=O)c1ccc(cc1)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O)O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)C(=O)O	0			1+	NA	621.109
+CCMSLIB00004683460	Pygenic acid B a - 50eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	487.343
+CCMSLIB00004683464	Pygenic acid B a - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	487.343
+CCMSLIB00004683466	Ursolic acid - 30eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	455.352
+CCMSLIB00004683468	Ursolic acid - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	455.352
+CCMSLIB00004683474	Ursolic acid - 50eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	455.351
+CCMSLIB00004683476	Ursolic acid - 10eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	455.352
+CCMSLIB00004683478	Ursolic acid - 40eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	455.352
+CCMSLIB00004683480	18-Beta-glycyrrhetinic acid - 10eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O	0			1+	NA	470.337
+CCMSLIB00004683482	18-Beta-glycyrrhetinic acid - 20eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O	0			1+	NA	470.337
+CCMSLIB00004683484	18-Beta-glycyrrhetinic acid - 50eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O	0			1+	NA	470.337
+CCMSLIB00004683486	18-Beta-glycyrrhetinic acid - 40eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O	0			1+	NA	470.337
+CCMSLIB00004683488	18-Beta-glycyrrhetinic acid - 30eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O	0			1+	NA	470.337
+CCMSLIB00004683490	Diosmetin - 20eV M-H	COc1ccc(cc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.058
+CCMSLIB00004683492	Diosmetin - 50eV M-H	COc1ccc(cc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.1
+CCMSLIB00004683493	Diosmetin - 40eV M-H	COc1ccc(cc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.1
+CCMSLIB00004683494	Corosolic acid - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	471.353
+CCMSLIB00004683495	Corosolic acid - 10eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	471.352
+CCMSLIB00004683496	Corosolic acid - 40eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	471.352
+CCMSLIB00004683498	Corosolic acid - 50eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	471.351
+CCMSLIB00004683500	Corosolic acid - 30eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	471.353
+CCMSLIB00004683502	Pygenic acid A b - 20eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683504	Pygenic acid A b - 10eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683507	Pygenic acid A b - 50eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683513	Pygenic acid A b - 30eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683515	Pygenic acid A b - 40eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683516	Pygenic acid A a - 10eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683520	Pygenic acid A a - 20eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683521	Pygenic acid A a - 50eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683523	Pygenic acid A a - 30eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683525	Pygenic acid A a - 40eV M-H	C[C@H]1[C@@H]([C@@H]2[C@@](CC[C@@]3(C2=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@H]([C@]5(C)C)O)O)C)C)C)(CC1)C(=O)O)C	0			1+	NA	471.348
+CCMSLIB00004683527	Quercitrin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(cc3oc2c4ccc(c(c4)O)O)O)O)O)O)O	0			1+	NA	445.083
+CCMSLIB00004683528	Quercitrin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(cc3oc2c4ccc(c(c4)O)O)O)O)O)O)O	0			1+	NA	445.1
+CCMSLIB00004683530	Quercitrin - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(cc3oc2c4ccc(c(c4)O)O)O)O)O)O)O	0			1+	NA	445.1
+CCMSLIB00004683535	Quercitrin - 60eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(cc3oc2c4ccc(c(c4)O)O)O)O)O)O)O	0			1+	NA	445.1
+CCMSLIB00004683536	Isoxanthohumol - 10eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	353.144
+CCMSLIB00004683537	Isoxanthohumol - 30eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	353.1
+CCMSLIB00004683538	Isoxanthohumol - 20eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	353.143
+CCMSLIB00004683539	6-Geranylnaringenin - 10eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	407.188
+CCMSLIB00004683540	6-Geranylnaringenin - 20eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	407.188
+CCMSLIB00004683541	6-Geranylnaringenin - 30eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	407.188
+CCMSLIB00004683542	6-Geranylnaringenin - 40eV M-H	CC(=CCc1c(cc(c2c1OC(CC2=O)c3ccc(cc3)O)OC)O)C	0			1+	NA	407.194
+CCMSLIB00004683543	Kaempferide - 20eV M-H	COc1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.059
+CCMSLIB00004683544	Kaempferide - 40eV M-H	COc1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.1
+CCMSLIB00004683545	Kaempferide - 30eV M-H	COc1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.059
+CCMSLIB00004683546	Kaempferide - 10eV M-H	COc1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.059
+CCMSLIB00004683547	Kaempferide - 50eV M-H	COc1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.1
+CCMSLIB00004683548	Isorhoifolin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	577.16
+CCMSLIB00004683549	Isorhoifolin - 70eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	577.21
+CCMSLIB00004683550	Isorhoifolin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	577.2
+CCMSLIB00004683551	Isorhoifolin - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	577.2
+CCMSLIB00004683552	Isorhoifolin - 60eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	577.2
+CCMSLIB00004683553	Tiliroside - 20eV M-H	c1cc(ccc1/C=C/C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O	0			1+	NA	593.135
+CCMSLIB00004683554	Tiliroside - 50eV M-H	c1cc(ccc1/C=C/C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O	0			1+	NA	593.1
+CCMSLIB00004683555	Tiliroside - 40eV M-H	c1cc(ccc1/C=C/C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O	0			1+	NA	593.135
+CCMSLIB00004683556	Luteolin-7,3'-di-O-glucoside - 20eV M-H	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O	0			1+	NA	609.151
+CCMSLIB00004683557	Luteolin-7,3'-di-O-glucoside - 40eV M-H	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O	0			1+	NA	609.14
+CCMSLIB00004683558	Luteolin-7,3'-di-O-glucoside - 60eV M-H	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O	0			1+	NA	609.14
+CCMSLIB00004683559	Luteolin-7,3'-di-O-glucoside - 50eV M-H	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O	0			1+	NA	609.14
+CCMSLIB00004683560	Hederagenin - 40eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O	0			1+	NA	471.357
+CCMSLIB00004683561	7-Hydroxy-4'-methoxyflavone - 30eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683562	7-Hydroxy-4'-methoxyflavone - 50eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.1
+CCMSLIB00004683563	7-Hydroxy-4'-methoxyflavone - 40eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.07
+CCMSLIB00004683564	7-Hydroxy-4'-methoxyflavone - 20eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.067
+CCMSLIB00004683565	Baicalein - 40eV M-H	c1ccc(cc1)c2cc(=O)c3c(o2)cc(c(c3O)O)O	0			1+	NA	269.045
+CCMSLIB00004683566	Baicalein - 20eV M-H	c1ccc(cc1)c2cc(=O)c3c(o2)cc(c(c3O)O)O	0			1+	NA	269.046
+CCMSLIB00004683567	Coumestrol - 20eV M-H	c1cc2c(cc1O)oc3c2c(=O)oc4c3ccc(c4)O	0			1+	NA	267.046
+CCMSLIB00004683568	Coumestrol - 10eV M-H	c1cc2c(cc1O)oc3c2c(=O)oc4c3ccc(c4)O	0			1+	NA	267.046
+CCMSLIB00004683569	Coumestrol - 30eV M-H	c1cc2c(cc1O)oc3c2c(=O)oc4c3ccc(c4)O	0			1+	NA	267.045
+CCMSLIB00004683570	Coumestrol - 40eV M-H	c1cc2c(cc1O)oc3c2c(=O)oc4c3ccc(c4)O	0			1+	NA	266.037
+CCMSLIB00004683571	Coumestrol - 50eV M-H	c1cc2c(cc1O)oc3c2c(=O)oc4c3ccc(c4)O	0			1+	NA	266.038
+CCMSLIB00004683572	Diosmin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(=O)cc(oc4c3)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	607.166
+CCMSLIB00004683573	Diosmin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(=O)cc(oc4c3)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	607.2
+CCMSLIB00004683574	Isoliquiritigenin - 20eV M-H	c1cc(ccc1/C=C/C(=O)c2ccc(cc2O)O)O	0			1+	NA	255.067
+CCMSLIB00004683575	Luteolin-4'-O-glucoside - 20eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(cc3o2)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	447.094
+CCMSLIB00004683576	Protocatechuic aldehyde - 10eV M-H	c1cc(c(cc1C=O)O)O	0			1+	NA	137.024
+CCMSLIB00004683577	Protocatechuic aldehyde - 20eV M-H	c1cc(c(cc1C=O)O)O	0			1+	NA	137.024
+CCMSLIB00004683578	Rhoifolin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	577.155
+CCMSLIB00004683579	Scopoletin - 40eV M-H	COc1cc2ccc(=O)oc2cc1O	0			1+	NA	191.0
+CCMSLIB00004683580	Scopoletin - 10eV M-H	COc1cc2ccc(=O)oc2cc1O	0			1+	NA	191.034
+CCMSLIB00004683581	Scopoletin - 20eV M-H	COc1cc2ccc(=O)oc2cc1O	0			1+	NA	191.038
+CCMSLIB00004683582	Scopoletin - 30eV M-H	COc1cc2ccc(=O)oc2cc1O	0			1+	NA	191.0
+CCMSLIB00004683583	Tricetin - 20eV M-H	c1c(cc(c(c1O)O)O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	301.041
+CCMSLIB00004683584	Tricetin - 40eV M-H	c1c(cc(c(c1O)O)O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	301.04
+CCMSLIB00004683585	Kaempferol-3-O-rutinoside - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O)O)O	0			1+	NA	593.152
+CCMSLIB00004683586	Kaempferol-3-O-rutinoside - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(cc5)O)O)O)O)O)O)O)O)O	0			1+	NA	593.2
+CCMSLIB00004683587	6,7,4'-Trihydroxyisoflavone - 50eV M-H	c1cc(ccc1c2coc3cc(c(cc3c2=O)O)O)O	0			1+	NA	269.1
+CCMSLIB00004683588	6,7,4'-Trihydroxyisoflavone - 60eV M-H	c1cc(ccc1c2coc3cc(c(cc3c2=O)O)O)O	0			1+	NA	269.1
+CCMSLIB00004683589	6,7,4'-Trihydroxyisoflavone - 40eV M-H	c1cc(ccc1c2coc3cc(c(cc3c2=O)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683590	6,8-Dimethyl-4-hydroxycoumarin - 30eV M-H	Cc1cc(c2c(c1)c(cc(=O)o2)O)C	0			1+	NA	189.0
+CCMSLIB00004683591	6,8-Dimethyl-4-hydroxycoumarin - 10eV M-H	Cc1cc(c2c(c1)c(cc(=O)o2)O)C	0			1+	NA	189.056
+CCMSLIB00004683592	6,8-Dimethyl-4-hydroxycoumarin - 20eV M-H	Cc1cc(c2c(c1)c(cc(=O)o2)O)C	0			1+	NA	189.056
+CCMSLIB00004683593	6,8-Dimethyl-4-hydroxycoumarin - 40eV M-H	Cc1cc(c2c(c1)c(cc(=O)o2)O)C	0			1+	NA	189.0
+CCMSLIB00004683594	6-Methoxyluteolin - 40eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(c(c3)O)O)O	0			1+	NA	315.1
+CCMSLIB00004683595	6-Methoxyluteolin - 20eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(c(c3)O)O)O	0			1+	NA	315.051
+CCMSLIB00004683596	6-Methoxyluteolin - 50eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(c(c3)O)O)O	0			1+	NA	315.1
+CCMSLIB00004683597	7,3',4',5'-Tetrahydroxyflavone - 30eV M-H	c1cc2c(=O)cc(oc2cc1O)c3cc(c(c(c3)O)O)O	0			1+	NA	285.041
+CCMSLIB00004683598	7,4'-Dimethoxy-3-hydroxyflavone - 10eV M-H	COc1ccc(cc1)c2c(c(=O)c3ccc(cc3o2)OC)O	0			1+	NA	297.08
+CCMSLIB00004683599	7,4'-Dimethoxy-3-hydroxyflavone - 20eV M-H	COc1ccc(cc1)c2c(c(=O)c3ccc(cc3o2)OC)O	0			1+	NA	297.1
+CCMSLIB00004683600	7,4'-Dimethoxy-3-hydroxyflavone - 30eV M-H	COc1ccc(cc1)c2c(c(=O)c3ccc(cc3o2)OC)O	0			1+	NA	297.1
+CCMSLIB00004683601	7,4'-Dimethoxy-3-hydroxyflavone - 40eV M-H	COc1ccc(cc1)c2c(c(=O)c3ccc(cc3o2)OC)O	0			1+	NA	297.1
+CCMSLIB00004683602	7,4'-Dimethoxy-3-hydroxyflavone - 50eV M-H	COc1ccc(cc1)c2c(c(=O)c3ccc(cc3o2)OC)O	0			1+	NA	297.1
+CCMSLIB00004683603	Vitexin - 60eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	431.1
+CCMSLIB00004683604	Vitexin - 70eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	431.1
+CCMSLIB00004683605	Vitexin - 20eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	431.097
+CCMSLIB00004683606	Vitexin - 40eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	431.1
+CCMSLIB00004683607	Vitexin - 50eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	431.1
+CCMSLIB00004683608	Spiraeoside - 20eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	463.089
+CCMSLIB00004683609	Spiraeoside - 40eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	463.089
+CCMSLIB00004683610	Spiraeoside - 50eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	463.1
+CCMSLIB00004683611	Spiraeoside - 60eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	463.1
+CCMSLIB00004683612	Sissotrin - 30eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	283.06
+CCMSLIB00004683613	Sissotrin - 20eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	491.12
+CCMSLIB00004683614	Sissotrin - 20eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	445.12
+CCMSLIB00004683615	Sissotrin - 10eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	445.119
+CCMSLIB00004683616	Sissotrin - 10eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	283.062
+CCMSLIB00004683617	Sissotrin - 30eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	491.12
+CCMSLIB00004683618	Sissotrin - 50eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	445.12
+CCMSLIB00004683619	Sissotrin - 30eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	445.12
+CCMSLIB00004683620	Sissotrin - 40eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	445.12
+CCMSLIB00004683621	Sissotrin - 50eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	283.06
+CCMSLIB00004683622	Sissotrin - 40eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	283.06
+CCMSLIB00004683623	Sissotrin - 50eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	491.12
+CCMSLIB00004683624	Sissotrin - 20eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	283.062
+CCMSLIB00004683625	Sissotrin - 10eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	491.119
+CCMSLIB00004683626	Sissotrin - 40eV M-H	COc1ccc(cc1)c2coc3cc(cc(c3c2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	491.12
+CCMSLIB00004683627	Puerarin - 10eV M-H	c1cc(ccc1c2coc3c(c2=O)ccc(c3[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	415.103
+CCMSLIB00004683628	Puerarin - 30eV M-H	c1cc(ccc1c2coc3c(c2=O)ccc(c3[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	415.102
+CCMSLIB00004683629	Puerarin - 40eV M-H	c1cc(ccc1c2coc3c(c2=O)ccc(c3[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	415.0
+CCMSLIB00004683630	Puerarin - 20eV M-H	c1cc(ccc1c2coc3c(c2=O)ccc(c3[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	415.103
+CCMSLIB00004683631	Morin - 20eV M-H	c1cc(c(cc1O)O)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.021
+CCMSLIB00004683632	Morin - 40eV M-H	c1cc(c(cc1O)O)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	299.0
+CCMSLIB00004683633	Chrysoeriol - 20eV M-H	COc1cc(ccc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.055
+CCMSLIB00004683634	Chrysoeriol - 40eV M-H	COc1cc(ccc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.1
+CCMSLIB00004683635	Chrysoeriol - 50eV M-H	COc1cc(ccc1O)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	299.1
+CCMSLIB00004683636	Demethyl medicarpin - 20eV M-H	c1cc2c(cc1O)O[C@@H]3[C@H]2COc4c3ccc(c4)O	0			1+	NA	255.066
+CCMSLIB00004683637	Demethyl medicarpin - 10eV M-H	c1cc2c(cc1O)O[C@@H]3[C@H]2COc4c3ccc(c4)O	0			1+	NA	255.067
+CCMSLIB00004683638	Demethyl medicarpin - 6eV M-H	c1cc2c(cc1O)O[C@@H]3[C@H]2COc4c3ccc(c4)O	0			1+	NA	255.066
+CCMSLIB00004683639	Fisetin - 20eV M-H	c1cc(c(cc1c2c(c(=O)c3ccc(cc3o2)O)O)O)O	0			1+	NA	285.035
+CCMSLIB00004683640	Fisetin - 40eV M-H	c1cc(c(cc1c2c(c(=O)c3ccc(cc3o2)O)O)O)O	0			1+	NA	285.0
+CCMSLIB00004683641	Formononetin - 50eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O	0			1+	NA	267.1
+CCMSLIB00004683642	Formononetin - 30eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O	0			1+	NA	267.066
+CCMSLIB00004683643	Formononetin - 10eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O	0			1+	NA	267.067
+CCMSLIB00004683644	Formononetin - 40eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O	0			1+	NA	267.1
+CCMSLIB00004683645	Formononetin - 20eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O	0			1+	NA	267.067
+CCMSLIB00004683646	Kaempferol - 40eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O	0			1+	NA	285.042
+CCMSLIB00004683647	Kaempferol - 50eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O	0			1+	NA	285.0
+CCMSLIB00004683648	Kaempferol - 20eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O	0			1+	NA	285.041
+CCMSLIB00004683649	Liquiritigenin - 20eV M-H	c1cc(ccc1[C@@H]2CC(=O)c3ccc(cc3O2)O)O	0			1+	NA	255.068
+CCMSLIB00004683650	Naringenin-7-O-glucoside - 20eV M-H	c1cc(ccc1[C@@H]2CC(=O)c3c(cc(cc3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	433.1
+CCMSLIB00004683651	Naringenin-7-O-glucoside - 40eV M-H	c1cc(ccc1[C@@H]2CC(=O)c3c(cc(cc3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	433.1
+CCMSLIB00004683652	Orientin - 10eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O	0			1+	NA	445.08
+CCMSLIB00004683653	Orientin - 20eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O	0			1+	NA	445.079
+CCMSLIB00004683654	Orientin - 30eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O	0			1+	NA	445.078
+CCMSLIB00004683655	Orientin - 40eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O	0			1+	NA	447.2
+CCMSLIB00004683656	Orientin - 50eV M-H	c1cc(c(cc1c2cc(=O)c3c(cc(c(c3o2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O	0			1+	NA	447.2
+CCMSLIB00004683657	Myricetin - 10eV M-H	c1c(cc(c(c1O)O)O)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	315.012
+CCMSLIB00004683658	Myricetin - 20eV M-H	c1c(cc(c(c1O)O)O)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	315.013
+CCMSLIB00004683659	Naringin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	579.174
+CCMSLIB00004683660	Naringin - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	579.175
+CCMSLIB00004683661	Naringin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	579.175
+CCMSLIB00004683662	Naringin - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	579.175
+CCMSLIB00004683663	Naringin - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	579.172
+CCMSLIB00004683664	Quercetin - 10eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	271.062
+CCMSLIB00004683665	Quercetin - 20eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	301.035
+CCMSLIB00004683666	Quercetin - 30eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	299.021
+CCMSLIB00004683667	Quercetin - 20eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	271.061
+CCMSLIB00004683668	Quercetin - 40eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	271.1
+CCMSLIB00004683669	Quercetin - 50eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	271.1
+CCMSLIB00004683670	Quercetin - 30eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	271.1
+CCMSLIB00004683671	Quercetin - 10eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	301.036
+CCMSLIB00004683672	Quercetin - 40eV M-H	c1cc(c(cc1c2c(c(=O)c3c(cc(cc3o2)O)O)O)O)O	0			1+	NA	301.0
+CCMSLIB00004683673	Umbelliferone - 20eV M-H	c1cc(cc2c1ccc(=O)o2)O	0			1+	NA	161.025
+CCMSLIB00004683674	Umbelliferone - 30eV M-H	c1cc(cc2c1ccc(=O)o2)O	0			1+	NA	161.024
+CCMSLIB00004683675	Umbelliferone - 10eV M-H	c1cc(cc2c1ccc(=O)o2)O	0			1+	NA	161.025
+CCMSLIB00004683676	3-Rha-Ara-GlcUA-Soyasapogenol B - 10eV M-H	N/A	0			1+	NA	911.459
+CCMSLIB00004683677	3-Rha-Ara-GlcUA-Soyasapogenol B - 20eV M-H	N/A	0			1+	NA	911.459
+CCMSLIB00004683678	3-Rha-Ara-GlcUA-Soyasapogenol B - 30eV M-H	N/A	0			1+	NA	911.459
+CCMSLIB00004683679	3-Rha-Ara-GlcUA-Soyasapogenol B - 40eV M-H	N/A	0			1+	NA	911.459
+CCMSLIB00004683680	3-Rha-Ara-GlcUA-Soyasapogenol B - 50eV M-H	N/A	0			1+	NA	911.459
+CCMSLIB00004683681	3-Glc-Gal-GlcUA-Soyasapogenol B - 40eV M-H	N/A	0			1+	NA	957.525
+CCMSLIB00004683682	3-Glc-Gal-GlcUA-Soyasapogenol B - 20eV M-H	N/A	0			1+	NA	957.526
+CCMSLIB00004683683	3-Glc-Gal-GlcUA-Soyasapogenol B - 10eV M-H	N/A	0			1+	NA	957.521
+CCMSLIB00004683684	3-Glc-Gal-GlcUA-Soyasapogenol B - 50eV M-H	N/A	0			1+	NA	957.526
+CCMSLIB00004683685	3-Glc-Gal-GlcUA-Soyasapogenol B - 30eV M-H	N/A	0			1+	NA	957.528
+CCMSLIB00004683686	7-Hydroxy-2'-methoxyflavone - 10eV M-H	COc1ccccc1c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.062
+CCMSLIB00004683687	7-Hydroxy-2'-methoxyflavone - 30eV M-H	COc1ccccc1c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.061
+CCMSLIB00004683688	7-Hydroxy-2'-methoxyflavone - 20eV M-H	COc1ccccc1c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.062
+CCMSLIB00004683689	7-Hydroxy-2'-methoxyflavone - 50eV M-H	COc1ccccc1c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.07
+CCMSLIB00004683690	7-Hydroxy-2'-methoxyflavone - 40eV M-H	COc1ccccc1c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.061
+CCMSLIB00004683691	Epicatechin - 20eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)O)O)O	0			1+	NA	289.072
+CCMSLIB00004683692	Epicatechin - 10eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)O)O)O	0			1+	NA	289.072
+CCMSLIB00004683693	3,7,3',4',5'-Pentahydroxyflavone (Robinetin) - 10eV M-H	c1cc2c(cc1O)oc(c(c2=O)O)c3cc(c(c(c3)O)O)O	0			1+	NA	301.037
+CCMSLIB00004683694	3,7,3',4',5'-Pentahydroxyflavone (Robinetin) - 40eV M-H	c1cc2c(cc1O)oc(c(c2=O)O)c3cc(c(c(c3)O)O)O	0			1+	NA	301.03
+CCMSLIB00004683695	3,7,3',4',5'-Pentahydroxyflavone (Robinetin) - 20eV M-H	c1cc2c(cc1O)oc(c(c2=O)O)c3cc(c(c(c3)O)O)O	0			1+	NA	301.037
+CCMSLIB00004683696	3,7,3',4',5'-Pentahydroxyflavone (Robinetin) - 30eV M-H	c1cc2c(cc1O)oc(c(c2=O)O)c3cc(c(c(c3)O)O)O	0			1+	NA	301.03
+CCMSLIB00004683697	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 50eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	297.0
+CCMSLIB00004683698	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 40eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	297.0
+CCMSLIB00004683699	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 10eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	505.14
+CCMSLIB00004683700	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 20eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	297.074
+CCMSLIB00004683701	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 30eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	297.073
+CCMSLIB00004683702	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 50eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	505.14
+CCMSLIB00004683703	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 30eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	505.14
+CCMSLIB00004683704	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 10eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	297.075
+CCMSLIB00004683705	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 40eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	505.14
+CCMSLIB00004683706	6,4'-Dimethoxyisoflavone-7-glucoside (Wistin) - 20eV M-H	COC1=CC=C(C=C1)C2=COC3=CC(=C(C=C3C2=O)OC)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	505.141
+CCMSLIB00004683707	3,6,3',4'-Tetrahydroxyflavone - 40eV M-H	c1cc(c(cc1c2c(c(=O)c3cc(ccc3o2)O)O)O)O	0			1+	NA	285.04
+CCMSLIB00004683708	3,6,3',4'-Tetrahydroxyflavone - 10eV M-H	c1cc(c(cc1c2c(c(=O)c3cc(ccc3o2)O)O)O)O	0			1+	NA	285.041
+CCMSLIB00004683709	3,6,3',4'-Tetrahydroxyflavone - 20eV M-H	c1cc(c(cc1c2c(c(=O)c3cc(ccc3o2)O)O)O)O	0			1+	NA	285.041
+CCMSLIB00004683710	3,6,3',4'-Tetrahydroxyflavone - 30eV M-H	c1cc(c(cc1c2c(c(=O)c3cc(ccc3o2)O)O)O)O	0			1+	NA	285.039
+CCMSLIB00004683711	3,6,2',3'-Tetrahydroxyflavone - 10eV M-H	c1cc(c(c(c1)O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.041
+CCMSLIB00004683712	3,6,2',3'-Tetrahydroxyflavone - 20eV M-H	c1cc(c(c(c1)O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.041
+CCMSLIB00004683713	3,6,2',3'-Tetrahydroxyflavone - 30eV M-H	c1cc(c(c(c1)O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.04
+CCMSLIB00004683714	3,6,2',3'-Tetrahydroxyflavone - 40eV M-H	c1cc(c(c(c1)O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.04
+CCMSLIB00004683715	Isobavachin - 10eV M-H	CC(=CCc1c(ccc2c1O[C@@H](CC2=O)c3ccc(cc3)O)O)C	0			1+	NA	323.13
+CCMSLIB00004683716	Isobavachin - 30eV M-H	CC(=CCc1c(ccc2c1O[C@@H](CC2=O)c3ccc(cc3)O)O)C	0			1+	NA	323.129
+CCMSLIB00004683717	Isobavachin - 40eV M-H	CC(=CCc1c(ccc2c1O[C@@H](CC2=O)c3ccc(cc3)O)O)C	0			1+	NA	323.13
+CCMSLIB00004683718	Isobavachin - 20eV M-H	CC(=CCc1c(ccc2c1O[C@@H](CC2=O)c3ccc(cc3)O)O)C	0			1+	NA	323.13
+CCMSLIB00004683719	Eriodictyol - 10eV M-H	c1cc(c(cc1[C@@H]2CC(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	285.039
+CCMSLIB00004683720	Eriodictyol - 20eV M-H	c1cc(c(cc1[C@@H]2CC(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	285.039
+CCMSLIB00004683721	Eriodictyol - 30eV M-H	c1cc(c(cc1[C@@H]2CC(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	285.039
+CCMSLIB00004683722	Eriodictyol - 40eV M-H	c1cc(c(cc1[C@@H]2CC(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	285.04
+CCMSLIB00004683723	Hesperetin - 20eV M-H	COc1ccc(cc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.072
+CCMSLIB00004683724	Hesperetin - 40eV M-H	COc1ccc(cc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.07
+CCMSLIB00004683725	Hesperetin - 10eV M-H	COc1ccc(cc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.072
+CCMSLIB00004683726	Hesperetin - 30eV M-H	COc1ccc(cc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.073
+CCMSLIB00004683727	Kaempferol-3-O-glucoside - 10eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	447.093
+CCMSLIB00004683728	Kaempferol-3-O-glucoside - 20eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	447.093
+CCMSLIB00004683729	Kaempferol-3-O-glucoside - 30eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	447.094
+CCMSLIB00004683730	Kaempferol-3-O-glucoside - 40eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	447.091
+CCMSLIB00004683731	Kaempferol-3-O-glucoside - 50eV M-H	c1cc(ccc1c2c(c(=O)c3c(cc(cc3o2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	447.09
+CCMSLIB00004683732	Formononetin-7-O-glucoside (Ononin) - 10eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	475.124
+CCMSLIB00004683733	Formononetin-7-O-glucoside (Ononin) - 40eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	475.12
+CCMSLIB00004683734	Formononetin-7-O-glucoside (Ononin) - 20eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	475.121
+CCMSLIB00004683735	Formononetin-7-O-glucoside (Ononin) - 50eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	475.12
+CCMSLIB00004683736	Formononetin-7-O-glucoside (Ononin) - 30eV M-H	COc1ccc(cc1)c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O	0			1+	NA	475.12
+CCMSLIB00004683737	6,7,3',4'-Tetrahydroxyflavanone - 10eV M-H	N/A	0			1+	NA	287.056
+CCMSLIB00004683738	6,7,3',4'-Tetrahydroxyflavanone - 20eV M-H	N/A	0			1+	NA	287.057
+CCMSLIB00004683739	6,7,3',4'-Tetrahydroxyflavanone - 30eV M-H	N/A	0			1+	NA	287.08
+CCMSLIB00004683740	5,7-Dihydroxy-2'-methoxyflavone - 50eV M-H	COc1ccccc1c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	283.06
+CCMSLIB00004683741	5,7-Dihydroxy-2'-methoxyflavone - 40eV M-H	COc1ccccc1c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	283.06
+CCMSLIB00004683742	5,7-Dihydroxy-2'-methoxyflavone - 20eV M-H	COc1ccccc1c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	283.062
+CCMSLIB00004683743	5,7-Dihydroxy-2'-methoxyflavone - 30eV M-H	COc1ccccc1c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	283.061
+CCMSLIB00004683744	7,4'-Dimethoxy-5-hydroxyflavanone - 20eV M-H	COc1ccc(cc1)C2CC(=O)c3c(cc(cc3O2)OC)O	0			1+	NA	299.092
+CCMSLIB00004683745	7,4'-Dimethoxy-5-hydroxyflavanone - 40eV M-H	COc1ccc(cc1)C2CC(=O)c3c(cc(cc3O2)OC)O	0			1+	NA	299.09
+CCMSLIB00004683746	7,4'-Dimethoxy-5-hydroxyflavanone - 30eV M-H	COc1ccc(cc1)C2CC(=O)c3c(cc(cc3O2)OC)O	0			1+	NA	299.093
+CCMSLIB00004683747	Corymbosin - 20eV M-H	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C(=C3)OC)OC)OC)O	0			1+	NA	357.095
+CCMSLIB00004683748	Corymbosin - 10eV M-H	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C(=C3)OC)OC)OC)O	0			1+	NA	357.095
+CCMSLIB00004683749	Corymbosin - 50eV M-H	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C(=C3)OC)OC)OC)O	0			1+	NA	357.0
+CCMSLIB00004683750	Corymbosin - 40eV M-H	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C(=C3)OC)OC)OC)O	0			1+	NA	357.0
+CCMSLIB00004683751	Corymbosin - 30eV M-H	COC1=CC(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C(=C3)OC)OC)OC)O	0			1+	NA	357.092
+CCMSLIB00004683752	Eriodictyol-7-neohesperidoside - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O	0			1+	NA	595.17
+CCMSLIB00004683753	Eriodictyol-7-neohesperidoside - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O	0			1+	NA	595.168
+CCMSLIB00004683754	Eriodictyol-7-neohesperidoside - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O	0			1+	NA	595.169
+CCMSLIB00004683755	Eriodictyol-7-neohesperidoside - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O	0			1+	NA	595.169
+CCMSLIB00004683756	Eriodictyol-7-neohesperidoside - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)O)O)CO)O)O)O)O)O	0			1+	NA	595.168
+CCMSLIB00004683757	Farrerol - 10eV M-H	Cc1c(c(c2c(c1O)C(=O)CC(O2)c3ccc(cc3)O)C)O	0			1+	NA	299.093
+CCMSLIB00004683758	Farrerol - 20eV M-H	Cc1c(c(c2c(c1O)C(=O)CC(O2)c3ccc(cc3)O)C)O	0			1+	NA	299.093
+CCMSLIB00004683759	Farrerol - 40eV M-H	Cc1c(c(c2c(c1O)C(=O)CC(O2)c3ccc(cc3)O)C)O	0			1+	NA	299.09
+CCMSLIB00004683760	Farrerol - 30eV M-H	Cc1c(c(c2c(c1O)C(=O)CC(O2)c3ccc(cc3)O)C)O	0			1+	NA	299.093
+CCMSLIB00004683761	3',4'-Dihydroxyflavone - 50eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3ccc(c(c3)O)O	0			1+	NA	253.05
+CCMSLIB00004683762	3',4'-Dihydroxyflavone - 40eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3ccc(c(c3)O)O	0			1+	NA	253.05
+CCMSLIB00004683763	3',4'-Dihydroxyflavone - 30eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3ccc(c(c3)O)O	0			1+	NA	253.051
+CCMSLIB00004683764	3',4'-Dihydroxyflavone - 20eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3ccc(c(c3)O)O	0			1+	NA	253.051
+CCMSLIB00004683765	5-Hydroxy-3',4'-dimethoxyflavanone - 20eV M-H	N/A	0			1+	NA	299.091
+CCMSLIB00004683766	5-Hydroxy-3',4'-dimethoxyflavanone - 30eV M-H	N/A	0			1+	NA	299.09
+CCMSLIB00004683767	5,6-Dihydroxy-3',4'-dimethoxyflavanone - 10eV M-H	N/A	0			1+	NA	315.085
+CCMSLIB00004683768	5,6-Dihydroxy-3',4'-dimethoxyflavanone - 20eV M-H	N/A	0			1+	NA	315.087
+CCMSLIB00004683769	5,7-Dihydroxy-3',4'-dimethoxyflavanone - 30eV M-H	N/A	0			1+	NA	315.087
+CCMSLIB00004683770	5,7-Dihydroxy-3',4'-dimethoxyflavanone - 40eV M-H	N/A	0			1+	NA	315.09
+CCMSLIB00004683771	Aspalathin - 20eV M-H	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3ccc(O)c(O)c3	0			1+	NA	451.126
+CCMSLIB00004683772	Aspalathin - 30eV M-H	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3ccc(O)c(O)c3	0			1+	NA	451.122
+CCMSLIB00004683773	Aspalathin - 10eV M-H	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3ccc(O)c(O)c3	0			1+	NA	451.127
+CCMSLIB00004683774	Aspalathin - 40eV M-H	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3ccc(O)c(O)c3	0			1+	NA	451.13
+CCMSLIB00004683775	Aspalathin - 50eV M-H	O=C(c1c(O)c(c(O)cc1O)[C@@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)CO)CCc3ccc(O)c(O)c3	0			1+	NA	451.13
+CCMSLIB00004683776	Tectochrysin (5-hydroxy-7-methoxyflavone) - 10eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccccc3)O	0			1+	NA	267.066
+CCMSLIB00004683777	Tectochrysin (5-hydroxy-7-methoxyflavone) - 30eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccccc3)O	0			1+	NA	267.0
+CCMSLIB00004683778	Tectochrysin (5-hydroxy-7-methoxyflavone) - 20eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccccc3)O	0			1+	NA	267.064
+CCMSLIB00004683779	Isosakuranetin - 20eV M-H	COc1ccc(cc1)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	285.078
+CCMSLIB00004683780	Isosakuranetin - 30eV M-H	COc1ccc(cc1)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	285.078
+CCMSLIB00004683781	Isosakuranetin - 10eV M-H	COc1ccc(cc1)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	285.078
+CCMSLIB00004683782	Isosakuranetin - 50eV M-H	COc1ccc(cc1)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	285.0
+CCMSLIB00004683783	Isosakuranetin - 40eV M-H	COc1ccc(cc1)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	285.0
+CCMSLIB00004683784	Sakuranetin - 30eV M-H	COc1cc(c2c(c1)OC(CC2=O)c3ccc(cc3)O)O	0			1+	NA	285.0
+CCMSLIB00004683785	Sakuranetin - 10eV M-H	COc1cc(c2c(c1)OC(CC2=O)c3ccc(cc3)O)O	0			1+	NA	285.077
+CCMSLIB00004683786	Sakuranetin - 20eV M-H	COc1cc(c2c(c1)OC(CC2=O)c3ccc(cc3)O)O	0			1+	NA	285.077
+CCMSLIB00004683787	Sakuranetin - 40eV M-H	COc1cc(c2c(c1)OC(CC2=O)c3ccc(cc3)O)O	0			1+	NA	285.0
+CCMSLIB00004683788	Scutellarein-7-glucuronide - 20eV M-H	COc1cc(c2c(c1)O[C@@H](CC2=O)c3ccc(cc3)O)O	0			1+	NA	461.0
+CCMSLIB00004683789	Scutellarein-7-glucuronide - 40eV M-H	COc1cc(c2c(c1)O[C@@H](CC2=O)c3ccc(cc3)O)O	0			1+	NA	461.0
+CCMSLIB00004683790	Scutellarein-7-glucuronide - 10eV M-H	COc1cc(c2c(c1)O[C@@H](CC2=O)c3ccc(cc3)O)O	0			1+	NA	461.072
+CCMSLIB00004683791	Scutellarein-7-glucuronide - 30eV M-H	COc1cc(c2c(c1)O[C@@H](CC2=O)c3ccc(cc3)O)O	0			1+	NA	461.0
+CCMSLIB00004683792	5,8-Dihydroxyflavanone - 20eV M-H	N/A	0			1+	NA	255.064
+CCMSLIB00004683793	6-Hydroxyflavanone - 20eV M-H	c1ccc(cc1)C2CC(=O)c3cc(ccc3O2)O	0			1+	NA	239.069
+CCMSLIB00004683794	6-Hydroxyflavanone - 10eV M-H	c1ccc(cc1)C2CC(=O)c3cc(ccc3O2)O	0			1+	NA	239.071
+CCMSLIB00004683795	3',4'-Dimethoxy-7-hydroxyflavanone - 10eV M-H	N/A	0			1+	NA	311.095
+CCMSLIB00004683796	3',4'-Dimethoxy-7-hydroxyflavanone - 20eV M-H	N/A	0			1+	NA	311.095
+CCMSLIB00004683797	3',4'-Dimethoxy-7-hydroxyflavanone - 40eV M-H	N/A	0			1+	NA	311.1
+CCMSLIB00004683798	3',4'-Dimethoxy-7-hydroxyflavanone - 30eV M-H	N/A	0			1+	NA	311.095
+CCMSLIB00004683799	3',4'-Dimethoxy-7-hydroxyflavanone - 50eV M-H	N/A	0			1+	NA	311.1
+CCMSLIB00004683800	7-Hydroxy-3'-methoxyflavone - 20eV M-H	COc1cccc(c1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.067
+CCMSLIB00004683801	7-Hydroxy-3'-methoxyflavone - 40eV M-H	COc1cccc(c1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.07
+CCMSLIB00004683802	7-Hydroxy-3'-methoxyflavone - 30eV M-H	COc1cccc(c1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683803	8-Hydroxy-5-methoxyflavanone - 10eV M-H	N/A	0			1+	NA	269.082
+CCMSLIB00004683804	8-Hydroxy-5-methoxyflavanone - 20eV M-H	N/A	0			1+	NA	269.084
+CCMSLIB00004683805	5,3',4'-Trihydroxyflavone - 40eV M-H	N/A	0			1+	NA	269.046
+CCMSLIB00004683806	5,3',4'-Trihydroxyflavone - 30eV M-H	N/A	0			1+	NA	269.046
+CCMSLIB00004683807	Artocaprin - 10eV M-H	CC(C)/C=C/c1c(cc2c(c1O)c(=O)c(c(o2)c3ccc(cc3O)O)CC=C(C)C)OC	0			1+	NA	435.183
+CCMSLIB00004683808	Artocaprin - 30eV M-H	CC(C)/C=C/c1c(cc2c(c1O)c(=O)c(c(o2)c3ccc(cc3O)O)CC=C(C)C)OC	0			1+	NA	435.181
+CCMSLIB00004683809	Artocaprin - 50eV M-H	CC(C)/C=C/c1c(cc2c(c1O)c(=O)c(c(o2)c3ccc(cc3O)O)CC=C(C)C)OC	0			1+	NA	435.18
+CCMSLIB00004683810	Artocaprin - 20eV M-H	CC(C)/C=C/c1c(cc2c(c1O)c(=O)c(c(o2)c3ccc(cc3O)O)CC=C(C)C)OC	0			1+	NA	435.182
+CCMSLIB00004683811	Artocaprin - 40eV M-H	CC(C)/C=C/c1c(cc2c(c1O)c(=O)c(c(o2)c3ccc(cc3O)O)CC=C(C)C)OC	0			1+	NA	435.18
+CCMSLIB00004683812	Eupatilin - 20eV M-H	COc1ccc(cc1OC)c2cc(=O)c3c(o2)cc(c(c3O)OC)O	0			1+	NA	343.082
+CCMSLIB00004683813	Eupatilin - 50eV M-H	COc1ccc(cc1OC)c2cc(=O)c3c(o2)cc(c(c3O)OC)O	0			1+	NA	343.08
+CCMSLIB00004683814	Eupatilin - 30eV M-H	COc1ccc(cc1OC)c2cc(=O)c3c(o2)cc(c(c3O)OC)O	0			1+	NA	343.08
+CCMSLIB00004683815	Eupatilin - 40eV M-H	COc1ccc(cc1OC)c2cc(=O)c3c(o2)cc(c(c3O)OC)O	0			1+	NA	343.08
+CCMSLIB00004683816	Eupatilin - 10eV M-H	COc1ccc(cc1OC)c2cc(=O)c3c(o2)cc(c(c3O)OC)O	0			1+	NA	343.084
+CCMSLIB00004683817	Gardenin A - 10eV M-H	COc1cc(cc(c1OC)OC)c2cc(=O)c3c(c(c(c(c3o2)OC)OC)OC)O	0			1+	NA	313.071
+CCMSLIB00004683818	Gardenin A - 20eV M-H	COc1cc(cc(c1OC)OC)c2cc(=O)c3c(c(c(c(c3o2)OC)OC)OC)O	0			1+	NA	313.07
+CCMSLIB00004683819	Gardenin A - 40eV M-H	COc1cc(cc(c1OC)OC)c2cc(=O)c3c(c(c(c(c3o2)OC)OC)OC)O	0			1+	NA	315.09
+CCMSLIB00004683820	Gardenin A - 30eV M-H	COc1cc(cc(c1OC)OC)c2cc(=O)c3c(c(c(c(c3o2)OC)OC)OC)O	0			1+	NA	315.09
+CCMSLIB00004683821	Hispidulin - 10eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(cc3)O)O	0			1+	NA	299.056
+CCMSLIB00004683822	Hispidulin - 20eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(cc3)O)O	0			1+	NA	299.056
+CCMSLIB00004683823	Hispidulin - 40eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(cc3)O)O	0			1+	NA	299.05
+CCMSLIB00004683824	Hispidulin - 30eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(cc3)O)O	0			1+	NA	299.057
+CCMSLIB00004683825	Hispidulin - 50eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccc(cc3)O)O	0			1+	NA	299.05
+CCMSLIB00004683826	Isosakuranin - 10eV M-H	N/A	0			1+	NA	285.077
+CCMSLIB00004683827	Isosakuranin - 10eV M-H	N/A	0			1+	NA	283.06
+CCMSLIB00004683828	Isosakuranin - 50eV M-H	N/A	0			1+	NA	285.08
+CCMSLIB00004683829	Isosakuranin - 40eV M-H	N/A	0			1+	NA	283.06
+CCMSLIB00004683830	Isosakuranin - 20eV M-H	N/A	0			1+	NA	283.06
+CCMSLIB00004683831	Isosakuranin - 30eV M-H	N/A	0			1+	NA	283.06
+CCMSLIB00004683832	Isosakuranin - 20eV M-H	N/A	0			1+	NA	285.077
+CCMSLIB00004683833	Isosakuranin - 10eV M-H	N/A	0			1+	NA	493.138
+CCMSLIB00004683834	Isosakuranin - 30eV M-H	N/A	0			1+	NA	447.132
+CCMSLIB00004683835	Isosakuranin - 50eV M-H	N/A	0			1+	NA	493.1
+CCMSLIB00004683836	Isosakuranin - 20eV M-H	N/A	0			1+	NA	447.133
+CCMSLIB00004683837	Isosakuranin - 40eV M-H	N/A	0			1+	NA	493.1
+CCMSLIB00004683838	Isosakuranin - 30eV M-H	N/A	0			1+	NA	285.076
+CCMSLIB00004683839	Isosakuranin - 20eV M-H	N/A	0			1+	NA	493.1
+CCMSLIB00004683840	Isosakuranin - 30eV M-H	N/A	0			1+	NA	493.1
+CCMSLIB00004683841	Isosakuranin - 40eV M-H	N/A	0			1+	NA	285.075
+CCMSLIB00004683842	Isosakuranin - 10eV M-H	N/A	0			1+	NA	447.134
+CCMSLIB00004683843	Isosakuranin - 50eV M-H	N/A	0			1+	NA	447.1
+CCMSLIB00004683844	Isosakuranin - 40eV M-H	N/A	0			1+	NA	447.1
+CCMSLIB00004683845	Nevadensin - 10eV M-H	COc1ccc(cc1)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	343.084
+CCMSLIB00004683846	Nevadensin - 20eV M-H	COc1ccc(cc1)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	343.083
+CCMSLIB00004683847	Nevadensin - 30eV M-H	COc1ccc(cc1)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	343.083
+CCMSLIB00004683848	Nevadensin - 40eV M-H	COc1ccc(cc1)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	343.08
+CCMSLIB00004683849	Nevadensin - 50eV M-H	COc1ccc(cc1)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	343.08
+CCMSLIB00004683850	Pratol - 20eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683851	Pratol - 10eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683852	Pratol - 40eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.07
+CCMSLIB00004683853	Pratol - 30eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683854	Pratol - 6eV M-H	COc1ccc(cc1)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	267.066
+CCMSLIB00004683855	Neohesperidin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)CO)O)O)O)O)O	0			1+	NA	609.18
+CCMSLIB00004683856	Neohesperidin - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)CO)O)O)O)O)O	0			1+	NA	609.179
+CCMSLIB00004683857	Neohesperidin - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)CO)O)O)O)O)O	0			1+	NA	609.18
+CCMSLIB00004683858	Neohesperidin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)CO)O)O)O)O)O	0			1+	NA	609.18
+CCMSLIB00004683859	Neohesperidin dihydrochalcone - 6eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c(c(c3)O)C(=O)CCc4ccc(c(c4)O)OC)O)CO)O)O)O)O)O	0			1+	NA	611.209
+CCMSLIB00004683860	Neohesperidin dihydrochalcone - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c(c(c3)O)C(=O)CCc4ccc(c(c4)O)OC)O)CO)O)O)O)O)O	0			1+	NA	611.209
+CCMSLIB00004683861	Neohesperidin dihydrochalcone - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c(c(c3)O)C(=O)CCc4ccc(c(c4)O)OC)O)CO)O)O)O)O)O	0			1+	NA	611.208
+CCMSLIB00004683862	Scutellarein - 30eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)O)O)O	0			1+	NA	283.0
+CCMSLIB00004683863	Scutellarein - 6eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)O)O)O	0			1+	NA	283.026
+CCMSLIB00004683864	Scutellarein - 20eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)O)O)O	0			1+	NA	283.026
+CCMSLIB00004683865	Scutellarein - 10eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)O)O)O	0			1+	NA	283.026
+CCMSLIB00004683866	Saponarin - 20eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	0			1+	NA	593.149
+CCMSLIB00004683867	Saponarin - 10eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	0			1+	NA	593.149
+CCMSLIB00004683868	Saponarin - 30eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	0			1+	NA	593.149
+CCMSLIB00004683869	Saponarin - 40eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	0			1+	NA	593.149
+CCMSLIB00004683870	Saponarin - 50eV M-H	c1cc(ccc1c2cc(=O)c3c(o2)cc(c(c3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	0			1+	NA	593.149
+CCMSLIB00004683871	Scaposin - 10eV M-H	COc1cc(cc(c1OC)O)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	389.087
+CCMSLIB00004683872	Scaposin - 50eV M-H	COc1cc(cc(c1OC)O)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	389.1
+CCMSLIB00004683873	Scaposin - 40eV M-H	COc1cc(cc(c1OC)O)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	389.1
+CCMSLIB00004683874	Scaposin - 30eV M-H	COc1cc(cc(c1OC)O)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	389.091
+CCMSLIB00004683875	Scaposin - 20eV M-H	COc1cc(cc(c1OC)O)c2cc(=O)c3c(c(c(c(c3o2)OC)O)OC)O	0			1+	NA	389.087
+CCMSLIB00004683876	Sorbifolin - 10eV M-H	COc1cc2c(c(=O)cc(o2)c3ccc(cc3)O)c(c1O)O	0			1+	NA	299.06
+CCMSLIB00004683877	Sorbifolin - 30eV M-H	COc1cc2c(c(=O)cc(o2)c3ccc(cc3)O)c(c1O)O	0			1+	NA	299.06
+CCMSLIB00004683878	Sorbifolin - 20eV M-H	COc1cc2c(c(=O)cc(o2)c3ccc(cc3)O)c(c1O)O	0			1+	NA	299.059
+CCMSLIB00004683879	Sorbifolin - 50eV M-H	COc1cc2c(c(=O)cc(o2)c3ccc(cc3)O)c(c1O)O	0			1+	NA	299.1
+CCMSLIB00004683880	Sorbifolin - 40eV M-H	COc1cc2c(c(=O)cc(o2)c3ccc(cc3)O)c(c1O)O	0			1+	NA	299.1
+CCMSLIB00004683881	Silychristin - 10eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](c3cc(cc(c3O2)O)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.118
+CCMSLIB00004683882	Silychristin - 20eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](c3cc(cc(c3O2)O)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.115
+CCMSLIB00004683883	Silychristin - 40eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](c3cc(cc(c3O2)O)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.1
+CCMSLIB00004683884	Silychristin - 30eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](c3cc(cc(c3O2)O)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.1
+CCMSLIB00004683885	Glycitein - 10eV M-H	COc1cc2c(cc1O)occ(c2=O)c3ccc(cc3)O	0			1+	NA	283.062
+CCMSLIB00004683886	Glycitein - 40eV M-H	COc1cc2c(cc1O)occ(c2=O)c3ccc(cc3)O	0			1+	NA	283.1
+CCMSLIB00004683887	Glycitein - 50eV M-H	COc1cc2c(cc1O)occ(c2=O)c3ccc(cc3)O	0			1+	NA	283.1
+CCMSLIB00004683888	Glycitein - 30eV M-H	COc1cc2c(cc1O)occ(c2=O)c3ccc(cc3)O	0			1+	NA	283.1
+CCMSLIB00004683889	Glycitein - 20eV M-H	COc1cc2c(cc1O)occ(c2=O)c3ccc(cc3)O	0			1+	NA	283.061
+CCMSLIB00004683890	Galangin - 10eV M-H	c1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	269.047
+CCMSLIB00004683891	Galangin - 40eV M-H	c1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683892	Galangin - 30eV M-H	c1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	269.047
+CCMSLIB00004683893	Galangin - 20eV M-H	c1ccc(cc1)c2c(c(=O)c3c(cc(cc3o2)O)O)O	0			1+	NA	269.047
+CCMSLIB00004683894	Cauloside C (3-Glu(1-2)Ara Hederagenin) (NMR) - 50eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O	0			1+	NA	811.4
+CCMSLIB00004683895	Cauloside C (3-Glu(1-2)Ara Hederagenin) (NMR) - 30eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O	0			1+	NA	811.4
+CCMSLIB00004683896	Cauloside C (3-Glu(1-2)Ara Hederagenin) (NMR) - 10eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O	0			1+	NA	811.455
+CCMSLIB00004683897	Cauloside C (3-Glu(1-2)Ara Hederagenin) (NMR) - 20eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O	0			1+	NA	811.454
+CCMSLIB00004683898	Cauloside C (3-Glu(1-2)Ara Hederagenin) (NMR) - 40eV M-H	C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O	0			1+	NA	811.4
+CCMSLIB00004683899	Asiaticoside - 10eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@H](O8)C)O)O)O)O)O)O)O)O	0			1+	NA	1003.51
+CCMSLIB00004683900	Asiaticoside - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@H](O8)C)O)O)O)O)O)O)O)O	0			1+	NA	1003.51
+CCMSLIB00004683901	Asiaticoside - 30eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@H](O8)C)O)O)O)O)O)O)O)O	0			1+	NA	1003.51
+CCMSLIB00004683902	Asiaticoside - 40eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@H](O8)C)O)O)O)O)O)O)O)O	0			1+	NA	1003.5
+CCMSLIB00004683903	Asiaticoside - 50eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@H](O8)C)O)O)O)O)O)O)O)O	0			1+	NA	1003.5
+CCMSLIB00004683904	Apigenin-7-O-glucoside (Apigetrin) - 20eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	431.096
+CCMSLIB00004683905	Apigenin-7-O-glucoside (Apigetrin) - 30eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	431.096
+CCMSLIB00004683906	Apigenin-7-O-glucoside (Apigetrin) - 10eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	431.096
+CCMSLIB00004683907	Apigenin-7-O-glucoside (Apigetrin) - 40eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	431.096
+CCMSLIB00004683908	Apigenin-7-O-glucoside (Apigetrin) - 50eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	431.1
+CCMSLIB00004683909	Apigenin-7-neohesperidoside (Rhoifolin) - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	577.161
+CCMSLIB00004683910	Apigenin-7-neohesperidoside (Rhoifolin) - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	577.161
+CCMSLIB00004683911	Apigenin-7-neohesperidoside (Rhoifolin) - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	577.162
+CCMSLIB00004683912	Apigenin-7-neohesperidoside (Rhoifolin) - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2Oc3cc(c4c(=O)cc(oc4c3)c5ccc(cc5)O)O)CO)O)O)O)O)O	0			1+	NA	577.16
+CCMSLIB00004683913	Acacetin-5-O-xyloside - 10eV M-H	N/A	0			1+	NA	415.105
+CCMSLIB00004683914	Acacetin-5-O-xyloside - 20eV M-H	N/A	0			1+	NA	415.104
+CCMSLIB00004683915	Acacetin-5-O-xyloside - 30eV M-H	N/A	0			1+	NA	415.103
+CCMSLIB00004683916	Acacetin-5-O-xyloside - 40eV M-H	N/A	0			1+	NA	415.104
+CCMSLIB00004683917	Acacetin-5-O-xyloside - 50eV M-H	N/A	0			1+	NA	415.2
+CCMSLIB00004683918	3,7,4'-Trihydroxyflavone (5-Deoxykampferol) - 40eV M-H	c1cc(ccc1c2c(c(=O)c3ccc(cc3o2)O)O)O	0			1+	NA	269.0
+CCMSLIB00004683919	3,7,4'-Trihydroxyflavone (5-Deoxykampferol) - 10eV M-H	c1cc(ccc1c2c(c(=O)c3ccc(cc3o2)O)O)O	0			1+	NA	269.044
+CCMSLIB00004683920	3,7,4'-Trihydroxyflavone (5-Deoxykampferol) - 20eV M-H	c1cc(ccc1c2c(c(=O)c3ccc(cc3o2)O)O)O	0			1+	NA	269.041
+CCMSLIB00004683921	3,7,4'-Trihydroxyflavone (5-Deoxykampferol) - 30eV M-H	c1cc(ccc1c2c(c(=O)c3ccc(cc3o2)O)O)O	0			1+	NA	269.044
+CCMSLIB00004683922	3',4',7-Trihydroxyisoflavone - 40eV M-H	c1cc(c(cc1c2coc3cc(ccc3c2=O)O)O)O	0			1+	NA	269.0
+CCMSLIB00004683923	3',4',7-Trihydroxyisoflavone - 30eV M-H	c1cc(c(cc1c2coc3cc(ccc3c2=O)O)O)O	0			1+	NA	269.046
+CCMSLIB00004683924	3',4',7-Trihydroxyisoflavone - 20eV M-H	c1cc(c(cc1c2coc3cc(ccc3c2=O)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683925	3',4',7-Trihydroxyisoflavone - 10eV M-H	c1cc(c(cc1c2coc3cc(ccc3c2=O)O)O)O	0			1+	NA	269.045
+CCMSLIB00004683926	5,7-Dimethoxy-4'-hydroxyflavanone - 20eV M-H	COc1cc2c(c(c1)OC)C(=O)CC(O2)c3ccc(cc3)O	0			1+	NA	299.09
+CCMSLIB00004683927	5,7-Dimethoxy-4'-hydroxyflavanone - 10eV M-H	COc1cc2c(c(c1)OC)C(=O)CC(O2)c3ccc(cc3)O	0			1+	NA	299.092
+CCMSLIB00004683928	5,7-Dimethoxy-4'-hydroxyflavanone - 30eV M-H	COc1cc2c(c(c1)OC)C(=O)CC(O2)c3ccc(cc3)O	0			1+	NA	299.1
+CCMSLIB00004683929	5,7-Dimethoxy-4'-hydroxyflavanone - 10eV M-H	COc1cc2c(c(c1)OC)C(=O)CC(O2)c3ccc(cc3)O	0			1+	NA	299.092
+CCMSLIB00004683930	5,7-Dimethoxy-4'-hydroxyflavanone - 20eV M-H	COc1cc2c(c(c1)OC)C(=O)CC(O2)c3ccc(cc3)O	0			1+	NA	299.09
+CCMSLIB00004683931	5,4'-Dihydroxy-7-methoxyflavone (Genkwanin, 7-methoxyapigenin) - 20eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccc(cc3)O)O	0			1+	NA	283.059
+CCMSLIB00004683932	5,4'-Dihydroxy-7-methoxyflavone (Genkwanin, 7-methoxyapigenin) - 30eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccc(cc3)O)O	0			1+	NA	283.058
+CCMSLIB00004683933	5,4'-Dihydroxy-7-methoxyflavone (Genkwanin, 7-methoxyapigenin) - 10eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccc(cc3)O)O	0			1+	NA	283.059
+CCMSLIB00004683934	5,4'-Dihydroxy-7-methoxyflavone (Genkwanin, 7-methoxyapigenin) - 40eV M-H	COc1cc(c2c(=O)cc(oc2c1)c3ccc(cc3)O)O	0			1+	NA	283.1
+CCMSLIB00004683935	3',4'-Dimethoxy-7-hydroxyflavone - 6eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.094
+CCMSLIB00004683936	3',4'-Dimethoxy-7-hydroxyflavone - 40eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.1
+CCMSLIB00004683937	3',4'-Dimethoxy-7-hydroxyflavone - 50eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.1
+CCMSLIB00004683938	3',4'-Dimethoxy-7-hydroxyflavone - 10eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.094
+CCMSLIB00004683939	3',4'-Dimethoxy-7-hydroxyflavone - 20eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.094
+CCMSLIB00004683940	3',4'-Dimethoxy-7-hydroxyflavone - 30eV M-H	COc1ccc(cc1OC)c2cc(=O)c3ccc(cc3o2)O	0			1+	NA	311.093
+CCMSLIB00004683941	7-Hydroxy-3(4-methoxyphenyl) coumarin - 50eV M-H	COc1ccc(cc1)c2cc3ccc(cc3oc2=O)O	0			1+	NA	267.1
+CCMSLIB00004683942	7-Hydroxy-3(4-methoxyphenyl) coumarin - 10eV M-H	COc1ccc(cc1)c2cc3ccc(cc3oc2=O)O	0			1+	NA	267.066
+CCMSLIB00004683943	7-Hydroxy-3(4-methoxyphenyl) coumarin - 20eV M-H	COc1ccc(cc1)c2cc3ccc(cc3oc2=O)O	0			1+	NA	267.066
+CCMSLIB00004683944	7-Hydroxy-3(4-methoxyphenyl) coumarin - 30eV M-H	COc1ccc(cc1)c2cc3ccc(cc3oc2=O)O	0			1+	NA	267.066
+CCMSLIB00004683945	7-Hydroxy-3(4-methoxyphenyl) coumarin - 40eV M-H	COc1ccc(cc1)c2cc3ccc(cc3oc2=O)O	0			1+	NA	267.1
+CCMSLIB00004683946	4-Hydroxy-2',4',6'-trimethoxychalcone (Flavokawain A?) - 10eV M-H	N/A	0			1+	NA	313.109
+CCMSLIB00004683947	4-Hydroxy-2',4',6'-trimethoxychalcone (Flavokawain A?) - 20eV M-H	N/A	0			1+	NA	313.109
+CCMSLIB00004683948	4-Hydroxy-2',4',6'-trimethoxychalcone (Flavokawain A?) - 30eV M-H	N/A	0			1+	NA	313.109
+CCMSLIB00004683949	4-Hydroxy-2',4',6'-trimethoxychalcone (Flavokawain A?) - 40eV M-H	N/A	0			1+	NA	313.1
+CCMSLIB00004683950	4-Hydroxy-2',4',6'-trimethoxychalcone (Flavokawain A?) - 50eV M-H	N/A	0			1+	NA	313.1
+CCMSLIB00004683951	3'-Hydroxyflavone - 10eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3cccc(c3)O	0			1+	NA	237.057
+CCMSLIB00004683952	3'-Hydroxyflavone - 30eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3cccc(c3)O	0			1+	NA	237.057
+CCMSLIB00004683953	3'-Hydroxyflavone - 20eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3cccc(c3)O	0			1+	NA	237.057
+CCMSLIB00004683954	3'-Hydroxyflavone - 40eV M-H	c1ccc2c(c1)c(=O)cc(o2)c3cccc(c3)O	0			1+	NA	237.1
+CCMSLIB00004683955	2',4'-Dihydroxychalcone - 30eV M-H	c1ccc(cc1)/C=C/C(=O)c2ccc(cc2O)O	0			1+	NA	239.07
+CCMSLIB00004683956	2',4'-Dihydroxychalcone - 20eV M-H	c1ccc(cc1)/C=C/C(=O)c2ccc(cc2O)O	0			1+	NA	239.071
+CCMSLIB00004683957	2',4'-Dihydroxychalcone - 10eV M-H	c1ccc(cc1)/C=C/C(=O)c2ccc(cc2O)O	0			1+	NA	239.071
+CCMSLIB00004683958	Icariin - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3oc2c4ccc(cc4)OC)CC=C(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O	0			1+	NA	721.2
+CCMSLIB00004683959	Icariin - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3oc2c4ccc(cc4)OC)CC=C(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O	0			1+	NA	721.237
+CCMSLIB00004683960	Icariin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3oc2c4ccc(cc4)OC)CC=C(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O	0			1+	NA	721.235
+CCMSLIB00004683961	Icariin - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3oc2c4ccc(cc4)OC)CC=C(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O	0			1+	NA	721.2
+CCMSLIB00004683962	Icariin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)Oc2c(=O)c3c(cc(c(c3oc2c4ccc(cc4)OC)CC=C(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O	0			1+	NA	721.2
+CCMSLIB00004683963	Homoeriodictyol - 40eV M-H	COc1cc(ccc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.1
+CCMSLIB00004683964	Homoeriodictyol - 20eV M-H	COc1cc(ccc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.072
+CCMSLIB00004683965	Homoeriodictyol - 10eV M-H	COc1cc(ccc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.072
+CCMSLIB00004683966	Homoeriodictyol - 30eV M-H	COc1cc(ccc1O)[C@@H]2CC(=O)c3c(cc(cc3O2)O)O	0			1+	NA	301.073
+CCMSLIB00004683967	Glycyrrhizic acid - 20eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.393
+CCMSLIB00004683968	Glycyrrhizic acid - 10eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.395
+CCMSLIB00004683969	Glycyrrhizic acid - 70eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.2
+CCMSLIB00004683970	Glycyrrhizic acid - 30eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.394
+CCMSLIB00004683971	Glycyrrhizic acid - 40eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.393
+CCMSLIB00004683972	Glycyrrhizic acid - 50eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.393
+CCMSLIB00004683973	Glycyrrhizic acid - 60eV M-H	C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O	0			1+	NA	821.396
+CCMSLIB00004683974	Medicagenic acid - 20eV M-H	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@@H]([C@@H]([C@@]3(C)C(=O)O)O)O)C	0			1+	NA	501.32
+CCMSLIB00004683975	Medicagenic acid - 30eV M-H	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@@H]([C@@H]([C@@]3(C)C(=O)O)O)O)C	0			1+	NA	501.32
+CCMSLIB00004683976	Medicagenic acid - 40eV M-H	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@@H]([C@@H]([C@@]3(C)C(=O)O)O)O)C	0			1+	NA	501.32
+CCMSLIB00004683977	Medicagenic acid - 50eV M-H	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@@H]([C@@H]([C@@]3(C)C(=O)O)O)O)C	0			1+	NA	501.32
+CCMSLIB00004683978	Medicagenic acid - 10eV M-H	C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@@H]([C@@H]([C@@]3(C)C(=O)O)O)O)C	0			1+	NA	501.32
+CCMSLIB00004683979	5,7-Dihydroxy-4'-methoxyflavone - 20eV M-H	COc1ccc(cc1)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	285.076
+CCMSLIB00004683980	5,7-Dihydroxy-4'-methoxyflavone - 30eV M-H	COc1ccc(cc1)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	285.076
+CCMSLIB00004683981	5,7-Dihydroxy-4'-methoxyflavone - 10eV M-H	COc1ccc(cc1)c2cc(=O)c3c(cc(cc3o2)O)O	0			1+	NA	285.076
+CCMSLIB00004683982	2'-Hydroxy-4'-methoxychalcone - 10eV M-H	COc1ccc(c(c1)O)C(=O)/C=C/c2ccccc2	0			1+	NA	253.087
+CCMSLIB00004683983	2'-Hydroxy-4'-methoxychalcone - 20eV M-H	COc1ccc(c(c1)O)C(=O)/C=C/c2ccccc2	0			1+	NA	253.087
+CCMSLIB00004683984	2'-Hydroxy-4'-methoxychalcone - 30eV M-H	COc1ccc(c(c1)O)C(=O)/C=C/c2ccccc2	0			1+	NA	253.1
+CCMSLIB00004683985	2'-Hydroxy-4-methoxychalcone - 40eV M-H	COc1ccc(cc1)/C=C/C(=O)c2ccccc2O	0			1+	NA	253.1
+CCMSLIB00004683986	2'-Hydroxy-4-methoxychalcone - 10eV M-H	COc1ccc(cc1)/C=C/C(=O)c2ccccc2O	0			1+	NA	253.086
+CCMSLIB00004683987	2'-Hydroxy-4-methoxychalcone - 20eV M-H	COc1ccc(cc1)/C=C/C(=O)c2ccccc2O	0			1+	NA	253.087
+CCMSLIB00004683988	2'-Hydroxy-4-methoxychalcone - 30eV M-H	COc1ccc(cc1)/C=C/C(=O)c2ccccc2O	0			1+	NA	253.1
+CCMSLIB00004683989	3',4',7,8-Tetrahydroxyflavanone - 10eV M-H	N/A	0			1+	NA	285.042
+CCMSLIB00004683990	3',4',7,8-Tetrahydroxyflavanone - 20eV M-H	N/A	0			1+	NA	285.041
+CCMSLIB00004683991	3',4',7,8-Tetrahydroxyflavanone - 30eV M-H	N/A	0			1+	NA	285.0
+CCMSLIB00004683992	Asiatic acid - 10eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	533.35
+CCMSLIB00004683993	Asiatic acid - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	533.4
+CCMSLIB00004683994	Apiin - 10eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)OC5[C@@H]([C@](CO5)(CO)O)O)O)O)O)O	0			1+	NA	563.143
+CCMSLIB00004683995	Apiin - 30eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)OC5[C@@H]([C@](CO5)(CO)O)O)O)O)O)O	0			1+	NA	563.14
+CCMSLIB00004683996	Apiin - 20eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)OC5[C@@H]([C@](CO5)(CO)O)O)O)O)O)O	0			1+	NA	563.141
+CCMSLIB00004683997	Apiin - 40eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)OC5[C@@H]([C@](CO5)(CO)O)O)O)O)O)O	0			1+	NA	563.14
+CCMSLIB00004683998	Apiin - 50eV M-H	c1cc(ccc1c2cc(=O)c3c(cc(cc3o2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)OC5[C@@H]([C@](CO5)(CO)O)O)O)O)O)O	0			1+	NA	563.1
+CCMSLIB00004683999	Daidzin - 30eV M-H	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	461.1
+CCMSLIB00004684000	Daidzin - 50eV M-H	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	461.1
+CCMSLIB00004684001	Daidzin - 20eV M-H	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	461.1
+CCMSLIB00004684002	Daidzin - 10eV M-H	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	461.114
+CCMSLIB00004684003	Daidzin - 40eV M-H	c1cc(ccc1c2coc3cc(ccc3c2=O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	461.1
+CCMSLIB00004684004	Madecassic acid - 30eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	549.4
+CCMSLIB00004684005	Madecassic acid - 20eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	549.4
+CCMSLIB00004684006	Madecassic acid - 10eV M-H	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O	0			1+	NA	549.351
+CCMSLIB00004684007	Kaempferol-7-O-glucoside - 20eV M-H	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	447.093
+CCMSLIB00004684008	Kaempferol-7-O-glucoside - 30eV M-H	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	447.093
+CCMSLIB00004684009	Kaempferol-7-O-glucoside - 10eV M-H	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	447.092
+CCMSLIB00004684010	Kaempferol-7-O-glucoside - 40eV M-H	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	447.1
+CCMSLIB00004684011	Kaempferol-7-O-glucoside - 50eV M-H	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O	0			1+	NA	447.1
+CCMSLIB00004684012	Silymarin 10.15 min - 20eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](Oc3ccc(cc3O2)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.115
+CCMSLIB00004684013	Silymarin 10.15 min - 6eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](Oc3ccc(cc3O2)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.117
+CCMSLIB00004684014	Silymarin 10.03 min - 10eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](Oc3ccc(cc3O2)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.115
+CCMSLIB00004684015	Silymarin 10.03 min - 20eV M-H	COc1cc(ccc1O)[C@H]2[C@@H](Oc3ccc(cc3O2)[C@@H]4[C@H](C(=O)c5c(cc(cc5O4)O)O)O)CO	0			1+	NA	481.116
+CCMSLIB00004684016	3,7,3',4'-Tetrahydroxyflavanone (Fustin) - 10eV M-H	c1cc(c(cc1[C@@H]2[C@H](C(=O)c3ccc(cc3O2)O)O)O)O	0			1+	NA	287.056
+CCMSLIB00004684017	3,7,3',4'-Tetrahydroxyflavanone (Fustin) - 30eV M-H	c1cc(c(cc1[C@@H]2[C@H](C(=O)c3ccc(cc3O2)O)O)O)O	0			1+	NA	287.1
+CCMSLIB00004684018	3,7,3',4'-Tetrahydroxyflavanone (Fustin) - 20eV M-H	c1cc(c(cc1[C@@H]2[C@H](C(=O)c3ccc(cc3O2)O)O)O)O	0			1+	NA	285.039
+CCMSLIB00004684019	Hesperidin - 40eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	609.2
+CCMSLIB00004684020	Hesperidin - 10eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	609.187
+CCMSLIB00004684021	Hesperidin - 20eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	609.183
+CCMSLIB00004684022	Hesperidin - 50eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	609.2
+CCMSLIB00004684023	Hesperidin - 30eV M-H	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O	0			1+	NA	609.184
+CCMSLIB00004684024	3,6,2',4'-Tetrahydroxyflavone - 10eV M-H	c1cc(c(cc1O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.04
+CCMSLIB00004684025	3,6,2',4'-Tetrahydroxyflavone - 20eV M-H	c1cc(c(cc1O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.041
+CCMSLIB00004684026	3,6,2',4'-Tetrahydroxyflavone - 30eV M-H	c1cc(c(cc1O)O)c2c(c(=O)c3cc(ccc3o2)O)O	0			1+	NA	285.0
+CCMSLIB00004684027	Decanoic acid - 10eV M-H	CCCCCCCCCC(=O)O	0			1+	NA	171.139
+CCMSLIB00004684028	Decanoic acid - 20eV M-H	CCCCCCCCCC(=O)O	0			1+	NA	171.138
+CCMSLIB00004684029	Pentadecanoic acid - 20eV M-H	CCCCCCCCCCCCCCC(=O)O	0			1+	NA	241.217
+CCMSLIB00004684030	Pentadecanoic acid - 30eV M-H	CCCCCCCCCCCCCCC(=O)O	0			1+	NA	241.216
+CCMSLIB00004684031	Pentadecanoic acid - 10eV M-H	CCCCCCCCCCCCCCC(=O)O	0			1+	NA	241.217
+CCMSLIB00004684032	Myristic acid - 30eV M-H	CCCCCCCCCCCCCC(=O)O	0			1+	NA	227.202
+CCMSLIB00004684033	Myristic acid - 10eV M-H	CCCCCCCCCCCCCC(=O)O	0			1+	NA	227.202
+CCMSLIB00004684034	Myristic acid - 20eV M-H	CCCCCCCCCCCCCC(=O)O	0			1+	NA	227.202
+CCMSLIB00004684035	Tridecanoic acid - 20eV M-H	CCCCCCCCCCCCC(=O)O	0			1+	NA	213.187
+CCMSLIB00004684036	Tridecanoic acid - 10eV M-H	CCCCCCCCCCCCC(=O)O	0			1+	NA	213.188
+CCMSLIB00004684037	Undecanoic acid - 10eV M-H	CCCCCCCCCCC(=O)O	0			1+	NA	185.155
+CCMSLIB00004684038	Undecanoic acid - 20eV M-H	CCCCCCCCCCC(=O)O	0			1+	NA	185.154
+CCMSLIB00004684039	Behenic acid - 40eV M-H	CCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	339.326
+CCMSLIB00004684040	Behenic acid - 10eV M-H	CCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	339.328
+CCMSLIB00004684041	Behenic acid - 30eV M-H	CCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	339.327
+CCMSLIB00004684042	Behenic acid - 20eV M-H	CCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	339.328
+CCMSLIB00004684043	Catechin gallate - 30eV M-H	c1cc(c(cc1[C@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O)O	0			1+	NA	441.082
+CCMSLIB00004684044	Catechin gallate - 20eV M-H	c1cc(c(cc1[C@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O)O	0			1+	NA	441.083
+CCMSLIB00004684045	Catechin gallate - 10eV M-H	c1cc(c(cc1[C@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O)O	0			1+	NA	441.085
+CCMSLIB00004684046	Catechin gallate - 40eV M-H	c1cc(c(cc1[C@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O)O)O	0			1+	NA	441.09
+CCMSLIB00004684047	Epigallocatechin gallate - 10eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O	0			1+	NA	457.083
+CCMSLIB00004684048	Epigallocatechin gallate - 40eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O	0			1+	NA	457.08
+CCMSLIB00004684049	Epigallocatechin gallate - 20eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O	0			1+	NA	457.083
+CCMSLIB00004684050	Epigallocatechin gallate - 50eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O	0			1+	NA	457.08
+CCMSLIB00004684051	Epigallocatechin gallate - 30eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)OC(=O)c4cc(c(c(c4)O)O)O	0			1+	NA	457.08
+CCMSLIB00004684052	Gallocatechin - 40eV M-H	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O	0			1+	NA	305.06
+CCMSLIB00004684053	Gallocatechin - 30eV M-H	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O	0			1+	NA	305.066
+CCMSLIB00004684054	Gallocatechin - 10eV M-H	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O	0			1+	NA	305.069
+CCMSLIB00004684055	Gallocatechin - 20eV M-H	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O	0			1+	NA	305.067
+CCMSLIB00004684056	Heptadecanoic acid - 20eV M-H	CCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	269.249
+CCMSLIB00004684057	Heptadecanoic acid - 30eV M-H	CCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	269.248
+CCMSLIB00004684058	Heptadecanoic acid - 10eV M-H	CCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	269.25
+CCMSLIB00004684059	Heptadecanoic acid - 40eV M-H	CCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	269.25
+CCMSLIB00004684060	Tricosanoic acid - 40eV M-H	CCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	353.35
+CCMSLIB00004684061	Tricosanoic acid - 30eV M-H	CCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	353.341
+CCMSLIB00004684062	Tricosanoic acid - 10eV M-H	CCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	353.343
+CCMSLIB00004684063	Tricosanoic acid - 20eV M-H	CCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	353.342
+CCMSLIB00004684064	2,3-Trans-3,4-trans-Leucocyanidin - 20eV M-H	c1cc(c(cc1C2C(C(c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00004684065	2,3-Trans-3,4-trans-Leucocyanidin - 30eV M-H	c1cc(c(cc1C2C(C(c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00004684066	2,3-Trans-3,4-trans-Leucocyanidin - 10eV M-H	c1cc(c(cc1C2C(C(c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.052
+CCMSLIB00004684067	2,3-Trans-3,4-cis-Leucocyanidin - 30eV M-H	c1cc(c(cc1[C@@H]2[C@H]([C@H](c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00004684068	2,3-Trans-3,4-cis-Leucocyanidin - 20eV M-H	c1cc(c(cc1[C@@H]2[C@H]([C@H](c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00004684069	2,3-Trans-3,4-cis-Leucocyanidin - 10eV M-H	c1cc(c(cc1[C@@H]2[C@H]([C@H](c3c(cc(cc3O2)O)O)O)O)O)O	0			1+	NA	303.052
+CCMSLIB00004684070	Lignoceric acid - 20eV M-H	CCCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	367.36
+CCMSLIB00004684071	Lignoceric acid - 10eV M-H	CCCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	367.359
+CCMSLIB00004684072	Lignoceric acid - 30eV M-H	CCCCCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	367.359
+CCMSLIB00004684073	Stearic acid - 10eV M-H	CCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	283.266
+CCMSLIB00004684074	Stearic acid - 20eV M-H	CCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	283.265
+CCMSLIB00004684075	Stearic acid - 30eV M-H	CCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	283.265
+CCMSLIB00004684076	Heneicosanoic acid - 40eV M-H	CCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	325.311
+CCMSLIB00004684077	Heneicosanoic acid - 10eV M-H	CCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	325.314
+CCMSLIB00004684078	Heneicosanoic acid - 20eV M-H	CCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	325.313
+CCMSLIB00004684079	Heneicosanoic acid - 30eV M-H	CCCCCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	325.313
+CCMSLIB00004684080	Procyanidin B2 - 50eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.14
+CCMSLIB00004684081	Procyanidin B2 - 10eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.137
+CCMSLIB00004684082	Procyanidin B2 - 20eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.136
+CCMSLIB00004684083	Procyanidin B2 - 30eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.135
+CCMSLIB00004684084	Procyanidin B2 - 40eV M-H	c1cc(c(cc1[C@@H]2[C@@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	575.108
+CCMSLIB00004684085	Procyanidin B1 - 40eV M-H	c1cc(c(cc1[C@@H]2[C@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.14
+CCMSLIB00004684086	Procyanidin B1 - 10eV M-H	c1cc(c(cc1[C@@H]2[C@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.137
+CCMSLIB00004684087	Procyanidin B1 - 30eV M-H	c1cc(c(cc1[C@@H]2[C@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.136
+CCMSLIB00004684088	Procyanidin B1 - 20eV M-H	c1cc(c(cc1[C@@H]2[C@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.136
+CCMSLIB00004684089	Procyanidin B1 - 50eV M-H	c1cc(c(cc1[C@@H]2[C@H](Cc3c(cc(c(c3O2)[C@H]4c5c(cc(cc5O[C@@H]([C@@H]4O)c6ccc(c(c6)O)O)O)O)O)O)O)O)O	0			1+	NA	577.14
+CCMSLIB00004684090	Epigallocatechin - 10eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)O	0			1+	NA	305.067
+CCMSLIB00004684091	Epigallocatechin - 30eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)O	0			1+	NA	305.068
+CCMSLIB00004684092	Epigallocatechin - 20eV M-H	c1c(cc(c(c1O)O)O)[C@@H]2[C@@H](Cc3c(cc(cc3O2)O)O)O	0			1+	NA	305.067
+CCMSLIB00004684093	Dihydrokaempferol - 40eV M-H	c1cc(ccc1C2C(C(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	287.1
+CCMSLIB00004684094	Dihydrokaempferol - 50eV M-H	c1cc(ccc1C2C(C(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	287.1
+CCMSLIB00004684095	Dihydrokaempferol - 10eV M-H	c1cc(ccc1C2C(C(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	287.06
+CCMSLIB00004684096	Dihydrokaempferol - 20eV M-H	c1cc(ccc1C2C(C(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	287.058
+CCMSLIB00004684097	Dihydrokaempferol - 30eV M-H	c1cc(ccc1C2C(C(=O)c3c(cc(cc3O2)O)O)O)O	0			1+	NA	287.059
+CCMSLIB00004684098	Oroxylin A - 20eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccccc3)O	0			1+	NA	283.06
+CCMSLIB00004684099	Oroxylin A - 30eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccccc3)O	0			1+	NA	283.1
+CCMSLIB00004684100	Oroxylin A - 40eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccccc3)O	0			1+	NA	283.1
+CCMSLIB00004684101	Oroxylin A - 50eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccccc3)O	0			1+	NA	283.1
+CCMSLIB00004684102	Oroxylin A - 10eV M-H	COc1c(cc2c(c1O)c(=O)cc(o2)c3ccccc3)O	0			1+	NA	283.06
+CCMSLIB00004684103	3-Hydroxy-4-methoxycinnamic acid (isoferulic acid) - 40eV M-H	COc1ccc(cc1O)/C=C/C(=O)O	0			1+	NA	193.0
+CCMSLIB00004684104	3-Hydroxy-4-methoxycinnamic acid (isoferulic acid) - 10eV M-H	COc1ccc(cc1O)/C=C/C(=O)O	0			1+	NA	193.051
+CCMSLIB00004684105	3-Hydroxy-4-methoxycinnamic acid (isoferulic acid) - 30eV M-H	COc1ccc(cc1O)/C=C/C(=O)O	0			1+	NA	193.0
+CCMSLIB00004684106	3-Hydroxy-4-methoxycinnamic acid (isoferulic acid) - 50eV M-H	COc1ccc(cc1O)/C=C/C(=O)O	0			1+	NA	193.0
+CCMSLIB00004684107	3-Hydroxy-4-methoxycinnamic acid (isoferulic acid) - 20eV M-H	COc1ccc(cc1O)/C=C/C(=O)O	0			1+	NA	193.0
+CCMSLIB00004684108	y-Linolenic acid - 20eV M-H	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	277.218
+CCMSLIB00004684109	y-Linolenic acid - 30eV M-H	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	277.219
+CCMSLIB00004684110	y-Linolenic acid - 10eV M-H	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	277.218
+CCMSLIB00004684111	Arachidonic acid - 10eV M-H	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O	0			1+	NA	303.233
+CCMSLIB00004684112	Arachidonic acid - 20eV M-H	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O	0			1+	NA	303.233
+CCMSLIB00004684113	Arachidonic acid - 30eV M-H	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O	0			1+	NA	303.233
+CCMSLIB00004684114	Linoelaidic acid - 10eV M-H	CCCCC/C=C/C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.233
+CCMSLIB00004684115	Linoelaidic acid - 20eV M-H	CCCCC/C=C/C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.233
+CCMSLIB00004684116	Linoelaidic acid - 30eV M-H	CCCCC/C=C/C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.233
+CCMSLIB00004684117	Oleic acid - 10eV M-H	CCCCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	281.249
+CCMSLIB00004684118	Oleic acid - 20eV M-H	CCCCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	281.248
+CCMSLIB00004684119	Oleic acid - 30eV M-H	CCCCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	281.247
+CCMSLIB00004684120	Palmitoleic acid - 10eV M-H	CCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	253.218
+CCMSLIB00004684121	Palmitoleic acid - 20eV M-H	CCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	253.217
+CCMSLIB00004684122	Trans-Vaccenic acid - 20eV M-H	CCCCCC/C=C/CCCCCCCCCC(=O)O	0			1+	NA	281.249
+CCMSLIB00004684123	Trans-Vaccenic acid - 10eV M-H	CCCCCC/C=C/CCCCCCCCCC(=O)O	0			1+	NA	281.249
+CCMSLIB00004684124	Trans-Vaccenic acid - 30eV M-H	CCCCCC/C=C/CCCCCCCCCC(=O)O	0			1+	NA	281.248
+CCMSLIB00004684125	10E, 12Z-Linoleic acid - 10eV M-H	CCCCCC/C=C\C=C\CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684126	10E, 12Z-Linoleic acid - 20eV M-H	CCCCCC/C=C\C=C\CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684127	10E, 12Z-Linoleic acid - 30eV M-H	CCCCCC/C=C\C=C\CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684128	9E, 11E-Linoleic acid - 20eV M-H	CCCCCC/C=C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684129	9E, 11E-Linoleic acid - 10eV M-H	CCCCCC/C=C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684130	9E, 11E-Linoleic acid - 30eV M-H	CCCCCC/C=C/C=C/CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684131	9-Trans-Palmitelaidic acid - 20eV M-H	CCCCCC/C=C/CCCCCCCC(=O)O	0			1+	NA	253.218
+CCMSLIB00004684132	9-Trans-Palmitelaidic acid - 10eV M-H	CCCCCC/C=C/CCCCCCCC(=O)O	0			1+	NA	253.218
+CCMSLIB00004684133	9-Trans-Palmitelaidic acid - 30eV M-H	CCCCCC/C=C/CCCCCCCC(=O)O	0			1+	NA	253.217
+CCMSLIB00004684134	Pinolenic acid - 10eV M-H	CCCCC/C=C\C/C=C\CC/C=C\CCCC(=O)O	0			1+	NA	277.218
+CCMSLIB00004684135	Pinolenic acid - 20eV M-H	CCCCC/C=C\C/C=C\CC/C=C\CCCC(=O)O	0			1+	NA	277.218
+CCMSLIB00004684136	Pinolenic acid - 30eV M-H	CCCCC/C=C\C/C=C\CC/C=C\CCCC(=O)O	0			1+	NA	277.218
+CCMSLIB00004684137	9Z, 11E-Linoleic acid - 10eV M-H	CCCCCC/C=C/C=C\CCCCCCCC(=O)O	0			1+	NA	279.234
+CCMSLIB00004684138	9Z, 11E-Linoleic acid - 30eV M-H	CCCCCC/C=C/C=C\CCCCCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00004684139	9Z, 11E-Linoleic acid - 20eV M-H	CCCCCC/C=C/C=C\CCCCCCCC(=O)O	0			1+	NA	279.233

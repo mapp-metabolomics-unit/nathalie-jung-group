@@ -1,0 +1,93 @@
+{
+  "context": "Mammals",
+  "governing_code": "ICZN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "homo sapiens"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Homo sapiens",
+          "nomenclature_code": "ICZN",
+          "score": 1.0,
+          "search_string": "homo sapiens",
+          "taxon": {
+            "flags": [
+              "extinct",
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Homo sapiens",
+            "ott_id": 770315,
+            "rank": "species",
+            "source": "ott3.7draft3",
+            "synonyms": [
+              "Homo aethiopicus",
+              "Homo americanus",
+              "Homo arabicus",
+              "Homo aurignacensis",
+              "Homo australasicus",
+              "Homo cafer",
+              "Homo capensis",
+              "Homo columbicus",
+              "Homo cro-magnonensis",
+              "Homo dawsoni",
+              "Homo drennani",
+              "Homo eurafricanus",
+              "Homo floresiensis",
+              "Homo fossilis protoaethiopicus",
+              "Homo grimaldiensis",
+              "Homo grimaldii",
+              "Homo helmei",
+              "Homo hottentotus",
+              "Homo hyperboreus",
+              "Homo indicus",
+              "Homo japeticus",
+              "Homo kanamensis",
+              "Homo melaninus",
+              "Homo monstrosus",
+              "Homo neptunianus",
+              "Homo palestinus",
+              "Homo patagonus",
+              "Homo priscus",
+              "Homo proto-aethiopicus",
+              "Homo sapiens cro-magnonensis",
+              "Homo sapiens grimaldiensis",
+              "Homo scythicus",
+              "Homo sinicus",
+              "Homo spelaeus",
+              "Homo troglodytes",
+              "Homo wadjakensis"
+            ],
+            "tax_sources": [
+              "ncbi:9606",
+              "gbif:2436436",
+              "irmng:11388931",
+              "irmng:10857762"
+            ],
+            "unique_name": "Homo sapiens"
+          }
+        }
+      ],
+      "name": "homo sapiens"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft3",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "homo sapiens"
+  ],
+  "unmatched_names": []
+}
