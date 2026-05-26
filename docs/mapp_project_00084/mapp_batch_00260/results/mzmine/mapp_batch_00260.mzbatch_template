@@ -71,7 +71,7 @@
             <parameter name="Denormalize fragment scans (traps)">true</parameter>
         </parameter>
         <parameter name="Metadata file" selected="true">
-            <current_file>/msdata/mapp_project_00084/mapp_batch_00257/mapp_batch_00257_metadata.tsv</current_file>
+            <current_file>/msdata/mapp_project_00084/mapp_batch_00260/mapp_batch_00260_metadata.tsv</current_file>
         </parameter>
         <parameter name="Sort and color">true</parameter>
         <parameter name="Spectral library files"/>
@@ -373,7 +373,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_gnps.fbmn.GnpsFbmnExportAndSubmitModule" parameter_version="3">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257.mgf</current_file>
+            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00260/results/mzmine/mapp_batch_00260.mgf</current_file>
         </parameter>
         <parameter name="Filter rows">MS2 OR ION IDENTITY</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="input_scans">
@@ -417,7 +417,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_sirius.SiriusExportModule" parameter_version="2">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00257/results/mzmine/mapp_batch_00257_sirius.mgf</current_file>
+            <current_file>/Users/voletco/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00260/results/mzmine/mapp_batch_00260_sirius.mgf</current_file>
         </parameter>
         <parameter name="Intensity normalization" scientific="true">no_normalization</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="simple_merged">
@@ -465,7 +465,7 @@
     </batchstep>
     <batchstep method="io.github.mzmine.modules.io.projectsave.ProjectSaveAsModule" parameter_version="1">
         <parameter name="Project file">
-            <current_file>/mnt/bigdata/mapp/public/mzmine_projects/mapp_batch_00257.mzmine</current_file>
+            <current_file>/mnt/bigdata/mapp/public/mzmine_projects/mapp_batch_00260.mzmine</current_file>
         </parameter>
         <parameter name="Project type">Standalone (large/flexible)</parameter>
     </batchstep>
