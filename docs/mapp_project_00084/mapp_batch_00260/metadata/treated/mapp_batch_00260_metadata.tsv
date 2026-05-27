@@ -1,0 +1,11 @@
+filename	sample_id	sample_type	ATTRIBUTE_treatment	ATTRIBUTE_phase	ATTRIBUTE_sample_name	source_taxon
+20260513_CVOL_mapp_02_29_bl_inf_1.mzML	02_29_bl_inf_1	blank	NA	inf_1	blank_inf_1	NA
+20260513_CVOL_mapp_02_29_bl_inf_2.mzML	02_29_bl_inf_2	blank	NA	inf_2	blank_inf_2	NA
+20260513_CVOL_mapp_02_29_mock_inf_1.mzML	02_29_mock_inf_1	sample	mock	inf_1	mock_inf_1	Homo sapiens
+20260513_CVOL_mapp_02_29_mock_inf_2.mzML	02_29_mock_inf_2	sample	mock	inf_2	mock_inf_2	Homo sapiens
+20260513_CVOL_mapp_02_29_untreated_inf_1.mzML	02_29_untreated_inf_1	sample	untreated	inf_1	untreated_inf_1	Homo sapiens
+20260513_CVOL_mapp_02_29_untreated_inf_2.mzML	02_29_untreated_inf_2	sample	untreated	inf_2	untreated_inf_2	Homo sapiens
+20260513_CVOL_mapp_02_29_PET_inf_1.mzML	02_29_PET_inf_1	sample	PET	inf_1	PET_inf_1	Homo sapiens
+20260513_CVOL_mapp_02_29_PET_inf_2.mzML	02_29_PET_inf_2	sample	PET	inf_2	PET_inf_2	Homo sapiens
+20260513_CVOL_bk_mapp_pre_01.mzML	bk_mapp_pre_01	blank	NA	NA	bk_mapp	NA
+						
