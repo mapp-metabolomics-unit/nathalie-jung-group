@@ -1,0 +1,2 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00013639413	Procyanidin_A2 M+H	O[C@H]1[C@@]2(OC3=C([C@]1(C=4C(O2)=CC(O)=CC4O)[H])C5=C(C(O)=C3)C[C@@H](O)[C@H](O5)C6=CC(O)=C(O)C=C6)C7=CC(O)=C(O)C=C7	0			1+	NA	575.12

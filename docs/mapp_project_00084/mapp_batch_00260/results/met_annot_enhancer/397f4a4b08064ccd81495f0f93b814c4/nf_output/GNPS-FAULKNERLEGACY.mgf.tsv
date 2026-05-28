@@ -1,0 +1,4 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00000081143	B24A24 M+H	N/A	0			1+	NA	343.239
+CCMSLIB00000081037	Ethyldibromo_dimethylaminopropyloxy_cinnamic M+H	N/A	0			1+	NA	274.084
+CCMSLIB00000081038	Ethyldibromo_dimethylaminopropyloxy_cinnamic M+H	N/A	0			1+	NA	525.179

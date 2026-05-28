@@ -1,0 +1,2 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00009919241	Colletine M	COc1ccc(C[C@]2([H])c3c(CC[N+]2(C)C)cc(OC)c(O)c3)cc1	0			1+	NA	328.191

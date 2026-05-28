@@ -1,0 +1,101 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00012728756	Metribuzin M+H	CC(C)(C)c1c(=O)n(c(nn1)SC)N	0			1+	NA	215.096
+CCMSLIB00012728757	"""2,6-Dimethylaniline"" M+H"	Cc1cccc(C)c1N	0			1+	NA	122.096
+CCMSLIB00012728758	2-Benzyl-2-dimethylamino-1-(4-morpholinophenyl)-1-butanone M+H	CCC(Cc1ccccc1)(C(=O)c1ccc(N2CCOCC2)cc1)N(C)C	0			1+	NA	367.238
+CCMSLIB00012728759	Benzophenone M+H	O=C(c1ccccc1)c1ccccc1	0			1+	NA	183.08
+CCMSLIB00012728760	"""Bis(2,6-diisopropylphenyl)carbodiimide"" M+H"	CC(C)c1cccc(C(C)C)c1N=C=Nc1c(C(C)C)cccc1C(C)C	0			1+	NA	363.279
+CCMSLIB00012728761	Bis(2-ethylhexyl) phthalate M+H	CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC	0			1+	NA	391.284
+CCMSLIB00012728762	Cyclohexanone oxime M+H	ON=C1CCCCC1	0			1+	NA	114.091
+CCMSLIB00012728763	"""Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide"" M+H"	Cc1cc(C)cc(C)c1C(=O)P(=O)(c1ccccc1)c1ccccc1	0			1+	NA	349.135
+CCMSLIB00012728764	Methyl 2-benzoylbenzoate M+H	COC(=O)c1ccccc1C(=O)c1ccccc1	0			1+	NA	241.086
+CCMSLIB00012728765	"""N,N-Diglycidyl-4-glycidyloxyaniline"" M+H"	C1C(CN(CC2CO2)c2ccc(OCC3CO3)cc2)O1	0			1+	NA	278.139
+CCMSLIB00012728766	N-butylbenzenesulfonamide M+H	CCCCNS(=O)(=O)c1ccccc1	0			1+	NA	214.09
+CCMSLIB00012728767	o-Toluidine M+H	Cc1ccccc1N	0			1+	NA	108.081
+CCMSLIB00012728768	Triglycidyl isocyanurate M+H	O=C1N(CC2CO2)C(=O)N(CC2CO2)C(=O)N1CC1CO1	0			1+	NA	298.104
+CCMSLIB00012728769	Tris(2-chloroethyl) phosphate M+H	O=P(OCCCl)(OCCCl)OCCCl	0			1+	NA	284.961
+CCMSLIB00012728770	2-Aminobiphenyl M+H	Nc1ccccc1-c1ccccc1	0			1+	NA	170.096
+CCMSLIB00012728771	2-Methyl-4'-(methylthio)-2-morpholinopropiophenone M+H	CC(C)(C(=O)c1ccc(SC)cc1)N1CCOCC1	0			1+	NA	280.137
+CCMSLIB00012728772	"""3,4-Dimethylaniline"" M+H"	Cc1ccc(N)cc1C	0			1+	NA	122.096
+CCMSLIB00012728773	"""4,4'-Methylenebis(N,N-diglycidylaniline)"" M+H"	C1C(CN(CC2CO2)c2ccc(Cc3ccc(N(CC4CO4)CC4CO4)cc3)cc2)O1	0			1+	NA	423.228
+CCMSLIB00012728834	Prednisone M+H	C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C	0			1+	NA	359.185
+CCMSLIB00012728775	Benzyl butyl phthalate M+H	CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1	0			1+	NA	313.143
+CCMSLIB00012728776	2h-chromen-2-one M+H	O=C1C=Cc2ccccc2O1	0			1+	NA	147.044
+CCMSLIB00012728777	Dicyclohexyl Phthalate M+H	O=C(c1ccccc1C(=O)OC1CCCCC1)OC1CCCCC1	0			1+	NA	331.19
+CCMSLIB00012728778	Diethyltoluenediamine M+H	CCc1cc(c(c(c1CC)N)N)C	0			1+	NA	179.154
+CCMSLIB00012728779	Trioctylphosphine oxide M+H	CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC	0			1+	NA	387.375
+CCMSLIB00012728780	Trixylyl phosphate M+H	Cc1cccc(OP(=O)(Oc2ccc(C)cc2C)Oc2cc(C)cc(C)c2)c1C	0			1+	NA	411.172
+CCMSLIB00012728781	"""1,1'-[Methylenebis(4,1-phenylene)]bis(2-hydroxy-2-methyl-1-propanone)"" M+H"	CC(C)(O)C(=O)c1ccc(Cc2ccc(C(=O)C(C)(C)O)cc2)cc1	0			1+	NA	341.174
+CCMSLIB00012728782	"""2,2-Dimethyl-2,3-dihydroperimidine"" M+H"	CC1(C)Nc2cccc3cccc(c23)N1	0			1+	NA	199.123
+CCMSLIB00012728783	"""2,4-Dihydroxybenzophenone"" M+H"	Oc1ccc(C(=O)c2ccccc2)c(O)c1	0			1+	NA	215.07
+CCMSLIB00012728784	Dapsone M+H	Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1	0			1+	NA	249.069
+CCMSLIB00012728785	N-isopropylmethacrylamide M+H	CC(C)NC(=O)C(C)=C	0			1+	NA	128.107
+CCMSLIB00012728786	N-Vinylcaprolactam M+H	C=CN1CCCCCC1=O	0			1+	NA	140.107
+CCMSLIB00012728787	Quinoline M+H	c1cccc2cccnc12	0			1+	NA	130.065
+CCMSLIB00012728788	"""2,4,6-Tri-tert-butylphenol"" M+H"	CC(C)(C)c1cc(C(C)(C)C)cc(C(C)(C)C)c1O	0			1+	NA	263.237
+CCMSLIB00012728789	"""3,3'-Sulfonyldianiline"" M+H"	Nc1cccc(S(=O)(=O)c2cccc(N)c2)c1	0			1+	NA	249.069
+CCMSLIB00012728790	"""4-Androsten-3,17-dione"" M+H"	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2=O	0			1+	NA	287.2
+CCMSLIB00012728791	4-Nitroaniline M+H	Nc1ccc(N(=O)=O)cc1	0			1+	NA	139.05
+CCMSLIB00012728792	6-Dehydronandrolone M+H	CC12CCC3C4CCC(=O)C=C4C=CC3C1CCC2O	0			1+	NA	273.185
+CCMSLIB00012728841	Dexamethasone M+H	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C	0			1+	NA	393.207
+CCMSLIB00012728794	"""m-(2,3-epoxypropoxy)-N,N-bis(2,3-epoxypropyl)aniline"" M+H"	C1C(CN(CC2CO2)c2cccc(OCC3CO3)c2)O1	0			1+	NA	278.139
+CCMSLIB00012728795	Solvent Yellow 124 M+H	CCN(CCOC(C)OCC(C)C)c1ccc(N=Nc2ccccc2)cc1	0			1+	NA	370.249
+CCMSLIB00012728796	Tris(4-isopropylphenyl) phosphate M+H	CC(C)c1ccc(OP(=O)(Oc2ccc(C(C)C)cc2)Oc2ccc(C(C)C)cc2)cc1	0			1+	NA	453.219
+CCMSLIB00012728797	"""2,4-Diaminoazobenzene"" M+H"	Nc1ccc(N=Nc2ccccc2)c(N)c1	0			1+	NA	213.113
+CCMSLIB00012728798	2-Nitroaniline M+H	Nc1ccccc1N(=O)=O	0			1+	NA	139.05
+CCMSLIB00012728799	"""3,4-Epoxycyclohexylmethyl"" M+H"	O=C(C1CCC2C(C1)O2)OCC1CCC2C(C1)O2	0			1+	NA	253.143
+CCMSLIB00012728800	Sudan Blue II M+H	CCCCNc1ccc(NCCCC)c2c1C(=O)c1ccccc1C2=O	0			1+	NA	351.206
+CCMSLIB00012728801	"""4'-Chloro-2',5'-dimethoxyacetoacetanilide"" M+H"	CC(=O)CC(=O)Nc1cc(OC)c(Cl)cc1OC	0			1+	NA	272.068
+CCMSLIB00012728802	Dibutyl phthalate M+H	CCCCOC(=O)c1ccccc1C(=O)OCCCC	0			1+	NA	279.159
+CCMSLIB00012728803	N-phenyl-1-naphthylamine M+H	c1ccccc1Nc1cccc2ccccc12	0			1+	NA	220.112
+CCMSLIB00012728804	Phenolphthalein M+H	Oc1ccc(C2(c3ccc(O)cc3)c3ccccc3C(=O)O2)cc1	0			1+	NA	319.096
+CCMSLIB00012728805	Testosterone M+H	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2O	0			1+	NA	289.216
+CCMSLIB00012728806	"""Tris(1,3-dichloro-2-propyl)phosphate"" M+H"	O=P(OC(CCl)CCl)(OC(CCl)CCl)OC(CCl)CCl	0			1+	NA	428.891
+CCMSLIB00012728807	"""5,6-Dimethyl-2-thiouracil"" M+H"	Cc1c(nc(nc1O)S)C	0			1+	NA	157.043
+CCMSLIB00012728808	Benzoguanamine M+H	c1ccc(cc1)c2nc(nc(n2)N)N	0			1+	NA	188.093
+CCMSLIB00012728809	Benzyltrimethylammonium M+H	C[N+](C)(C)Cc1ccccc1	0			1+	NA	150.128
+CCMSLIB00012728810	Sulfamethoxazol M+H	Cc1cc(no1)NS(=O)(=O)c2ccc(cc2)N	0			1+	NA	254.06
+CCMSLIB00012728811	Tris(1-chloro-2-propyl) phosphate M+H	CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl	0			1+	NA	327.008
+CCMSLIB00012728812	"""1,2,3-Benzotriazole"" M+H"	c1ccc2c(c1)[nH]nn2	0			1+	NA	120.056
+CCMSLIB00012728813	"""1,3-Diphenylguanidine"" M+H"	c1ccc(cc1)NC(=N)Nc2ccccc2	0			1+	NA	212.118
+CCMSLIB00012728814	2-Acrylamido-2-methyl-1-propanesulfonic acid M+H	CC(C)(CS(=O)(=O)O)NC(=O)C=C	0			1+	NA	208.064
+CCMSLIB00012728815	Diclofenac M+H	c1ccc(c(c1)CC(=O)O)Nc2c(cccc2Cl)Cl	0			1+	NA	296.024
+CCMSLIB00012728816	Acetoguanamine M+H	Cc1nc(nc(n1)N)N	0			1+	NA	126.078
+CCMSLIB00012728817	Thiabendazole M+H	c1ccc2c(c1)[nH]c(n2)c3cscn3	0			1+	NA	202.044
+CCMSLIB00012728818	Dichlofluanid M+H	CN(C)S(=O)(=O)N(c1ccccc1)SC(F)(Cl)Cl	0			1+	NA	332.97
+CCMSLIB00012728819	Difenacoum M+H	C1C(CC2=CC=CC=C2C1C3=C(C4=CC=CC=C4OC3=O)O)C5=CC=C(C=C5)C6=CC=CC=C6	0			1+	NA	445.18
+CCMSLIB00012728820	Myristamine oxide M+H	CCCCCCCCCCCCCC[N+](C)(C)[O-]	0			1+	NA	258.279
+CCMSLIB00012728821	Azamethiphos M+H	COP(=O)(OC)SCn1c2c(cc(cn2)Cl)oc1=O	0			1+	NA	324.981
+CCMSLIB00012728822	Piperonyl butoxide M+H	CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2	0			1+	NA	356.243
+CCMSLIB00012728823	6-Phenyl-2-thiouracil M+H	c1ccc(cc1)c2cc(nc(n2)S)O	0			1+	NA	205.043
+CCMSLIB00012728824	6-Propyl-2-thiouracil M+H	CCCc1cc(=O)[nH]c(=S)[nH]1	0			1+	NA	171.059
+CCMSLIB00012728825	6-Methyl-2-thiouracil M+H	Cc1cc(=O)[nH]c(=S)[nH]1	0			1+	NA	143.028
+CCMSLIB00012728826	6-Benzyl-2-thiouracil M+H	c1ccc(cc1)Cc2cc(=O)[nH]c(=S)[nH]2	0			1+	NA	219.059
+CCMSLIB00012728827	5-Methyl-2-thiouracil M+H	Cc1c[nH]c(=S)[nH]c1=O	0			1+	NA	143.027
+CCMSLIB00012728828	4-Thiouracil M+H	c1cnc(nc1S)O	0			1+	NA	129.012
+CCMSLIB00012728829	Flumethasone M+H	C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C)F	0			1+	NA	411.198
+CCMSLIB00012728830	Fluoxymesterone M+H	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2([C@H](C[C@]4([C@H]3CC[C@]4(C)O)C)O)F	0			1+	NA	337.218
+CCMSLIB00012728831	"""5beta-Androstan-3,17-dione"" M+H"	C[C@]12CCC(=O)CC1CCC3C2CC[C@]4(C3CCC4=O)C	0			1+	NA	289.216
+CCMSLIB00012728832	20alpha-Dihydroprednisolone M+H	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2([C@@H](CO)O)O)CCC4=CC(=O)C=C[C@]34C)O	0			1+	NA	363.217
+CCMSLIB00012728833	20beta-Dihydroprednisolone M+H	C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2([C@H](CO)O)O)CCC4=CC(=O)C=C[C@]34C)O	0			1+	NA	363.217
+CCMSLIB00012728835	16alpha-hydroxyprednisolone M+H	CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C1CC(O)C2(O)C(=O)CO	0			1+	NA	377.196
+CCMSLIB00012728836	Progesterone M+H	CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C	0			1+	NA	315.232
+CCMSLIB00012728837	"""5alpha-Androstan-3,17-dione"" M+H"	C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C	0			1+	NA	289.216
+CCMSLIB00012728838	Acetaminophen M+H	CC(=O)Nc1ccc(O)cc1	0			1+	NA	152.071
+CCMSLIB00012728839	Sulfapyridine M+H	c1ccnc(c1)NS(=O)(=O)c2ccc(cc2)N	0			1+	NA	250.065
+CCMSLIB00012728840	Prednisolone M+H	CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C1CCC2(O)C(=O)CO	0			1+	NA	361.202
+CCMSLIB00012728842	Atrazine M+H	CCNc1nc(nc(n1)Cl)NC(C)C	0			1+	NA	216.101
+CCMSLIB00012728843	Fluometuron M+H	CN(C)C(=O)Nc1cccc(c1)C(F)(F)F	0			1+	NA	233.09
+CCMSLIB00012728844	Profenofos M+H	CCCSP(=O)(OCC)Oc1ccc(cc1Cl)Br	0			1+	NA	372.943
+CCMSLIB00012728845	Pirimiphos-methyl M+H	CCN(CC)c1nc(cc(n1)OP(=S)(OC)OC)C	0			1+	NA	306.104
+CCMSLIB00012728846	Dazomet M+H	CN1CN(C(=S)SC1)C	0			1+	NA	163.036
+CCMSLIB00012728847	Ethoxyquin M+H	CCOc1ccc2c(c1)C(=CC(N2)(C)C)C	0			1+	NA	218.154
+CCMSLIB00012728848	Enilconazole M+H	C=CCOC(Cn1ccnc1)c2ccc(cc2Cl)Cl	0			1+	NA	297.056
+CCMSLIB00012728849	2-Methyl-4-isothiazolin-3-one M+H	Cn1c(=O)ccs1	0			1+	NA	116.016
+CCMSLIB00012728850	Ametryn M+H	CC/N=c\1/[nH]/c(=N/C(C)C)/[nH]c(n1)SC	0			1+	NA	228.128
+CCMSLIB00012728851	Erythromycin M+H	CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O	0			1+	NA	734.468
+CCMSLIB00012728852	Oxybenzone M+H	COc1ccc(c(c1)O)C(=O)c2ccccc2	0			1+	NA	229.086
+CCMSLIB00012728853	Climbazole M+H	CC(C)(C)C(=O)C(n1ccnc1)Oc2ccc(cc2)Cl	0			1+	NA	293.105
+CCMSLIB00012728854	Betamethasone M+H	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	0			1+	NA	393.207
+CCMSLIB00012728855	Diuron M+H	CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	233.024
+CCMSLIB00012728856	Albuterol M+H	CC(C)(C)NCC(c1ccc(c(c1)CO)O)O	0			1+	NA	240.159
+CCMSLIB00012728857	Bisphenol S M+H	c1cc(ccc1O)S(=O)(=O)c2ccc(cc2)O	0			1+	NA	251.037

@@ -1,0 +1,607 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00013641194	3-hydroxylauroyl homoserine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	340.209
+CCMSLIB00013640798	3-hydroxydecanoyl 2-aminopentanoic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	270.206
+CCMSLIB00013641261	3-hydroxylauroyl methionine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	370.202
+CCMSLIB00013640812	3-hydroxy-trans-4-tridecenoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCCC/C=C/C(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	328.248
+CCMSLIB00013641213	3-hydroxytetradecanoyl L-2-aminoadipic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	410.251
+CCMSLIB00013640802	3-hydroxypropionyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCC[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	190.107
+CCMSLIB00013641320	3-hydroxylauroyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	364.248
+CCMSLIB00013640804	3-hydroxybutyroyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCC[C@H](NC(=O)CC(C)O)C(=O)O	0			1+	NA	204.123
+CCMSLIB00013640805	3-hydroxybutyroyl 2-aminopentanoic acid [M+Na]+ [M+Na]+	CCC[C@H](NC(=O)CC(C)O)C(=O)O	0			1+	NA	226.107
+CCMSLIB00013640806	3-hydroxyhexadecanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	372.311
+CCMSLIB00013640807	3-hydroxyhexadecanoyl 2-aminopentanoic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	354.3
+CCMSLIB00013640808	3-hydroxynonanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	274.201
+CCMSLIB00013640809	3-hydroxyoctadecanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	400.342
+CCMSLIB00013640810	3-hydroxypentanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCC[C@H](NC(=O)CC(O)CC)C(=O)O	0			1+	NA	218.139
+CCMSLIB00013640811	3-hydroxypentanoyl 2-aminopentanoic acid [M+Na]+ [M+Na]+	CCC[C@H](NC(=O)CC(O)CC)C(=O)O	0			1+	NA	240.121
+CCMSLIB00013640813	3-hydroxytridecanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	330.264
+CCMSLIB00013640814	3-hydroxyundecanoyl 2-aminopentanoic acid [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCC)C(=O)O	0			1+	NA	302.233
+CCMSLIB00013640815	3-hydroxy-4-decenoic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCC=CC(O)CC(O)=O	0			1+	NA	169.122
+CCMSLIB00013640816	3-hydroxy-4-tridecenoic acid [M+NH4]+ [M+NH4]+	CCCCCCCCC=CC(O)CC(O)=O	0			1+	NA	246.206
+CCMSLIB00013641225	3-hydroxydecanoyl leucine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	302.233
+CCMSLIB00013640818	3-hydroxy-6-dodecenoic acid [M+H]+ [M+H]+	CCCCCC=CCCC(O)CC(O)=O	0			1+	NA	215.164
+CCMSLIB00013640819	3-hydroxy-8-undecenoic acid [M+H]+ [M+H]+	CCC=CCCCCC(O)CC(O)=O	0			1+	NA	201.149
+CCMSLIB00013640820	3-hydroxybutyric acid [M+H]+ [M+H]+	CC(O)CC(O)=O	0			1+	NA	105.055
+CCMSLIB00013641079	3-hydroxynonanoyl GABA [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	260.186
+CCMSLIB00013640822	3-hydroxyoctadecanoic acid [M+NH4]+ [M+NH4]+	CCCCCCCCCCCCCCCC(O)CC(O)=O	0			1+	NA	318.3
+CCMSLIB00013641426	"""3-hydroxy-4,6-nonadienoyl spermidine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCCCNCCCN	0			1+	NA	298.249
+CCMSLIB00013640824	3-hydroxypentanoic acid [M+H]+ [M+H]+	CCC(O)CC(O)=O	0			1+	NA	119.07
+CCMSLIB00013640825	3-hydroxypentanoic acid [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(O)=O	0			1+	NA	101.06
+CCMSLIB00013640826	3-hydroxydecanoyl 3-methoxytyramine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	338.232
+CCMSLIB00013640827	3-hydroxydecanoyl 3-methoxytyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	320.222
+CCMSLIB00013641163	3-hydroxyheptadecanoyl histamine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	402.309
+CCMSLIB00013641070	3-hydroxytetradecanoyl GABA [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	312.253
+CCMSLIB00013640870	3-hydroxypentanoyl 5-aminovaleric acid [M+Na]+ [M+Na]+	CCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	240.121
+CCMSLIB00013640831	3-hydroxypropionyl 3-methoxytyramine [M+Na]+ [M+Na]+	COc1cc(CCNC(=O)CCO)ccc1O	0			1+	NA	262.105
+CCMSLIB00013641371	3-hydroxypentanoyl putrescine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCCCN	0			1+	NA	189.16
+CCMSLIB00013640833	3-hydroxytetradecanoyl 3-methoxytyramine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	394.295
+CCMSLIB00013640834	3-hydroxytetradecanoyl 3-methoxytyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	376.285
+CCMSLIB00013640835	3-hydroxytetradecanoyl 3-methoxytyramine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	416.277
+CCMSLIB00013640836	"""3-hydroxy-4,6-nonadienoyl 3-methoxytyramine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	320.186
+CCMSLIB00013640837	"""3-hydroxy-4,6-nonadienoyl 3-methoxytyramine [M+H-H2O]+"" [M+H-H2O]+"	CCC=CC=CC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	302.175
+CCMSLIB00013640838	3-hydroxybutyroyl 3-methoxytyramine [M+H]+ [M+H]+	COc1cc(CCNC(=O)CC(C)O)ccc1O	0			1+	NA	254.139
+CCMSLIB00013640839	3-hydroxybutyroyl 3-methoxytyramine [M+Na]+ [M+Na]+	COc1cc(CCNC(=O)CC(C)O)ccc1O	0			1+	NA	276.121
+CCMSLIB00013640840	3-hydroxybutyroyl 3-methoxytyramine [M+K]+ [M+K]+	COc1cc(CCNC(=O)CC(C)O)ccc1O	0			1+	NA	292.095
+CCMSLIB00013641101	3-hydroxyoctadecanoyl glutamic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	452.298
+CCMSLIB00013641355	3-hydroxyoctadecanoyl proline [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	398.327
+CCMSLIB00013641550	3-hydroxyheptadecanoyl valine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	386.326
+CCMSLIB00013641481	3-hydroxyheptadecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	473.337
+CCMSLIB00013641520	3-hydroxydecanoyl tyrosine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	352.212
+CCMSLIB00013640846	3-hydroxyoctadecanoyl 3-methoxytyramine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	450.358
+CCMSLIB00013641476	3-hydroxypropionyl tryptophan [M+H]+ [M+H]+	O=C(CCO)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	277.118
+CCMSLIB00013640848	3-hydroxypentanoyl 3-methoxytyramine [M+Na]+ [M+Na]+	CCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	290.136
+CCMSLIB00013640981	3-hydroxypentanoyl asparagine [M+K]+ [M+K]+	CCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	271.068
+CCMSLIB00013640990	3-hydroxytetradecanoyl aspartic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	382.22
+CCMSLIB00013641111	3-hydroxytetradecanoyl glutamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	355.259
+CCMSLIB00013640852	3-hydroxyundecanoyl 3-methoxytyramine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(OC)c1	0			1+	NA	352.248
+CCMSLIB00013640853	3-hydroxydecanoyl 5-aminovaleric acid [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	288.217
+CCMSLIB00013641428	3-hydroxy-cis-13-octadecenoyl spermidine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	426.404
+CCMSLIB00013640856	3-hydroxylauroyl 5-aminovaleric acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	298.238
+CCMSLIB00013641376	3-hydroxypropionyl putrescine [M+H]+ [M+H]+	NCCCCNC(=O)CCO	0			1+	NA	161.128
+CCMSLIB00013641490	3-hydroxytridecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	417.275
+CCMSLIB00013640859	3-hydroxybutyroyl 5-aminovaleric acid [M+H]+ [M+H]+	CC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	204.123
+CCMSLIB00013640924	3-hydroxypentanoyl alanine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	212.089
+CCMSLIB00013640861	3-hydroxybutyroyl 5-aminovaleric acid [M+Na]+ [M+Na]+	CC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	226.105
+CCMSLIB00013641230	3-hydroxytetradecanoyl leucine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	340.284
+CCMSLIB00013641026	3-hydroxyhexadecanoyl citrulline [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	452.31
+CCMSLIB00013640864	3-hydroxyhexadecanoyl 5-aminovaleric acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	354.3
+CCMSLIB00013640867	3-hydroxypentanoyl 5-aminovaleric acid [M+H]+ [M+H]+	CCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	218.139
+CCMSLIB00013640868	3-hydroxypentanoyl 5-aminovaleric acid [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	200.128
+CCMSLIB00013640869	3-hydroxypentanoyl 5-aminovaleric acid [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)NCCCCC(=O)O	0			1+	NA	235.165
+CCMSLIB00013641198	3-hydroxytetradecanoyl homoserine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	368.241
+CCMSLIB00013640875	3-hydroxydecanoyl 5-methoxytryptamine [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	383.23
+CCMSLIB00013641339	3-hydroxyundecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	350.233
+CCMSLIB00013641338	3-hydroxytridecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	378.264
+CCMSLIB00013641322	3-hydroxylauroyl phenylalanine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	346.238
+CCMSLIB00013641388	3-hydroxyhexadecanoyl serine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	360.274
+CCMSLIB00013640880	3-hydroxypropionyl 5-methoxytryptamine [M+H]+ [M+H]+	COc1ccc2[nH]cc(CCNC(=O)CCO)c2c1	0			1+	NA	263.139
+CCMSLIB00013640881	3-hydroxypropionyl 5-methoxytryptamine [M+K]+ [M+K]+	COc1ccc2[nH]cc(CCNC(=O)CCO)c2c1	0			1+	NA	301.095
+CCMSLIB00013640882	3-hydroxytetradecanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	417.311
+CCMSLIB00013640883	3-hydroxytetradecanoyl 5-methoxytryptamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	399.3
+CCMSLIB00013640884	3-hydroxytetradecanoyl 5-methoxytryptamine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	439.293
+CCMSLIB00013640885	3-hydroxytetradecanoyl 5-methoxytryptamine [M+K]+ [M+K]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	455.267
+CCMSLIB00013640886	"""3-hydroxy-4,6-nonadienoyl 5-methoxytryptamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	343.202
+CCMSLIB00013640887	3-hydroxy-6-dodecanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCCCCC=CCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	387.264
+CCMSLIB00013640888	3-hydroxybutyroyl 5-methoxytryptamine [M+NH4]+ [M+NH4]+	COc1ccc2[nH]cc(CCNC(=O)CC(C)O)c2c1	0			1+	NA	294.181
+CCMSLIB00013640889	3-hydroxybutyroyl 5-methoxytryptamine [M+H]+ [M+H]+	COc1ccc2[nH]cc(CCNC(=O)CC(C)O)c2c1	0			1+	NA	277.155
+CCMSLIB00013640890	3-hydroxybutyroyl 5-methoxytryptamine [M+Na]+ [M+Na]+	COc1ccc2[nH]cc(CCNC(=O)CC(C)O)c2c1	0			1+	NA	299.136
+CCMSLIB00013640891	3-hydroxyheptadecanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	459.359
+CCMSLIB00013640892	3-hydroxyhexadecanoyl 5-methoxytryptamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	427.332
+CCMSLIB00013641331	3-hydroxyhexadecanoyl phenylalanine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	442.293
+CCMSLIB00013640894	3-hydroxynonanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	347.233
+CCMSLIB00013640895	3-hydroxynonanoyl 5-methoxytryptamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	329.222
+CCMSLIB00013640896	3-hydroxynonanoyl 5-methoxytryptamine [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	369.215
+CCMSLIB00013640897	3-hydroxyoctadecanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	473.374
+CCMSLIB00013640898	3-hydroxyoctadecanoyl 5-methoxytryptamine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	495.356
+CCMSLIB00013640899	3-hydroxypentanoyl 5-methoxytryptamine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	291.17
+CCMSLIB00013641159	3-hydroxy-6-dodecenoyl histamine [M+H]+ [M+H]+	CCCCCC=CCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	308.233
+CCMSLIB00013640901	3-hydroxypentanoyl 5-methoxytryptamine [M+K]+ [M+K]+	CCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	329.126
+CCMSLIB00013640902	3-hydroxypentanoyl 5-methoxytryptamine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	308.197
+CCMSLIB00013641353	3-hydroxyhexadecanoyl proline [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	352.284
+CCMSLIB00013641478	3-hydroxytetradecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	431.29
+CCMSLIB00013641535	3-hydroxy-trans-4-tridecenoyl tyrosine [M+Na]+ [M+Na]+	CCCCCCCC/C=C/C(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	414.225
+CCMSLIB00013641226	3-hydroxylauroyl leucine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	330.264
+CCMSLIB00013640907	3-hydroxyundecanoyl 5-methoxytryptamine [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(OC)cc12	0			1+	NA	397.246
+CCMSLIB00013640908	3-hydroxydecanoyl alanine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	260.186
+CCMSLIB00013640909	3-hydroxylauroyl alanine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	288.217
+CCMSLIB00013640910	3-hydroxylauroyl alanine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	270.206
+CCMSLIB00013640911	3-hydroxylauroyl alanine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	310.199
+CCMSLIB00013640912	3-hydroxypropionyl alanine [M+Na]+ [M+Na]+	C[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	184.058
+CCMSLIB00013641255	3-hydroxyhexadecanoyl lysine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	383.327
+CCMSLIB00013640914	3-hydroxytetradecanoyl alanine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	338.23
+CCMSLIB00013640915	3-hydroxybutyroyl alanine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	193.118
+CCMSLIB00013640916	3-hydroxybutyroyl alanine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	176.092
+CCMSLIB00013641058	3-hydroxyhexadecanoyl dopamine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	408.31
+CCMSLIB00013641348	3-hydroxytetradecanoyl proline [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	342.264
+CCMSLIB00013640919	3-hydroxyhexadecanoyl alanine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	344.279
+CCMSLIB00013640999	3-hydroxyoctadecanoyl aspartic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	438.282
+CCMSLIB00013641470	3-hydroxytridecanoyl tryptamine [M+Na]+ [M+Na]+	CCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	395.267
+CCMSLIB00013640922	3-hydroxynonanoyl alanine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	246.17
+CCMSLIB00013640923	3-hydroxyoctadecanoyl alanine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	372.311
+CCMSLIB00013640925	3-hydroxypentanoyl alanine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	207.134
+CCMSLIB00013640926	3-hydroxypentanoyl alanine [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	172.097
+CCMSLIB00013640927	3-hydroxypentanoyl alanine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	190.107
+CCMSLIB00013641385	3-hydroxybutyroyl serine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	192.086
+CCMSLIB00013640929	3-hydroxytridecanoyl alanine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	302.233
+CCMSLIB00013640930	3-hydroxyundecanoyl alanine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](C)C(=O)O	0			1+	NA	274.201
+CCMSLIB00013640931	3-hydroxydecanoyl amylamine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	258.243
+CCMSLIB00013641497	3-hydroxylauroyl tyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	318.243
+CCMSLIB00013641264	3-hydroxytetradecanoyl methionine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	376.251
+CCMSLIB00013641443	3-hydroxyhexadecanoyl threonine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	356.279
+CCMSLIB00013640936	3-hydroxypropionyl amylamine [M+H]+ [M+H]+	CCCCCNC(=O)CCO	0			1+	NA	160.133
+CCMSLIB00013640938	3-hydroxytetradecanoyl amylamine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	314.305
+CCMSLIB00013640939	3-hydroxytetradecanoyl amylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	296.295
+CCMSLIB00013640940	"""3-hydroxy-4,6-nonadienoyl amylamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCCCC	0			1+	NA	240.196
+CCMSLIB00013640941	3-hydroxybutyroyl amylamine [M+H]+ [M+H]+	CCCCCNC(=O)CC(C)O	0			1+	NA	174.149
+CCMSLIB00013640942	3-hydroxybutyroyl amylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCNC(=O)CC(C)O	0			1+	NA	156.138
+CCMSLIB00013640943	3-hydroxyheptadecanoyl amylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	356.352
+CCMSLIB00013640944	3-hydroxyhexadecanoyl amylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	342.337
+CCMSLIB00013640945	3-hydroxynonanoyl amylamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	244.227
+CCMSLIB00013641181	3-hydroxytetradecanoyl histidine [M+NH4]+ [M+NH4]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	399.296
+CCMSLIB00013640947	3-hydroxyoctadecanoyl amylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	370.368
+CCMSLIB00013641354	3-hydroxynonanoyl proline [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	272.185
+CCMSLIB00013640949	3-hydroxypentanoyl amylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCNC(=O)CC(O)CC	0			1+	NA	170.154
+CCMSLIB00013641298	3-hydroxytetradecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	348.289
+CCMSLIB00013641053	3-hydroxytetradecanoyl dopamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	362.269
+CCMSLIB00013640952	3-hydroxyundecanoyl amylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCC(O)CC(=O)NCCCCC	0			1+	NA	254.248
+CCMSLIB00013640997	3-hydroxynonanoyl aspartic acid [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	290.16
+CCMSLIB00013640954	3-hydroxylauroyl arginine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NC(=N)NCCC[C@H](N)C(=O)O	0			1+	NA	373.281
+CCMSLIB00013640955	3-hydroxylauroyl arginine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)NC(=N)NCCC[C@H](N)C(=O)O	0			1+	NA	395.263
+CCMSLIB00013641279	3-hydroxypentanoyl ornithine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	233.15
+CCMSLIB00013640957	3-hydroxytetradecanoyl arginine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	401.312
+CCMSLIB00013640958	3-hydroxytetradecanoyl arginine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	423.294
+CCMSLIB00013640959	3-hydroxybutyroyl arginine [M+H]+ [M+H]+	CC(O)CC(=O)NC(=N)NCCC[C@H](N)C(=O)O	0			1+	NA	261.156
+CCMSLIB00013640960	3-hydroxy-cis-13-octadecenoyl arginine [M+NH4]+ [M+NH4]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	472.388
+CCMSLIB00013641254	3-hydroxyhexadecanoyl lysine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	423.319
+CCMSLIB00013641212	3-hydroxytetradecanoyl L-2-aminoadipic acid [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	388.269
+CCMSLIB00013641383	3-hydroxytetradecanoyl serine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	332.243
+CCMSLIB00013640964	3-hydroxynonanoyl arginine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	331.234
+CCMSLIB00013640965	3-hydroxypentanoyl arginine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	275.171
+CCMSLIB00013640966	3-hydroxytridecanoyl arginine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	387.296
+CCMSLIB00013640967	3-hydroxyundecanoyl arginine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(=N)N)C(=O)O	0			1+	NA	359.265
+CCMSLIB00013640968	3-hydroxydecanoyl asparagine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	303.191
+CCMSLIB00013640969	3-hydroxylauroyl asparagine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	331.223
+CCMSLIB00013640970	3-hydroxylauroyl asparagine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	353.205
+CCMSLIB00013640971	3-hydroxylauroyl asparagine [M+K]+ [M+K]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	369.179
+CCMSLIB00013640972	3-hydroxylauroyl asparagine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	313.212
+CCMSLIB00013640973	3-hydroxytetradecanoyl asparagine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	359.254
+CCMSLIB00013641493	3-hydroxyundecanoyl tryptophan [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	411.225
+CCMSLIB00013640975	3-hydroxytetradecanoyl asparagine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	341.243
+CCMSLIB00013640976	3-hydroxybutyroyl asparagine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	219.097
+CCMSLIB00013640977	3-hydroxyhexadecanoyl asparagine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	387.285
+CCMSLIB00013641027	3-hydroxyhexadecanoyl citrulline [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	412.317
+CCMSLIB00013640979	3-hydroxynonanoyl asparagine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	289.176
+CCMSLIB00013640980	3-hydroxypentanoyl asparagine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	255.095
+CCMSLIB00013640982	3-hydroxypentanoyl asparagine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	250.139
+CCMSLIB00013640983	3-hydroxypentanoyl asparagine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	233.113
+CCMSLIB00013640984	3-hydroxytridecanoyl asparagine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	345.238
+CCMSLIB00013640985	3-hydroxyundecanoyl asparagine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CC(N)=O)C(=O)O	0			1+	NA	317.207
+CCMSLIB00013640986	3-hydroxydecanoyl aspartic acid [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	304.175
+CCMSLIB00013640987	3-hydroxylauroyl aspartic acid [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	354.189
+CCMSLIB00013640988	3-hydroxylauroyl aspartic acid [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	332.207
+CCMSLIB00013640989	3-hydroxylauroyl aspartic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	314.196
+CCMSLIB00013640991	3-hydroxytetradecanoyl aspartic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	342.227
+CCMSLIB00013641359	3-hydroxytridecanoyl proline [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	328.248
+CCMSLIB00013640993	3-hydroxybutyroyl aspartic acid [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	220.081
+CCMSLIB00013640994	3-hydroxyheptadecanoyl aspartic acid [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	402.285
+CCMSLIB00013641294	3-hydroxylauroyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	320.258
+CCMSLIB00013640996	3-hydroxynonanoyl aspartic acid [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	312.142
+CCMSLIB00013640998	3-hydroxyoctadecanoyl aspartic acid [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	416.3
+CCMSLIB00013641000	3-hydroxypentanoyl aspartic acid [M+K]+ [M+K]+	CCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	272.053
+CCMSLIB00013641001	3-hydroxypentanoyl aspartic acid [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	251.123
+CCMSLIB00013641002	3-hydroxypentanoyl aspartic acid [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	234.097
+CCMSLIB00013641003	3-hydroxyundecanoyl aspartic acid [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CC(=O)O)C(=O)O	0			1+	NA	318.191
+CCMSLIB00013641100	3-hydroxynonanoyl glutamic acid [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	304.176
+CCMSLIB00013641005	3-hydroxylauroyl cadaverine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCCCCN	0			1+	NA	283.274
+CCMSLIB00013641006	3-hydroxylauroyl cadaverine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCCCCN	0			1+	NA	301.285
+CCMSLIB00013641007	3-hydroxypropionyl cadaverine [M+H]+ [M+H]+	NCCCCCNC(=O)CCO	0			1+	NA	175.144
+CCMSLIB00013641008	3-hydroxytetradecanoyl cadaverine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCCCCN	0			1+	NA	351.298
+CCMSLIB00013641009	3-hydroxytetradecanoyl cadaverine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCCCCN	0			1+	NA	329.316
+CCMSLIB00013641010	3-hydroxytetradecanoyl cadaverine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCCCCN	0			1+	NA	311.306
+CCMSLIB00013641011	3-hydroxybutyroyl cadaverine [M+H]+ [M+H]+	CC(O)CC(=O)NCCCCCN	0			1+	NA	189.16
+CCMSLIB00013641558	3-hydroxytridecanoyl valine [M+Na]+ [M+Na]+	CCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	352.246
+CCMSLIB00013641013	3-hydroxy-trans-4-tridecenoyl cadaverine [M+NH4]+ [M+NH4]+	CCCCCCCC/C=C/C(O)CC(=O)NCCCCCN	0			1+	NA	330.315
+CCMSLIB00013641014	3-hydroxydecenoyl citrulline [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	346.234
+CCMSLIB00013641015	3-hydroxydecenoyl citrulline [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	368.215
+CCMSLIB00013641016	3-hydroxylauroyl citrulline [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	374.265
+CCMSLIB00013641017	3-hydroxylauroyl citrulline [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	396.247
+CCMSLIB00013641018	3-hydroxylauroyl citrulline [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	356.254
+CCMSLIB00013641019	3-hydroxytetradecanoyl citrulline [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	402.296
+CCMSLIB00013641020	3-hydroxytetradecanoyl citrulline [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	424.278
+CCMSLIB00013641021	3-hydroxytetradecanoyl citrulline [M+K]+ [M+K]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	440.252
+CCMSLIB00013641022	3-hydroxybutyroyl citrulline [M+Na]+ [M+Na]+	CC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	284.122
+CCMSLIB00013641023	3-hydroxybutyroyl citrulline [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	262.14
+CCMSLIB00013641024	3-hydroxyheptadecanoyl citrulline [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	426.334
+CCMSLIB00013641025	3-hydroxyhexadecanoyl citrulline [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	430.327
+CCMSLIB00013641028	3-hydroxynonanoyl citrulline [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	332.218
+CCMSLIB00013641029	3-hydroxynonanoyl citrulline [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	354.2
+CCMSLIB00013641030	3-hydroxypentanoyl citrulline [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	276.156
+CCMSLIB00013641031	3-hydroxypentanoyl citrulline [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	298.138
+CCMSLIB00013641032	3-hydroxypentanoyl citrulline [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	293.182
+CCMSLIB00013641033	3-hydroxyundecanoyl citrulline [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	360.249
+CCMSLIB00013641034	3-hydroxyundecanoyl citrulline [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCCNC(N)=O)C(=O)O	0			1+	NA	382.231
+CCMSLIB00013641042	3-hydroxybutyroyl cysteine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	208.064
+CCMSLIB00013641037	3-hydroxylauroyl cysteine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	320.189
+CCMSLIB00013641038	3-hydroxylauroyl cysteine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	302.178
+CCMSLIB00013641039	3-hydroxypropionyl cysteine [M+H]+ [M+H]+	O=C(CCO)N[C@@H](CS)C(=O)O	0			1+	NA	194.047
+CCMSLIB00013641040	3-hydroxytetradecanoyl cysteine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	348.22
+CCMSLIB00013641041	3-hydroxytetradecanoyl cysteine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	330.21
+CCMSLIB00013641315	3-hydroxytridecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	334.274
+CCMSLIB00013641044	3-hydroxytridecanoyl cysteine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	334.205
+CCMSLIB00013641045	3-hydroxyundecanoyl cysteine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CS)C(=O)O	0			1+	NA	306.173
+CCMSLIB00013641046	3-hydroxydecanoyl dopamine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	324.217
+CCMSLIB00013641047	3-hydroxydecanoyl dopamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	306.206
+CCMSLIB00013641048	3-hydroxylauroyl dopamine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	352.248
+CCMSLIB00013641049	3-hydroxylauroyl dopamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	334.238
+CCMSLIB00013641050	3-hydroxypropionyl dopamine [M+H]+ [M+H]+	O=C(CCO)NCCc1ccc(O)c(O)c1	0			1+	NA	226.107
+CCMSLIB00013641450	3-hydroxylauroyl tryptamine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	359.269
+CCMSLIB00013641052	3-hydroxytetradecanoyl dopamine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	402.261
+CCMSLIB00013641054	"""3-hydroxy-4,6-nonadienoyl dopamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	306.17
+CCMSLIB00013641207	3-hydroxypentanoyl homoserine [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	202.107
+CCMSLIB00013641056	3-hydroxybutyroyl dopamine [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	240.123
+CCMSLIB00013641057	3-hydroxy-cis-13-octadecenoyl dopamine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	434.325
+CCMSLIB00013641059	3-hydroxyhexadecanoyl dopamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	390.3
+CCMSLIB00013641060	3-hydroxyhexadecanoyl dopamine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)c(O)c1	0			1+	NA	430.293
+CCMSLIB00013641065	3-hydroxydecanoyl GABA [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	274.201
+CCMSLIB00013641066	3-hydroxylauroyl GABA [M+K]+ [M+K]+	CCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	340.188
+CCMSLIB00013641067	3-hydroxylauroyl GABA [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	302.232
+CCMSLIB00013641068	3-hydroxylauroyl GABA [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	284.222
+CCMSLIB00013641071	3-hydroxybutyroyl GABA [M+NH4]+ [M+NH4]+	CC(O)CC(=O)NCCCC(=O)O	0			1+	NA	207.134
+CCMSLIB00013641168	3-hydroxynonanoyl histamine [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	290.184
+CCMSLIB00013641073	3-hydroxybutyroyl GABA [M+Na]+ [M+Na]+	CC(O)CC(=O)NCCCC(=O)O	0			1+	NA	212.089
+CCMSLIB00013641324	3-hydroxypropionyl phenylalanine [M+H]+ [M+H]+	O=C(CCO)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	238.107
+CCMSLIB00013641075	3-hydroxyheptadecanoyl GABA [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	372.311
+CCMSLIB00013641546	3-hydroxytetradecanoyl valine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	366.261
+CCMSLIB00013641500	3-hydroxytetradecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	364.284
+CCMSLIB00013641229	3-hydroxytetradecanoyl leucine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	358.295
+CCMSLIB00013641081	3-hydroxypentanoyl GABA [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	186.113
+CCMSLIB00013641083	3-hydroxytridecanoyl GABA [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	316.248
+CCMSLIB00013641084	3-hydroxyundecanoyl GABA [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCCC(=O)O	0			1+	NA	288.217
+CCMSLIB00013641085	3-hydroxydecanoyl glutamic acid [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	340.173
+CCMSLIB00013641367	"""3-hydroxy-4-tridecenoyl propane-1,3-diamine [M+H]+"" [M+H]+"	CCCCCCCCC=CC(O)CC(=O)NCCCN	0			1+	NA	285.254
+CCMSLIB00013641087	3-hydroxylauroyl glutamic acid [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	346.222
+CCMSLIB00013641088	3-hydroxylauroyl glutamic acid [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	368.204
+CCMSLIB00013641089	3-hydroxylauroyl glutamic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	328.212
+CCMSLIB00013641090	3-hydroxytetradecanoyl glutamic acid [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	374.254
+CCMSLIB00013641091	3-hydroxytetradecanoyl glutamic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	396.235
+CCMSLIB00013641092	3-hydroxytetradecanoyl glutamic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	356.243
+CCMSLIB00013641368	"""3-hydroxy-cis-13-octadecenoyl propane-1,3-diamine [M+H-H2O]+"" [M+H-H2O]+"	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCCN	0			1+	NA	337.32
+CCMSLIB00013641099	3-hydroxyhexadecanoyl glutamic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	424.267
+CCMSLIB00013641102	3-hydroxypentanoyl glutamic acid [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	265.139
+CCMSLIB00013641103	3-hydroxypentanoyl glutamic acid [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	248.113
+CCMSLIB00013641104	3-hydroxytridecanoyl glutamic acid [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	360.238
+CCMSLIB00013641105	3-hydroxyundecanoyl glutamic acid [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	332.207
+CCMSLIB00013641106	3-hydroxydecanoyl glutamine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	317.207
+CCMSLIB00013641171	3-hydroxytridecanoyl histamine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	324.265
+CCMSLIB00013641108	3-hydroxylauroyl glutamine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	367.22
+CCMSLIB00013641109	3-hydroxylauroyl glutamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	327.228
+CCMSLIB00013641110	3-hydroxytetradecanoyl glutamine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	373.269
+CCMSLIB00013641113	3-hydroxybutyroyl glutamine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	250.139
+CCMSLIB00013641115	3-hydroxyhexadecanoyl glutamine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	401.301
+CCMSLIB00013641116	3-hydroxynonanoyl glutamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	303.191
+CCMSLIB00013641117	3-hydroxypentanoyl glutamine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	247.129
+CCMSLIB00013641118	3-hydroxypentanoyl glutamine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	264.154
+CCMSLIB00013641119	3-hydroxytridecanoyl glutamine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	359.254
+CCMSLIB00013641120	3-hydroxyundecanoyl glutamine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCC(N)=O)C(=O)O	0			1+	NA	331.223
+CCMSLIB00013641121	3-hydroxydecanoyl glutathione [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O	0			1+	NA	478.222
+CCMSLIB00013641122	3-hydroxylauroyl glutathione [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O	0			1+	NA	506.253
+CCMSLIB00013641123	3-hydroxylauroyl glutathione [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O	0			1+	NA	528.235
+CCMSLIB00013641473	3-hydroxylauroyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	403.259
+CCMSLIB00013641474	3-hydroxylauroyl tryptophan [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	425.241
+CCMSLIB00013641126	3-hydroxydecanoyl glycine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	246.17
+CCMSLIB00013641127	3-hydroxydecanoyl glycine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	228.159
+CCMSLIB00013641179	3-hydroxytetradecanoyl histidine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	382.27
+CCMSLIB00013641129	3-hydroxylauroyl glycine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	256.191
+CCMSLIB00013641130	3-hydroxypropionyl glycine [M+H]+ [M+H]+	O=C(O)CNC(=O)CCO	0			1+	NA	148.06
+CCMSLIB00013641131	3-hydroxypropionyl glycine [M+H-H2O]+ [M+H-H2O]+	O=C(O)CNC(=O)CCO	0			1+	NA	130.05
+CCMSLIB00013641132	3-hydroxytetradecanoyl glycine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	302.232
+CCMSLIB00013641133	3-hydroxytetradecanoyl glycine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	324.214
+CCMSLIB00013641134	3-hydroxytetradecanoyl glycine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	284.222
+CCMSLIB00013641135	3-hydroxybutyroyl glycine [M+Na]+ [M+Na]+	CC(O)CC(=O)NCC(=O)O	0			1+	NA	184.058
+CCMSLIB00013641136	3-hydroxybutyroyl glycine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)NCC(=O)O	0			1+	NA	179.103
+CCMSLIB00013641137	3-hydroxybutyroyl glycine [M+H]+ [M+H]+	CC(O)CC(=O)NCC(=O)O	0			1+	NA	162.076
+CCMSLIB00013641138	3-hydroxy-cis-13-octadecenoyl glycine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	356.277
+CCMSLIB00013641139	3-hydroxyhexadecanoyl glycine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	330.264
+CCMSLIB00013641140	3-hydroxyhexadecanoyl glycine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	352.246
+CCMSLIB00013641204	3-hydroxyhexadecanoyl homoserine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	356.28
+CCMSLIB00013641466	3-hydroxypentanoyl tryptamine [M+Na]+ [M+Na]+	CCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	283.142
+CCMSLIB00013641143	3-hydroxynonanoyl glycine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	232.154
+CCMSLIB00013641147	3-hydroxypentanoyl glycine [M+H]+ [M+H]+	CCC(O)CC(=O)NCC(=O)O	0			1+	NA	176.092
+CCMSLIB00013641148	3-hydroxytridecanoyl glycine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	288.217
+CCMSLIB00013641149	3-hydroxyundecanoyl glycine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCC(=O)O	0			1+	NA	260.185
+CCMSLIB00013641150	3-hydroxydecanoyl histamine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	282.218
+CCMSLIB00013641151	3-hydroxydecanoyl histamine [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	304.2
+CCMSLIB00013641152	3-hydroxylauroyl histamine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	332.231
+CCMSLIB00013641153	3-hydroxylauroyl histamine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	310.249
+CCMSLIB00013641154	3-hydroxylauroyl histamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	292.238
+CCMSLIB00013641155	3-hydroxypropionyl histamine [M+H]+ [M+H]+	O=C(CCO)NCCc1c[nH]cn1	0			1+	NA	184.108
+CCMSLIB00013641156	3-hydroxytetradecanoyl histamine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	338.28
+CCMSLIB00013641157	3-hydroxytetradecanoyl histamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	320.27
+CCMSLIB00013641158	"""3-hydroxy-4,6-nonadienoyl histamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	264.171
+CCMSLIB00013641160	3-hydroxybutyroyl histamine [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	198.124
+CCMSLIB00013641162	3-hydroxyheptadecanoyl histamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	380.327
+CCMSLIB00013641165	3-hydroxyhexadecanoyl histamine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	388.293
+CCMSLIB00013641166	3-hydroxyhexadecanoyl histamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	348.3
+CCMSLIB00013641167	3-hydroxynonanoyl histamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	268.202
+CCMSLIB00013641169	3-hydroxyoctadecanoyl histamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	394.343
+CCMSLIB00013641170	3-hydroxypentanoyl histamine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	212.14
+CCMSLIB00013641533	3-hydroxypentanoyl tyrosine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	304.115
+CCMSLIB00013641173	3-hydroxyundecanoyl histamine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	296.233
+CCMSLIB00013641174	3-hydroxyundecanoyl histamine [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)NCCc1c[nH]cn1	0			1+	NA	318.215
+CCMSLIB00013641175	3-hydroxydecanoyl histidine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	326.207
+CCMSLIB00013641176	3-hydroxylauroyl histidine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	354.239
+CCMSLIB00013641177	3-hydroxylauroyl histidine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	336.228
+CCMSLIB00013641178	3-hydroxypropionyl histidine [M+H]+ [M+H]+	O=C(CCO)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	228.098
+CCMSLIB00013641180	3-hydroxytetradecanoyl histidine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	404.252
+CCMSLIB00013641182	"""3-hydroxy-4,6-octadienoyl histidine [M+H]+"" [M+H]+"	CC=CC=CC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	294.145
+CCMSLIB00013641183	3-hydroxybutyroyl histidine [M+Na]+ [M+Na]+	CC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	264.095
+CCMSLIB00013641184	3-hydroxybutyroyl histidine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	242.113
+CCMSLIB00013641306	3-hydroxyheptadecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	390.337
+CCMSLIB00013641186	3-hydroxy-cis-13-octadecenoyl histidine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	436.316
+CCMSLIB00013641187	3-hydroxyhexadecanoyl histidine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	410.301
+CCMSLIB00013641188	3-hydroxyhexadecanoyl histidine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	432.283
+CCMSLIB00013641189	3-hydroxynonanoyl histidine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	312.192
+CCMSLIB00013641190	3-hydroxypentanoyl histidine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	278.111
+CCMSLIB00013641192	3-hydroxy-trans-4-tridecenoyl histidine [M+NH4]+ [M+NH4]+	CCCCCCCC/C=C/C(O)CC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O	0			1+	NA	383.266
+CCMSLIB00013641193	3-hydroxydecanoyl homoserine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	290.196
+CCMSLIB00013641195	3-hydroxylauroyl homoserine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	318.227
+CCMSLIB00013641196	3-hydroxylauroyl homoserine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	300.217
+CCMSLIB00013641384	3-hydroxytetradecanoyl serine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	314.232
+CCMSLIB00013641199	3-hydroxybutyroyl homoserine [M+Na]+ [M+Na]+	CC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	228.084
+CCMSLIB00013641200	3-hydroxybutyroyl homoserine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	206.103
+CCMSLIB00013641201	3-hydroxybutyroyl homoserine [M+H-H2O]+ [M+H-H2O]+	CC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	188.092
+CCMSLIB00013641545	3-hydroxytetradecanoyl valine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	326.269
+CCMSLIB00013641205	3-hydroxypentanoyl homoserine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	242.1
+CCMSLIB00013641206	3-hydroxypentanoyl homoserine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCO)C(=O)O	0			1+	NA	220.118
+CCMSLIB00013641313	3-hydroxypentanoyl phenethylamine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	222.149
+CCMSLIB00013641209	3-hydroxylauroyl L-2-aminoadipic acid [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	382.22
+CCMSLIB00013641210	3-hydroxylauroyl L-2-aminoadipic acid [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	342.227
+CCMSLIB00013641211	3-hydroxylauroyl L-2-aminoadipic acid [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	360.238
+CCMSLIB00013641214	3-hydroxybutyroyl L-2-aminoadipic acid [M+H]+ [M+H]+	CC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	248.113
+CCMSLIB00013641215	3-hydroxybutyroyl L-2-aminoadipic acid [M+Na]+ [M+Na]+	CC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	270.095
+CCMSLIB00013641216	3-hydroxybutyroyl L-2-aminoadipic acid [M+NH4]+ [M+NH4]+	CC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	265.14
+CCMSLIB00013641217	3-hydroxyhexadecanoyl L-2-aminoadipic acid [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	416.301
+CCMSLIB00013641218	3-hydroxyhexadecanoyl L-2-aminoadipic acid [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	438.283
+CCMSLIB00013641219	3-hydroxypentanoyl L-2-aminoadipic acid [M+K]+ [M+K]+	CCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	300.084
+CCMSLIB00013641220	3-hydroxypentanoyl L-2-aminoadipic acid [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	279.155
+CCMSLIB00013641221	3-hydroxypentanoyl L-2-aminoadipic acid [M+H]+ [M+H]+	CCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	262.129
+CCMSLIB00013641222	3-hydroxypentanoyl L-2-aminoadipic acid [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	244.118
+CCMSLIB00013641292	3-hydroxydecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	292.227
+CCMSLIB00013641224	3-hydroxyundecanoyl L-2-aminoadipic acid [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NC(CCCC(=O)O)C(=O)O	0			1+	NA	346.223
+CCMSLIB00013641227	3-hydroxylauroyl leucine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	312.253
+CCMSLIB00013641228	3-hydroxypropionyl leucine [M+H]+ [M+H]+	CC(C)C[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	204.123
+CCMSLIB00013641233	3-hydroxybutyroyl leucine [M+NH4]+ [M+NH4]+	CC(C)C[C@H](NC(=O)CC(C)O)C(=O)O	0			1+	NA	235.165
+CCMSLIB00013641236	3-hydroxyhexadecanoyl leucine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	386.326
+CCMSLIB00013641238	3-hydroxypentanoyl leucine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	232.154
+CCMSLIB00013641239	3-hydroxypentanoyl leucine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	249.181
+CCMSLIB00013641240	3-hydroxytridecanoyl leucine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CC(C)C)C(=O)O	0			1+	NA	344.28
+CCMSLIB00013641242	3-hydroxydecanoyl lysine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	317.243
+CCMSLIB00013641243	3-hydroxylauroyl lysine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	345.275
+CCMSLIB00013641244	3-hydroxylauroyl lysine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	367.257
+CCMSLIB00013641245	3-hydroxylauroyl lysine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	327.264
+CCMSLIB00013641246	3-hydroxypropionyl lysine [M+H]+ [M+H]+	NCCCC[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	219.134
+CCMSLIB00013641247	3-hydroxytetradecanoyl lysine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	373.306
+CCMSLIB00013641248	3-hydroxytetradecanoyl lysine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	395.288
+CCMSLIB00013641249	3-hydroxybutyroyl lysine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	233.149
+CCMSLIB00013641250	3-hydroxy-cis-13-octadecenoyl lysine [M+H-H2O]+ [M+H-H2O]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	409.341
+CCMSLIB00013641411	3-hydroxyhexadecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	431.326
+CCMSLIB00013641539	3-hydroxylauroyl valine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	316.248
+CCMSLIB00013641253	3-hydroxyhexadecanoyl lysine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	401.337
+CCMSLIB00013641256	3-hydroxypentanoyl lysine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	247.165
+CCMSLIB00013641257	3-hydroxy-trans-4-tridecenoyl lysine [M+NH4]+ [M+NH4]+	CCCCCCCC/C=C/C(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	374.305
+CCMSLIB00013641258	3-hydroxytridecanoyl lysine [M+NH4]+ [M+NH4]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](CCCCN)C(=O)O	0			1+	NA	376.319
+CCMSLIB00013641259	3-hydroxydecanoyl methionine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	320.189
+CCMSLIB00013641536	3-hydroxytridecanoyl tyrosine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	394.258
+CCMSLIB00013641262	3-hydroxylauroyl methionine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	330.21
+CCMSLIB00013641263	3-hydroxypropionyl methionine [M+H]+ [M+H]+	CSCC[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	222.079
+CCMSLIB00013641265	3-hydroxytetradecanoyl methionine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	358.241
+CCMSLIB00013641266	3-hydroxyheptadecanoyl methionine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	418.299
+CCMSLIB00013641267	3-hydroxyhexadecanoyl methionine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	404.283
+CCMSLIB00013641268	3-hydroxyhexadecanoyl methionine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	426.265
+CCMSLIB00013641269	3-hydroxynonanoyl methionine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCSC)C(=O)O	0			1+	NA	306.173
+CCMSLIB00013641508	3-hydroxyheptadecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	406.332
+CCMSLIB00013641438	3-hydroxytetradecanoyl threonine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	328.248
+CCMSLIB00013641273	3-hydroxybutyroyl ornithine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	236.16
+CCMSLIB00013641274	3-hydroxybutyroyl ornithine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	219.134
+CCMSLIB00013641275	3-hydroxynonanoyl ornithine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	289.212
+CCMSLIB00013641461	3-hydroxyhexadecanoyl tryptamine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	415.331
+CCMSLIB00013641277	3-hydroxypentanoyl ornithine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	255.132
+CCMSLIB00013641278	3-hydroxypentanoyl ornithine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	250.176
+CCMSLIB00013641522	3-hydroxylauroyl tyrosine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	402.225
+CCMSLIB00013641521	3-hydroxylauroyl tyrosine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	380.243
+CCMSLIB00013641282	3-hydroxyundecanoyl ornithine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	317.243
+CCMSLIB00013641283	3-hydroxyundecanoyl ornithine [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	339.225
+CCMSLIB00013641284	3-hydroxydecanoyl ornithine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	303.228
+CCMSLIB00013641285	3-hydroxylauroyl ornithine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	353.241
+CCMSLIB00013641286	3-hydroxylauroyl ornithine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	331.259
+CCMSLIB00013641287	3-hydroxylauroyl ornithine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	313.249
+CCMSLIB00013641288	3-hydroxytetradecanoyl ornithine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	359.29
+CCMSLIB00013641437	3-hydroxytetradecanoyl threonine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	346.258
+CCMSLIB00013641541	3-hydroxylauroyl valine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	298.238
+CCMSLIB00013641291	3-hydroxyhexadecanoyl ornithine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	369.311
+CCMSLIB00013641293	3-hydroxydecanoyl phenethylamine [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	314.209
+CCMSLIB00013641295	3-hydroxylauroyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	302.248
+CCMSLIB00013641296	3-hydroxypropionyl phenethylamine [M+H]+ [M+H]+	O=C(CCO)NCCc1ccccc1	0			1+	NA	194.117
+CCMSLIB00013641297	3-hydroxypropionyl phenethylamine [M+NH4]+ [M+NH4]+	O=C(CCO)NCCc1ccccc1	0			1+	NA	211.144
+CCMSLIB00013641299	3-hydroxytetradecanoyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	330.279
+CCMSLIB00013641300	"""3-hydroxy-4,6-nonadienoyl phenethylamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1ccccc1	0			1+	NA	274.18
+CCMSLIB00013641319	3-hydroxydecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	336.217
+CCMSLIB00013641303	3-hydroxy-8-undecenoyl phenethylamine [M+H]+ [M+H]+	CCC=CCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	304.227
+CCMSLIB00013641304	3-hydroxybutyroyl phenethylamine [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1ccccc1	0			1+	NA	208.133
+CCMSLIB00013641305	3-hydroxybutyroyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CC(O)CC(=O)NCCc1ccccc1	0			1+	NA	190.123
+CCMSLIB00013641307	3-hydroxyhexadecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	376.318
+CCMSLIB00013641308	3-hydroxynonanoyl phenethylamine [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	300.193
+CCMSLIB00013641309	3-hydroxynonanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	278.211
+CCMSLIB00013641310	3-hydroxynonanoyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	260.201
+CCMSLIB00013641311	3-hydroxyoctadecanoyl phenethylamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	404.352
+CCMSLIB00013641314	3-hydroxypentanoyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	204.138
+CCMSLIB00013641317	3-hydroxyundecanoyl phenethylamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCC(O)CC(=O)NCCc1ccccc1	0			1+	NA	288.232
+CCMSLIB00013641318	3-hydroxydecanoyl phenylalanine [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	358.199
+CCMSLIB00013641417	3-hydroxytridecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	389.28
+CCMSLIB00013641323	3-hydroxypropionyl phenylalanine [M+NH4]+ [M+NH4]+	O=C(CCO)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	255.132
+CCMSLIB00013641325	3-hydroxytetradecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	392.279
+CCMSLIB00013641326	3-hydroxytetradecanoyl phenylalanine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	414.261
+CCMSLIB00013641327	3-hydroxybutyroyl phenylalanine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	252.123
+CCMSLIB00013641328	3-hydroxy-cis-13-octadecenoyl phenylalanine [M+NH4]+ [M+NH4]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	463.349
+CCMSLIB00013641329	3-hydroxyheptadecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	434.327
+CCMSLIB00013641330	3-hydroxyhexadecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	420.31
+CCMSLIB00013641332	3-hydroxyhexadecanoyl phenylalanine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	402.3
+CCMSLIB00013641333	3-hydroxynonanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	322.201
+CCMSLIB00013641334	3-hydroxyoctadecanoyl phenylalanine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	448.342
+CCMSLIB00013641335	3-hydroxypentanoyl phenylalanine [M+K]+ [M+K]+	CCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	304.095
+CCMSLIB00013641336	3-hydroxypentanoyl phenylalanine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	266.138
+CCMSLIB00013641337	3-hydroxypentanoyl phenylalanine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O	0			1+	NA	288.12
+CCMSLIB00013641365	"""3-hydroxyhexadecanoyl propane-1,3-diamine [M+Na]+"" [M+Na]+"	CCCCCCCCCCCCCC(O)CC(=O)NCCCN	0			1+	NA	351.298
+CCMSLIB00013641341	3-hydroxydecanoyl proline [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	286.201
+CCMSLIB00013641342	3-hydroxylauroyl proline [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	314.233
+CCMSLIB00013641343	3-hydroxylauroyl proline [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	336.215
+CCMSLIB00013641345	3-hydroxylauroyl proline [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	296.222
+CCMSLIB00013641346	3-hydroxypropionyl proline [M+Na]+ [M+Na]+	O=C(O)[C@@H]1CCCN1C(=O)CCO	0			1+	NA	210.074
+CCMSLIB00013641347	3-hydroxypropionyl proline [M+H]+ [M+H]+	O=C(O)[C@@H]1CCCN1C(=O)CCO	0			1+	NA	188.092
+CCMSLIB00013641349	3-hydroxybutyroyl proline [M+H]+ [M+H]+	CC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	202.107
+CCMSLIB00013641350	3-hydroxyheptadecanoyl proline [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	384.311
+CCMSLIB00013641351	3-hydroxyhexadecanoyl proline [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	370.295
+CCMSLIB00013641352	3-hydroxyhexadecanoyl proline [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	392.277
+CCMSLIB00013641356	3-hydroxypentanoyl proline [M+Na]+ [M+Na]+	CCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	238.105
+CCMSLIB00013641357	3-hydroxypentanoyl proline [M+H]+ [M+H]+	CCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	216.123
+CCMSLIB00013641358	3-hydroxypentanoyl proline [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	233.149
+CCMSLIB00013641360	3-hydroxyundecanoyl proline [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N1CCC[C@H]1C(=O)O	0			1+	NA	300.217
+CCMSLIB00013641361	"""3-hydroxylauroyl propane-1,3-diamine [M+K]+"" [M+K]+"	CCCCCCCCCC(O)CC(=O)NCCCN	0			1+	NA	311.21
+CCMSLIB00013641386	3-hydroxybutyroyl serine [M+Na]+ [M+Na]+	CC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	214.068
+CCMSLIB00013641363	"""3-hydroxylauroyl propane-1,3-diamine [M+H-H2O]+"" [M+H-H2O]+"	CCCCCCCCCC(O)CC(=O)NCCCN	0			1+	NA	255.243
+CCMSLIB00013641364	"""3-hydroxyhexadecanoyl propane-1,3-diamine [M+H]+"" [M+H]+"	CCCCCCCCCCCCCC(O)CC(=O)NCCCN	0			1+	NA	329.316
+CCMSLIB00013641369	"""3-hydroxypentanoyl propane-1,3-diamine [M+H]+"" [M+H]+"	CCC(O)CC(=O)NCCCN	0			1+	NA	175.144
+CCMSLIB00013641372	3-hydroxyundecanoyl putrescine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	273.254
+CCMSLIB00013641373	3-hydroxydecanoyl putrescine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	259.238
+CCMSLIB00013641374	3-hydroxylauroyl putrescine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	269.259
+CCMSLIB00013641375	3-hydroxylauroyl putrescine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	287.269
+CCMSLIB00013641377	3-hydroxyhexadecanoyl putrescine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	365.314
+CCMSLIB00013641378	3-hydroxyhexadecanoyl putrescine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCCCN	0			1+	NA	343.332
+CCMSLIB00013641379	3-hydroxydecanoyl serine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	276.181
+CCMSLIB00013641380	3-hydroxylauroyl serine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	304.212
+CCMSLIB00013641381	3-hydroxylauroyl serine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	326.194
+CCMSLIB00013641382	3-hydroxylauroyl serine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	286.201
+CCMSLIB00013641387	3-hydroxybutyroyl serine [M+H-H2O]+ [M+H-H2O]+	CC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	174.076
+CCMSLIB00013641390	3-hydroxynonanoyl serine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	262.165
+CCMSLIB00013641391	3-hydroxypentanoyl serine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	206.103
+CCMSLIB00013641392	3-hydroxypentanoyl serine [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	188.092
+CCMSLIB00013641393	3-hydroxyundecanoyl serine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](CO)C(=O)O	0			1+	NA	290.196
+CCMSLIB00013641394	3-hydroxydecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	347.233
+CCMSLIB00013641395	3-hydroxydecanoyl serotonin [M+Na]+ [M+Na]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	369.215
+CCMSLIB00013641396	3-hydroxydecanoyl serotonin [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	329.222
+CCMSLIB00013641397	3-hydroxylauroyl serotonin [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	357.254
+CCMSLIB00013641398	3-hydroxylauroyl serotonin [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	375.264
+CCMSLIB00013641399	3-hydroxylauroyl serotonin [M+NH4]+ [M+NH4]+	CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	392.287
+CCMSLIB00013641400	3-hydroxypropionyl serotonin [M+H]+ [M+H]+	O=C(CCO)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	249.123
+CCMSLIB00013641401	3-hydroxypropionyl serotonin [M+Na]+ [M+Na]+	O=C(CCO)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	271.105
+CCMSLIB00013641402	3-hydroxypropionyl serotonin [M+NH4]+ [M+NH4]+	O=C(CCO)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	266.152
+CCMSLIB00013641403	3-hydroxytetradecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	403.295
+CCMSLIB00013641404	3-hydroxytetradecanoyl serotonin [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	425.277
+CCMSLIB00013641405	3-hydroxybutyroyl serotonin [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	263.139
+CCMSLIB00013641406	3-hydroxybutyroyl serotonin [M+NH4]+ [M+NH4]+	CC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	280.166
+CCMSLIB00013641409	3-hydroxyheptadecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	445.343
+CCMSLIB00013641408	3-hydroxy-cis-13-octadecenoyl serotonin [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	457.34
+CCMSLIB00013641410	3-hydroxyheptadecanoyl serotonin [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	467.325
+CCMSLIB00013641412	3-hydroxynonanoyl serotonin [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	333.217
+CCMSLIB00013641418	3-hydroxyundecanoyl serotonin [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccc(O)cc12	0			1+	NA	361.249
+CCMSLIB00013641419	3-hydroxydecanoyl spermidine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	298.285
+CCMSLIB00013641420	3-hydroxydecanoyl spermidine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	316.296
+CCMSLIB00013641421	3-hydroxylauroyl spermidine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	366.309
+CCMSLIB00013641422	3-hydroxylauroyl spermidine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	344.327
+CCMSLIB00013641423	3-hydroxypropionyl spermidine [M+H]+ [M+H]+	NCCCNCCCCNC(=O)CCO	0			1+	NA	218.186
+CCMSLIB00013641424	3-hydroxytetradecanoyl spermidine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	372.358
+CCMSLIB00013641425	3-hydroxytetradecanoyl spermidine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCCCNCCCN	0			1+	NA	394.34
+CCMSLIB00013641427	3-hydroxybutyroyl spermidine [M+H]+ [M+H]+	CC(O)CC(=O)NCCCCNCCCN	0			1+	NA	232.202
+CCMSLIB00013641429	3-hydroxydecanoyl spermine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCCNCCCCNCCCN	0			1+	NA	373.354
+CCMSLIB00013641430	3-hydroxylauroyl spermine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCCNCCCCNCCCN	0			1+	NA	401.385
+CCMSLIB00013641431	"""3-hydroxy-4,6-octadienoyl spermine [M+H-H2O]+"" [M+H-H2O]+"	CC=CC=CC(O)CC(=O)NCCCNCCCCNCCCN	0			1+	NA	323.281
+CCMSLIB00013641432	3-hydroxyhexadecanoyl spermine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCCNCCCCNCCCN	0			1+	NA	457.447
+CCMSLIB00013641433	3-hydroxydecanoyl threonine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	290.196
+CCMSLIB00013641434	3-hydroxylauroyl threonine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	340.21
+CCMSLIB00013641435	3-hydroxylauroyl threonine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	318.228
+CCMSLIB00013641436	3-hydroxylauroyl threonine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	300.217
+CCMSLIB00013641439	3-hydroxybutyroyl threonine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	206.102
+CCMSLIB00013641441	3-hydroxyhexadecanoyl threonine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	374.29
+CCMSLIB00013641442	3-hydroxyhexadecanoyl threonine [M+Na]+ [M+Na]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	396.272
+CCMSLIB00013641444	3-hydroxynonanoyl threonine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	276.181
+CCMSLIB00013641445	3-hydroxypentanoyl threonine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	220.118
+CCMSLIB00013641446	3-hydroxypentanoyl threonine [M+Na]+ [M+Na]+	CCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	242.1
+CCMSLIB00013641447	3-hydroxypentanoyl threonine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@H](C(=O)O)[C@@H](C)O	0			1+	NA	237.144
+CCMSLIB00013641496	3-hydroxylauroyl tyramine [M+H]+ [M+H]+	CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	336.253
+CCMSLIB00013641449	3-hydroxydecanoyl tryptamine [M+K]+ [M+K]+	CCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	369.194
+CCMSLIB00013641451	3-hydroxypropionyl tryptamine [M+H]+ [M+H]+	O=C(CCO)NCCc1c[nH]c2ccccc12	0			1+	NA	233.128
+CCMSLIB00013641452	3-hydroxypropionyl tryptamine [M+K]+ [M+K]+	O=C(CCO)NCCc1c[nH]c2ccccc12	0			1+	NA	271.084
+CCMSLIB00013641509	3-hydroxyhexadecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	392.316
+CCMSLIB00013641454	3-hydroxytetradecanoyl tryptamine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	409.282
+CCMSLIB00013641455	"""3-hydroxy-4,6-nonadienoyl tryptamine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	313.191
+CCMSLIB00013641456	3-hydroxy-6-dodecenoyl tryptamine [M+H]+ [M+H]+	CCCCCC=CCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	357.253
+CCMSLIB00013641457	3-hydroxybutyroyl tryptamine [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	247.144
+CCMSLIB00013641458	3-hydroxy-cis-13-octadecenoyl tryptamine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	441.346
+CCMSLIB00013641459	3-hydroxy-cis-13-octadecenoyl tryptamine [M+NH4]+ [M+NH4]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	458.372
+CCMSLIB00013641460	3-hydroxyheptadecanoyl tryptamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	429.348
+CCMSLIB00013641462	3-hydroxynonanoyl tryptamine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	317.222
+CCMSLIB00013641463	3-hydroxynonanoyl tryptamine [M+H-H2O]+ [M+H-H2O]+	CCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	299.212
+CCMSLIB00013641464	3-hydroxyoctadecanoyl tryptamine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	443.363
+CCMSLIB00013641465	3-hydroxypentanoyl tryptamine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	261.16
+CCMSLIB00013641467	3-hydroxypentanoyl tryptamine [M+H-H2O]+ [M+H-H2O]+	CCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	243.149
+CCMSLIB00013641468	3-hydroxypentanoyl tryptamine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	278.186
+CCMSLIB00013641469	3-hydroxytridecanoyl tryptamine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	373.285
+CCMSLIB00013641471	3-hydroxyundecanoyl tryptamine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	345.254
+CCMSLIB00013641472	3-hydroxydecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	375.228
+CCMSLIB00013641475	3-hydroxypropionyl tryptophan [M+Na]+ [M+Na]+	O=C(CCO)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	299.1
+CCMSLIB00013641477	3-hydroxypropionyl tryptophan [M+H-H2O]+ [M+H-H2O]+	O=C(CCO)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	259.108
+CCMSLIB00013641479	3-hydroxybutyroyl tryptophan [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	291.134
+CCMSLIB00013641480	3-hydroxybutyroyl tryptophan [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	308.16
+CCMSLIB00013641482	3-hydroxyheptadecanoyl tryptophan [M+Na]+ [M+Na]+	CCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	495.319
+CCMSLIB00013641483	3-hydroxyhexadecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	459.321
+CCMSLIB00013641507	3-hydroxy-cis-13-octadecenoyl tyramine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	418.329
+CCMSLIB00013641486	3-hydroxynonanoyl tryptophan [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	361.212
+CCMSLIB00013641487	3-hydroxyoctadecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	487.353
+CCMSLIB00013641488	3-hydroxypentanoyl tryptophan [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	305.149
+CCMSLIB00013641494	3-hydroxydecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	308.222
+CCMSLIB00013641491	3-hydroxytridecanoyl tryptophan [M+Na]+ [M+Na]+	CCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	439.257
+CCMSLIB00013641492	3-hydroxyundecanoyl tryptophan [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	389.243
+CCMSLIB00013641495	3-hydroxydecanoyl tyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	290.211
+CCMSLIB00013641498	3-hydroxypropionyl tyramine [M+Na]+ [M+Na]+	O=C(CCO)NCCc1ccc(O)cc1	0			1+	NA	232.094
+CCMSLIB00013641499	3-hydroxypropionyl tyramine [M+H]+ [M+H]+	O=C(CCO)NCCc1ccc(O)cc1	0			1+	NA	210.112
+CCMSLIB00013641501	3-hydroxytetradecanoyl tyramine [M+Na]+ [M+Na]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	386.266
+CCMSLIB00013641502	3-hydroxytetradecanoyl tyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	346.274
+CCMSLIB00013641503	"""3-hydroxy-4,6-nonadienoyl tyramine [M+H]+"" [M+H]+"	CCC=CC=CC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	290.175
+CCMSLIB00013641504	"""3-hydroxy-4,6-octadienoyl tyramine [M+H-H2O]+"" [M+H-H2O]+"	CC=CC=CC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	258.149
+CCMSLIB00013641505	3-hydroxybutyroyl tyramine [M+H]+ [M+H]+	CC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	224.128
+CCMSLIB00013641506	3-hydroxybutyroyl tyramine [M+Na]+ [M+Na]+	CC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	246.11
+CCMSLIB00013641551	3-hydroxyhexadecanoyl valine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	372.31
+CCMSLIB00013641511	3-hydroxynonanoyl tyramine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	294.206
+CCMSLIB00013641512	3-hydroxynonanoyl tyramine [M+Na]+ [M+Na]+	CCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	316.188
+CCMSLIB00013641513	3-hydroxynonanoyl tyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	276.196
+CCMSLIB00013641514	3-hydroxyoctadecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	420.347
+CCMSLIB00013641515	3-hydroxypentanoyl tyramine [M+H]+ [M+H]+	CCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	238.144
+CCMSLIB00013641516	3-hydroxytridecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	350.269
+CCMSLIB00013641517	3-hydroxyundecanoyl tyramine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	322.238
+CCMSLIB00013641518	3-hydroxyundecanoyl tyramine [M+Na]+ [M+Na]+	CCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	344.22
+CCMSLIB00013641519	3-hydroxyundecanoyl tyramine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCC(O)CC(=O)NCCc1ccc(O)cc1	0			1+	NA	304.227
+CCMSLIB00013641523	3-hydroxypropionyl tyrosine [M+H]+ [M+H]+	O=C(CCO)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	254.102
+CCMSLIB00013641524	3-hydroxytetradecanoyl tyrosine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	408.274
+CCMSLIB00013641525	3-hydroxybutyroyl tyrosine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	268.118
+CCMSLIB00013641526	3-hydroxybutyroyl tyrosine [M+K]+ [M+K]+	CC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	306.074
+CCMSLIB00013641527	3-hydroxybutyroyl tyrosine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	285.144
+CCMSLIB00013641528	3-hydroxy-cis-13-octadecenoyl tyrosine [M+H]+ [M+H]+	CCCC/C=C\CCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	462.32
+CCMSLIB00013641529	3-hydroxyhexadecanoyl tyrosine [M+H]+ [M+H]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	436.306
+CCMSLIB00013641530	3-hydroxyhexadecanoyl tyrosine [M+H-H2O]+ [M+H-H2O]+	CCCCCCCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	418.295
+CCMSLIB00013641531	3-hydroxynonanoyl tyrosine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	338.196
+CCMSLIB00013641532	3-hydroxypentanoyl tyrosine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	282.133
+CCMSLIB00013641534	3-hydroxy-trans-4-tridecenoyl tyrosine [M+H]+ [M+H]+	CCCCCCCC/C=C/C(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	392.243
+CCMSLIB00013641537	3-hydroxyundecanoyl tyrosine [M+H]+ [M+H]+	CCCCCCCCC(O)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O	0			1+	NA	366.227
+CCMSLIB00013641538	3-hydroxydecanoyl valine [M+H]+ [M+H]+	CCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	288.217
+CCMSLIB00013641540	3-hydroxylauroyl valine [M+Na]+ [M+Na]+	CCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	338.23
+CCMSLIB00013641542	3-hydroxypropionyl valine [M+H]+ [M+H]+	CC(C)[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	190.107
+CCMSLIB00013641543	3-hydroxypropionyl valine [M+H-H2O]+ [M+H-H2O]+	CC(C)[C@H](NC(=O)CCO)C(=O)O	0			1+	NA	172.097
+CCMSLIB00013641544	3-hydroxytetradecanoyl valine [M+H]+ [M+H]+	CCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	344.279
+CCMSLIB00013641547	3-hydroxybutyroyl valine [M+NH4]+ [M+NH4]+	CC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	221.15
+CCMSLIB00013641548	3-hydroxybutyroyl valine [M+Na]+ [M+Na]+	CC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	226.105
+CCMSLIB00013641549	3-hydroxybutyroyl valine [M+H]+ [M+H]+	CC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	204.123
+CCMSLIB00013641552	3-hydroxynonanoyl valine [M+H]+ [M+H]+	CCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	274.201
+CCMSLIB00013641553	3-hydroxyoctadecanoyl valine [M+H]+ [M+H]+	CCCCCCCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	400.342
+CCMSLIB00013641554	3-hydroxypentanoyl valine [M+NH4]+ [M+NH4]+	CCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	235.165
+CCMSLIB00013641555	3-hydroxypentanoyl valine [M+H]+ [M+H]+	CCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	218.139
+CCMSLIB00013641557	3-hydroxytridecanoyl valine [M+H]+ [M+H]+	CCCCCCCCCCC(O)CC(=O)N[C@H](C(=O)O)C(C)C	0			1+	NA	330.264
