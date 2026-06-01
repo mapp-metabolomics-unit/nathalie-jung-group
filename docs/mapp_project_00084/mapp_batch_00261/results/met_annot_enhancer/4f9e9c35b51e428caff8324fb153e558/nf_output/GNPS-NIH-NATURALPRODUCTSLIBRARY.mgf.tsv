@@ -1,0 +1,788 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00000079350	"""MLS001141366-01!(2R)-2-[3-[(10aS)-1,3-dioxo-10,10a-dihydro-5H-imidazo[1,5-b]isoquinolin-2-yl]propanoylamino]-2-phenylacetic acid"" M+H"	OC(=O)[C@H](NC(=O)CCN1C(=O)[C@@H]2Cc3ccccc3CN2C1=O)c4ccccc4	0			1+	NA	408.156
+CCMSLIB00000080430	"""MLS001157729-01!N-cyclopropyl-2-[(3,4,8,8-tetramethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1c(C)c2c(OCC(=O)NC3CC3)cc4OC(C)(C)CCc4c2oc1=O	0			1+	NA	372.181
+CCMSLIB00000079352	MLS000697658-01!5-hydroxy-7-methoxy-2-phenylchromen-4-one M+H	COc1cc(O)c2c(=O)cc(oc2c1)c3ccccc3	0			1+	NA	269.081
+CCMSLIB00000079468	"""MLS001139219-01!(2S)-2-[2-[(4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]propanoylamino]-3-phenylpropanoic acid"" M+H"	CC(Oc1ccc2c3CCCc3c(=O)oc2c1)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	422.16
+CCMSLIB00000079417	"""MLS001032152-01!5-[2-(4-hydroxypiperidin-1-yl)-2-oxoethoxy]-3,4,8,8-tetramethyl-9,10-dihydropyrano[2,3-h]chromen-2-one"" M+H"	Cc1c(C)c2c(OCC(=O)N3CCC(O)CC3)cc4OC(C)(C)CCc4c2oc1=O	0			1+	NA	416.207
+CCMSLIB00000079428	MLS001049107-01! M+H	COc1cc(C)c2C(=O)Oc3c(C)c(O)c4C(=O)OC(O)c4c3Oc2c1C=O	0			1+	NA	387.072
+CCMSLIB00000079356	"""MLS001141331-01!(2S)-2-[[2-(3-benzyl-4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-phenylpropanoic acid"" M+H"	Cc1c(Cc2ccccc2)c(=O)oc3c(C)c(OCC(=O)N[C@@H](Cc4ccccc4)C(=O)O)ccc13	0			1+	NA	486.192
+CCMSLIB00000079357	MLS001048862-01!3-(1H-indol-3-yl)-2-methylpropanoic acid M+H	CC(Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	204.102
+CCMSLIB00000079358	MLS001141033-01!1-[(2S)-2-amino-4-methylpentanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@@H](NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CC(C)C)C(C)C)cc1	0			1+	NA	461.313
+CCMSLIB00000080333	MLS001141191-01! M+H	CC(C)[C@H](NC(=O)N1C[C@H]2C[C@@H](C1)c3cccc(=O)n3C2)C(=O)Nc4cccc(C)c4	0			1+	NA	423.24
+CCMSLIB00000079786	MLS000563108-01! M+H	COc1cc(C)c(C(=O)Oc2cc(C)c(C(=O)O)c(O)c2C)c(O)c1C(=O)O	0			1+	NA	391.103
+CCMSLIB00000080174	MLS001075553-01! M+H	COc1ccccc1CCNC(=O)CCC(=O)N2C[C@@H]3CC(C2)c4cccc(=O)n4C3	0			1+	NA	424.224
+CCMSLIB00000079362	MLS001097651-01! M+H	C/C=C(\C)/C(=O)N[C@H]([C@@H](O)C(=O)O[C@H]\1C[C@@]2(O)[C@@H](OC(=O)c3ccccc3)C4[C@@]5(CO[C@@H]5C[C@H](O)[C@@]4(C)C(=O)[C@H](OC(=O)C)/C(=C1\C)/C2(C)C)OC(=O)C)c6ccccc6	0			1+	NA	832.354
+CCMSLIB00000079363	MLS000863588-01!2-methoxy-3-methyl-9H-carbazole M+H	COc1cc2[nH]c3ccccc3c2cc1C	0			1+	NA	212.108
+CCMSLIB00000079364	MLS002637755-01! M+H	O=C(Oc1cccc2ccccc12)c3ccccc3	0			1+	NA	249.092
+CCMSLIB00000079365	MLS001141076-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NC5CC5)C(=O)[C@@]43C)c2c1	0			1+	NA	397.188
+CCMSLIB00000080532	MLS001141013-01!1-[(2S)-2-amino-3-phenylpropanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)Cc3ccccc3)cc1	0			1+	NA	467.266
+CCMSLIB00000080536	"""MLS001140679-01!(2S)-2-[[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-4-methylsulfanylbutanoyl]amino]-3-phenylpropanoic acid"" M+H"	CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	589.212
+CCMSLIB00000079630	MLS001158633-01!N-(3-imidazol-1-ylpropyl)-2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxyacetamide M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OCC(=O)NCCCn4ccnc4)ccc23	0			1+	NA	434.172
+CCMSLIB00000079369	MLS000697721-01! M+H	COc1c2ccoc2cc3oc(C)cc(=O)c13	0			1+	NA	231.066
+CCMSLIB00000080230	"""MLS001146619-01!3,4-dimethoxy-N-(2-pyridin-3-ylpiperidine-1-carbothioyl)benzamide"" M+H"	COc1ccc(cc1OC)C(=O)NC(=S)N2CCCCC2c3cccnc3	0			1+	NA	386.154
+CCMSLIB00000079832	"""MLS001140586-01!(3R)-N-cyclopentyl-6,7-dimethoxy-2,2-dimethyl-5-oxo-3,9b-dihydro-[1,3]thiazolo[2,3-a]isoindole-3-carboxamide"" M+H"	COc1ccc2C3SC(C)(C)[C@H](N3C(=O)c2c1OC)C(=O)NC4CCCC4	0			1+	NA	391.169
+CCMSLIB00000080247	MLS001157888-01!1-[2-(4-butyl-7-methyl-2-oxochromen-5-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	CCCCc1cc(=O)oc2cc(C)cc(OCC(=O)N3CCC(CC3)C(=O)O)c12	0			1+	NA	402.192
+CCMSLIB00000080618	"""MLS000863591-01!methyl 3-ethenyl-4-[[6-[4-(4-hydroxyphenyl)-2-oxobutyl]-4-oxooxan-2-yl]methyl]-2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,4-dihydro-2H-pyran-5-carboxylate"" M+H"	COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C(C=C)C1CC3CC(=O)CC(CC(=O)CCc4ccc(O)cc4)O3	0			1+	NA	621.255
+CCMSLIB00000080052	"""MLS002693953-01!N-(8-hydroxy-6-methoxy-2-phenyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-7-yl)acetamide"" M+H"	COC1OC2COC(OC2C(O)C1NC(=O)C)c3ccccc3	0			1+	NA	324.145
+CCMSLIB00000079375	MLS000574930-01! M+Na	C[C@@H]1[C@@H]2CC(=O)O[C@@H]3C[C@](C)([C@H]4OC(=O)C=C4C)C(=C(O)C1=O)[C@@]32CO	0			1+	NA	385.126
+CCMSLIB00000079376	MLS000574930-01! M+H	C[C@@H]1[C@@H]2CC(=O)O[C@@H]3C[C@](C)([C@H]4OC(=O)C=C4C)C(=C(O)C1=O)[C@@]32CO	0			1+	NA	363.144
+CCMSLIB00000080124	MLS001142600-01!2-[[1-[(2S)-3-methyl-2-[(4-methylphenyl)sulfonylamino]butanoyl]piperidine-4-carbonyl]amino]heptanoic acid M+H	CCCCCC(NC(=O)C1CCN(CC1)C(=O)[C@@H](NS(=O)(=O)c2ccc(C)cc2)C(C)C)C(=O)O	0			1+	NA	510.264
+CCMSLIB00000079792	"""MLS001141218-01!N-[(2-methoxyphenyl)methyl]-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	COc1ccccc1CNC(=O)COc2cc3OC(C)(C)CCc3c4oc(=O)cc(C)c24	0			1+	NA	438.192
+CCMSLIB00000079379	MLS001048959-01!4-hydroxy-1-methyl-2-oxopyridine-3-carbonitrile M+H	Cn1ccc(O)c(C#N)c1=O	0			1+	NA	151.051
+CCMSLIB00000080509	MLS001142768-01!methyl 1-[1-[(2S)-2-[(4-methylphenyl)sulfonylamino]propanoyl]piperidine-4-carbonyl]piperidine-4-carboxylate M+H	COC(=O)C1CCN(CC1)C(=O)C2CCN(CC2)C(=O)[C@H](C)NS(=O)(=O)c3ccc(C)cc3	0			1+	NA	480.217
+CCMSLIB00000079381	MLS001139277-01!(2S)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)-N-(oxolan-2-ylmethyl)pyrrolidine-2-carboxamide M+H	O=C(NCC1CCCO1)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34	0			1+	NA	345.145
+CCMSLIB00000079382	MLS001142747-01! M+H	COc1ccc(CNC(=O)[C@H](C)N2C(=O)N3CCc4c([nH]c5ccccc45)[C@@]3(C)C2=O)cc1OC	0			1+	NA	477.214
+CCMSLIB00000079383	MLS001141047-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2S)-1-[(2-fluorophenyl)methylamino]-3-methyl-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	CSCC[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@@H](C(C)C)C(=O)NCc2ccccc2F	0			1+	NA	467.249
+CCMSLIB00000079384	MLS000728639-01! M+H	CN1CCC23C4Nc5ccccc5C3(CCN4C)C1Nc6ccccc62	0			1+	NA	347.224
+CCMSLIB00000080552	MLS001157807-01!4-[[2-(6-oxobenzo[c]chromen-3-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CC(Oc1ccc2c(c1)oc(=O)c3ccccc32)C(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O	0			1+	NA	424.176
+CCMSLIB00000080585	MLS001140960-01!4-[[2-(4-ethyl-8-methyl-2-oxochromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCc1cc(=O)oc2c(C)c(OC(C)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	416.207
+CCMSLIB00000079807	MLS001140705-01! M+H	Fc1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)NCCCN7CCOCC7	0			1+	NA	582.252
+CCMSLIB00000080593	MLS001142922-01! M+H	Clc1cccc(NC(=O)CCNC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	415.154
+CCMSLIB00000080376	"""MLS001162662-01!2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]-N-(4-sulfamoylphenyl)acetamide"" M+H"	CC1(C)CC(=O)c2c(O)cc(OCC(=O)Nc3ccc(cc3)S(=O)(=O)N)cc2O1	0			1+	NA	421.107
+CCMSLIB00000080496	MLS001140980-01!4-[[2-(2-oxo-4-propylchromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCCc1cc(=O)oc2cc(OC(C)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	416.207
+CCMSLIB00000079940	"""MLS001141214-01!N-[(3-methoxyphenyl)methyl]-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	COc1cccc(CNC(=O)COc2cc3OC(C)(C)CCc3c4oc(=O)cc(C)c24)c1	0			1+	NA	438.192
+CCMSLIB00000080276	"""MLS001140268-01!(2S)-3-phenyl-2-[2-[[2-(2,3,5,9-tetramethyl-7-oxofuro[3,2-g]chromen-6-yl)acetyl]amino]pentanoylamino]propanoic acid"" M+H"	CCCC(NC(=O)Cc1c(C)c2cc3c(C)c(C)oc3c(C)c2oc1=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	547.244
+CCMSLIB00000080586	MLS001140241-01! M+H	CC(C)[C@H](NC(=O)[C@@H]1Cc2c([nH]c3ccccc23)C4N1C(=O)c5ccccc45)C(=O)N6CCC[C@@H]6C(=O)O	0			1+	NA	515.229
+CCMSLIB00000080387	MLS001160501-01! M+H	Cc1c(CC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c(=O)oc5cc(O)c(Cl)cc15	0			1+	NA	441.122
+CCMSLIB00000079395	MLS001141046-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NC5CCN(Cc6ccccc6)CC5)C(=O)[C@@]43C)c2c1	0			1+	NA	530.277
+CCMSLIB00000080142	"""MLS001140709-01!(2S)-1-[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]propanoyl]pyrrolidine-2-carboxylic acid"" M+H"	C[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N4CCC[C@H]4C(=O)O	0			1+	NA	479.193
+CCMSLIB00000080535	MLS001142709-01!(2S)-3-(4-hydroxyphenyl)-2-[[1-[(2S)-2-[(4-methylphenyl)sulfonylamino]-4-methylsulfanylbutanoyl]piperidine-4-carbonyl]amino]propanoic acid M+H	CSCC[C@H](NS(=O)(=O)c1ccc(C)cc1)C(=O)N2CCC(CC2)C(=O)N[C@@H](Cc3ccc(O)cc3)C(=O)O	0			1+	NA	578.199
+CCMSLIB00000080250	MLS000517295-01! M+H	COC(=O)c1c(C)cc(O)c(C)c1O	0			1+	NA	197.081
+CCMSLIB00000079399	MLS001140910-01!4-[[2-(2-oxochromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CC(Oc1ccc2ccc(=O)oc2c1)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O	0			1+	NA	374.16
+CCMSLIB00000080381	MLS000728649-01! M+H	CN1CC2(C=C)[C@@H]3C[C@H]4OCC3[C@@H]1[C@@H]2[C@@]45C(=O)Nc6ccccc65	0			1+	NA	323.176
+CCMSLIB00000080284	"""MLS001159032-01!2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(furan-2-ylmethyl)acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccco4)c12	0			1+	NA	412.176
+CCMSLIB00000080372	MLS001142757-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCCc5ccccc5	0			1+	NA	431.208
+CCMSLIB00000079403	MLS000876766-01!4-[[2-[(E)-3-hydroxybut-1-enyl]-5-oxooxolan-3-yl]amino]benzaldehyde M+H	CC(O)/C=C/C1OC(=O)CC1Nc2ccc(C=O)cc2	0			1+	NA	276.124
+CCMSLIB00000080309	"""MLS000877038-01!2-(4,5-dihydroxy-2-methylphenyl)-6-hydroxy-4-methoxybenzoic acid"" M+H"	COc1cc(O)c(C(=O)O)c(c1)c2cc(O)c(O)cc2C	0			1+	NA	291.087
+CCMSLIB00000079405	"""MLS001048914-01!1-(2,6-dihydroxyphenyl)dodecan-1-one"" M+H"	CCCCCCCCCCCC(=O)c1c(O)cccc1O	0			1+	NA	293.212
+CCMSLIB00000080508	MLS001140662-01! M+H	Cc1ccccc1C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)NCCN7CCOCC7	0			1+	NA	564.261
+CCMSLIB00000079877	MLS001142431-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCc5c(F)cccc5Cl)C(=O)[C@@]43C)c2c1	0			1+	NA	499.155
+CCMSLIB00000079408	MLS001140925-01!1-[(2S)-2-amino-3-phenylpropanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@@H](NC(=O)C2CCN(CC2)C(=O)[C@@H](N)Cc3ccccc3)C(C)C)cc1	0			1+	NA	495.297
+CCMSLIB00000080568	"""MLS001049145-01!2-(2,6-dihydroxyphenyl)-5-hydroxy-6,7,8-trimethoxychromen-4-one"" M+H"	COc1c(O)c2c(=O)cc(oc2c(OC)c1OC)c3c(O)cccc3O	0			1+	NA	361.092
+CCMSLIB00000080574	MLS001140968-01!4-[[[2-(3-ethyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	CCc1c(C)c2ccc(OCC(=O)NCC3CCC(CC3)C(=O)O)cc2oc1=O	0			1+	NA	402.192
+CCMSLIB00000080541	"""MLS001032409-01!N-(3-morpholin-4-ylpropyl)-3-(2,3,5-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1oc2cc3oc(=O)c(CCC(=O)NCCCN4CCOCC4)c(C)c3cc2c1C	0			1+	NA	427.223
+CCMSLIB00000080433	MLS001158027-01!3-(5-hydroxy-1H-indol-3-yl)-2-[2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxypropanoylamino]propanoic acid M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OC(C)C(=O)NC(Cc4c[nH]c5ccc(O)cc45)C(=O)O)ccc23	0			1+	NA	543.177
+CCMSLIB00000079413	"""MLS001158963-01!N-(3-imidazol-1-ylpropyl)-3-(3,5,9-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1coc2c(C)c3oc(=O)c(CCC(=O)NCCCn4ccnc4)c(C)c3cc12	0			1+	NA	408.192
+CCMSLIB00000079414	"""MLS000876978-01!3,4-dimethyl-2,5-bis(3,4,5-trimethoxyphenyl)oxolane"" M+H"	COc1cc(cc(OC)c1OC)C2OC(C(C)C2C)c3cc(OC)c(OC)c(OC)c3	0			1+	NA	433.223
+CCMSLIB00000079415	MLS001141057-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2S)-1-[(4-fluorophenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	CSCC[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@@H](C)C(=O)NCc2ccc(F)cc2	0			1+	NA	439.218
+CCMSLIB00000080404	MLS001030267-01!3-[1-(3-nitrophenyl)sulfonylpiperidin-2-yl]pyridine M+H	[O-][N+](=O)c1cccc(c1)S(=O)(=O)N2CCCCC2c3cccnc3	0			1+	NA	348.102
+CCMSLIB00000079418	"""MLS000877018-01!2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-methoxychromen-4-one"" M+H"	COc1c(oc2cc(O)cc(O)c2c1=O)c3ccc(O)c(O)c3	0			1+	NA	317.066
+CCMSLIB00000079806	MLS002153360-01! M+H	COc1ccc2[nH]c3CNCCc3c2c1	0			1+	NA	203.118
+CCMSLIB00000079420	"""MLS001049069-01!6,7-dimethoxy-1-methyl-3,4-dihydroisoquinoline"" M+H"	COc1cc2CCN=C(C)c2cc1OC	0			1+	NA	206.118
+CCMSLIB00000079421	MLS000574953-01! M+H	COc1c(O)c(=O)n2c3ccccc3c4ccnc1c42	0			1+	NA	267.077
+CCMSLIB00000079892	"""MLS001158285-01!(2R)-2-[[(2S)-2-(1,2-dihydroimidazo[1,2-a]benzimidazole-3-carbonylamino)-4-methylpentanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CCn2c1nc3ccccc23)C(=O)N[C@@H](C(=O)O)c4ccccc4	0			1+	NA	450.214
+CCMSLIB00000080246	MLS000863607-01! M+H	COc1ccc(cc1)c2cc(=O)c3ccccc3o2	0			1+	NA	253.086
+CCMSLIB00000080248	MLS000516055-01! M+H	CCN(CC)C(=O)Cc1ccccc1	0			1+	NA	192.139
+CCMSLIB00000079425	MLS001049032-01!6-hydroxy-2-(4-methoxyphenyl)chromen-4-one M+H	COc1ccc(cc1)c2cc(=O)c3cc(O)ccc3o2	0			1+	NA	269.081
+CCMSLIB00000080437	MLS001160333-01! M+H	COc1cc2oc(=O)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(C)c2cc1Cl	0			1+	NA	455.137
+CCMSLIB00000079427	MLS001157908-01!3-(5-hydroxy-1H-indol-3-yl)-2-[2-(4-methyl-6-oxobenzo[c]chromen-3-yl)oxypropanoylamino]propanoic acid M+H	CC(Oc1ccc2c3ccccc3c(=O)oc2c1C)C(=O)NC(Cc4c[nH]c5ccc(O)cc45)C(=O)O	0			1+	NA	501.166
+CCMSLIB00000079787	MLS001157910-01! M+H	COc1ccc(cc1OC)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCCCN5CCOCC5	0			1+	NA	475.235
+CCMSLIB00000079430	MLS002694431-01! M+H	COC1C(O)CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC2C1C(=O)OC	0			1+	NA	415.223
+CCMSLIB00000079431	"""MLS000876968-01!5-methoxy-8,8-dimethyl-2-phenylpyrano[2,3-h]chromen-4-one"" M+H"	COc1cc2OC(C)(C)C=Cc2c3oc(cc(=O)c13)c4ccccc4	0			1+	NA	335.128
+CCMSLIB00000079432	"""MLS002472933-01!9-(2-hydroxy-3-methylbut-3-enoxy)-4-methoxyfuro[3,2-g]chromen-7-one"" M+H"	COc1c2ccoc2c(OCC(O)C(=C)C)c3oc(=O)ccc13	0			1+	NA	317.103
+CCMSLIB00000079433	MLS001159956-01! M+H	Cc1c(C)c2ccc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)cc2oc1=O	0			1+	NA	421.176
+CCMSLIB00000080079	MLS001157765-01!(2S)-N-(5-chloro-2-methylphenyl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide M+H	Cc1ccc(Cl)cc1NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34	0			1+	NA	385.095
+CCMSLIB00000079890	"""MLS001140708-01!1-[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]propanoyl]piperidine-4-carboxylic acid"" M+H"	C[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N4CCC(CC4)C(=O)O	0			1+	NA	493.209
+CCMSLIB00000079436	"""MLS000876992-01!(E)-1-(2,4-dihydroxy-6-methoxyphenyl)-3-phenylprop-2-en-1-one"" M+H"	COc1cc(O)cc(O)c1C(=O)/C=C/c2ccccc2	0			1+	NA	271.097
+CCMSLIB00000079767	MLS001158391-01!2-[[2-(4-ethyl-7-methyl-2-oxochromen-5-yl)oxyacetyl]amino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid M+H	CCc1cc(=O)oc2cc(C)cc(OCC(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O)c12	0			1+	NA	465.166
+CCMSLIB00000080531	MLS001304059-01! M+H	O=c1ccc2cc3ccoc3cc2o1	0			1+	NA	187.04
+CCMSLIB00000079439	MLS001140676-01! M+H	COc1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC[C@H]7C(=O)O	0			1+	NA	565.209
+CCMSLIB00000079440	MLS001250169-01! M+H	CC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	203.118
+CCMSLIB00000079441	"""MLS001141217-01!N-(furan-2-ylmethyl)-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccco4)c12	0			1+	NA	398.16
+CCMSLIB00000080487	MLS001143180-01!3-methoxyxanthen-9-one M+H	COc1ccc2c(=O)c3ccccc3oc2c1	0			1+	NA	227.071
+CCMSLIB00000080414	"""MLS002473044-01!1,5,8-trihydroxy-3-methoxyxanthen-9-one"" M+H"	COc1cc(O)c2c(=O)c3c(O)ccc(O)c3oc2c1	0			1+	NA	275.056
+CCMSLIB00000080354	MLS001066402-01! M+H	OC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12	0			1+	NA	245.096
+CCMSLIB00000079445	MLS000563057-01! M+H	C[C@]12CC[C@H]3OC(=O)C=C3C2CC[C@]4(CC5CCC41)C[C@@]5(CO)O[C@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O	0			1+	NA	495.259
+CCMSLIB00000079446	MLS001140385-01!N-[3-(3-methoxyphenyl)-4-oxochromen-2-yl]furan-2-carboxamide M+H	COc1cccc(c1)c2c(NC(=O)c3ccco3)oc4ccccc4c2=O	0			1+	NA	362.103
+CCMSLIB00000080043	"""MLS001158943-01!N-cyclopropyl-3-(7-methoxy-4,8-dimethyl-2-oxochromen-3-yl)propanamide"" M+H"	COc1ccc2c(C)c(CCC(=O)NC3CC3)c(=O)oc2c1C	0			1+	NA	316.155
+CCMSLIB00000080340	MLS001032299-01! M+H	CC(Oc1cc(C)cc2oc(=O)c(C)c(C)c12)C(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4	0			1+	NA	449.208
+CCMSLIB00000079449	MLS001146569-01!(2S)-2-[[2-(3-benzyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-phenylpropanoic acid M+H	Cc1c(Cc2ccccc2)c(=O)oc3cc(OCC(=O)N[C@@H](Cc4ccccc4)C(=O)O)ccc13	0			1+	NA	472.176
+CCMSLIB00000080615	"""MLS001158996-01!(3S)-N-[(2S)-3-(1H-indol-3-yl)-1-oxo-1-(1-phenylethylamino)propan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	CC(NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@@H]3Cc4ccccc4CN3)c5ccccc5	0			1+	NA	467.245
+CCMSLIB00000079451	MLS001076814-01!(2S)-2-[[2-(3-hexyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-phenylpropanoic acid M+H	CCCCCCc1c(C)c2ccc(OCC(=O)N[C@@H](Cc3ccccc3)C(=O)O)cc2oc1=O	0			1+	NA	466.223
+CCMSLIB00000079897	"""MLS001157812-01!(4-methoxyphenyl)-(7-methyl-2,3,4,7,9,10-hexahydro-[1,4]dioxepino[2,3-g]isoquinolin-8-yl)methanone"" M+H"	COc1ccc(cc1)C(=O)N2CCc3cc4OCCCOc4cc3C2C	0			1+	NA	354.171
+CCMSLIB00000079757	"""MLS001160390-01!4-[[[2-[(8,8-dimethyl-2-oxo-4-propyl-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CCCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O)c12	0			1+	NA	486.249
+CCMSLIB00000079454	MLS000728660-01! M+H	COC(=O)C1=CO[C@@H](OC2OC(CO)C(O)C(O)C2O)[C@H](C=C)[C@@H]1C[C@H]3CC(=O)C[C@H](CC(=O)CCc4ccc(O)cc4)O3	0			1+	NA	621.255
+CCMSLIB00000079455	MLS000728660-01! M+Na	COC(=O)C1=CO[C@@H](OC2OC(CO)C(O)C(O)C2O)[C@H](C=C)[C@@H]1C[C@H]3CC(=O)C[C@H](CC(=O)CCc4ccc(O)cc4)O3	0			1+	NA	643.236
+CCMSLIB00000080560	MLS001142736-01!tert-butyl N-[(2S)-1-[4-[[(2S)-1-[(4-methoxyphenyl)methylamino]-1-oxopropan-2-yl]carbamoyl]piperidin-1-yl]-4-methylsulfanyl-1-oxobutan-2-yl]carbamate M+H	COc1ccc(CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@H](CCSC)NC(=O)OC(C)(C)C)cc1	0			1+	NA	551.29
+CCMSLIB00000079457	MLS002473407-01!5-hydroxy-2-(2-phenylethyl)chromen-4-one M+H	Oc1cccc2OC(=CC(=O)c12)CCc3ccccc3	0			1+	NA	267.102
+CCMSLIB00000080278	"""MLS001048953-01![9-(1,3-benzodioxol-5-yl)-6,7-dimethoxy-1-oxo-3H-benzo[f][2]benzofuran-4-yl] acetate"" M+H"	COc1cc2c(OC(=O)C)c3COC(=O)c3c(c4ccc5OCOc5c4)c2cc1OC	0			1+	NA	423.108
+CCMSLIB00000079459	"""MLS001158641-01!3-(4-chlorophenyl)-2-[[2-[(3-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-1-yl)oxy]acetyl]amino]propanoic acid"" M+H"	Cc1cc(OCC(=O)NC(Cc2ccc(Cl)cc2)C(=O)O)c3c4CCCCc4c(=O)oc3c1	0			1+	NA	470.137
+CCMSLIB00000079649	"""MLS001158944-01!(2S)-3-(1H-indol-3-yl)-2-[[(2S)-4-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]propanoic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O	0			1+	NA	492.225
+CCMSLIB00000079586	MLS001075745-01!4-[[2-(2-oxo-4-phenylchromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CC(Oc1ccc2c(cc(=O)oc2c1)c3ccccc3)C(=O)NCC4CCC(CC4)C(=O)O	0			1+	NA	450.192
+CCMSLIB00000080561	MLS001140672-01! M+H	COc1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC(CC7)C(=O)O	0			1+	NA	579.224
+CCMSLIB00000079463	MLS000516034-01! M+H	CNCCc1ccc(OC)c(OC)c1	0			1+	NA	196.134
+CCMSLIB00000080562	MLS001049028-01!3-methoxybenzo[c]chromen-6-one M+H	COc1ccc2c(c1)oc(=O)c3ccccc32	0			1+	NA	227.071
+CCMSLIB00000080169	"""MLS000863581-01!4-[(E)-2-(3,5-dimethoxyphenyl)ethenyl]phenol"" M+H"	COc1cc(OC)cc(/C=C/c2ccc(O)cc2)c1	0			1+	NA	257.118
+CCMSLIB00000079467	"""MLS001141234-01!1-[2-(3,4,8-trimethyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxylic acid"" M+H"	Cc1c(C)c2ccc(OCC(=O)N3CCC(CC3)C(=O)O)c(C)c2oc1=O	0			1+	NA	374.16
+CCMSLIB00000079469	MLS002415761-01! M+H	N(c1ccccc1)c2cccc3ccccc23	0			1+	NA	220.113
+CCMSLIB00000079470	MLS001160411-01! M+H	Clc1cc2c3CCCCc3c(=O)oc2cc1OCC(=O)N4C[C@H]5C[C@@H](C4)c6cccc(=O)n6C5	0			1+	NA	481.153
+CCMSLIB00000079777	"""MLS001075900-01!N-[2-[7-methoxy-6-[(Z)-(1-methyl-2,4,6-trioxo-1,3-diazinan-5-ylidene)methyl]-1,3-benzodioxol-5-yl]ethyl]-N-methylbenzamide"" M+H"	COc1c2OCOc2cc(CCN(C)C(=O)c3ccccc3)c1/C=C\4/C(=O)NC(=O)N(C)C4=O	0			1+	NA	466.161
+CCMSLIB00000079472	"""MLS001158643-01!2-(4,7-dimethyl-2-oxochromen-5-yl)oxy-N-[2-(1H-indol-3-yl)ethyl]acetamide"" M+H"	Cc1cc(OCC(=O)NCCc2c[nH]c3ccccc23)c4c(C)cc(=O)oc4c1	0			1+	NA	391.166
+CCMSLIB00000079473	"""MLS000563514-01!2-hydroxy-4-(2-hydroxy-4-methoxy-3,6-dimethylbenzoyl)oxy-3,6-dimethylbenzoic acid"" M+H"	COc1cc(C)c(C(=O)Oc2cc(C)c(C(=O)O)c(O)c2C)c(O)c1C	0			1+	NA	361.129
+CCMSLIB00000080341	MLS001139346-01!(2R)-1-[2-(4-ethyl-8-methyl-2-oxochromen-7-yl)oxypropanoyl]pyrrolidine-2-carboxylic acid M+H	CCc1cc(=O)oc2c(C)c(OC(C)C(=O)N3CCC[C@@H]3C(=O)O)ccc12	0			1+	NA	374.16
+CCMSLIB00000079475	MLS001159064-01!(2S)-2-[[2-(4-methyl-6-oxobenzo[c]chromen-3-yl)oxyacetyl]amino]-3-phenylpropanoic acid M+H	Cc1c(OCC(=O)N[C@@H](Cc2ccccc2)C(=O)O)ccc3c4ccccc4c(=O)oc13	0			1+	NA	432.145
+CCMSLIB00000079476	MLS000563039-01! M+H	COc1cc2CCN3[C@H](C[C@H]4[C@@H](C=C)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)OC=C4C3=O)c2cc1O	0			1+	NA	506.203
+CCMSLIB00000080495	MLS002415725-01! M+H	C=CCOC(=O)c1ccccc1C(=O)OCC=C	0			1+	NA	247.097
+CCMSLIB00000080539	"""MLS000863642-01![1-[3-(3-hydroxy-2,2-dimethyl-1,2'-dioxospiro[3aH-imidazo[1,2-a]indole-4,5'-oxolane]-3'-yl)-4-oxoquinazolin-2-yl]-2-methylpropyl] acetate"" M+H"	CC(C)C(OC(=O)C)c1nc2ccccc2c(=O)n1C3CC4(OC3=O)C5N(O)C(C)(C)C(=O)N5c6ccccc64	0			1+	NA	547.219
+CCMSLIB00000080181	"""MLS002473214-01!(2E,4E)-5-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)penta-2,4-dienamide"" M+H"	CC(C)CNC(=O)/C=C/C=C/c1ccc2OCOc2c1	0			1+	NA	274.144
+CCMSLIB00000080517	"""MLS001049065-01!6-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-3,5,7-trimethoxychromen-4-one"" M+H"	COc1ccc(cc1O)c2oc3cc(OC)c(O)c(OC)c3c(=O)c2OC	0			1+	NA	375.108
+CCMSLIB00000080458	MLS002694164-01! M+H	COc1c2C=CC(C)(C)Oc2c(CCC(=O)O)c3OC(C)(C)C=Cc13	0			1+	NA	345.17
+CCMSLIB00000079483	"""MLS001066368-01!2,2-diphenylacetic acid"" M+H"	OC(=O)C(c1ccccc1)c2ccccc2	0			1+	NA	213.092
+CCMSLIB00000080344	"""MLS002207176-01!3,4,5-trimethoxybenzoic acid"" M+H"	COc1cc(cc(OC)c1OC)C(=O)O	0			1+	NA	213.076
+CCMSLIB00000080608	MLS001140919-01! M+H	CC(C)C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCC5CCCO5	0			1+	NA	453.25
+CCMSLIB00000079486	MLS001048917-01!2-(2-hydroxy-5-prop-2-enylphenyl)-4-prop-2-enylphenol M+H	Oc1ccc(CC=C)cc1c2cc(CC=C)ccc2O	0			1+	NA	267.138
+CCMSLIB00000080607	"""MLS001142934-01!(2S)-1-[2-(3-hexyl-4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]pyrrolidine-2-carboxylic acid"" M+H"	CCCCCCc1c(C)c2ccc(OCC(=O)N3CCC[C@H]3C(=O)O)c(C)c2oc1=O	0			1+	NA	430.223
+CCMSLIB00000079488	"""MLS001146605-01!N-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]-2-hydroxybenzamide"" M+H"	Oc1ccc(/C=C/C(=O)NC(=O)c2ccccc2O)cc1O	0			1+	NA	300.087
+CCMSLIB00000079680	MLS002637604-01!phenyl(piperidin-1-yl)methanone M+H	O=C(N1CCCCC1)c2ccccc2	0			1+	NA	190.123
+CCMSLIB00000079491	"""MLS001141257-01!1-[2-[[(2Z)-2-[(2,5-dimethoxyphenyl)methylidene]-3-oxo-1-benzofuran-6-yl]oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	COc1ccc(OC)c(/C=C/2\Oc3cc(OCC(=O)N4CCC(CC4)C(=O)O)ccc3C2=O)c1	0			1+	NA	468.166
+CCMSLIB00000079492	"""MLS000876973-01!5-chloro-9-(3-hydroxy-2-methylbutanoyl)-6a-methyl-3-[(E)-3-methylpent-1-enyl]-9,9a-dihydrofuro[2,3-h]isochromene-6,8-dione"" M+H"	CCC(C)/C=C/C1=CC2=C(Cl)C(=O)C3(C)OC(=O)C(C3C2=CO1)C(=O)C(C)C(C)O	0			1+	NA	435.157
+CCMSLIB00000080555	MLS001160080-01!2-[2-(4-butyl-7-methyl-2-oxochromen-5-yl)oxypropanoylamino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid M+H	CCCCc1cc(=O)oc2cc(C)cc(OC(C)C(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O)c12	0			1+	NA	507.213
+CCMSLIB00000080612	MLS001140939-01! M+H	CC(C)C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NC5CC5	0			1+	NA	409.224
+CCMSLIB00000080017	MLS001048924-01!methyl 3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate M+H	COC(=O)C1C2CCC(CC1OC(=O)c3ccccc3)N2C.Cl	0			1+	NA	304.155
+CCMSLIB00000080244	"""MLS001141036-01!(2S)-3-(1H-indol-3-yl)-2-[2-(3,4,8-trimethyl-2-oxochromen-7-yl)oxypropanoylamino]propanoic acid"" M+H"	CC(Oc1ccc2c(C)c(C)c(=O)oc2c1C)C(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O	0			1+	NA	463.187
+CCMSLIB00000079885	"""MLS000563030-01![5-hydroxy-6-[2-(3-hydroxy-4-methoxyphenyl)ethoxy]-2-(hydroxymethyl)-4-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl] (E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate"" M+H"	COc1ccc(CCOC2OC(CO)C(OC(=O)/C=C/c3ccc(O)c(OC)c3)C(O[C@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)C2O)cc1O	0			1+	NA	653.245
+CCMSLIB00000080548	"""MLS000876763-01!3,5-dihydroxy-6,7,8-trimethoxy-2-phenylchromen-4-one"" M+H"	COc1c(O)c2c(=O)c(O)c(oc2c(OC)c1OC)c3ccccc3	0			1+	NA	345.097
+CCMSLIB00000079853	MLS000574943-01! M+H	C[C@@H]1CC[C@]23COC(=O)C3=CCC[C@@H]2[C@@]1(C)CC/C(=C/CO)/CO	0			1+	NA	335.222
+CCMSLIB00000080435	MLS001140934-01!4-[[2-(6-ethyl-2-oxo-4-phenylchromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCc1cc2c(cc(=O)oc2cc1OC(C)C(=O)NCC3CCC(CC3)C(=O)O)c4ccccc4	0			1+	NA	478.223
+CCMSLIB00000079782	MLS001142788-01!(2S)-2-[[1-[(2S)-2-[(4-methylphenyl)sulfonylamino]-4-methylsulfanylbutanoyl]piperidine-4-carbonyl]amino]-2-phenylacetic acid M+H	CSCC[C@H](NS(=O)(=O)c1ccc(C)cc1)C(=O)N2CCC(CC2)C(=O)N[C@H](C(=O)O)c3ccccc3	0			1+	NA	548.189
+CCMSLIB00000080242	"""MLS001032390-01!5-hydroxy-2,2-dimethyl-7-[2-oxo-2-(4-phenylpiperazin-1-yl)ethoxy]-3H-chromen-4-one"" M+H"	CC1(C)CC(=O)c2c(O)cc(OCC(=O)N3CCN(CC3)c4ccccc4)cc2O1	0			1+	NA	411.192
+CCMSLIB00000080605	"""MLS001158670-01!(2S)-1-[(2S)-4-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]pyrrolidine-2-carboxylic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N3CCC[C@H]3C(=O)O	0			1+	NA	403.198
+CCMSLIB00000080325	"""MLS000697750-01!(7S,8R)-7-(1,3-benzodioxol-5-yl)-9-hydroxy-3,6-dimethoxy-8-methyl-1-prop-2-enyl-5-oxabicyclo[4.2.1]non-2-en-4-one"" M+H"	COC1=CC2(CC=C)[C@H](C)[C@@H](c3ccc4OCOc4c3)C(OC)(OC1=O)C2O	0			1+	NA	389.16
+CCMSLIB00000079506	MLS001074921-01! M+H	C[C@H]1[C@H]2[C@H](C[C@H]3[C@@H]4CC=C5C[C@H](CC[C@]5(C)[C@H]4CC[C@]23C)O[C@@H]6O[C@H](CO)[C@H](O)[C@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@H]6O[C@@H]8O[C@@H](C)[C@H](O)[C@@H](O)[C@H]8O)N9C[C@@H](C)CC[C@H]19	0			1+	NA	868.506
+CCMSLIB00000079508	"""MLS001158354-01!2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(pyridin-2-ylmethyl)acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccccn4)c12	0			1+	NA	423.192
+CCMSLIB00000080177	MLS001141003-01!(2R)-3-(1H-indol-3-yl)-2-[2-(2-oxo-4-phenylchromen-7-yl)oxypropanoylamino]propanoic acid M+H	CC(Oc1ccc2c(cc(=O)oc2c1)c3ccccc3)C(=O)N[C@H](Cc4c[nH]c5ccccc45)C(=O)O	0			1+	NA	497.171
+CCMSLIB00000080407	"""MLS001048925-01!2,3,4,6-tetramethoxybenzo[7]annulen-5-one"" M+H"	COc1cc2cccc(OC)c(=O)c2c(OC)c1OC	0			1+	NA	277.108
+CCMSLIB00000079511	MLS001157801-01!tert-butyl (2S)-2-[4-[[(2S)-1-[(2-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]carbamoyl]piperidine-1-carbonyl]pyrrolidine-1-carboxylate M+H	COc1ccccc1CNC(=O)[C@@H](NC(=O)C2CCN(CC2)C(=O)[C@@H]3CCCN3C(=O)OC(C)(C)C)C(C)C	0			1+	NA	545.334
+CCMSLIB00000080353	MLS000737673-01! M+H	Oc1nc2ccccc2s1	0			1+	NA	152.017
+CCMSLIB00000079982	MLS001140844-01!3-(5-hydroxy-1H-indol-3-yl)-2-[2-(2-oxo-4-phenylchromen-7-yl)oxypropanoylamino]propanoic acid M+H	CC(Oc1ccc2c(cc(=O)oc2c1)c3ccccc3)C(=O)NC(Cc4c[nH]c5ccc(O)cc45)C(=O)O	0			1+	NA	513.166
+CCMSLIB00000079514	MLS001140583-01! M+H	COc1cc(cc(OC)c1OC)c2[nH]c(cc3c4ccccc4nc23)C(=O)NC5CCCCC5	0			1+	NA	460.224
+CCMSLIB00000079997	MLS001158389-01!1-[2-(4-butyl-8-methyl-2-oxochromen-7-yl)oxyacetyl]-4-phenylpiperidine-4-carboxylic acid M+H	CCCCc1cc(=O)oc2c(C)c(OCC(=O)N3CCC(CC3)(C(=O)O)c4ccccc4)ccc12	0			1+	NA	478.223
+CCMSLIB00000079516	"""MLS001158023-01!4-phenyl-1-[2-(3,4,7-trimethyl-2-oxochromen-5-yl)oxyacetyl]piperidine-4-carboxylic acid"" M+H"	Cc1cc(OCC(=O)N2CCC(CC2)(C(=O)O)c3ccccc3)c4c(C)c(C)c(=O)oc4c1	0			1+	NA	450.192
+CCMSLIB00000080594	"""MLS001140921-01!4-[[2-(3-benzyl-4,8-dimethyl-2-oxochromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CC(Oc1ccc2c(C)c(Cc3ccccc3)c(=O)oc2c1C)C(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O	0			1+	NA	492.239
+CCMSLIB00000080036	MLS001049039-01!(E)-1-(4-hydroxyphenyl)-3-(4-methoxyphenyl)prop-2-en-1-one M+H	COc1ccc(/C=C/C(=O)c2ccc(O)cc2)cc1	0			1+	NA	255.102
+CCMSLIB00000079741	MLS001140379-01!1-[2-(4-butyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	CCCCc1cc(=O)oc2cc(OCC(=O)N3CCC(CC3)C(=O)N)ccc12	0			1+	NA	387.192
+CCMSLIB00000079520	"""MLS001049101-01!3-hydroxy-9-methoxy-6-oxo-7-pentanoyl-1-pentylbenzo[b][1,4]benzodioxepine-2-carboxylic acid"" M+H"	CCCCCc1c(C(=O)O)c(O)cc2OC(=O)c3c(cc(OC)cc3Oc12)C(=O)CCCC	0			1+	NA	457.186
+CCMSLIB00000079521	MLS001049077-01! M+H	COc1cc(CC=C)ccc1OC(=O)c2ccccc2	0			1+	NA	269.118
+CCMSLIB00000080111	MLS001139298-01!(2S)-1-[2-(4-ethyl-2-oxochromen-7-yl)oxyacetyl]pyrrolidine-2-carboxylic acid M+H	CCc1cc(=O)oc2cc(OCC(=O)N3CCC[C@H]3C(=O)O)ccc12	0			1+	NA	346.129
+CCMSLIB00000079871	MLS001141012-01! M+H	CC(C)[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCC5CCCO5	0			1+	NA	439.235
+CCMSLIB00000080256	MLS000863637-01!4-methoxy-6-[2-(4-methoxyphenyl)ethyl]pyran-2-one M+H	COc1ccc(CCc2cc(OC)cc(=O)o2)cc1	0			1+	NA	261.113
+CCMSLIB00000079525	MLS000736964-01! M+H	Nc1cc2nc3ccccc3oc2cc1=O	0			1+	NA	213.066
+CCMSLIB00000079526	"""MLS001160389-01!(2S)-1-[2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]pyrrolidine-2-carboxylic acid"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)N4CCC[C@H]4C(=O)O)c12	0			1+	NA	416.171
+CCMSLIB00000079527	MLS000563067-01! M+H	Cc1cc(O)c2C(=C3C(=O)[C@@H]4[C@@H](O)[C@H]5[C@@H]6[C@H](O)[C@@H](C(=O)C7=C(O)c8c(O)cc(C)c(O)c8C(=O)[C@]647)[C@]53C(=O)c2c1O)O	0			1+	NA	575.119
+CCMSLIB00000079528	MLS000863653-01!(E)-3-phenyl-N-(2-phenylethyl)prop-2-enamide M+H	O=C(NCCc1ccccc1)/C=C/c2ccccc2	0			1+	NA	252.139
+CCMSLIB00000079529	"""MLS001140219-01!(2S)-3-phenyl-2-[[(2S)-2-[3-(3,5,9-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanoylamino]propanoyl]amino]propanoic acid"" M+H"	C[C@H](NC(=O)CCc1c(C)c2cc3c(C)coc3c(C)c2oc1=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	519.213
+CCMSLIB00000080448	MLS001140964-01!(2S)-3-(5-hydroxy-1H-indol-3-yl)-2-[[2-(2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]propanoic acid M+H	OC(=O)[C@H](Cc1c[nH]c2ccc(O)cc12)NC(=O)COc3ccc4c(cc(=O)oc4c3)c5ccccc5	0			1+	NA	499.151
+CCMSLIB00000080098	"""MLS001032327-01!2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]-N-[(4-methoxyphenyl)methyl]acetamide"" M+H"	COc1ccc(CNC(=O)COc2cc(O)c3C(=O)CC(C)(C)Oc3c2)cc1	0			1+	NA	386.16
+CCMSLIB00000080455	MLS001142796-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCc5c(F)cccc5Cl	0			1+	NA	469.144
+CCMSLIB00000079533	"""MLS002473243-01!3-(3,4-dihydroxyphenyl)-8-hydroxyisochromen-1-one"" M+H"	Oc1ccc(cc1O)c2cc3cccc(O)c3c(=O)o2	0			1+	NA	271.061
+CCMSLIB00000079534	MLS000728590-01! M+H	C[C@]1(CN2[C@@H]3[C@@H]4C[C@H]5[C@H](O)[C@H]6[C@]73CCC1)[C@H]7[C@@]2(O)C[C@@]46[C@H](O)C5=C	0			1+	NA	330.207
+CCMSLIB00000080587	"""MLS000877016-01!5,7-dihydroxy-2-phenyl-2,3-dihydrochromen-4-one"" M+H"	Oc1cc(O)c2C(=O)CC(Oc2c1)c3ccccc3	0			1+	NA	257.081
+CCMSLIB00000080566	"""MLS001141239-01!(2R)-3-benzylsulfanyl-2-[[2-[(4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]amino]propanoic acid"" M+H"	OC(=O)[C@H](CSCc1ccccc1)NC(=O)COc2ccc3c4CCCc4c(=O)oc3c2	0			1+	NA	454.132
+CCMSLIB00000079715	MLS001142727-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NC5CCN(Cc6ccccc6)CC5	0			1+	NA	500.266
+CCMSLIB00000080497	"""MLS001159033-01!2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(2-morpholin-4-ylethyl)acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCCN4CCOCC4)c12	0			1+	NA	445.234
+CCMSLIB00000079540	MLS001097670-01! M+H	CC(C)c1cc2C3CC4C(C)(C)CCC[C@]4(C(=O)O3)c2c(O)c1O	0			1+	NA	331.191
+CCMSLIB00000079589	MLS001158173-01! M+H	CCc1cc(=O)oc2c(C)c(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)ccc12	0			1+	NA	435.192
+CCMSLIB00000079998	"""MLS001159079-01!N-[2-(1H-indol-3-yl)ethyl]-2-(3,4,8-trimethyl-2-oxochromen-7-yl)oxyacetamide"" M+H"	Cc1c(C)c2ccc(OCC(=O)NCCc3c[nH]c4ccccc34)c(C)c2oc1=O	0			1+	NA	405.181
+CCMSLIB00000079749	"""MLS000728593-01!(1R,12bR)-1,2,3,4,6,7,12,12b-octahydroindolo[2,3-a]quinolizin-1-ol"" M+H"	O[C@@H]1CCCN2CCc3c([nH]c4ccccc34)[C@H]12	0			1+	NA	243.15
+CCMSLIB00000079713	"""MLS001157793-01!(3S)-N-[(1R)-2-oxo-1-phenyl-2-(1-phenylethylamino)ethyl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	CC(NC(=O)[C@H](NC(=O)[C@@H]1Cc2ccccc2CN1)c3ccccc3)c4ccccc4	0			1+	NA	414.218
+CCMSLIB00000079545	"""MLS000736497-01!10,11-dimethoxy-4a,5,5a,7,8,13a,15,15a,15b,16-decahydro-2H-4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinoline-14-one"" M+H"	COc1cc2N3C4C5C6CC7N(CCC74c2cc1OC)CC6=CCOC5CC3=O.CC(C)CC(NC=O)C(=O)O	0			1+	NA	395.197
+CCMSLIB00000079937	"""MLS001158165-01!(2S)-1-[2-[(4-butyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]pyrrolidine-2-carboxylic acid"" M+H"	CCCCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)N4CCC[C@H]4C(=O)O)c12	0			1+	NA	458.218
+CCMSLIB00000080274	"""MLS001158086-01!(2R)-2-[[(2S)-2-(1,2-dihydroimidazo[1,2-a]benzimidazole-3-carbonylamino)-3-methylbutanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@H](NC(=O)N1CCn2c1nc3ccccc23)C(=O)N[C@@H](C(=O)O)c4ccccc4	0			1+	NA	436.198
+CCMSLIB00000079548	MLS001140957-01!4-[[[2-(4-butyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	CCCCc1cc(=O)oc2cc(OCC(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	416.207
+CCMSLIB00000079932	MLS000697730-01! M+H	Oc1ccc(cc1)c2oc3cc(O)cc(O)c3c(=O)c2O	0			1+	NA	287.056
+CCMSLIB00000080397	MLS002177804-01! M+H	O=c1cc(oc2ccccc12)c3ccccc3	0			1+	NA	223.076
+CCMSLIB00000079553	MLS001066408-01! M+H	OC(=O)Cc1c[nH]c2ccccc12	0			1+	NA	176.071
+CCMSLIB00000079554	MLS001158177-01! M+H	COc1ccc2c(C)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(=O)oc2c1OC	0			1+	NA	451.187
+CCMSLIB00000079555	"""MLS000876836-01!4,9-dimethoxyfuro[3,2-g]chromen-7-one"" M+H"	COc1c2ccoc2c(OC)c3oc(=O)ccc13	0			1+	NA	247.061
+CCMSLIB00000080394	MLS001157830-01!(2R)-2-[[2-[[2-(7-hydroxy-4-methyl-2-oxochromen-3-yl)acetyl]amino]acetyl]amino]-3-phenylpropanoic acid M+H	Cc1c(CC(=O)NCC(=O)N[C@H](Cc2ccccc2)C(=O)O)c(=O)oc3cc(O)ccc13	0			1+	NA	439.151
+CCMSLIB00000079557	MLS001140967-01!4-[[[2-(4-butyl-8-methyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	CCCCc1cc(=O)oc2c(C)c(OCC(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	430.223
+CCMSLIB00000079558	"""MLS001141247-01!3-(4-chlorophenyl)-2-[[2-[(4-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]acetyl]amino]propanoic acid"" M+H"	Cc1c(OCC(=O)NC(Cc2ccc(Cl)cc2)C(=O)O)ccc3c4CCCCc4c(=O)oc13	0			1+	NA	470.137
+CCMSLIB00000079559	MLS001075527-01! M+H	Oc1ccc(CCC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	339.171
+CCMSLIB00000079568	MLS001162659-01! M+H	CCCc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(Cl)cc12	0			1+	NA	469.153
+CCMSLIB00000080037	MLS001140885-01!3-(5-hydroxy-1H-indol-3-yl)-2-[2-(2-oxochromen-7-yl)oxypropanoylamino]propanoic acid M+H	CC(Oc1ccc2ccc(=O)oc2c1)C(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O	0			1+	NA	437.135
+CCMSLIB00000080369	MLS001141321-01!(2S)-2-[[2-(4-butyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-phenylpropanoic acid M+H	CCCCc1cc(=O)oc2cc(OCC(=O)N[C@@H](Cc3ccccc3)C(=O)O)ccc12	0			1+	NA	424.176
+CCMSLIB00000079564	"""MLS001049018-01!5,7-dimethoxy-4-phenylchromen-2-one"" M+H"	COc1cc(OC)c2c(cc(=O)oc2c1)c3ccccc3	0			1+	NA	283.097
+CCMSLIB00000079565	MLS001142928-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@@H](NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CCSC)C(C)C)cc1	0			1+	NA	479.269
+CCMSLIB00000079566	"""MLS000863595-01!(E)-3-(4-hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)prop-2-en-1-one"" M+H"	Oc1ccc(/C=C/C(=O)c2c(O)cc(O)cc2O)cc1	0			1+	NA	273.076
+CCMSLIB00000079567	MLS002153830-01! M+H	O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3	0			1+	NA	286.144
+CCMSLIB00000079597	MLS000062633-01! M+H	COc1c2occc2cc3ccc(=O)oc13	0			1+	NA	217.05
+CCMSLIB00000080582	MLS001158063-01!2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxy-N-(pyridin-2-ylmethyl)propanamide M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OC(C)C(=O)NCc4ccccn4)ccc23	0			1+	NA	431.161
+CCMSLIB00000079571	MLS001075524-01! M+H	COc1cccc(CNC(=O)CCC(=O)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3)c1OC	0			1+	NA	440.219
+CCMSLIB00000079931	"""MLS001140355-01!(2S)-2-[2-[(6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]propanoylamino]-3-phenylpropanoic acid"" M+H"	CC(Oc1ccc2c3CCCCc3c(=O)oc2c1)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	436.176
+CCMSLIB00000079573	"""MLS001141220-01!N-(pyridin-3-ylmethyl)-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4cccnc4)c12	0			1+	NA	409.176
+CCMSLIB00000079575	MLS001048954-01! M+H	COc1cc2cc(Oc3ccc4ccc(=O)oc4c3)c(=O)oc2cc1O	0			1+	NA	353.066
+CCMSLIB00000079576	MLS001074742-01! M+H	C/C(=C\CNc1[nH]cnc2ncnc12)/CO	0			1+	NA	220.12
+CCMSLIB00000080125	"""MLS000737867-01!1,2,3,4,6,7,8,9-octahydrophenazine"" M+H"	C1CCc2nc3CCCCc3nc2C1	0			1+	NA	189.139
+CCMSLIB00000079716	"""MLS001158024-01!2-[2-(4,7-dimethyl-2-oxochromen-5-yl)oxypropanoylamino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid"" M+H"	CC(Oc1cc(C)cc2oc(=O)cc(C)c12)C(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O	0			1+	NA	465.166
+CCMSLIB00000079579	MLS001158171-01! M+H	Cc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)ccc12	0			1+	NA	407.161
+CCMSLIB00000079581	"""MLS001032231-01!2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]-N-[(4-methylphenyl)methyl]acetamide"" M+H"	Cc1ccc(CNC(=O)COc2cc(O)c3C(=O)CC(C)(C)Oc3c2)cc1	0			1+	NA	370.165
+CCMSLIB00000080308	MLS001140473-01!2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxy-N-(pyridin-2-ylmethyl)acetamide M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OCC(=O)NCc4ccccn4)ccc23	0			1+	NA	417.145
+CCMSLIB00000079583	"""MLS001140944-01!4-[[[2-(3-ethyl-4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CCc1c(C)c2ccc(OCC(=O)NCC3CCC(CC3)C(=O)O)c(C)c2oc1=O	0			1+	NA	416.207
+CCMSLIB00000079922	MLS002472928-01! M+H	COc1cc(OC)c2ccc(=O)oc2c1	0			1+	NA	207.066
+CCMSLIB00000080146	MLS002706482-01! M+H	CC1CC2CCCC(=O)C2=C(O)O1	0			1+	NA	183.102
+CCMSLIB00000079692	"""MLS001049147-01!4,7,8-trimethoxyfuro[2,3-b]quinoline"" M+H"	COc1ccc2c(OC)c3ccoc3nc2c1OC	0			1+	NA	260.092
+CCMSLIB00000080151	"""MLS001140571-01!1-[2-[(6-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]piperidine-4-carboxamide"" M+H"	Cc1c(OCC(=O)N2CCC(CC2)C(=O)N)ccc3c4CCCc4c(=O)oc13	0			1+	NA	385.176
+CCMSLIB00000080380	MLS000563045-01! M+H	C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](Oc3c(oc4cc(O)cc(O)c4c3=O)c5ccc(O)cc5)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	0			1+	NA	595.166
+CCMSLIB00000080390	MLS001160391-01! M+H	Cc1c(OCC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)ccc5c6CCCCc6c(=O)oc15	0			1+	NA	461.208
+CCMSLIB00000080584	MLS001140855-01!(2S)-3-(5-hydroxy-1H-indol-3-yl)-2-[2-(8-methoxy-4-methyl-6-oxobenzo[c]chromen-3-yl)oxypropanoylamino]propanoic acid M+H	COc1ccc2c(c1)c(=O)oc3c(C)c(OC(C)C(=O)N[C@@H](Cc4c[nH]c5ccc(O)cc45)C(=O)O)ccc23	0			1+	NA	531.177
+CCMSLIB00000080389	"""MLS001140699-01!1-[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-4-methylpentanoyl]piperidine-4-carboxylic acid"" M+H"	CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N4CCC(CC4)C(=O)O	0			1+	NA	535.256
+CCMSLIB00000079929	MLS001158064-01!N-cyclopropyl-2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxypropanamide M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OC(C)C(=O)NC4CC4)ccc23	0			1+	NA	380.15
+CCMSLIB00000079953	MLS001160036-01! M+H	CC(=C)COc1ccc2c(C)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(=O)oc2c1C	0			1+	NA	475.223
+CCMSLIB00000079600	"""MLS001049104-01!4-(2,4-dimethoxy-3,6-dimethylbenzoyl)oxy-2-hydroxy-3,6-dimethylbenzoic acid"" M+H"	COc1cc(C)c(C(=O)Oc2cc(C)c(C(=O)O)c(O)c2C)c(OC)c1C	0			1+	NA	375.144
+CCMSLIB00000080565	"""MLS001140685-01!(2S)-2-[[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-3-methylbutanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	557.24
+CCMSLIB00000080596	"""MLS001159031-01!N-cyclopropyl-2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NC4CC4)c12	0			1+	NA	372.181
+CCMSLIB00000080150	"""MLS001075493-01!(2S)-2-[[2-[(7-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-9-yl)oxy]acetyl]amino]-2-phenylacetic acid"" M+H"	Cc1cc(OCC(=O)N[C@H](C(=O)O)c2ccccc2)c3c4CCCc4c(=O)oc3c1	0			1+	NA	408.145
+CCMSLIB00000079923	MLS001048978-01! M+H	CC(=CCOc1c2ccoc2cc3oc(=O)ccc13)C	0			1+	NA	271.097
+CCMSLIB00000079693	"""MLS001158564-01!(3S)-N-[(2S)-3-(1H-indol-3-yl)-1-oxo-1-(4-propan-2-ylanilino)propan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	CC(C)c1ccc(NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@@H]4Cc5ccccc5CN4)cc1	0			1+	NA	481.26
+CCMSLIB00000079995	MLS000850648-01!4-hydroxy-3-phenyl-1H-quinolin-2-one M+H	Oc1nc2ccccc2c(O)c1c3ccccc3	0			1+	NA	238.087
+CCMSLIB00000080493	"""MLS001157768-01!(2S)-N-(5-chloro-2,4-dimethoxyphenyl)-1-(4,5-dimethoxy-3-oxo-1H-2-benzofuran-1-yl)-5-oxopyrrolidine-2-carboxamide"" M+H"	COc1ccc2C(OC(=O)c2c1OC)N3[C@@H](CCC3=O)C(=O)Nc4cc(Cl)c(OC)cc4OC	0			1+	NA	491.122
+CCMSLIB00000079612	MLS001140848-01!4-[[2-(4-butyl-7-methyl-2-oxochromen-5-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCCCc1cc(=O)oc2cc(C)cc(OC(C)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)c12	0			1+	NA	444.239
+CCMSLIB00000080392	MLS000863596-01!(2Z)-6-hydroxy-2-[(4-hydroxy-3-methoxyphenyl)methylidene]-1-benzofuran-3-one M+H	COc1cc(/C=C/2\Oc3cc(O)ccc3C2=O)ccc1O	0			1+	NA	285.076
+CCMSLIB00000079616	MLS000728669-01! M+H	CCN1C[C@]2(CO)CC[C@H](OC)[C@]3(C4C[C@H]5[C@H](OC)C4[C@](O)(C[C@H]5OC)[C@@]6(O)C(OC)C32)[C@H]16	0			1+	NA	468.296
+CCMSLIB00000079617	MLS000876824-01! M+H	COc1c2C(=O)OCc2c(C)c3O[C@@]4(C)CC[C@]5(O)[C@](C)(CCC(=O)OC5(C)C)[C@H]4Cc13	0			1+	NA	445.223
+CCMSLIB00000079618	MLS000737410-01!4-methylquinazoline-2-carboxamide M+H	Cc1nc(nc2ccccc12)C(=O)N	0			1+	NA	188.082
+CCMSLIB00000079735	MLS001143533-01! M+H	CC1O[C@@H](OCC2O[C@@H](Oc3cc(O)c4C(=O)CC(Oc4c3)c5ccc(O)cc5)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	0			1+	NA	581.187
+CCMSLIB00000080511	MLS001159946-01! M+H	Cc1c(C)c2ccc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(C)c2oc1=O	0			1+	NA	435.192
+CCMSLIB00000080507	MLS001139403-01!(2S)-2-[[2-(4-ethyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-phenylpropanoic acid M+H	CCc1cc(=O)oc2cc(OCC(=O)N[C@@H](Cc3ccccc3)C(=O)O)ccc12	0			1+	NA	396.145
+CCMSLIB00000080370	MLS001159060-01!1-[2-(4-butyl-8-methyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	CCCCc1cc(=O)oc2c(C)c(OCC(=O)N3CCC(CC3)C(=O)N)ccc12	0			1+	NA	401.208
+CCMSLIB00000079623	MLS001140509-01!(2R)-2-[[(2S)-2-[[1-[(2-methylpropan-2-yl)oxycarbonyl]-4-phenylpiperidine-4-carbonyl]amino]propanoyl]amino]-2-phenylacetic acid M+H	C[C@H](NC(=O)C1(CCN(CC1)C(=O)OC(C)(C)C)c2ccccc2)C(=O)N[C@@H](C(=O)O)c3ccccc3	0			1+	NA	510.26
+CCMSLIB00000079708	MLS001146243-01!(2S)-N-(3-chloro-4-methylphenyl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide M+H	Cc1ccc(NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34)cc1Cl	0			1+	NA	385.095
+CCMSLIB00000079627	"""MLS001158986-01!(3S)-N-[(2S)-3-(1H-indol-3-yl)-1-[(2-methoxyphenyl)methylamino]-1-oxopropan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	COc1ccccc1CNC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@@H]4Cc5ccccc5CN4	0			1+	NA	483.24
+CCMSLIB00000079628	MLS001142923-01! M+H	Cc1ccc(C)c(NC(=O)CCNC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	409.224
+CCMSLIB00000079629	"""MLS001140695-01!(2R)-1-[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-3-methylpentanoyl]pyrrolidine-2-carboxylic acid"" M+H"	CCC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N4CCC[C@@H]4C(=O)O	0			1+	NA	521.24
+CCMSLIB00000079805	"""MLS000876755-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]-8-(3,4,5-trihydroxyoxan-2-yl)chromen-4-one"" M+H"	OCC1OC(C(O)C(O)C1O)c2c(O)c(C3OCC(O)C(O)C3O)c4oc(cc(=O)c4c2O)c5ccc(O)cc5	0			1+	NA	565.156
+CCMSLIB00000080277	"""MLS000877011-01!1-(3-acetyl-2,4,6-trihydroxyphenyl)ethanone"" M+H"	CC(=O)c1c(O)cc(O)c(C(=O)C)c1O	0			1+	NA	211.061
+CCMSLIB00000080482	"""MLS001140682-01!4-[[[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-4-methylsulfanylbutanoyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)NCC4CCC(CC4)C(=O)O	0			1+	NA	581.243
+CCMSLIB00000080131	MLS000575003-01! M+H	COc1c(=O)c(=O)n2c3ccccc3c4ccn(C)c1c42	0			1+	NA	281.093
+CCMSLIB00000080472	MLS001140905-01!4-[[2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OC(C)C(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O)ccc23	0			1+	NA	480.202
+CCMSLIB00000079639	"""MLS000876825-01!3-benzyl-4-methyl-1,3-dihydro-1,4-benzodiazepine-2,5-dione"" M+H"	CN1C(Cc2ccccc2)C(=O)Nc3ccccc3C1=O	0			1+	NA	281.129
+CCMSLIB00000079640	MLS002694822-01!2-oxo-1H-quinoline-4-carboxylic acid M+H	OC(=O)c1cc(O)nc2ccccc12.C1CNCCN1	0			1+	NA	190.05
+CCMSLIB00000080153	"""MLS001140466-01!(6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-(2,3-dimethyl-1H-indol-5-yl)methanone"" M+H"	COc1cc2CCN(Cc2cc1OC)C(=O)c3ccc4[nH]c(C)c(C)c4c3	0			1+	NA	365.186
+CCMSLIB00000080121	"""MLS001158378-01!(2S)-2-[[(2S)-3-methyl-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]butanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@H](NC(=O)N1[C@@H](C(C)C)C(=O)Nc2ccccc12)C(=O)N[C@H](C(=O)O)c3ccccc3	0			1+	NA	467.229
+CCMSLIB00000080505	"""MLS000863593-01!5-hydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-6,7-dimethoxychromen-4-one"" M+H"	COc1cc(cc(OC)c1O)c2cc(=O)c3c(O)c(OC)c(OC)cc3o2	0			1+	NA	375.108
+CCMSLIB00000079644	MLS001032408-01! M+H	CCc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)ccc12	0			1+	NA	421.176
+CCMSLIB00000079645	"""MLS001032339-01!2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]-N-[2-(4-sulfamoylphenyl)ethyl]acetamide"" M+H"	CC1(C)CC(=O)c2c(O)cc(OCC(=O)NCCc3ccc(cc3)S(=O)(=O)N)cc2O1	0			1+	NA	449.138
+CCMSLIB00000079646	"""MLS001160253-01!N-[(2,4-dimethoxyphenyl)methyl]-2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]acetamide"" M+H"	COc1ccc(CNC(=O)COc2cc(O)c3C(=O)CC(C)(C)Oc3c2)c(OC)c1	0			1+	NA	416.171
+CCMSLIB00000080194	"""MLS001141017-01!(2S)-N-(3,4-difluorophenyl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide"" M+H"	Fc1ccc(NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34)cc1F	0			1+	NA	373.1
+CCMSLIB00000080199	MLS001160034-01! M+H	CC(=CCOc1ccc2c(C)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(=O)oc2c1C)C	0			1+	NA	489.239
+CCMSLIB00000079878	MLS000863651-01! M+H	C/C=C/C=C/C(=O)N1CC[C@]23[C@@H]1N4CC[C@]3([C@H]5Nc6ccccc62)c7c(cccc7[C@@H]4C8OC8(C)C)N5C	0			1+	NA	509.292
+CCMSLIB00000079651	MLS001076858-01! M+H	O=C(NC(=S)N1C[C@H]2C[C@H](C1)c3cccc(=O)n3C2)/C=C/c4ccccc4	0			1+	NA	380.143
+CCMSLIB00000080590	MLS001141063-01!1-[(2S)-2-amino-4-methylpentanoyl]-N-[(2S)-3-methyl-1-[(4-methylphenyl)methylamino]-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	CC(C)C[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@@H](C(C)C)C(=O)NCc2ccc(C)cc2	0			1+	NA	445.318
+CCMSLIB00000080171	MLS001049034-01!1-phenylpyrrole-2-carbaldehyde M+H	O=Cc1cccn1c2ccccc2	0			1+	NA	172.076
+CCMSLIB00000080011	"""MLS001159168-01!(2R)-3-(1H-indol-3-yl)-2-[[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]propanoic acid"" M+H"	CCC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@H](Cc3c[nH]c4ccccc34)C(=O)O	0			1+	NA	492.225
+CCMSLIB00000079657	MLS002667916-01! M+H	Cn1cnc2ncnc2c1O	0			1+	NA	151.062
+CCMSLIB00000079658	"""MLS001158085-01!(2S)-2-[[(2S)-2-(1,2-dihydroimidazo[1,2-a]benzimidazole-3-carbonylamino)-3-methylbutanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@H](NC(=O)N1CCn2c1nc3ccccc23)C(=O)N[C@H](C(=O)O)c4ccccc4	0			1+	NA	436.198
+CCMSLIB00000080592	MLS001143539-01! M+H	O=C/1OC[C@H](Cc2ccc3OCOc3c2)\C1=C/c4ccc5OCOc5c4	0			1+	NA	353.103
+CCMSLIB00000080033	MLS001140673-01! M+H	COc1cccc(c1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC[C@H]7C(=O)O	0			1+	NA	565.209
+CCMSLIB00000080305	"""MLS001157747-01!3-(3,5-dimethyl-7-oxofuro[3,2-g]chromen-6-yl)-N-(3-imidazol-1-ylpropyl)propanamide"" M+H"	Cc1coc2cc3oc(=O)c(CCC(=O)NCCCn4ccnc4)c(C)c3cc12	0			1+	NA	394.177
+CCMSLIB00000079662	"""MLS001141240-01!(2R)-3-benzylsulfanyl-2-[[2-[(6-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]amino]propanoic acid"" M+H"	Cc1c(OCC(=O)N[C@@H](CSCc2ccccc2)C(=O)O)ccc3c4CCCc4c(=O)oc13	0			1+	NA	468.148
+CCMSLIB00000079691	MLS001160351-01! M+H	COc1ccc(cc1)c2cc(=O)oc3c(C)c(OC(C)C(=O)N4C[C@H]5C[C@@H](C4)c6cccc(=O)n6C5)ccc23	0			1+	NA	527.218
+CCMSLIB00000079664	MLS000584128-01! M+H	c1ccc2nc3ccccc3nc2c1	0			1+	NA	181.077
+CCMSLIB00000079665	MLS001140563-01!1-[2-(3-benzyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	Cc1c(Cc2ccccc2)c(=O)oc3cc(OCC(=O)N4CCC(CC4)C(=O)N)ccc13	0			1+	NA	435.192
+CCMSLIB00000080034	"""MLS001158574-01!(3S)-N-[(2S)-3-(1H-indol-3-yl)-1-(4-methoxyanilino)-1-oxopropan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	COc1ccc(NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@@H]4Cc5ccccc5CN4)cc1	0			1+	NA	469.224
+CCMSLIB00000079667	"""MLS001157730-01!N-[4-(2-hydroxyethyl)phenyl]-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)Nc4ccc(CCO)cc4)c12	0			1+	NA	438.192
+CCMSLIB00000080398	"""MLS001140683-01!(2R)-1-[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-4-methylsulfanylbutanoyl]pyrrolidine-2-carboxylic acid"" M+H"	CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)N4CCC[C@@H]4C(=O)O	0			1+	NA	539.196
+CCMSLIB00000079669	MLS001141359-01!1-[2-(4-ethyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	CCc1cc(=O)oc2cc(OCC(=O)N3CCC(CC3)C(=O)O)ccc12	0			1+	NA	360.145
+CCMSLIB00000080109	MLS001140519-01!1-[(2S)-2-aminopropanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-1-oxo-3-phenylpropan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@H](Cc2ccccc2)NC(=O)C3CCN(CC3)C(=O)[C@H](C)N)cc1	0			1+	NA	467.266
+CCMSLIB00000079671	MLS001048921-01!6-ethoxypyridine-3-carboxylic acid M+H	CCOc1ccc(cn1)C(=O)O	0			1+	NA	168.066
+CCMSLIB00000079673	"""MLS001048861-01!3-amino-1H-quinazoline-2,4-dione"" M+H"	Nn1c(=O)[nH]c2ccccc2c1=O	0			1+	NA	178.062
+CCMSLIB00000079674	"""MLS001158594-01!(3S)-N-[(2S)-1-(2,4-dimethylanilino)-3-(1H-indol-3-yl)-1-oxopropan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	Cc1ccc(NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@@H]4Cc5ccccc5CN4)c(C)c1	0			1+	NA	467.245
+CCMSLIB00000080231	MLS002637763-01! M+H	COc1cc(ccc1O)C2C3COC(=O)C3Cc4cc(OC)c(O)cc24	0			1+	NA	357.134
+CCMSLIB00000080603	MLS001142419-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCCc5ccc(F)cc5)C(=O)[C@@]43C)c2c1	0			1+	NA	479.209
+CCMSLIB00000080232	MLS001158241-01!N-(2-hydroxy-2-phenylethyl)-2-(8-methyl-2-oxo-4-phenylchromen-7-yl)oxyacetamide M+H	Cc1c(OCC(=O)NCC(O)c2ccccc2)ccc3c(cc(=O)oc13)c4ccccc4	0			1+	NA	430.165
+CCMSLIB00000079678	MLS002702118-01!Deferroxamine M+H	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	0			1+	NA	561.361
+CCMSLIB00000079679	MLS002695962-01! M+H	CCC1(O)C(=O)OCc2c1cc3-c4nc5ccc(O)cc5cc4Cn3c2=O.CC(=O)O	0			1+	NA	365.114
+CCMSLIB00000079681	MLS001075464-01! M+H	O=C(CCC(=O)N1C[C@@H]2CC(C1)c3cccc(=O)n3C2)NCCc4ccccc4	0			1+	NA	394.213
+CCMSLIB00000079682	MLS001141094-01!N-[(2S)-1-[(4-fluorophenyl)methylamino]-3-methyl-1-oxobutan-2-yl]-1-[(2S)-pyrrolidine-2-carbonyl]piperidine-4-carboxamide M+H	CC(C)[C@H](NC(=O)C1CCN(CC1)C(=O)[C@@H]2CCCN2)C(=O)NCc3ccc(F)cc3	0			1+	NA	433.261
+CCMSLIB00000079683	MLS000728645-01! M+H	CN1CC[C@@]2(C1Nc3ccccc32)[C@]45CCN(C)C5Nc6ccccc64	0			1+	NA	347.224
+CCMSLIB00000080424	MLS001140670-01! M+H	COc1cccc(c1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCCC7C(=O)O	0			1+	NA	565.209
+CCMSLIB00000080352	MLS000563027-01! M+H	COc1c(O)cc2C(=O)OC3[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]3c2c1O	0			1+	NA	329.087
+CCMSLIB00000079901	"""MLS001158584-01!(3S)-N-[(2S)-3-(1H-indol-3-yl)-1-(3-methylanilino)-1-oxopropan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	Cc1cccc(NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@@H]4Cc5ccccc5CN4)c1	0			1+	NA	453.229
+CCMSLIB00000079895	MLS001158680-01!1-[2-(3-benzyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	Cc1c(Cc2ccccc2)c(=O)oc3cc(OCC(=O)N4CCC(CC4)C(=O)O)ccc13	0			1+	NA	436.176
+CCMSLIB00000080235	"""MLS001159166-01!(2R)-2-[[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CCC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@H](Cc3ccccc3)C(=O)O	0			1+	NA	453.214
+CCMSLIB00000079694	"""MLS000877033-01!3-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-8-yl]-5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one"" M+H"	Oc1ccc(cc1)c2cc(=O)c3c(O)cc(O)c(c4c(oc5cc(O)cc(O)c5c4=O)c6ccc(O)cc6)c3o2	0			1+	NA	539.098
+CCMSLIB00000079791	MLS001139453-01!(2R)-1-[2-(4-ethyl-7-methyl-2-oxochromen-5-yl)oxyacetyl]pyrrolidine-2-carboxylic acid M+H	CCc1cc(=O)oc2cc(C)cc(OCC(=O)N3CCC[C@@H]3C(=O)O)c12	0			1+	NA	360.145
+CCMSLIB00000079696	MLS002702945-01! M+H	COc1ccc(CC2NCC(O)C2OC(=O)C)cc1	0			1+	NA	266.139
+CCMSLIB00000079697	"""MLS001075272-01![3,4-dibenzoyloxy-5-(3,5-dioxo-1,2,4-triazin-2-yl)oxolan-2-yl]methyl benzoate"" M+H"	O=C(OCC1OC(C(OC(=O)c2ccccc2)C1OC(=O)c3ccccc3)n4ncc(=O)[nH]c4=O)c5ccccc5	0			1+	NA	558.151
+CCMSLIB00000079698	"""MLS001141071-01!(2S)-1-[3-(4-methyl-2-oxo-6,7,8,9-tetrahydro-[1]benzofuro[3,2-g]chromen-3-yl)propanoyl]pyrrolidine-2-carboxylic acid"" M+H"	Cc1c(CCC(=O)N2CCC[C@H]2C(=O)O)c(=O)oc3cc4oc5CCCCc5c4cc13	0			1+	NA	424.176
+CCMSLIB00000079699	MLS001140706-01! M+H	O=C(NCCN1CCOCC1)c2ccccc2N3C(=O)[C@@H]4Cc5c([nH]c6ccccc56)C(N4C3=O)c7ccccc7	0			1+	NA	550.245
+CCMSLIB00000079700	MLS001075556-01! M+H	COc1ccc(CNC(=O)CCC(=O)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3)cc1OC	0			1+	NA	440.219
+CCMSLIB00000080571	"""MLS001158660-01!(2S)-2-[[(2S)-4-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@H](C(=O)O)c3ccccc3	0			1+	NA	439.198
+CCMSLIB00000080573	"""MLS001142946-01!7-[2-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-2-oxoethoxy]-3,4,8-trimethylchromen-2-one"" M+H"	Cc1c(C)c2ccc(OCC(=O)N3CC[C@@]4(O)CCCC[C@H]4C3)c(C)c2oc1=O	0			1+	NA	400.212
+CCMSLIB00000079706	MLS001075336-01! M+H	CCOC(=O)c1ccc(NC(=O)N2C[C@@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	382.177
+CCMSLIB00000079707	MLS001140674-01! M+H	COc1cccc(c1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC(CC7)C(=O)O	0			1+	NA	579.224
+CCMSLIB00000079743	"""MLS000563094-01!(3S,5R,8R,9S,10S,13S,14S)-3-hydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,14,15,16-tetradecahydrocyclopenta[a]phenanthren-17-one"" M+H"	C[C@@]12CC[C@H]3[C@@H](CC[C@@H]4C[C@@H](O)CC[C@@]43C)[C@@H]2CCC1=O	0			1+	NA	291.232
+CCMSLIB00000080196	MLS001159926-01! M+H	CCCc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)ccc12	0			1+	NA	435.192
+CCMSLIB00000079935	MLS001075494-01!N-[(2S)-1-[(2-amino-2-oxoethyl)amino]-4-methyl-1-oxopentan-2-yl]-1-[1-(4-methylphenyl)sulfonylpiperidine-4-carbonyl]pyrrolidine-2-carboxamide M+H	CC(C)C[C@H](NC(=O)C1CCCN1C(=O)C2CCN(CC2)S(=O)(=O)c3ccc(C)cc3)C(=O)NCC(=O)N	0			1+	NA	550.27
+CCMSLIB00000080379	"""MLS001146232-01!2-imino-1-[(4-methoxyphenyl)methyl]-5-oxo-N-(oxolan-2-ylmethyl)dipyrido[1,2-d:3',4'-f]pyrimidine-3-carboxamide"" M+H"	COc1ccc(Cn2c(=N)c(cc3c(=O)n4ccccc4nc23)C(=O)NCC5CCCO5)cc1	0			1+	NA	460.198
+CCMSLIB00000079720	"""MLS001048960-01!spiro[2,3,4,9-tetrahydropyrido[3,4-b]indole-1,1'-cyclohexane]"" M+H"	C1CCC2(CC1)NCCc3c2[nH]c4ccccc34.Cl	0			1+	NA	241.17
+CCMSLIB00000080148	MLS000768124-01!2-methoxyphenazine M+H	COc1ccc2nc3ccccc3nc2c1	0			1+	NA	211.087
+CCMSLIB00000080425	"""MLS000877015-01!(3Z)-3-[[5-(2-methylbut-3-en-2-yl)-1H-imidazol-4-yl]methylidene]-6-propan-2-ylpiperazine-2,5-dione"" M+H"	CC(C)C1NC(=O)/C(=C/c2[nH]cnc2C(C)(C)C=C)/NC1=O	0			1+	NA	303.182
+CCMSLIB00000080120	MLS000697612-01! M+H	Oc1ccc(cc1)C2CC(=O)c3ccc(O)cc3O2	0			1+	NA	257.081
+CCMSLIB00000080537	"""MLS000736839-01!5,6,7,8-tetrahydroxy-2-(4-hydroxyphenyl)chromen-4-one"" M+H"	Oc1ccc(cc1)c2cc(=O)c3c(O)c(O)c(O)c(O)c3o2	0			1+	NA	303.05
+CCMSLIB00000079766	MLS000570053-01! M+H	COc1ccc(/C=C/C(=O)O)cc1OC	0			1+	NA	209.081
+CCMSLIB00000080261	MLS001140302-01! M+H	COc1cc(cc(OC)c1OC)c2[nH]c(cc3c4ccccc4nc23)C(=O)NC5CCN(Cc6ccccc6)CC5	0			1+	NA	551.266
+CCMSLIB00000080315	MLS001142434-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCC5CCCO5)C(=O)[C@@]43C)c2c1	0			1+	NA	441.214
+CCMSLIB00000079728	MLS001141097-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2R)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@H](NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CCSC)C(C)C)cc1	0			1+	NA	479.269
+CCMSLIB00000079729	"""MLS000863599-01!2,3,6,8-tetrahydroxy-1,4,7-tris(3-methylbut-2-enyl)xanthen-9-one"" M+H"	CC(=CCc1c(O)cc2oc3c(CC=C(C)C)c(O)c(O)c(CC=C(C)C)c3c(=O)c2c1O)C	0			1+	NA	465.228
+CCMSLIB00000080337	MLS001142427-01! M+H	Brc1cccc(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCCCN5CCOCC5	0			1+	NA	493.124
+CCMSLIB00000079731	"""MLS000563041-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"" M+H"	OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)c2c(O)cc3oc(cc(=O)c3c2O)c4ccc(O)cc4	0			1+	NA	433.113
+CCMSLIB00000080583	"""MLS001158456-01!methyl 2-[[(2S)-1-(4,5-dimethoxy-3-oxo-1H-2-benzofuran-1-yl)-5-oxopyrrolidine-2-carbonyl]amino]benzoate"" M+H"	COC(=O)c1ccccc1NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4c3ccc(OC)c4OC	0			1+	NA	455.145
+CCMSLIB00000080303	"""MLS000728598-01!(2S)-1-benzoyl-3,4-dihydroxy-3,4-dihydro-2H-quinoline-2-carbonitrile"" M+H"	OC1C(O)c2ccccc2N([C@H]1C#N)C(=O)c3ccccc3	0			1+	NA	295.108
+CCMSLIB00000079734	MLS001157805-01!4-[[2-(3-benzyl-6-chloro-4-methyl-2-oxochromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CC(Oc1cc2oc(=O)c(Cc3ccccc3)c(C)c2cc1Cl)C(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O	0			1+	NA	512.184
+CCMSLIB00000079736	MLS000530211-01! M+H	OC(=O)CCCCC1SCC2NC(=O)NC12	0			1+	NA	245.096
+CCMSLIB00000080162	"""MLS000877008-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-3-methoxychromen-4-one"" M+H"	COc1c(oc2cc(O)cc(O)c2c1=O)c3ccc(O)cc3	0			1+	NA	301.071
+CCMSLIB00000079739	MLS000563224-01! M+H	CC1(C)[C@@H](O)CC[C@@]2(C)C1CC[C@]3(C)C2CC=C4[C@@H]5C[C@@](C)(CO)[C@@H](O)C[C@@]65C[C@@H](OC6=O)[C@]43C	0			1+	NA	487.342
+CCMSLIB00000080516	"""MLS001049144-01!7,8-dihydroxy-5,6-dimethoxy-2-phenylchromen-4-one"" M+H"	COc1c(O)c(O)c2oc(cc(=O)c2c1OC)c3ccccc3	0			1+	NA	315.087
+CCMSLIB00000079742	MLS001142640-01!methyl 1-[1-[(2S)-3-methyl-2-[(4-methylphenyl)sulfonylamino]pentanoyl]piperidine-4-carbonyl]piperidine-4-carboxylate M+H	CCC(C)[C@H](NS(=O)(=O)c1ccc(C)cc1)C(=O)N2CCC(CC2)C(=O)N3CCC(CC3)C(=O)OC	0			1+	NA	522.264
+CCMSLIB00000079744	MLS002472955-01!(E)-1-[3-(2-hydroperoxy-3-methylbut-3-enyl)-2-hydroxy-4-methoxyphenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one M+H	COc1ccc(C(=O)/C=C/c2ccc(O)cc2)c(O)c1CC(OO)C(=C)C	0			1+	NA	371.149
+CCMSLIB00000080378	MLS002608023-01! M+H	N(c1ccccc1)c2ccc3ccccc3c2	0			1+	NA	220.113
+CCMSLIB00000079746	"""MLS001304009-01!(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide"" M+H"	CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=C(C(=O)N)C1=O)O)C(=O)c4c(O)ccc(Cl)c4[C@@]3(C)O.Cl	0			1+	NA	479.122
+CCMSLIB00000079747	MLS002701604-01! M+H	CC1=C2C(C3OC(=O)C(=C)C3CC1)C4(C)OC4C2=O	0			1+	NA	261.113
+CCMSLIB00000079748	MLS001142430-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCc5ccc(C)cc5)C(=O)[C@@]43C)c2c1	0			1+	NA	461.219
+CCMSLIB00000080465	"""MLS002472924-01!9-(3-methyl-2-oxobutoxy)furo[3,2-g]chromen-7-one"" M+H"	CC(C)C(=O)COc1c2occc2cc3ccc(=O)oc13	0			1+	NA	287.092
+CCMSLIB00000080044	MLS001140886-01!2-[[2-(6-chloro-2-oxo-4-propylchromen-7-yl)oxyacetyl]amino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid M+H	CCCc1cc(=O)oc2cc(OCC(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O)c(Cl)cc12	0			1+	NA	499.127
+CCMSLIB00000079992	MLS001141319-01! M+H	COc1ccc(OC)c(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NC5CCN(Cc6ccccc6)CC5	0			1+	NA	521.255
+CCMSLIB00000080601	MLS000697568-01! M+H	CC1(C)Oc2cc3oc(cc3cc2CC1O)c4cc(O)cc(O)c4	0			1+	NA	349.105
+CCMSLIB00000080426	"""MLS001159029-01!N-(3-imidazol-1-ylpropyl)-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCCCn4ccnc4)c12	0			1+	NA	426.203
+CCMSLIB00000079756	MLS000738212-01! M+H	CCC1(CCCN2CCc3c4C21)CC(O)(C(=O)OC)n4c5ccccc35	0			1+	NA	355.202
+CCMSLIB00000079918	MLS001142925-01! M+H	Cc1cc(C)cc(NC(=O)CCNC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	409.224
+CCMSLIB00000079760	"""MLS001049025-01!2-amino-1-(4-nitrophenyl)propane-1,3-diol"" M+H"	NC(CO)C(O)c1ccc(cc1)[N+](=O)[O-]	0			1+	NA	213.088
+CCMSLIB00000079761	MLS001049055-01!1-methylindole-3-carboxamide M+H	Cn1cc(C(=O)N)c2ccccc12	0			1+	NA	175.087
+CCMSLIB00000079762	"""MLS002473216-01!(E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpent-2-en-1-one"" M+H"	O=C(/C=C/CCc1ccc2OCOc2c1)N3CCCCC3	0			1+	NA	288.16
+CCMSLIB00000080413	MLS001097690-01! M+H	CC(=O)O[C@@H]1/C/2=C(\C)/[C@H](C[C@@](O)([C@@H](OC(=O)c3ccccc3)C4[C@@]5(CO[C@@H]5C[C@H](O)[C@@]4(C)C1=O)OC(=O)C)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)Cc6ccccc6)c7ccccc7	0			1+	NA	868.354
+CCMSLIB00000080058	"""MLS001142730-01!7-[2-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-2-oxoethoxy]-4,8-dimethylchromen-2-one"" M+H"	Cc1cc(=O)oc2c(C)c(OCC(=O)N3CC[C@@]4(O)CCCC[C@H]4C3)ccc12	0			1+	NA	386.197
+CCMSLIB00000079768	"""MLS001140857-01!(2R)-2-[[(2S)-3-methyl-2-[[2-(2,3,5-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)acetyl]amino]butanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@H](NC(=O)Cc1c(C)c2cc3c(C)c(C)oc3cc2oc1=O)C(=O)N[C@@H](C(=O)O)c4ccccc4	0			1+	NA	519.213
+CCMSLIB00000079769	MLS001142425-01! M+H	COc1ccc(OC)c(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCCCN5CCOCC5	0			1+	NA	475.235
+CCMSLIB00000080320	MLS001060855-01! M+H	COc1ccc2[C@H](OC(=O)c2c1OC)[C@@H]3N(C)CCc4cc5OCOc5c(OC)c34	0			1+	NA	414.155
+CCMSLIB00000079772	"""MLS002472920-01!9-[(2E)-3,7-dimethylocta-2,6-dienoxy]furo[3,2-g]chromen-7-one"" M+H"	CC(=CCC/C(=C/COc1c2occc2cc3ccc(=O)oc13)/C)C	0			1+	NA	339.16
+CCMSLIB00000080264	MLS000737289-01! M+H	CCCCOC(=O)c1cccnc1	0			1+	NA	180.102
+CCMSLIB00000079790	MLS001142764-01!tert-butyl N-[(2S)-4-methylsulfanyl-1-oxo-1-[4-[[(2S)-1-oxo-1-(1-phenylethylamino)propan-2-yl]carbamoyl]piperidin-1-yl]butan-2-yl]carbamate M+H	CSCC[C@H](NC(=O)OC(C)(C)C)C(=O)N1CCC(CC1)C(=O)N[C@@H](C)C(=O)NC(C)c2ccccc2	0			1+	NA	535.295
+CCMSLIB00000079775	"""MLS001158283-01!(2R)-2-[[(2S)-2-(1,2-dihydroimidazo[1,2-a]benzimidazole-3-carbonylamino)-4-methylpentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CCn2c1nc3ccccc23)C(=O)N[C@H](Cc4ccccc4)C(=O)O	0			1+	NA	464.23
+CCMSLIB00000079776	MLS002638522-01! M+H	O=C(Nc1ccccc1OC(=O)c2ccccc2)c3ccccc3	0			1+	NA	318.113
+CCMSLIB00000079796	MLS000756410-01! M+H	COc1cc2CCN(C)C3Cc4ccc(Oc5cc(CC6NCCc7cc8Oc1c(Oc8cc67)c32)ccc5OC)cc4	0			1+	NA	563.255
+CCMSLIB00000079779	MLS000863561-01!3-(4-hydroxy-5-oxo-3-phenyl-2H-furan-2-yl)propanoic acid M+H	OC(=O)CCC1OC(=O)C(=C1c2ccccc2)O	0			1+	NA	249.076
+CCMSLIB00000080488	"""MLS001075334-01!(2S)-2-[[2-[(7-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-9-yl)oxy]acetyl]amino]-3-phenylpropanoic acid"" M+H"	Cc1cc(OCC(=O)N[C@@H](Cc2ccccc2)C(=O)O)c3c4CCCc4c(=O)oc3c1	0			1+	NA	422.16
+CCMSLIB00000079781	"""MLS001142813-01!7-[2-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-2-oxoethoxy]-3,4-dimethylchromen-2-one"" M+H"	Cc1c(C)c2ccc(OCC(=O)N3CC[C@@]4(O)CCCC[C@H]4C3)cc2oc1=O	0			1+	NA	386.197
+CCMSLIB00000079783	MLS000697744-01! M+H	COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)c(CC=C(C)C)c1OC	0			1+	NA	385.165
+CCMSLIB00000079784	MLS001049009-01! M+H	CCn1cc(C(=O)O)c(=O)c2cc(F)c(cc12)N3CCN(C)CC3.CS(=O)(=O)O	0			1+	NA	334.157
+CCMSLIB00000080245	"""MLS000863579-01!2,5,8-trihydroxy-6-methoxy-2-methyl-3H-benzo[g]chromen-4-one"" M+H"	COc1cc(O)cc2cc3OC(C)(O)CC(=O)c3c(O)c12	0			1+	NA	291.087
+CCMSLIB00000079789	MLS001140667-01! M+H	OC(=O)[C@H]1CCCN1C(=O)c2ccccc2N3C(=O)[C@@H]4Cc5c([nH]c6ccccc56)C(N4C3=O)c7cccc(Cl)c7	0			1+	NA	569.159
+CCMSLIB00000080523	"""MLS001158081-01!N-(3-morpholin-4-ylpropyl)-3-(2,3,5,9-tetramethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1oc2c(C)c3oc(=O)c(CCC(=O)NCCCN4CCOCC4)c(C)c3cc2c1C	0			1+	NA	441.239
+CCMSLIB00000079798	MLS002666834-01! M+H	CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)Cc3ccccc3)C2=O)C(=O)O	0			1+	NA	391.096
+CCMSLIB00000079799	MLS001142787-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCCc5ccccc5F	0			1+	NA	449.199
+CCMSLIB00000079800	MLS001049126-01!6-methoxy-2-(4-methoxyphenyl)chromen-4-one M+H	COc1ccc(cc1)c2cc(=O)c3cc(OC)ccc3o2	0			1+	NA	283.097
+CCMSLIB00000079802	MLS001140573-01!(2S)-3-(1H-indol-3-yl)-2-[[2-(6-oxobenzo[c]chromen-3-yl)oxyacetyl]amino]propanoic acid M+H	OC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)COc3ccc4c(c3)oc(=O)c5ccccc54	0			1+	NA	457.14
+CCMSLIB00000079803	"""MLS001032368-01!(3S)-2-[2-[[(2Z)-2-[(3-methoxyphenyl)methylidene]-3-oxo-1-benzofuran-6-yl]oxy]acetyl]-3,4-dihydro-1H-isoquinoline-3-carboxylic acid"" M+H"	COc1cccc(/C=C/2\Oc3cc(OCC(=O)N4Cc5ccccc5C[C@H]4C(=O)O)ccc3C2=O)c1	0			1+	NA	486.155
+CCMSLIB00000079804	MLS002694509-01! M+H	CC(O)C1CCC2C3CCC4CC(O)CCC4(C)C3C(=O)CC12C	0			1+	NA	335.259
+CCMSLIB00000080141	"""MLS001158973-01!N-(3-imidazol-1-ylpropyl)-3-(2,3,5,9-tetramethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1oc2c(C)c3oc(=O)c(CCC(=O)NCCCn4ccnc4)c(C)c3cc2c1C	0			1+	NA	422.208
+CCMSLIB00000079809	MLS001142949-01!(2S)-2-[[1-[(2S)-3-methyl-2-[(4-methylphenyl)sulfonylamino]pentanoyl]piperidine-4-carbonyl]amino]-2-phenylacetic acid M+H	CCC(C)[C@H](NS(=O)(=O)c1ccc(C)cc1)C(=O)N2CCC(CC2)C(=O)N[C@H](C(=O)O)c3ccccc3	0			1+	NA	530.232
+CCMSLIB00000079810	"""MLS001049118-01!5-hydroxy-3-(4-hydroxyphenyl)-8,8-dimethyl-6-(3-methylbut-2-enyl)pyrano[2,3-h]chromen-4-one"" M+H"	CC(=CCc1c(O)c2c(=O)c(coc2c3C=CC(C)(C)Oc13)c4ccc(O)cc4)C	0			1+	NA	405.17
+CCMSLIB00000079811	"""MLS001160330-01!1-[2-[(3,4,8,8-tetramethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	Cc1c(C)c2c(OCC(=O)N3CCC(CC3)C(=O)O)cc4OC(C)(C)CCc4c2oc1=O	0			1+	NA	444.202
+CCMSLIB00000079812	"""MLS001049051-01!1-quinolin-8-yl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole"" M+H"	C1Cc2c([nH]c3ccccc23)C(N1)c4cccc5cccnc45	0			1+	NA	300.15
+CCMSLIB00000079813	MLS001049095-01!7-(3-methylbut-2-enoxy)chromen-2-one M+H	CC(=CCOc1ccc2ccc(=O)oc2c1)C	0			1+	NA	231.102
+CCMSLIB00000079861	"""MLS001158534-01!3-(3,5-dimethyl-7-oxofuro[3,2-g]chromen-6-yl)-N-(3-morpholin-4-ylpropyl)propanamide"" M+H"	Cc1coc2cc3oc(=O)c(CCC(=O)NCCCN4CCOCC4)c(C)c3cc12	0			1+	NA	413.208
+CCMSLIB00000079816	MLS000574971-01! M+H	COc1c(OC(=O)C)c(=O)n2c3ccccc3c4ccnc1c42	0			1+	NA	309.088
+CCMSLIB00000079817	MLS001142758-01!methyl 1-[1-[(2S)-3-methyl-2-[(4-methylphenyl)sulfonylamino]butanoyl]piperidine-4-carbonyl]piperidine-4-carboxylate M+H	COC(=O)C1CCN(CC1)C(=O)C2CCN(CC2)C(=O)[C@@H](NS(=O)(=O)c3ccc(C)cc3)C(C)C	0			1+	NA	508.248
+CCMSLIB00000079818	MLS002639146-01!5-hydroxy-2-phenylchromen-4-one M+H	Oc1cccc2oc(cc(=O)c12)c3ccccc3	0			1+	NA	239.071
+CCMSLIB00000079819	"""MLS001140239-01!3-(4-chlorophenyl)-2-[[2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]amino]propanoic acid"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NC(Cc4ccc(Cl)cc4)C(=O)O)c12	0			1+	NA	500.148
+CCMSLIB00000079820	MLS001142950-01! M+H	N[C@@H](Cc1ccccc1)C(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	338.187
+CCMSLIB00000080591	MLS001140938-01!4-[[[2-[4-(4-methoxyphenyl)-8-methyl-2-oxochromen-7-yl]oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	COc1ccc(cc1)c2cc(=O)oc3c(C)c(OCC(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O)ccc23	0			1+	NA	480.202
+CCMSLIB00000080543	MLS001140849-01!4-[[2-(6-chloro-2-oxo-4-propylchromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCCc1cc(=O)oc2cc(OC(C)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)c(Cl)cc12	0			1+	NA	450.168
+CCMSLIB00000079824	MLS001139229-01!(2S)-3-(1H-indol-3-yl)-2-[2-(7-methyl-2-oxo-4-propylchromen-5-yl)oxypropanoylamino]propanoic acid M+H	CCCc1cc(=O)oc2cc(C)cc(OC(C)C(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O)c12	0			1+	NA	477.203
+CCMSLIB00000080175	MLS001075528-01! M+H	CCC(C(=O)N1C[C@H]2C[C@@H](C1)c3cccc(=O)n3C2)c4ccccc4	0			1+	NA	337.192
+CCMSLIB00000080475	MLS000876988-01!7-hydroxy-3-(3-hydroxy-4-methoxyphenyl)chromen-4-one M+H	COc1ccc(cc1O)c2coc3cc(O)ccc3c2=O	0			1+	NA	285.076
+CCMSLIB00000080480	MLS000113817-01! M+H	CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O	0			1+	NA	289.217
+CCMSLIB00000079829	MLS001050066-01!2-phenylquinoline M+H	c1ccc(cc1)c2ccc3ccccc3n2	0			1+	NA	206.097
+CCMSLIB00000079830	MLS001139423-01!(2R)-1-[2-(8-methyl-2-oxo-4-propylchromen-7-yl)oxyacetyl]pyrrolidine-2-carboxylic acid M+H	CCCc1cc(=O)oc2c(C)c(OCC(=O)N3CCC[C@@H]3C(=O)O)ccc12	0			1+	NA	374.16
+CCMSLIB00000079831	"""MLS001049120-01!6,7-dimethoxy-3H-2-benzofuran-1-one"" M+H"	COc1ccc2COC(=O)c2c1OC	0			1+	NA	195.066
+CCMSLIB00000080006	"""MLS001032269-01!N-(2-morpholin-4-ylethyl)-3-(3,5,9-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1coc2c(C)c3oc(=O)c(CCC(=O)NCCN4CCOCC4)c(C)c3cc12	0			1+	NA	413.208
+CCMSLIB00000079834	MLS001140666-01! M+H	OC(=O)[C@@H]1CCCN1C(=O)c2ccccc2N3C(=O)[C@@H]4Cc5c([nH]c6ccccc56)C(N4C3=O)c7cccc(Cl)c7	0			1+	NA	569.159
+CCMSLIB00000079835	"""MLS001160081-01!2-[2-(3-ethyl-4,8-dimethyl-2-oxochromen-7-yl)oxypropanoylamino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid"" M+H"	CCc1c(C)c2ccc(OC(C)C(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O)c(C)c2oc1=O	0			1+	NA	493.197
+CCMSLIB00000079836	"""MLS000863622-01!7-hydroxy-5-methyl-2-(2-oxopropyl)-8-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"" M+H"	CC(=O)Cc1cc(=O)c2c(C)cc(O)c(C3OC(CO)C(O)C(O)C3O)c2o1	0			1+	NA	395.134
+CCMSLIB00000079838	MLS000737546-01! M+H	COc1c(O)ccc2CC3N(CCc4cc5OCOc5cc34)Cc12	0			1+	NA	326.139
+CCMSLIB00000079839	"""MLS001160283-01!2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]-N-(3-methoxyphenyl)acetamide"" M+H"	COc1cccc(NC(=O)COc2cc(O)c3C(=O)CC(C)(C)Oc3c2)c1	0			1+	NA	372.145
+CCMSLIB00000079840	MLS001075149-01! M+H	Cc1ccc2[nH]c3CCN(Cc3c2c1)C(=O)CN4C[C@H]5C[C@@H](C4)c6cccc(=O)n6C5	0			1+	NA	417.229
+CCMSLIB00000079841	MLS002638287-01! M+2H	COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1.Br	0			1+	NA	163.1
+CCMSLIB00000079842	MLS002638287-01! M+H	COc1ccc2nccc(C(O)C3CC4CCN3CC4C=C)c2c1.Br	0			1+	NA	325.192
+CCMSLIB00000079843	MLS001075534-01! M+H	COc1cc(CNC(=O)CCC(=O)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3)cc(OC)c1OC	0			1+	NA	470.229
+CCMSLIB00000080454	"""MLS001140887-01!4-[[2-(4,7-dimethyl-2-oxochromen-5-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CC(Oc1cc(C)cc2oc(=O)cc(C)c12)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O	0			1+	NA	402.192
+CCMSLIB00000080188	"""MLS002472885-01!9-[2-[3-hydroxy-2-methyl-4-(7-oxofuro[3,2-g]chromen-9-yl)oxybutan-2-yl]oxy-3-methylbut-3-enoxy]furo[3,2-g]chromen-7-one"" M+H"	CC(=C)C(COc1c2occc2cc3ccc(=O)oc13)OC(C)(C)C(O)COc4c5occc5cc6ccc(=O)oc46	0			1+	NA	573.176
+CCMSLIB00000079846	"""MLS001048958-01!5,7-dihydroxy-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one"" M+H"	COc1cc(ccc1O)c2cc(=O)c3c(O)cc(O)cc3o2	0			1+	NA	301.071
+CCMSLIB00000079847	"""MLS000876952-01!3,8-dimethyl-3-(4-methylpent-3-enyl)-11H-pyrano[3,2-a]carbazol-9-ol"" M+H"	CC(=CCCC1(C)Oc2ccc3c4cc(C)c(O)cc4[nH]c3c2C=C1)C	0			1+	NA	348.196
+CCMSLIB00000079848	MLS001140555-01! M+H	Cc1ccc(cc1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCCCN5CCOCC5	0			1+	NA	429.229
+CCMSLIB00000079849	"""MLS001049133-01!2,4,5-trimethoxybenzonitrile"" M+H"	COc1cc(OC)c(C#N)cc1OC	0			1+	NA	194.082
+CCMSLIB00000079850	"""MLS001075321-01!1-(5-methoxy-1H-indol-3-yl)-2-piperidin-1-ylethane-1,2-dione"" M+H"	COc1ccc2[nH]cc(C(=O)C(=O)N3CCCCC3)c2c1	0			1+	NA	287.14
+CCMSLIB00000079851	MLS000563519-01! M+H	CC1(C)[C@@H](O)CC[C@@]2(C)C1CC[C@]3(C)C2CC=C4[C@@H]5C[C@@](C)(CO)[C@@H]6C[C@@]5(CC[C@]43C)C(=O)O6	0			1+	NA	471.347
+CCMSLIB00000080137	"""MLS001157994-01!1-[2-[[(2Z)-3-oxo-2-[(2,3,4-trimethoxyphenyl)methylidene]-1-benzofuran-6-yl]oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	COc1ccc(/C=C/2\Oc3cc(OCC(=O)N4CCC(CC4)C(=O)O)ccc3C2=O)c(OC)c1OC	0			1+	NA	498.176
+CCMSLIB00000080115	MLS001159932-01! M+H	COc1cc(cc(OC)c1OC)C(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	385.176
+CCMSLIB00000080302	MLS002154249-01! M+H	CC[C@]1(CCCN2CCc3c4[C@@H]21)C[C@](O)(C(=O)OC)n4c5ccccc35	0			1+	NA	355.202
+CCMSLIB00000080306	MLS000736869-01! M+H	COC1C(O)CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC2C1CO	0			1+	NA	387.228
+CCMSLIB00000079857	MLS001140369-01!1-[2-(8-methyl-2-oxo-4-propylchromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	CCCc1cc(=O)oc2c(C)c(OCC(=O)N3CCC(CC3)C(=O)N)ccc12	0			1+	NA	387.192
+CCMSLIB00000080297	"""MLS001158636-01!3-(4,11-dimethyl-2-oxo-6,7,8,9-tetrahydro-[1]benzofuro[3,2-g]chromen-3-yl)-N-(3-imidazol-1-ylpropyl)propanamide"" M+H"	Cc1c(CCC(=O)NCCCn2ccnc2)c(=O)oc3c(C)c4oc5CCCCc5c4cc13	0			1+	NA	448.224
+CCMSLIB00000079860	MLS001049012-01!7-methoxy-3-phenylchromen-4-one M+H	COc1ccc2c(=O)c(coc2c1)c3ccccc3	0			1+	NA	253.086
+CCMSLIB00000079862	MLS001142776-01!(2S)-3-methyl-2-[[1-[(2S)-4-methyl-2-[(4-methylphenyl)sulfonylamino]pentanoyl]piperidine-4-carbonyl]amino]butanoic acid M+H	CC(C)C[C@H](NS(=O)(=O)c1ccc(C)cc1)C(=O)N2CCC(CC2)C(=O)N[C@@H](C(C)C)C(=O)O	0			1+	NA	496.248
+CCMSLIB00000079863	MLS001142428-01! M+H	Brc1cccc(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	450.082
+CCMSLIB00000079864	"""MLS001140278-01!(2S)-2-[[(2R)-3-methylsulfanyl-2-[[2-(2,3,5-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)acetyl]amino]propanoyl]amino]-3-phenylpropanoic acid"" M+H"	CSC[C@H](NC(=O)Cc1c(C)c2cc3c(C)c(C)oc3cc2oc1=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	551.185
+CCMSLIB00000079865	MLS001075526-01! M+H	COc1ccc(CCC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	353.186
+CCMSLIB00000080144	MLS001146623-01! M+H	Clc1ccc(/C=C/C(=O)NC(=S)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	414.104
+CCMSLIB00000079867	"""MLS001049027-01!(E)-1-(2-hydroxyphenyl)-3-(3,4,5-trimethoxyphenyl)prop-2-en-1-one"" M+H"	COc1cc(/C=C/C(=O)c2ccccc2O)cc(OC)c1OC	0			1+	NA	315.123
+CCMSLIB00000079868	MLS001048988-01! M+H	COc1ccc2ccc(=O)oc2c1CC=C(C)C	0			1+	NA	245.118
+CCMSLIB00000080238	"""MLS001159054-01!1-[2-[(4-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	Cc1c(OCC(=O)N2CCC(CC2)C(=O)O)ccc3c4CCCCc4c(=O)oc13	0			1+	NA	400.176
+CCMSLIB00000079874	MLS000863632-01!3-phenyl-2-(trimethylazaniumyl)propanoate M+H	C[N+](C)(C)C(Cc1ccccc1)C(=O)[O-]	0			1+	NA	208.134
+CCMSLIB00000079875	MLS001142566-01! M+H	CC(=O)c1cccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	352.166
+CCMSLIB00000079876	MLS001140284-01!(2S)-1-[(2S)-2-[(5-chloro-1-methylindole-2-carbonyl)amino]-4-methylpentanoyl]pyrrolidine-2-carboxylic acid M+H	CC(C)C[C@H](NC(=O)c1cc2cc(Cl)ccc2n1C)C(=O)N3CCC[C@H]3C(=O)O	0			1+	NA	420.169
+CCMSLIB00000079879	"""MLS000766829-01!(4S,4aR,5S,5aR,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methylidene-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide"" M+H"	CN(C)[C@H]1[C@@H]2[C@@H](O)[C@@H]3C(=C)c4cccc(O)c4C(=C3C(=O)[C@]2(O)C(=C(C(=O)N)C1=O)O)O.Cl	0			1+	NA	443.145
+CCMSLIB00000079880	MLS000697561-01! M+H	CC(=CCC12Oc3cc(O)ccc3C2(O)Oc4cc5OC(C)(C)C=Cc5c(O)c4C1=O)C	0			1+	NA	437.16
+CCMSLIB00000079881	MLS000575012-01! M+H	COc1c(OC)c2nc(O)cc3c4ccccc4n(c1=O)c32	0			1+	NA	297.088
+CCMSLIB00000080032	MLS001146633-01! M+H	COc1ccc(/C=C/C(=O)NC(=S)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3)cc1OC	0			1+	NA	440.164
+CCMSLIB00000079883	"""MLS001160289-01!3-(7-methoxy-4,8-dimethyl-2-oxochromen-3-yl)-N-[3-(2-oxopyrrolidin-1-yl)propyl]propanamide"" M+H"	COc1ccc2c(C)c(CCC(=O)NCCCN3CCCC3=O)c(=O)oc2c1C	0			1+	NA	401.208
+CCMSLIB00000080429	"""MLS000728582-01!methyl (1S,4aS,8aS)-7-[2-(1H-indol-3-yl)ethyl]-1-methyl-1,4a,5,6,8,8a-hexahydropyrano[3,4-c]pyridine-4-carboxylate"" M+H"	COC(=O)C1=CO[C@@H](C)[C@@H]2CN(CCc3c[nH]c4ccccc34)CC[C@@H]21	0			1+	NA	355.202
+CCMSLIB00000079888	MLS001141073-01!1-[(2S)-2-amino-4-methylpentanoyl]-N-[(2S)-3-methyl-1-oxo-1-(1-phenylethylamino)butan-2-yl]piperidine-4-carboxamide M+H	CC(C)C[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@@H](C(C)C)C(=O)NC(C)c2ccccc2	0			1+	NA	445.318
+CCMSLIB00000079889	MLS001049111-01!ethyl 9H-carbazole-3-carboxylate M+H	CCOC(=O)c1ccc2[nH]c3ccccc3c2c1	0			1+	NA	240.102
+CCMSLIB00000079902	"""MLS001032330-01!N-pyridin-3-yl-2-[(3,4,8,8-tetramethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1c(C)c2c(OCC(=O)Nc3cccnc3)cc4OC(C)(C)CCc4c2oc1=O	0			1+	NA	409.176
+CCMSLIB00000079893	"""MLS001158447-01!(2R)-2-[[(2S)-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]-3-phenylpropanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@@H]1N(C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(=O)O)c3ccccc3)c4ccccc4NC1=O	0			1+	NA	515.229
+CCMSLIB00000080215	"""MLS001159045-01!2-[[2-(3,4-dimethyl-2-oxochromen-7-yl)oxyacetyl]amino]benzamide"" M+H"	Cc1c(C)c2ccc(OCC(=O)Nc3ccccc3C(=O)N)cc2oc1=O	0			1+	NA	367.129
+CCMSLIB00000079896	"""MLS002472956-01!(E)-1-[3-[(2E)-3,7-dimethylocta-2,6-dienyl]-2-hydroxy-4-methoxyphenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one"" M+H"	COc1ccc(C(=O)/C=C/c2ccc(O)cc2)c(O)c1C/C=C(\C)/CCC=C(C)C	0			1+	NA	407.222
+CCMSLIB00000080202	MLS002473312-01! M+H	COc1cc(OC)c(C=O)cc1OC	0			1+	NA	197.081
+CCMSLIB00000080501	"""MLS001142935-01!(2S)-2-[2-[(4-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]propanoylamino]-3-phenylpropanoic acid"" M+H"	CC(Oc1ccc2c3CCCCc3c(=O)oc2c1C)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	450.192
+CCMSLIB00000079900	"""MLS000877024-01!2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-2,3-dihydrochromen-4-one"" M+H"	Oc1cc(O)c2C(=O)CC(Oc2c1)c3ccc(O)c(O)c3	0			1+	NA	289.071
+CCMSLIB00000080296	"""MLS001048987-01!5-[(6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)methyl]-2-methoxyphenol"" M+H"	COc1ccc(CN2CCc3cc(OC)c(OC)cc3C2)cc1O	0			1+	NA	330.171
+CCMSLIB00000080205	MLS001157821-01! M+H	COC(=O)c1cccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	368.161
+CCMSLIB00000079905	MLS001140909-01! M+H	CC(C)[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)N5CCCC5	0			1+	NA	409.224
+CCMSLIB00000080419	"""MLS001048876-01!3-(3,4-dimethoxyphenyl)-7-methoxychromen-4-one"" M+H"	COc1ccc2c(=O)c(coc2c1)c3ccc(OC)c(OC)c3	0			1+	NA	313.108
+CCMSLIB00000080201	"""MLS000877022-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"" M+H"	OCC1OC(C(O)C(O)C1O)c2c(O)cc3oc(cc(=O)c3c2O)c4ccc(O)cc4	0			1+	NA	433.113
+CCMSLIB00000079908	MLS000777209-01!phenazine-1-carboxylic acid M+H	OC(=O)c1cccc2nc3ccccc3nc12	0			1+	NA	225.066
+CCMSLIB00000079909	"""MLS002472898-01!4-hydroxyfuro[3,2-g]chromen-7-one"" M+H"	Oc1c2ccoc2cc3oc(=O)ccc13	0			1+	NA	203.034
+CCMSLIB00000079911	MLS001142435-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCCc5ccc(OC)c(OC)c5)C(=O)[C@@]43C)c2c1	0			1+	NA	521.24
+CCMSLIB00000080434	"""MLS001157771-01!(2S)-1-[2-[[(2Z)-2-[(2,4-dimethoxyphenyl)methylidene]-3-oxo-1-benzofuran-6-yl]oxy]acetyl]pyrrolidine-2-carboxylic acid"" M+H"	COc1ccc(/C=C/2\Oc3cc(OCC(=O)N4CCC[C@H]4C(=O)O)ccc3C2=O)c(OC)c1	0			1+	NA	454.15
+CCMSLIB00000080499	"""MLS001140974-01!3-(5-hydroxy-1H-indol-3-yl)-2-[[2-(3,4,7-trimethyl-2-oxochromen-5-yl)oxyacetyl]amino]propanoic acid"" M+H"	Cc1cc(OCC(=O)NC(Cc2c[nH]c3ccc(O)cc23)C(=O)O)c4c(C)c(C)c(=O)oc4c1	0			1+	NA	465.166
+CCMSLIB00000079916	"""MLS001158376-01!(2S)-2-[[(2S)-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]-3-phenylpropanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)[C@@H]1N(C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c4ccccc4NC1=O	0			1+	NA	529.245
+CCMSLIB00000080616	"""MLS001140918-01!4-[[[2-[(6-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	Cc1c(OCC(=O)NC[C@H]2CC[C@@H](CC2)C(=O)O)ccc3c4CCCc4c(=O)oc13	0			1+	NA	414.192
+CCMSLIB00000079987	"""MLS001140566-01!1-[2-[(4-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]acetyl]piperidine-4-carboxamide"" M+H"	Cc1c(OCC(=O)N2CCC(CC2)C(=O)N)ccc3c4CCCCc4c(=O)oc13	0			1+	NA	399.192
+CCMSLIB00000080412	"""MLS001049121-01!indolo[2,1-b]quinazoline-6,12-dione"" M+H"	O=C1c2ccccc2-n3c1nc4ccccc4c3=O	0			1+	NA	249.066
+CCMSLIB00000079924	MLS000728592-01!methyl 1-[2-(1H-indol-3-yl)ethyl]pyridin-1-ium-3-carboxylate M+H	COC(=O)c1ccc[n+](CCc2c[nH]c3ccccc23)c1.[Br-]	0			1+	NA	281.335
+CCMSLIB00000080581	MLS001142411-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2S)-1-[(2-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccccc1CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CCSC	0			1+	NA	451.238
+CCMSLIB00000079926	"""MLS001049139-01!5,7-dimethoxy-3-(4-methoxyphenyl)chromen-4-one"" M+H"	COc1ccc(cc1)c2coc3cc(OC)cc(OC)c3c2=O	0			1+	NA	313.108
+CCMSLIB00000079927	"""MLS001159061-01!1-[2-(4,7-dimethyl-2-oxochromen-5-yl)oxyacetyl]-4-phenylpiperidine-4-carboxylic acid"" M+H"	Cc1cc(OCC(=O)N2CCC(CC2)(C(=O)O)c3ccccc3)c4c(C)cc(=O)oc4c1	0			1+	NA	436.176
+CCMSLIB00000079928	"""MLS000877020-01!3',4,6-trimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione"" M+H"	COC1=CC(=O)CC(C)C21Oc3cc(OC)cc(OC)c3C2=O	0			1+	NA	319.118
+CCMSLIB00000079930	MLS001142919-01! M+H	CSCC[C@H](NC(=O)N1C[C@H]2C[C@@H](C1)c3cccc(=O)n3C2)C(=O)Nc4ccc(NC(=O)C)cc4	0			1+	NA	498.217
+CCMSLIB00000079934	MLS000563209-01! M+H	C[C@H]1CC=C[C@H]2[C@H](O)C(=C(C)[C@H]3[C@H](Cc4ccccc4)NC(=O)[C@]32[C@H](OC(=O)C)C=C[C@](C)(O)C1)C	0			1+	NA	494.291
+CCMSLIB00000080147	"""MLS000877013-01!4-(2,3-dihydroxy-3-methylbutoxy)furo[3,2-g]chromen-7-one"" M+H"	CC(C)(O)C(O)COc1c2ccoc2cc3oc(=O)ccc13	0			1+	NA	305.103
+CCMSLIB00000080563	MLS001141067-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2R)-1-[(4-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CCSC)cc1	0			1+	NA	451.238
+CCMSLIB00000080559	MLS002473007-01! M+H	Oc1cc2oc(cc(=O)c2c(O)c1O)c3ccccc3	0			1+	NA	271.061
+CCMSLIB00000079943	"""MLS000863647-01!(E)-1-(2,3-dihydroxy-4,6-dimethoxyphenyl)-3-phenylprop-2-en-1-one"" M+H"	COc1cc(OC)c(C(=O)/C=C/c2ccccc2)c(O)c1O	0			1+	NA	301.108
+CCMSLIB00000080010	"""MLS001146464-01!(2S)-2-[[2-[(6-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]amino]-3-phenylpropanoic acid"" M+H"	Cc1c(OCC(=O)N[C@@H](Cc2ccccc2)C(=O)O)ccc3c4CCCc4c(=O)oc13	0			1+	NA	422.16
+CCMSLIB00000079948	"""MLS001049114-01!4,8-dihydroxynaphthalene-1,2-dione"" M+H"	OC1=CC(=O)C(=O)c2c(O)cccc12	0			1+	NA	191.034
+CCMSLIB00000079949	"""MLS000863568-01!3,3,5-trimethyl-11H-pyrano[3,2-a]carbazole"" M+H"	Cc1cc2c3ccccc3[nH]c2c4C=CC(C)(C)Oc14	0			1+	NA	264.139
+CCMSLIB00000079950	MLS001140904-01!4-[[[2-[3-(4-methoxyphenyl)-2-oxochromen-7-yl]oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	COc1ccc(cc1)c2cc3ccc(OCC(=O)NCC4CCC(CC4)C(=O)O)cc3oc2=O	0			1+	NA	466.187
+CCMSLIB00000079951	MLS002667896-01! M+H	COc1ccc(cc1O)C2CC(=O)c3c(O)cc(O)cc3O2	0			1+	NA	303.087
+CCMSLIB00000079952	MLS001048976-01!2-(4-hydroxyphenyl)ethyl-trimethylazanium M+H	C[N+](C)(C)CCc1ccc(O)cc1.[I-]	0			1+	NA	180.139
+CCMSLIB00000079999	MLS000111916-01! M+H	COc1cc2CC3N(C)CCc4cc(OC)c(OC)c(-c2cc1OC)c34	0			1+	NA	356.186
+CCMSLIB00000080576	"""MLS000876998-01!5-hydroxy-2-(4-hydroxyphenyl)-6,7-dimethoxychromen-4-one"" M+H"	COc1cc2oc(cc(=O)c2c(O)c1OC)c3ccc(O)cc3	0			1+	NA	315.087
+CCMSLIB00000079957	"""MLS000863612-01!3-[4,5-dihydroxy-6-(hydroxymethyl)-3-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one"" M+H"	OCC1OC(OC2C(O)C(O)C(CO)OC2Oc3c(oc4cc(O)cc(O)c4c3=O)c5ccc(O)cc5)C(O)C(O)C1O	0			1+	NA	611.161
+CCMSLIB00000079994	MLS001139239-01!(2S)-N-(3-methoxyphenyl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide M+H	COc1cccc(NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34)c1	0			1+	NA	367.129
+CCMSLIB00000080383	"""MLS001140249-01!(2S)-3-phenyl-2-[[2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]amino]propanoic acid"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)N[C@@H](Cc4ccccc4)C(=O)O)c12	0			1+	NA	466.187
+CCMSLIB00000080567	"""MLS001141325-01!(2S)-2-[6-[(10aS)-1,3-dioxo-10,10a-dihydro-5H-imidazo[1,5-b]isoquinolin-2-yl]hexanoylamino]-3-(4-hydroxyphenyl)propanoic acid"" M+H"	OC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)CCCCCN2C(=O)[C@@H]3Cc4ccccc4CN3C2=O	0			1+	NA	480.213
+CCMSLIB00000079963	"""MLS001159171-01!(2S)-1-[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]pyrrolidine-2-carboxylic acid"" M+H"	CCC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N3CCC[C@H]3C(=O)O	0			1+	NA	403.198
+CCMSLIB00000079965	"""MLS002207247-01!(8R,9S,10R,13S,14S)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-dione"" M+H"	C[C@@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]2CCC1=O	0			1+	NA	285.185
+CCMSLIB00000079966	MLS000563223-01! M+H	CC1(C)C[C@H](O)[C@]2(C[C@H]3OC2=O)[C@@H](C1)C4=CCC5[C@@]6(C)CC[C@H](O)C(C)(C)C6CC[C@@]5(C)[C@]34C	0			1+	NA	471.347
+CCMSLIB00000079967	"""MLS001048961-01!2-(3,4-dimethoxyphenyl)-N-[2-(3,4-dimethoxyphenyl)ethyl]acetamide"" M+H"	COc1ccc(CCNC(=O)Cc2ccc(OC)c(OC)c2)cc1OC	0			1+	NA	360.181
+CCMSLIB00000079968	MLS001141309-01! M+H	COc1ccc(cc1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	402.182
+CCMSLIB00000080491	"""MLS001141233-01!(2S)-1-[(2S)-2-[(4,6-dimethoxy-1-methylindole-2-carbonyl)amino]-3-methylbutanoyl]pyrrolidine-2-carboxylic acid"" M+H"	COc1cc(OC)c2cc(C(=O)N[C@@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)O)n(C)c2c1	0			1+	NA	432.213
+CCMSLIB00000080323	"""MLS001075357-01!2-[2-[(1S)-6,7-dimethoxy-1-methyl-3,4-dihydro-1H-isoquinolin-2-yl]-2-oxoethyl]sulfanyl-5-ethyl-4-hydroxy-1H-pyrimidin-6-one"" M+H"	CCc1c(O)nc(SCC(=O)N2CCc3cc(OC)c(OC)cc3[C@@H]2C)nc1O	0			1+	NA	420.159
+CCMSLIB00000080418	"""MLS001048848-01!4-ethoxy-7,8-dimethoxyfuro[2,3-b]quinoline"" M+H"	CCOc1c2ccoc2nc3c(OC)c(OC)ccc13	0			1+	NA	274.108
+CCMSLIB00000079973	MLS002206281-01!4-phenylpyridine M+H	c1ccc(cc1)c2ccncc2	0			1+	NA	156.081
+CCMSLIB00000080219	"""MLS001142720-01!7-[2-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-2-oxoethoxy]chromen-2-one"" M+H"	O[C@@]12CCCC[C@H]2CN(CC1)C(=O)COc3ccc4ccc(=O)oc4c3	0			1+	NA	358.165
+CCMSLIB00000079976	MLS000697596-01! M+H	CC(=CCc1c(oc2cc3OC(C)(C)C=Cc3c(O)c2c1=O)c4ccc(O)cc4O)C	0			1+	NA	421.165
+CCMSLIB00000079977	MLS000697596-01! M+H	CC(=CCc1c(oc2cc3OC(C)(C)C=Cc3c(O)c2c1=O)c4ccc(O)cc4O)C	0			1+	NA	421.165
+CCMSLIB00000080156	"""MLS001157879-01!N-[2-(1H-indol-3-yl)ethyl]-2-(3,4,7-trimethyl-2-oxochromen-5-yl)oxyacetamide"" M+H"	Cc1cc(OCC(=O)NCCc2c[nH]c3ccccc23)c4c(C)c(C)c(=O)oc4c1	0			1+	NA	405.181
+CCMSLIB00000079979	MLS001049119-01! M+H	CC1(C)CCc2c3OC(C)(C)C=Cc3c4occ(c5ccc(O)cc5)c(=O)c4c2O1	0			1+	NA	405.17
+CCMSLIB00000080327	MLS000766289-01! M+H	COc1cccc2CC3C4C(CC(C(C#N)N3C(CO)c12)N4C)C(=O)O	0			1+	NA	358.177
+CCMSLIB00000080223	MLS001146577-01! M+H	COc1ccc(OC)c(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	370.177
+CCMSLIB00000080187	MLS001140559-01!1-[2-(4-methyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	Cc1cc(=O)oc2cc(OCC(=O)N3CCC(CC3)C(=O)N)ccc12	0			1+	NA	345.145
+CCMSLIB00000080363	MLS001097652-01! M+H	CCCCCC(=O)N[C@H]([C@@H](O)C(=O)O[C@H]/1C[C@@]2(O)[C@@H](OC(=O)c3ccccc3)C4[C@@]5(CO[C@@H]5C[C@H](O)[C@@]4(C)C(=O)[C@H](OC(=O)C)\C(=C1/C)\C2(C)C)OC(=O)C)c6ccccc6	0			1+	NA	848.386
+CCMSLIB00000080462	MLS001140948-01!4-[[[2-[4-(4-methoxyphenyl)-2-oxochromen-7-yl]oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	COc1ccc(cc1)c2cc(=O)oc3cc(OCC(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O)ccc23	0			1+	NA	466.187
+CCMSLIB00000080525	"""MLS001142409-01!7-[1-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-1-oxopropan-2-yl]oxy-3,4,8-trimethylchromen-2-one"" M+H"	CC(Oc1ccc2c(C)c(C)c(=O)oc2c1C)C(=O)N3CC[C@@]4(O)CCCC[C@H]4C3	0			1+	NA	414.228
+CCMSLIB00000080391	MLS001075310-01!(2R)-3-(1H-indol-3-yl)-2-[[2-(2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]propanoic acid M+H	OC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)COc3ccc4c(cc(=O)oc4c3)c5ccccc5	0			1+	NA	483.156
+CCMSLIB00000080002	MLS001140973-01!4-[[[2-(6-oxobenzo[c]chromen-3-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	OC(=O)[C@H]1CC[C@H](CNC(=O)COc2ccc3c(c2)oc(=O)c4ccccc43)CC1	0			1+	NA	410.16
+CCMSLIB00000080003	MLS002706489-01! M+H	CN1CCc2cc3OCOc3cc2C1	0			1+	NA	192.102
+CCMSLIB00000080004	"""MLS001049023-01!6,7-dimethoxy-2-methyl-3,4-dihydroisoquinolin-1-one"" M+H"	COc1cc2CCN(C)C(=O)c2cc1OC	0			1+	NA	222.113
+CCMSLIB00000080005	MLS001142708-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NC5CCCCC5	0			1+	NA	409.224
+CCMSLIB00000080007	MLS001141091-01! M+H	CC(C)[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCc5ccco5	0			1+	NA	435.203
+CCMSLIB00000080008	"""MLS001076817-01!(2S)-2-[[2-[(3-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-1-yl)oxy]acetyl]amino]-3-phenylpropanoic acid"" M+H"	Cc1cc(OCC(=O)N[C@@H](Cc2ccccc2)C(=O)O)c3c4CCCCc4c(=O)oc3c1	0			1+	NA	436.176
+CCMSLIB00000080009	MLS001159203-01! M+H	OC(=O)c1cccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	354.145
+CCMSLIB00000080012	MLS002172436-01!4-oxo-1H-quinoline-2-carboxylic acid M+H	OC(=O)c1cc(O)c2ccccc2n1	0			1+	NA	190.05
+CCMSLIB00000080013	MLS001075531-01! M+H	O=C(CCC(=O)N1C[C@H]2C[C@@H](C1)c3cccc(=O)n3C2)NCc4ccccc4	0			1+	NA	380.197
+CCMSLIB00000080014	"""MLS000876948-01!4,5,7-trihydroxy-9,10-dioxoanthracene-2-carboxylic acid"" M+H"	OC(=O)c1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1	0			1+	NA	301.035
+CCMSLIB00000080015	MLS002703411-01! M+H	O=C(Cc1ccccc1)N(c2ccccc2)c3ccccc3	0			1+	NA	288.139
+CCMSLIB00000080554	MLS001142422-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NCc5ccc(F)cc5)C(=O)[C@@]43C)c2c1	0			1+	NA	465.194
+CCMSLIB00000080019	MLS000737174-01! M+H	Oc1cccc2nc3ccccc3nc12	0			1+	NA	197.071
+CCMSLIB00000080422	"""MLS001049097-01!3,8-dimethoxybenzo[c]chromen-6-one"" M+H"	COc1ccc2c(c1)oc(=O)c3cc(OC)ccc32	0			1+	NA	257.081
+CCMSLIB00000080023	MLS000737091-01! M+H	COC1C(O)CC2CN3CCc4c([nH]c5cc(OC)ccc45)C3CC2C1C(=O)O	0			1+	NA	401.208
+CCMSLIB00000080026	MLS001142432-01! M+H	COc1cccc(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	402.182
+CCMSLIB00000080027	MLS000697642-01! M+H	COCOc1cc(O)c(C(=O)/C=C/c2ccccc2)c(OCOC)c1	0			1+	NA	345.134
+CCMSLIB00000080028	MLS002637723-01! M+H	O=C(Oc1ccccc1)c2ccccc2C(=O)Oc3ccccc3	0			1+	NA	319.097
+CCMSLIB00000080374	MLS000060551-01! M+H	COc1ccc(CC2N(C)CCc3cc(OC)c(OC)cc23)cc1OC	0			1+	NA	358.202
+CCMSLIB00000080031	MLS001159058-01!1-[2-(7-methyl-2-oxo-4-propylchromen-5-yl)oxyacetyl]piperidine-4-carboxamide M+H	CCCc1cc(=O)oc2cc(C)cc(OCC(=O)N3CCC(CC3)C(=O)N)c12	0			1+	NA	387.192
+CCMSLIB00000080035	MLS001140556-01! M+H	Cc1ccc(cc1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	386.187
+CCMSLIB00000080038	MLS001141004-01!1-[(2S)-2-amino-4-methylpentanoyl]-N-[(2S)-1-[(4-methylphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	CC(C)C[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@@H](C)C(=O)NCc2ccc(C)cc2	0			1+	NA	417.287
+CCMSLIB00000080039	MLS001032277-01! M+H	CC(=C)COc1cc2oc(=O)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(C)c2cc1Cl	0			1+	NA	495.169
+CCMSLIB00000080617	"""MLS001140358-01!dimethyl 5-[[2-(2,3,4,7,9,10-hexahydro-[1,4]dioxepino[2,3-g]isoquinolin-8-yl)acetyl]amino]benzene-1,3-dicarboxylate"" M+H"	COC(=O)c1cc(NC(=O)CN2CCc3cc4OCCCOc4cc3C2)cc(c1)C(=O)OC	0			1+	NA	455.182
+CCMSLIB00000080312	"""MLS000876987-01!(3S,3'R)-4-methyl-3'-phenylspiro[1H-1,4-benzodiazepine-3,2'-oxirane]-2,5-dione"" M+H"	CN1C(=O)c2ccccc2NC(=O)[C@@]31O[C@@H]3c4ccccc4	0			1+	NA	295.108
+CCMSLIB00000080292	MLS000697647-01! M+H	CCOC(=O)c1oc2cc(O)cc(O)c2c(=O)c1OCc3ccccc3	0			1+	NA	357.097
+CCMSLIB00000080440	MLS001143604-01! M+H	CC[C@@H]1N2[C@@H](Cc3c1[nH]c4ccccc34)C(=O)N(C2=O)c5ccc(F)cc5	0			1+	NA	364.146
+CCMSLIB00000080457	MLS001075525-01! M+H	O=C(CCc1ccccc1)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	323.176
+CCMSLIB00000080415	"""MLS001048999-01!1-methyl-3,4-dihydro-2H-pyrido[3,4-b]indole"" M+H"	CC1=NCCc2c1[nH]c3ccccc23	0			1+	NA	185.108
+CCMSLIB00000080348	"""MLS001140856-01!(2R)-2-phenyl-2-[[2-[[2-(2,3,5-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)acetyl]amino]acetyl]amino]acetic acid"" M+H"	Cc1oc2cc3oc(=O)c(CC(=O)NCC(=O)N[C@@H](C(=O)O)c4ccccc4)c(C)c3cc2c1C	0			1+	NA	477.166
+CCMSLIB00000080051	MLS002637808-01!(5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl)-quinolin-4-ylmethanol M+H	OC(C1CC2CCN1CC2C=C)c3ccnc4ccccc34	0			1+	NA	295.181
+CCMSLIB00000080053	"""MLS001048852-01!(E)-1,3-bis(2,4-dimethoxyphenyl)prop-2-en-1-one"" M+H"	COc1ccc(/C=C/C(=O)c2ccc(OC)cc2OC)c(OC)c1	0			1+	NA	329.139
+CCMSLIB00000080054	MLS000756699-01! M+H	CCCc1cc(=O)oc2c3C(O)C(C)C(C)Oc3c4C=CC(C)(C)Oc4c12	0			1+	NA	371.186
+CCMSLIB00000080055	"""MLS000697747-01!2-methoxy-4-[(2S,3S)-7-methoxy-3-methyl-5-[(E)-prop-1-enyl]-2,3-dihydro-1-benzofuran-2-yl]phenol"" M+H"	COc1cc(/C=C/C)cc2[C@H](C)[C@H](Oc21)c3ccc(O)c(OC)c3	0			1+	NA	327.16
+CCMSLIB00000080409	MLS001158176-01! M+H	Cc1c(O)ccc2c(C)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(=O)oc12	0			1+	NA	421.176
+CCMSLIB00000080057	MLS001142738-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCc5ccc(C)cc5	0			1+	NA	431.208
+CCMSLIB00000080400	"""MLS001160493-01!1-[2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)N4CCC(CC4)C(=O)O)c12	0			1+	NA	430.187
+CCMSLIB00000080060	MLS001075495-01! M+H	COc1ccccc1NC(=O)N2C[C@@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	340.166
+CCMSLIB00000080062	MLS000697600-01! M+H	COc1ccc([C@@H]2COc3c(C2)ccc4OC(C)(C)C=Cc43)c(OC)c1	0			1+	NA	353.175
+CCMSLIB00000080168	"""MLS001159055-01!1-[2-[(3-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-1-yl)oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	Cc1cc(OCC(=O)N2CCC(CC2)C(=O)O)c3c4CCCCc4c(=O)oc3c1	0			1+	NA	400.176
+CCMSLIB00000080064	"""MLS001160489-01!2-[(8,8-dimethyl-2-oxo-4-propyl-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(pyridin-4-ylmethyl)acetamide"" M+H"	CCCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccncc4)c12	0			1+	NA	437.208
+CCMSLIB00000080065	MLS002638354-01! M+H	COc1cc(O)c(C(=O)C)c2OC(C)(C)C=Cc12	0			1+	NA	249.113
+CCMSLIB00000080262	"""MLS001157954-01!(2S)-1-[2-[[(2Z)-2-[(3,4-dimethoxyphenyl)methylidene]-3-oxo-1-benzofuran-6-yl]oxy]acetyl]pyrrolidine-2-carboxylic acid"" M+H"	COc1ccc(/C=C/2\Oc3cc(OCC(=O)N4CCC[C@H]4C(=O)O)ccc3C2=O)cc1OC	0			1+	NA	454.15
+CCMSLIB00000080067	MLS000736796-01! M+H	COC(=O)C1=COC(C)C2CN3CCc4c([nH]c5cc(OC)c(OC)cc45)C3CC21.OC(=O)CC(O)(CC(=O)O)C(=O)O	0			1+	NA	413.208
+CCMSLIB00000080556	MLS001032333-01! M+H	CCc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(Cl)cc12	0			1+	NA	455.137
+CCMSLIB00000080604	MLS001141022-01! M+H	COc1cccc(CNC(=O)[C@@H](C)N2C(=O)N3CCc4c([nH]c5ccc(OC)cc45)C3(C)C2=O)c1	0			1+	NA	477.214
+CCMSLIB00000080113	MLS001048873-01!N-(furan-2-ylmethyl)-9-methylpurin-6-amine M+H	Cn1cnc2c(NCc3ccco3)ncnc12	0			1+	NA	230.104
+CCMSLIB00000080075	MLS002630965-01!2-hydroxy-4-methoxy-3-(3-methylbut-2-enyl)-6-(2-phenylethyl)benzoic acid M+H	COc1cc(CCc2ccccc2)c(C(=O)O)c(O)c1CC=C(C)C	0			1+	NA	341.175
+CCMSLIB00000080613	"""MLS001157773-01!1-[2-[[(2Z)-2-[(2,4-dimethoxyphenyl)methylidene]-3-oxo-1-benzofuran-6-yl]oxy]acetyl]piperidine-4-carboxylic acid"" M+H"	COc1ccc(/C=C/2\Oc3cc(OCC(=O)N4CCC(CC4)C(=O)O)ccc3C2=O)c(OC)c1	0			1+	NA	468.166
+CCMSLIB00000080229	"""MLS001075933-01!2-[[(Z)-2-benzamido-3-(3,4,5-trimethoxyphenyl)prop-2-enoyl]amino]-2-phenylacetic acid"" M+H"	COc1cc(/C=C(\NC(=O)c2ccccc2)/C(=O)NC(C(=O)O)c3ccccc3)cc(OC)c1OC	0			1+	NA	491.182
+CCMSLIB00000080329	"""MLS000863658-01!3-hydroxy-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"" M+H"	COc1cc(CC2COC(=O)C2(O)Cc3ccc(O)c(OC)c3)ccc1O	0			1+	NA	375.144
+CCMSLIB00000080335	"""MLS001158445-01!(2R)-2-[[(2S)-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]-3-phenylpropanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)[C@@H]1N(C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](Cc3ccccc3)C(=O)O)c4ccccc4NC1=O	0			1+	NA	529.245
+CCMSLIB00000080182	MLS000877004-01!7-hydroxy-3-(4-hydroxyphenyl)-5-methoxychromen-4-one M+H	COc1cc(O)cc2occ(c3ccc(O)cc3)c(=O)c12	0			1+	NA	285.076
+CCMSLIB00000080085	MLS000697599-01! M+H	CC(=CCOc1ccc([C@@H]2COc3c(C2)ccc4OC(C)(C)C=Cc43)c(O)c1)C	0			1+	NA	393.207
+CCMSLIB00000080126	MLS001049068-01!2-amino-3-(1H-indol-3-yl)-N-phenylpropanamide M+H	NC(Cc1c[nH]c2ccccc12)C(=O)Nc3ccccc3	0			1+	NA	280.145
+CCMSLIB00000080332	MLS001076857-01! M+H	COc1cc(cc(OC)c1OC)C(=O)NC(=S)N2C[C@H]3C[C@H](C2)c4cccc(=O)n4C3	0			1+	NA	444.159
+CCMSLIB00000080356	MLS000515793-01! M+H	OC(Cc1c[nH]c2ccccc12)C(=O)O	0			1+	NA	206.082
+CCMSLIB00000080089	"""MLS001141248-01!3-(4-chlorophenyl)-2-[[2-[(6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]acetyl]amino]propanoic acid"" M+H"	OC(=O)C(Cc1ccc(Cl)cc1)NC(=O)COc2ccc3c4CCCCc4c(=O)oc3c2	0			1+	NA	456.121
+CCMSLIB00000080316	MLS001140558-01!1-[2-(2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	NC(=O)C1CCN(CC1)C(=O)COc2ccc3ccc(=O)oc3c2	0			1+	NA	331.129
+CCMSLIB00000080093	MLS001140947-01!4-[[[2-(2-oxo-4-propylchromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	CCCc1cc(=O)oc2cc(OCC(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	402.192
+CCMSLIB00000080094	MLS001140924-01!4-[[[2-(6-ethyl-2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	CCc1cc2c(cc(=O)oc2cc1OCC(=O)NCC3CCC(CC3)C(=O)O)c4ccccc4	0			1+	NA	464.207
+CCMSLIB00000080095	MLS001141244-01!2-[[2-(3-benzyl-4-methyl-2-oxochromen-7-yl)oxyacetyl]amino]-3-(4-chlorophenyl)propanoic acid M+H	Cc1c(Cc2ccccc2)c(=O)oc3cc(OCC(=O)NC(Cc4ccc(Cl)cc4)C(=O)O)ccc13	0			1+	NA	506.137
+CCMSLIB00000080096	MLS001048854-01!(E)-3-(4-hydroxyphenyl)-1-(4-methoxyphenyl)prop-2-en-1-one M+H	COc1ccc(cc1)C(=O)/C=C/c2ccc(O)cc2	0			1+	NA	255.102
+CCMSLIB00000080099	MLS001140572-01!1-[2-(4-ethyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxamide M+H	CCc1cc(=O)oc2cc(OCC(=O)N3CCC(CC3)C(=O)N)ccc12	0			1+	NA	359.161
+CCMSLIB00000080100	MLS002154074-01! M+H	COc1cc2ccc(=O)oc2cc1O	0			1+	NA	193.05
+CCMSLIB00000080102	MLS000728610-01! M+H	COC(=O)C1=CO[C@@H](C)[C@H]2CN3CC[C@@]4([C@@H]3C[C@@H]21)C(=O)Nc5ccccc54	0			1+	NA	369.181
+CCMSLIB00000080103	MLS001049008-01!2-(dimethylamino)-1-(5-methoxy-1H-indol-3-yl)ethanone M+H	COc1ccc2[nH]cc(C(=O)CN(C)C)c2c1	0			1+	NA	233.129
+CCMSLIB00000080104	"""MLS001140907-01!1-[3-(4-methyl-2-oxo-6,7,8,9-tetrahydro-[1]benzofuro[3,2-g]chromen-3-yl)propanoyl]-4-phenylpiperidine-4-carboxylic acid"" M+H"	Cc1c(CCC(=O)N2CCC(CC2)(C(=O)O)c3ccccc3)c(=O)oc4cc5oc6CCCCc6c5cc14	0			1+	NA	514.223
+CCMSLIB00000080105	"""MLS000863643-01!3,5-dimethyl-3-(4-methylpent-3-enyl)-11H-pyrano[3,2-a]carbazol-9-ol"" M+H"	CC(=CCCC1(C)Oc2c(C)cc3c4ccc(O)cc4[nH]c3c2C=C1)C	0			1+	NA	348.196
+CCMSLIB00000080107	MLS001142775-01! M+H	CC(C)c1ccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	352.202
+CCMSLIB00000080108	MLS001140564-01!1-[2-(6-oxobenzo[c]chromen-3-yl)oxyacetyl]piperidine-4-carboxamide M+H	NC(=O)C1CCN(CC1)C(=O)COc2ccc3c(c2)oc(=O)c4ccccc43	0			1+	NA	381.145
+CCMSLIB00000080490	"""MLS000863609-01!5,7-dihydroxy-3,6-dimethoxy-2-(4-methoxyphenyl)chromen-4-one"" M+H"	COc1ccc(cc1)c2oc3cc(O)c(OC)c(O)c3c(=O)c2OC	0			1+	NA	345.097
+CCMSLIB00000080483	"""MLS001157897-01!(2S)-3-(1H-indol-3-yl)-2-[[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]butanoyl]amino]propanoic acid"" M+H"	CC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O	0			1+	NA	478.209
+CCMSLIB00000080221	MLS001140990-01!4-[[2-(4-butyl-6-chloro-2-oxochromen-7-yl)oxypropanoylamino]methyl]cyclohexane-1-carboxylic acid M+H	CCCCc1cc(=O)oc2cc(OC(C)C(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)c(Cl)cc12	0			1+	NA	464.184
+CCMSLIB00000080118	MLS001142433-01! M+H	COc1cccc(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCCCN5CCOCC5	0			1+	NA	445.224
+CCMSLIB00000080119	"""MLS001140570-01!1-[2-[(4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]piperidine-4-carboxamide"" M+H"	NC(=O)C1CCN(CC1)C(=O)COc2ccc3c4CCCc4c(=O)oc3c2	0			1+	NA	371.161
+CCMSLIB00000080123	"""MLS001140206-01!(2S)-N-(1,3-benzodioxol-5-yl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide"" M+H"	O=C(Nc1ccc2OCOc2c1)[C@@H]3CCC(=O)N3C4OC(=O)c5ccccc45	0			1+	NA	381.109
+CCMSLIB00000080127	MLS001074702-01! M+H	Nc1ncnc2n(ccc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	0			1+	NA	267.109
+CCMSLIB00000080132	"""MLS001158201-01!(3R)-N-[(2S)-1-[(2S)-2-(hydroxymethyl)pyrrolidin-1-yl]-1-oxopropan-2-yl]-2,2-dimethyl-5-oxo-3,9b-dihydro-[1,3]thiazolo[2,3-a]isoindole-3-carboxamide"" M+H"	C[C@H](NC(=O)[C@H]1N2C(SC1(C)C)c3ccccc3C2=O)C(=O)N4CCC[C@H]4CO	0			1+	NA	418.18
+CCMSLIB00000080134	MLS001142765-01! M+H	CCc1ccccc1NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	338.187
+CCMSLIB00000080136	"""MLS000863619-01!5-hydroxy-6,7,8-trimethoxy-2-(3,4,5-trimethoxyphenyl)chromen-4-one"" M+H"	COc1cc(cc(OC)c1OC)c2cc(=O)c3c(O)c(OC)c(OC)c(OC)c3o2	0			1+	NA	419.134
+CCMSLIB00000080138	MLS001075314-01!1-[2-(4-methyl-2-oxochromen-7-yl)oxyacetyl]-4-phenylpiperidine-4-carboxylic acid M+H	Cc1cc(=O)oc2cc(OCC(=O)N3CCC(CC3)(C(=O)O)c4ccccc4)ccc12	0			1+	NA	422.16
+CCMSLIB00000080553	MLS001159062-01!1-[2-(4-ethyl-7-methyl-2-oxochromen-5-yl)oxyacetyl]-4-phenylpiperidine-4-carboxylic acid M+H	CCc1cc(=O)oc2cc(C)cc(OCC(=O)N3CCC(CC3)(C(=O)O)c4ccccc4)c12	0			1+	NA	450.192
+CCMSLIB00000080298	MLS001140453-01!2-(8-methyl-2-oxo-4-phenylchromen-7-yl)oxy-N-(pyridin-2-ylmethyl)acetamide M+H	Cc1c(OCC(=O)NCc2ccccn2)ccc3c(cc(=O)oc13)c4ccccc4	0			1+	NA	401.15
+CCMSLIB00000080143	MLS001075496-01! M+H	COc1ccc(NC(=O)N2C[C@@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	340.166
+CCMSLIB00000080149	MLS001162678-01! M+H	COc1ccc(cc1OC)C(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	355.166
+CCMSLIB00000080453	MLS001048963-01!(4-methyl-2-oxochromen-7-yl) benzoate M+H	Cc1cc(=O)oc2cc(OC(=O)c3ccccc3)ccc12	0			1+	NA	281.081
+CCMSLIB00000080154	MLS001157755-01!2-[[2-(6-chloro-2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]-3-(5-hydroxy-1H-indol-3-yl)propanoic acid M+H	OC(=O)C(Cc1c[nH]c2ccc(O)cc12)NC(=O)COc3cc4oc(=O)cc(c5ccccc5)c4cc3Cl	0			1+	NA	533.112
+CCMSLIB00000080157	MLS001075335-01! M+H	Cc1cccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)c1	0			1+	NA	324.171
+CCMSLIB00000080158	"""MLS001140440-01!4-[[[2-(4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	Cc1cc(=O)oc2c(C)c(OCC(=O)NC[C@H]3CC[C@@H](CC3)C(=O)O)ccc12	0			1+	NA	388.176
+CCMSLIB00000080461	MLS002638967-01! M+H	COC1=CC(=O)OC(CCc2ccc3OCOc3c2)C1	0			1+	NA	277.108
+CCMSLIB00000080161	"""MLS000863576-01!(2Z)-2-[(3,4-dihydroxyphenyl)methylidene]-6-hydroxy-1-benzofuran-3-one"" M+H"	Oc1ccc2C(=O)/C(=C/c3ccc(O)c(O)c3)/Oc2c1	0			1+	NA	271.061
+CCMSLIB00000080542	MLS001159093-01!2-[4-(4-methoxyphenyl)-8-methyl-2-oxochromen-7-yl]oxy-N-(pyridin-2-ylmethyl)propanamide M+H	COc1ccc(cc1)c2cc(=O)oc3c(C)c(OC(C)C(=O)NCc4ccccn4)ccc23	0			1+	NA	445.176
+CCMSLIB00000080164	MLS000766209-01! M+H	COC12C3C(CN2C4=C(C1COC(=O)N)C(=O)C(=N)C(=C4O)C)N3C	0			1+	NA	349.151
+CCMSLIB00000080165	"""MLS001160273-01!N-(4-acetamidophenyl)-2-[(5-hydroxy-2,2-dimethyl-4-oxo-3H-chromen-7-yl)oxy]acetamide"" M+H"	CC(=O)Nc1ccc(NC(=O)COc2cc(O)c3C(=O)CC(C)(C)Oc3c2)cc1	0			1+	NA	399.156
+CCMSLIB00000080263	MLS002473152-01![6-methoxy-3-(4-methoxyphenyl)-4-oxochromen-7-yl] acetate M+H	COc1ccc(cc1)c2coc3cc(OC(=O)C)c(OC)cc3c2=O	0			1+	NA	341.103
+CCMSLIB00000080253	MLS000728652-01! M+H	O[C@H](CCc1ccccc1)C[C@H](O)C/C=C/[C@H]2CC=CC(=O)O2	0			1+	NA	317.175
+CCMSLIB00000080172	MLS002415724-01! M+H	CCCCCCCCCC(=O)O	0			1+	NA	173.154
+CCMSLIB00000080173	MLS001140669-01! M+H	CC(C)c1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC[C@H]7C(=O)O	0			1+	NA	577.245
+CCMSLIB00000080176	"""MLS001158206-01!(2S)-2-[[(2S)-4-methyl-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]pentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)N1[C@@H](C(C)C)C(=O)Nc2ccccc12)C(=O)N[C@@H](Cc3ccccc3)C(=O)O	0			1+	NA	495.261
+CCMSLIB00000080178	"""MLS001141238-01!4-phenyl-1-[2-(3,4,8-trimethyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxylic acid"" M+H"	Cc1c(C)c2ccc(OCC(=O)N3CCC(CC3)(C(=O)O)c4ccccc4)c(C)c2oc1=O	0			1+	NA	450.192
+CCMSLIB00000080179	"""MLS001141310-01!1-[2-(4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]-4-phenylpiperidine-4-carboxylic acid"" M+H"	Cc1cc(=O)oc2c(C)c(OCC(=O)N3CCC(CC3)(C(=O)O)c4ccccc4)ccc12	0			1+	NA	436.176
+CCMSLIB00000080180	MLS001160502-01! M+H	Cc1cc(O)c2c(C)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(=O)oc2c1	0			1+	NA	421.176
+CCMSLIB00000080183	MLS001140274-01!(2S)-1-[(2S)-2-[(5-chloro-1-methylindole-2-carbonyl)amino]propanoyl]pyrrolidine-2-carboxylic acid M+H	C[C@H](NC(=O)c1cc2cc(Cl)ccc2n1C)C(=O)N3CCC[C@H]3C(=O)O	0			1+	NA	378.122
+CCMSLIB00000080224	"""MLS001158446-01!(2S)-2-[[(2S)-2-[[(2S)-3-oxo-2-propan-2-yl-2,4-dihydroquinoxaline-1-carbonyl]amino]-3-phenylpropanoyl]amino]-2-phenylacetic acid"" M+H"	CC(C)[C@@H]1N(C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](C(=O)O)c3ccccc3)c4ccccc4NC1=O	0			1+	NA	515.229
+CCMSLIB00000080190	MLS000563058-01! M+H	OCC1OC(C(O)C(O)C1O)c2c(O)cc3oc4cc(O)c(O)cc4c(=O)c3c2O	0			1+	NA	423.093
+CCMSLIB00000080191	"""MLS000876823-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[3,4,5-trihydroxy-6-[(3,4,5-trihydroxy-6-methyloxan-2-yl)oxymethyl]oxan-2-yl]oxychromen-4-one"" M+H"	CC1OC(OCC2OC(Oc3c(oc4cc(O)cc(O)c4c3=O)c5ccc(O)cc5)C(O)C(O)C2O)C(O)C(O)C1O	0			1+	NA	595.166
+CCMSLIB00000080192	MLS002415730-01! M+H	CCOC(=O)c1ccccc1N	0			1+	NA	166.087
+CCMSLIB00000080195	MLS001141034-01!tert-butyl (2S)-2-[4-[[(2R)-1-[(4-fluorophenyl)methylamino]-3-methyl-1-oxobutan-2-yl]carbamoyl]piperidine-1-carbonyl]pyrrolidine-1-carboxylate M+H	CC(C)[C@@H](NC(=O)C1CCN(CC1)C(=O)[C@@H]2CCCN2C(=O)OC(C)(C)C)C(=O)NCc3ccc(F)cc3	0			1+	NA	533.314
+CCMSLIB00000080197	"""MLS001140694-01!4-[[[(2S)-2-[[(2S)-2-(2,4-dioxo-1H-quinazolin-3-yl)-3-phenylpropanoyl]amino]-3-methylpentanoyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	CCC(C)[C@H](NC(=O)[C@H](Cc1ccccc1)n2c(=O)[nH]c3ccccc3c2=O)C(=O)NCC4CCC(CC4)C(=O)O	0			1+	NA	563.287
+CCMSLIB00000080198	MLS000574982-01! M+H	COC(=O)C1(C)NCCc2c1[nH]c3ccccc23	0			1+	NA	245.129
+CCMSLIB00000080283	"""MLS001048850-01!(E)-3-(2,4-dimethoxyphenyl)-1-(2-hydroxy-4-methoxyphenyl)prop-2-en-1-one"" M+H"	COc1ccc(C(=O)/C=C/c2ccc(OC)cc2OC)c(O)c1	0			1+	NA	315.123
+CCMSLIB00000080416	"""MLS001158923-01!3-(7-hydroxy-4,8-dimethyl-2-oxochromen-3-yl)-N-[3-(2-oxopyrrolidin-1-yl)propyl]propanamide"" M+H"	Cc1c(O)ccc2c(C)c(CCC(=O)NCCCN3CCCC3=O)c(=O)oc12	0			1+	NA	387.192
+CCMSLIB00000080269	"""MLS001158026-01!3-(5-hydroxy-1H-indol-3-yl)-2-[[2-(3,4,8-trimethyl-2-oxochromen-7-yl)oxyacetyl]amino]propanoic acid"" M+H"	Cc1c(C)c2ccc(OCC(=O)NC(Cc3c[nH]c4ccc(O)cc34)C(=O)O)c(C)c2oc1=O	0			1+	NA	465.166
+CCMSLIB00000080206	MLS000563044-01! M+H	C[C@@H]1OC(OCC2OC(Oc3c(oc4cc(O)cc(O)c4c3=O)c5ccc(O)cc5)C(OC6OC(C)C(O)C(O)C6O)C(O)C2O)C(O)[C@H](O)[C@H]1O	0			1+	NA	741.224
+CCMSLIB00000080208	"""MLS001048951-01!8-methoxy-9-methylfuro[2,3-b]quinolin-4-one"" M+H"	COc1cccc2c(=O)c3ccoc3n(C)c12	0			1+	NA	230.082
+CCMSLIB00000080268	"""MLS001157775-01!(2S)-1-[2-[[(2Z)-2-(1,3-benzodioxol-5-ylmethylidene)-3-oxo-1-benzofuran-6-yl]oxy]acetyl]-4-hydroxypyrrolidine-2-carboxylic acid"" M+H"	OC1C[C@H](N(C1)C(=O)COc2ccc3C(=O)/C(=C/c4ccc5OCOc5c4)/Oc3c2)C(=O)O	0			1+	NA	454.114
+CCMSLIB00000080210	MLS000776800-01!2-[(2-ethoxybenzoyl)amino]acetic acid M+H	CCOc1ccccc1C(=O)NCC(=O)O	0			1+	NA	224.092
+CCMSLIB00000080212	MLS002472930-01!7-methoxy-8-(7-methoxy-2-oxochromen-6-yl)chromen-2-one M+H	COc1ccc2ccc(=O)oc2c1c3cc4ccc(=O)oc4cc3OC	0			1+	NA	351.087
+CCMSLIB00000080213	MLS001159952-01! M+H	COc1cccc(c1)C(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	325.155
+CCMSLIB00000080214	MLS001141093-01!1-[(2S)-2-amino-4-methylpentanoyl]-N-[(2S)-1-[(2-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccccc1CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CC(C)C	0			1+	NA	433.281
+CCMSLIB00000080216	MLS000697614-01! M+H	Oc1cc(O)c2c(=O)c(Oc3ccccc3)coc2c1	0			1+	NA	271.061
+CCMSLIB00000080452	MLS001141369-01!1-[2-(4-ethyl-8-methyl-2-oxochromen-7-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	CCc1cc(=O)oc2c(C)c(OCC(=O)N3CCC(CC3)C(=O)O)ccc12	0			1+	NA	374.16
+CCMSLIB00000080220	"""MLS000876959-01!2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"" M+H"	OCC1OC(C(O)C(O)C1O)c2c(O)cc3oc(cc(=O)c3c2O)c4ccc(O)c(O)c4	0			1+	NA	449.108
+CCMSLIB00000080222	MLS001141186-01! M+H	CC(C)[C@H](NC(=O)N1C[C@H]2C[C@@H](C1)c3cccc(=O)n3C2)C(=O)Nc4ccccc4F	0			1+	NA	427.215
+CCMSLIB00000080225	"""MLS002472935-01!8-prop-1-en-2-ylfuro[2,3-h]chromen-2-one"" M+H"	CC(=C)c1cc2c(ccc3ccc(=O)oc23)o1	0			1+	NA	227.071
+CCMSLIB00000080226	MLS001140787-01!(2S)-2-[[(2R)-2-[[1-[(2-methylpropan-2-yl)oxycarbonyl]-4-phenylpiperidine-4-carbonyl]amino]propanoyl]amino]-3-phenylpropanoic acid M+H	C[C@@H](NC(=O)C1(CCN(CC1)C(=O)OC(C)(C)C)c2ccccc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)O	0			1+	NA	524.276
+CCMSLIB00000080589	"""MLS000863634-01!methyl 2-(2,6-dihydroxy-4-methylbenzoyl)-5-hydroxy-3-methoxybenzoate"" M+H"	COC(=O)c1cc(O)cc(OC)c1C(=O)c2c(O)cc(C)cc2O	0			1+	NA	333.097
+CCMSLIB00000080236	"""MLS001159195-01!(2S)-2-[[(2S)-2-[[(3R)-2,2-dimethyl-5-oxo-3,9b-dihydro-[1,3]thiazolo[2,3-a]isoindole-3-carbonyl]amino]-4-methylpentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)[C@H]1N2C(SC1(C)C)c3ccccc3C2=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	524.222
+CCMSLIB00000080478	"""MLS000863648-01!5,7-dihydroxy-3-(4-hydroxyphenyl)-6,8-bis(3-methylbut-2-enyl)chromen-4-one"" M+H"	CC(=CCc1c(O)c(CC=C(C)C)c2occ(c3ccc(O)cc3)c(=O)c2c1O)C	0			1+	NA	407.186
+CCMSLIB00000080239	MLS001140999-01!4-[[[2-(6-chloro-2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	OC(=O)[C@H]1CC[C@H](CNC(=O)COc2cc3oc(=O)cc(c4ccccc4)c3cc2Cl)CC1	0			1+	NA	470.137
+CCMSLIB00000080241	MLS001049059-01!methyl 2-benzamidoacetate M+H	COC(=O)CNC(=O)c1ccccc1	0			1+	NA	194.082
+CCMSLIB00000080251	"""MLS001140997-01!4-[[[2-(3-benzyl-4,8-dimethyl-2-oxochromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid"" M+H"	Cc1c(Cc2ccccc2)c(=O)oc3c(C)c(OCC(=O)NC[C@H]4CC[C@@H](CC4)C(=O)O)ccc13	0			1+	NA	478.223
+CCMSLIB00000080252	MLS001157764-01! M+H	COc1ccccc1c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	402.182
+CCMSLIB00000080254	MLS002707301-01!7-hydroxy-2-(4-methoxyphenyl)chromen-4-one M+H	COc1ccc(cc1)c2cc(=O)c3ccc(O)cc3o2	0			1+	NA	269.081
+CCMSLIB00000080255	MLS001140391-01! M+H	Clc1cccc(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	406.132
+CCMSLIB00000080609	MLS001075490-01!(2S)-3-(1H-indol-3-yl)-2-[[2-(2-oxo-4-propylchromen-7-yl)oxyacetyl]amino]propanoic acid M+H	CCCc1cc(=O)oc2cc(OCC(=O)N[C@@H](Cc3c[nH]c4ccccc34)C(=O)O)ccc12	0			1+	NA	449.171
+CCMSLIB00000080259	"""MLS001157727-01!N-[(3,4-dimethoxyphenyl)methyl]-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	COc1ccc(CNC(=O)COc2cc3OC(C)(C)CCc3c4oc(=O)cc(C)c24)cc1OC	0			1+	NA	468.202
+CCMSLIB00000080260	MLS001141062-01!(2S)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)-N-(4-propan-2-ylphenyl)pyrrolidine-2-carboxamide M+H	CC(C)c1ccc(NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34)cc1	0			1+	NA	379.166
+CCMSLIB00000080265	MLS001048998-01! M+H	COc1ccc(cc1)c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2	0			1+	NA	343.118
+CCMSLIB00000080266	"""MLS001159030-01!2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(pyridin-4-ylmethyl)acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccncc4)c12	0			1+	NA	423.192
+CCMSLIB00000080267	"""MLS001140347-01!1-[2-(6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-2-oxoethyl]pyridin-2-one"" M+H"	COc1cc2CCN(Cc2cc1OC)C(=O)Cn3ccccc3=O	0			1+	NA	329.15
+CCMSLIB00000080479	"""MLS000563101-01![(2S,3S,5S,8R,9S,10S,13S,14S)-2-acetyloxy-10,13-dimethyl-17-oxo-1,2,3,4,5,6,7,8,9,11,12,14,15,16-tetradecahydrocyclopenta[a]phenanthren-3-yl] acetate"" M+H"	CC(=O)O[C@H]1C[C@@H]2CC[C@H]3[C@@H]4CCC(=O)[C@@]4(C)CC[C@@H]3[C@@]2(C)C[C@@H]1OC(=O)C	0			1+	NA	391.248
+CCMSLIB00000080271	MLS000541593-01! M+H	CSc1nc2ccccc2s1	0			1+	NA	182.01
+CCMSLIB00000080273	MLS000517268-01! M+H	NC(=O)c1cn(C2OC(CO)C(O)C2O)c3ncnc(N)c13.O	0			1+	NA	310.115
+CCMSLIB00000080275	MLS002695974-01! M+H	COc1cccc2c1cc([N+](=O)[O-])c3c(cc4OCOc4c23)C(=O)O	0			1+	NA	342.061
+CCMSLIB00000080595	MLS000575022-01! M+H	COc1c[nH]c(C=C)c2nc3ccccc3c12	0			1+	NA	225.103
+CCMSLIB00000080280	"""MLS000863618-01!6,7-dimethoxy-8-(3-methylbut-2-enyl)chromen-2-one"" M+H"	COc1cc2ccc(=O)oc2c(CC=C(C)C)c1OC	0			1+	NA	275.128
+CCMSLIB00000080281	MLS000574959-01! M+H	Oc1cccc2c1c3ccnc4ccc(=O)n2c34	0			1+	NA	237.066
+CCMSLIB00000080282	"""MLS002473170-01!3-hydroxy-9-methoxy-6-oxo-8-pentanoyl-1-pentylbenzo[b][1,4]benzodioxepine-2-carboxylic acid"" M+H"	CCCCCc1c(C(=O)O)c(O)cc2OC(=O)c3cc(C(=O)CCCC)c(OC)cc3Oc12	0			1+	NA	457.186
+CCMSLIB00000080285	MLS001140565-01!1-[2-(4-methyl-6-oxobenzo[c]chromen-3-yl)oxyacetyl]piperidine-4-carboxamide M+H	Cc1c(OCC(=O)N2CCC(CC2)C(=O)N)ccc3c4ccccc4c(=O)oc13	0			1+	NA	395.161
+CCMSLIB00000080286	"""MLS001048863-01!1,6,6-trimethyl-8,9-dihydro-7H-naphtho[1,2-g][1]benzofuran-10,11-dione"" M+H"	Cc1coc-2c1C(=O)C(=O)c3c4CCCC(C)(C)c4ccc23	0			1+	NA	295.133
+CCMSLIB00000080287	"""MLS001049098-01!7-[(2E)-3,7-dimethylocta-2,6-dienoxy]chromen-2-one"" M+H"	CC(=CCC/C(=C/COc1ccc2ccc(=O)oc2c1)/C)C	0			1+	NA	299.165
+CCMSLIB00000080288	MLS002154141-01! M+H	C[C@H]1[C@@H]2CC[C@@]3(C)C=CC(=O)C(=C3[C@H]2OC1=O)C	0			1+	NA	247.133
+CCMSLIB00000080289	MLS000736760-01! M+H	COc1ccc2[nH]c3c(C)c4ccncc4c(C)c3c2c1	0			1+	NA	277.134
+CCMSLIB00000080290	"""MLS001049063-01!4,7-dihydroxychromen-2-one"" M+H"	Oc1ccc2c(O)cc(=O)oc2c1	0			1+	NA	179.034
+CCMSLIB00000080293	"""MLS001157889-01!N-cyclopropyl-3-(7-hydroxy-4,8-dimethyl-2-oxochromen-3-yl)propanamide"" M+H"	Cc1c(O)ccc2c(C)c(CCC(=O)NC3CC3)c(=O)oc12	0			1+	NA	302.139
+CCMSLIB00000080294	"""MLS000863597-01!(4,7,7-trimethyl-3-bicyclo[2.2.1]heptanyl) (E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate"" M+H"	COc1cc(/C=C/C(=O)OC2CC3CCC2(C)C3(C)C)ccc1O	0			1+	NA	331.191
+CCMSLIB00000080307	MLS001075533-01! M+H	Fc1ccccc1CCNC(=O)CCC(=O)N2C[C@@H]3CC(C2)c4cccc(=O)n4C3	0			1+	NA	412.204
+CCMSLIB00000080311	"""MLS001143605-01!1-ethyl-9H-pyrido[3,4-b]indole"" M+H"	CCc1nccc2c3ccccc3[nH]c12	0			1+	NA	197.108
+CCMSLIB00000080427	"""MLS001158978-01!(3S)-N-[(2R)-1-(1,3-benzodioxol-5-ylamino)-1-oxopropan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	C[C@@H](NC(=O)[C@@H]1Cc2ccccc2CN1)C(=O)Nc3ccc4OCOc4c3	0			1+	NA	368.161
+CCMSLIB00000080319	MLS001049022-01!(E)-1-(2-hydroxy-4-methoxyphenyl)-3-phenylprop-2-en-1-one M+H	COc1ccc(C(=O)/C=C/c2ccccc2)c(O)c1	0			1+	NA	255.102
+CCMSLIB00000080321	"""MLS000876964-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6,8-bis(3-methylbut-2-enyl)-2,3-dihydrochromen-4-one"" M+H"	CC(=CCc1c(O)c(CC=C(C)C)c2OC(CC(=O)c2c1O)c3ccc(O)cc3)C	0			1+	NA	409.201
+CCMSLIB00000080322	MLS001159916-01! M+H	Cc1cc(=O)oc2cc(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(Cl)cc12	0			1+	NA	441.122
+CCMSLIB00000080324	MLS000574914-01! M+H	COc1ccc2ccc(=O)oc2c1	0			1+	NA	177.055
+CCMSLIB00000080326	"""MLS001159037-01!N-[3-(2-oxopyrrolidin-1-yl)propyl]-2-(2,3,4,9-tetramethyl-7-oxofuro[2,3-f]chromen-8-yl)acetamide"" M+H"	Cc1oc2c(c1C)c(C)cc3oc(=O)c(CC(=O)NCCCN4CCCC4=O)c(C)c23	0			1+	NA	425.208
+CCMSLIB00000080328	MLS000697728-01! M+H	Oc1cc(O)c2c(=O)cc(oc2c1)c3ccccc3	0			1+	NA	255.066
+CCMSLIB00000080330	"""MLS001141300-01!1-[2-(3,4,7-trimethyl-2-oxochromen-5-yl)oxyacetyl]piperidine-4-carboxylic acid"" M+H"	Cc1cc(OCC(=O)N2CCC(CC2)C(=O)O)c3c(C)c(C)c(=O)oc3c1	0			1+	NA	374.16
+CCMSLIB00000080399	MLS001141389-01!1-[2-(7-methyl-2-oxo-4-propylchromen-5-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	CCCc1cc(=O)oc2cc(C)cc(OCC(=O)N3CCC(CC3)C(=O)O)c12	0			1+	NA	388.176
+CCMSLIB00000080350	MLS001142746-01!tert-butyl N-[(2S)-1-[4-[[(2S)-1-[(2-methoxyphenyl)methylamino]-1-oxopropan-2-yl]carbamoyl]piperidin-1-yl]-4-methylsulfanyl-1-oxobutan-2-yl]carbamate M+H	COc1ccccc1CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@H](CCSC)NC(=O)OC(C)(C)C	0			1+	NA	551.29
+CCMSLIB00000080428	"""MLS001158355-01!2-[(4-ethyl-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(pyridin-3-ylmethyl)acetamide"" M+H"	CCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4cccnc4)c12	0			1+	NA	423.192
+CCMSLIB00000080343	"""MLS000863606-01!1-[2,4-dihydroxy-6-methoxy-3-(3-methylbut-2-enyl)phenyl]-3-(4-hydroxyphenyl)propan-1-one"" M+H"	COc1cc(O)c(CC=C(C)C)c(O)c1C(=O)CCc2ccc(O)cc2	0			1+	NA	357.17
+CCMSLIB00000080345	MLS001140671-01! M+H	COc1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC[C@@H]7C(=O)O	0			1+	NA	565.209
+CCMSLIB00000080346	MLS000737655-01! M+H	COc1cc2CCN(C)Cc3c4OCOc4ccc3CC(=O)c2cc1OC	0			1+	NA	370.165
+CCMSLIB00000080347	"""MLS001203376-01!1-methyl-9H-pyrido[3,4-b]indole-3-carboxylic acid"" M+H"	Cc1nc(cc2c3ccccc3[nH]c12)C(=O)O	0			1+	NA	227.082
+CCMSLIB00000080349	"""MLS001049128-01!2-methyl-1,3,4,9-tetrahydropyrido[3,4-b]indole"" M+H"	CN1CCc2c(C1)[nH]c3ccccc23	0			1+	NA	187.124
+CCMSLIB00000080357	MLS001140273-01! M+H	CC(C)C[C@H](NC(=O)[C@@H]1Cc2c([nH]c3ccccc23)C4N1C(=O)c5ccccc45)C(=O)N6CCC[C@@H]6C(=O)O	0			1+	NA	529.245
+CCMSLIB00000080358	MLS000737282-01! M+H	COc1cc(O)c(C(=O)/C=C/c2ccccc2)c(OC)c1	0			1+	NA	285.113
+CCMSLIB00000080359	"""MLS001141225-01!N-(furan-2-ylmethyl)-2-[(3,4,8,8-tetramethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1c(C)c2c(OCC(=O)NCc3ccco3)cc4OC(C)(C)CCc4c2oc1=O	0			1+	NA	412.176
+CCMSLIB00000080360	MLS001160037-01! M+H	CCCCc1cc(=O)oc2c(C)c(OCC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)ccc12	0			1+	NA	463.223
+CCMSLIB00000080361	MLS000574951-01! M+H	COC(=O)c1[nH]ccc2c3ccccc3nc12	0			1+	NA	227.082
+CCMSLIB00000080514	MLS001142728-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCCc5ccc(F)cc5	0			1+	NA	449.199
+CCMSLIB00000080365	MLS001032279-01! M+H	CC(Oc1ccc2c(C)c(C)c(=O)oc2c1C)C(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4	0			1+	NA	449.208
+CCMSLIB00000080366	MLS001142921-01! M+H	Fc1ccc(NC(=O)CCNC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	399.183
+CCMSLIB00000080384	"""MLS001140205-01!(2S)-1-[(2S)-2-[(4,7-dimethoxy-1-methylindole-2-carbonyl)amino]-3-methylbutanoyl]pyrrolidine-2-carboxylic acid"" M+H"	COc1ccc(OC)c2n(C)c(cc12)C(=O)N[C@@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)O	0			1+	NA	432.213
+CCMSLIB00000080371	"""MLS001141333-01!2-(7-methyl-2,3,4,7,9,10-hexahydro-[1,4]dioxepino[2,3-g]isoquinolin-8-yl)-N-phenylacetamide"" M+H"	CC1N(CC(=O)Nc2ccccc2)CCc3cc4OCCCOc4cc13	0			1+	NA	353.186
+CCMSLIB00000080373	MLS001140512-01!(2R)-2-[[(2S)-3-methyl-2-[[1-[(2-methylpropan-2-yl)oxycarbonyl]-4-phenylpiperidine-4-carbonyl]amino]pentanoyl]amino]-2-phenylacetic acid M+H	CCC(C)[C@H](NC(=O)C1(CCN(CC1)C(=O)OC(C)(C)C)c2ccccc2)C(=O)N[C@@H](C(=O)O)c3ccccc3	0			1+	NA	552.307
+CCMSLIB00000080382	MLS001141084-01!N-[(2S)-3-methyl-1-[(4-methylphenyl)methylamino]-1-oxobutan-2-yl]-1-[(2S)-pyrrolidine-2-carbonyl]piperidine-4-carboxamide M+H	CC(C)[C@H](NC(=O)C1CCN(CC1)C(=O)[C@@H]2CCCN2)C(=O)NCc3ccc(C)cc3	0			1+	NA	429.287
+CCMSLIB00000080385	MLS001162685-01!(2R)-3-benzylsulfanyl-2-[[2-(4-butyl-7-methyl-2-oxochromen-5-yl)oxyacetyl]amino]propanoic acid M+H	CCCCc1cc(=O)oc2cc(C)cc(OCC(=O)N[C@@H](CSCc3ccccc3)C(=O)O)c12	0			1+	NA	484.179
+CCMSLIB00000080386	"""MLS001160399-01!(2S)-1-[2-[(8,8-dimethyl-2-oxo-4-propyl-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetyl]pyrrolidine-2-carboxylic acid"" M+H"	CCCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)N4CCC[C@H]4C(=O)O)c12	0			1+	NA	444.202
+CCMSLIB00000080388	MLS001157756-01!N-cyclopropyl-3-(7-hydroxy-4-methyl-2-oxochromen-3-yl)propanamide M+H	Cc1c(CCC(=O)NC2CC2)c(=O)oc3cc(O)ccc13	0			1+	NA	288.124
+CCMSLIB00000080393	MLS000728624-01! M+H	CC[C@@H]1CN(C)[C@H]2Cc3c([nH]c4ccccc34)C(=O)C[C@@H]1[C@@H]2C(=O)OC	0			1+	NA	355.202
+CCMSLIB00000080395	MLS000697640-01! M+H	COCOc1ccc(cc1)c2cc(=O)c3c(O)cc(OCOC)cc3o2	0			1+	NA	359.113
+CCMSLIB00000080396	MLS001140580-01!2-(2-oxo-4-phenylchromen-7-yl)oxy-N-(pyridin-2-ylmethyl)propanamide M+H	CC(Oc1ccc2c(cc(=O)oc2c1)c3ccccc3)C(=O)NCc4ccccn4	0			1+	NA	401.15
+CCMSLIB00000080401	"""MLS001140943-01!(2S)-1-[3-(4,11-dimethyl-2-oxo-6,7,8,9-tetrahydro-[1]benzofuro[3,2-g]chromen-3-yl)propanoyl]pyrrolidine-2-carboxylic acid"" M+H"	Cc1c(CCC(=O)N2CCC[C@H]2C(=O)O)c(=O)oc3c(C)c4oc5CCCCc5c4cc13	0			1+	NA	438.192
+CCMSLIB00000080402	MLS001048956-01!1-(6-methylsulfinylhexyl)-3-propan-2-ylurea M+H	CC(C)NC(=O)NCCCCCCS(=O)C	0			1+	NA	249.164
+CCMSLIB00000080403	MLS001140319-01! M+H	CCC(C)[C@H](NC(=O)[C@@H]1Cc2c([nH]c3ccccc23)C4N1C(=O)c5ccccc45)C(=O)NCC6CCCO6	0			1+	NA	515.266
+CCMSLIB00000080405	MLS001141056-01! M+H	COc1ccc2[nH]c3c(CCN4C(=O)N([C@@H](C)C(=O)NC5CCCCC5C)C(=O)[C@@]43C)c2c1	0			1+	NA	453.25
+CCMSLIB00000080406	MLS001140908-01!4-[[[2-(8-methyl-2-oxo-4-phenylchromen-7-yl)oxyacetyl]amino]methyl]cyclohexane-1-carboxylic acid M+H	Cc1c(OCC(=O)NC[C@H]2CC[C@@H](CC2)C(=O)O)ccc3c(cc(=O)oc13)c4ccccc4	0			1+	NA	450.192
+CCMSLIB00000080408	MLS000551242-01!10H-acridin-9-one M+H	Oc1c2ccccc2nc3ccccc13	0			1+	NA	196.076
+CCMSLIB00000080410	MLS000551010-01!1H-quinazolin-4-one M+H	Oc1ncnc2ccccc12	0			1+	NA	147.056
+CCMSLIB00000080411	MLS001049060-01!N-[2-(1H-indol-3-yl)ethyl]hexadecanamide M+H	CCCCCCCCCCCCCCCC(=O)NCCc1c[nH]c2ccccc12	0			1+	NA	399.338
+CCMSLIB00000080417	MLS000575011-01! M+H	CCC1NC(Cc2c1[nH]c3ccccc23)C(=O)O	0			1+	NA	245.129
+CCMSLIB00000080420	MLS001049003-01!2-benzamido-3-[(2-benzamido-2-carboxyethyl)disulfanyl]propanoic acid M+H	OC(=O)C(CSSCC(NC(=O)c1ccccc1)C(=O)O)NC(=O)c2ccccc2	0			1+	NA	449.084
+CCMSLIB00000080421	MLS000697603-01! M+H	COc1cc2OC[C@H](Cc2c(OC)c1CC=C(C)C)c3ccc(O)cc3O	0			1+	NA	371.186
+CCMSLIB00000080423	MLS001141044-01!1-[(2S)-2-amino-3-methylbutanoyl]-N-[(2S)-1-[(2-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccccc1CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)C(C)C	0			1+	NA	419.266
+CCMSLIB00000080431	"""MLS001142944-01!7-[2-[(4aS,8aS)-4a-hydroxy-1,3,4,5,6,7,8,8a-octahydroisoquinolin-2-yl]-2-oxoethoxy]-4-ethylchromen-2-one"" M+H"	CCc1cc(=O)oc2cc(OCC(=O)N3CC[C@@]4(O)CCCC[C@H]4C3)ccc12	0			1+	NA	386.197
+CCMSLIB00000080432	"""MLS002473215-01!(2E,4E,12E)-13-(1,3-benzodioxol-5-yl)-N-(2-methylpropyl)trideca-2,4,12-trienamide"" M+H"	CC(C)CNC(=O)/C=C/C=C/CCCCCC\C=C\c1ccc2OCOc2c1	0			1+	NA	384.254
+CCMSLIB00000080438	MLS000756558-01! M+H	COC1C(OC(=O)c2ccc(C)[nH]2)C(O)C(Oc3ccc4c(O)c(NC(=O)c5ccc(O)c(CC=C(C)C)c5)c(=O)oc4c3Cl)OC1(C)C	0			1+	NA	697.216
+CCMSLIB00000080439	MLS001139249-01!(2S)-N-(2-ethylphenyl)-5-oxo-1-(3-oxo-1H-2-benzofuran-1-yl)pyrrolidine-2-carboxamide M+H	CCc1ccccc1NC(=O)[C@@H]2CCC(=O)N2C3OC(=O)c4ccccc34	0			1+	NA	365.15
+CCMSLIB00000080441	"""MLS001157935-01!(3S)-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxopentan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide"" M+H"	CCC(C)[C@H](NC(=O)[C@@H]1Cc2ccccc2CN1)C(=O)NCc3ccc(OC)cc3	0			1+	NA	410.244
+CCMSLIB00000080442	"""MLS001157820-01!N-(3-imidazol-1-ylpropyl)-3-(2,3,5-trimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanamide"" M+H"	Cc1oc2cc3oc(=O)c(CCC(=O)NCCCn4ccnc4)c(C)c3cc2c1C	0			1+	NA	408.192
+CCMSLIB00000080443	"""MLS000876982-01!5,7-dihydroxy-2-[4-methoxy-3,5-bis(3-methylbut-2-enyl)phenyl]-2,3-dihydrochromen-4-one"" M+H"	COc1c(CC=C(C)C)cc(cc1CC=C(C)C)C2CC(=O)c3c(O)cc(O)cc3O2	0			1+	NA	423.217
+CCMSLIB00000080444	MLS002695914-01! M+H	CC(=O)OC1CCC2C3CCc4cc(OC(=O)C)ccc4C3CCC12C	0			1+	NA	357.207
+CCMSLIB00000080445	MLS000574941-01! M+H	C[C@@H]1CC(=O)[C@H]2CC(=CCC[C@@H]2[C@@]1(C)CC/C(=C/CO)/CO)CO	0			1+	NA	337.238
+CCMSLIB00000080533	MLS001141014-01!tert-butyl (2S)-2-[4-[[(2S)-1-[(4-methoxyphenyl)methylamino]-3-methyl-1-oxobutan-2-yl]carbamoyl]piperidine-1-carbonyl]pyrrolidine-1-carboxylate M+H	COc1ccc(CNC(=O)[C@@H](NC(=O)C2CCN(CC2)C(=O)[C@@H]3CCCN3C(=O)OC(C)(C)C)C(C)C)cc1	0			1+	NA	545.334
+CCMSLIB00000080449	MLS000876962-01! M+H	COc1cc(ccc1O)C2CC(=O)c3c(O)cc(O)cc3O2	0			1+	NA	303.087
+CCMSLIB00000080459	"""MLS001141219-01!N-benzyl-2-[(4,8,8-trimethyl-2-oxo-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]acetamide"" M+H"	Cc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCc4ccccc4)c12	0			1+	NA	408.181
+CCMSLIB00000080451	"""MLS001049073-01!4-[(2R)-2-[(1R,3R,5S)-3,5-dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]piperidine-2,6-dione"" M+H"	C[C@H]1C[C@@H](C)C(=O)[C@H](C1)[C@H](O)CC2CC(=O)NC(=O)C2	0			1+	NA	282.171
+CCMSLIB00000080456	MLS001142805-01! M+H	CCOc1ccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	354.182
+CCMSLIB00000080463	"""MLS001140561-01!1-[2-(3,4,7-trimethyl-2-oxochromen-5-yl)oxyacetyl]piperidine-4-carboxamide"" M+H"	Cc1cc(OCC(=O)N2CCC(CC2)C(=O)N)c3c(C)c(C)c(=O)oc3c1	0			1+	NA	373.176
+CCMSLIB00000080466	"""MLS000876950-01!5,7-dihydroxy-6-methyl-2-phenyl-2,3-dihydrochromen-4-one"" M+H"	Cc1c(O)cc2OC(CC(=O)c2c1O)c3ccccc3	0			1+	NA	271.097
+CCMSLIB00000080518	"""MLS001141335-01!(2R)-1-[6-[(10aS)-1,3-dioxo-10,10a-dihydro-5H-imidazo[1,5-b]isoquinolin-2-yl]hexanoyl]pyrrolidine-2-carboxylic acid"" M+H"	OC(=O)[C@H]1CCCN1C(=O)CCCCCN2C(=O)[C@@H]3Cc4ccccc4CN3C2=O	0			1+	NA	414.203
+CCMSLIB00000080578	"""MLS000877028-01!3,6-bis(3,4,5-trimethoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan"" M+H"	COc1cc(cc(OC)c1OC)C2OCC3C(OCC23)c4cc(OC)c(OC)c(OC)c4	0			1+	NA	447.202
+CCMSLIB00000080469	MLS000515799-01! M+H	Nc1ncnc2n(cnc12)[C@H]3C[C@H](O)[C@@H](CO)O3.O	0			1+	NA	252.11
+CCMSLIB00000080470	MLS000876756-01! M+H	COc1cc2cc(Oc3ccc4ccc(=O)oc4c3)c(=O)oc2cc1OC5OC(COC(=O)CC(C)(O)CC(=O)O)C(O)C(O)C5O	0			1+	NA	659.161
+CCMSLIB00000080471	"""MLS001048889-01!7-(2-chloroethyl)-1,3-dimethylpurine-2,6-dione"" M+H"	Cn1c(=O)n(C)c2ncn(CCCl)c2c1=O	0			1+	NA	243.065
+CCMSLIB00000080473	MLS001143521-01! M+H	C[C@@H]1[C@H](O)C[C@]23COC(=O)C3=CCCC2[C@@]1(C)CCC4COC(=O)C4	0			1+	NA	349.201
+CCMSLIB00000080474	"""MLS000863611-01!2,2-dimethylpyrano[3,2-g]chromen-8-one"" M+H"	CC1(C)Oc2cc3oc(=O)ccc3cc2C=C1	0			1+	NA	229.086
+CCMSLIB00000080476	MLS001140352-01! M+H	Cc1ccc(cc1)C2N3[C@@H](Cc4c2[nH]c5ccccc45)C(=O)N(C3=O)c6ccccc6C(=O)N7CCC[C@H]7C(=O)O	0			1+	NA	549.214
+CCMSLIB00000080477	"""MLS002472953-01!(E)-1-[2,4-dihydroxy-3-[(2E)-6-hydroxy-3,7-dimethylocta-2,7-dienyl]phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one"" M+H"	CC(=C)C(O)CC/C(=C/Cc1c(O)ccc(C(=O)\C=C\c2ccc(O)cc2)c1O)/C	0			1+	NA	409.201
+CCMSLIB00000080481	"""MLS001158630-01!(2S)-2-[[(2S)-4-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@@H](Cc3ccccc3)C(=O)O	0			1+	NA	453.214
+CCMSLIB00000080484	"""MLS000877003-01!(2R)-7-hydroxy-8-(2-hydroxyethyl)-5-methoxy-2-methyl-2,3-dihydrochromen-4-one"" M+H"	COc1cc(O)c(CCO)c2O[C@H](C)CC(=O)c12	0			1+	NA	253.108
+CCMSLIB00000080485	"""MLS000876957-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6-methyl-2,3-dihydrochromen-4-one"" M+H"	Cc1c(O)cc2OC(CC(=O)c2c1O)c3ccc(O)cc3	0			1+	NA	287.092
+CCMSLIB00000080486	MLS001048901-01!5-(1-methylpiperidin-2-yl)-2-pyridin-3-ylpyridine M+H	CN1CCCCC1c2ccc(nc2)c3cccnc3.Cl	0			1+	NA	254.166
+CCMSLIB00000080489	MLS001158371-01! M+H	COc1cc(C)cc2oc(=O)c(CC(=O)N3C[C@H]4C[C@@H](C3)c5cccc(=O)n5C4)c(C)c12	0			1+	NA	435.192
+CCMSLIB00000080492	MLS000574962-01! M+H	Cc1nccc2c3cc(Br)ccc3[nH]c12	0			1+	NA	261.003
+CCMSLIB00000080494	"""MLS000697734-01!(2S,3S,3aR)-2-(1,3-benzodioxol-5-yl)-5,7-dimethoxy-3-methyl-3a-prop-2-enyl-2,3-dihydro-1-benzofuran-6-one"" M+H"	COC1=C[C@@]2(CC=C)[C@H](C)[C@H](OC2=C(OC)C1=O)c3ccc4OCOc4c3	0			1+	NA	371.149
+CCMSLIB00000080500	MLS001075542-01! M+H	COc1ccc(CC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	339.171
+CCMSLIB00000080502	"""MLS001162645-01!2-[(8,8-dimethyl-2-oxo-4-propyl-9,10-dihydropyrano[2,3-h]chromen-5-yl)oxy]-N-(2-morpholin-4-ylethyl)acetamide"" M+H"	CCCc1cc(=O)oc2c3CCC(C)(C)Oc3cc(OCC(=O)NCCN4CCOCC4)c12	0			1+	NA	459.25
+CCMSLIB00000080503	MLS000563157-01! M+H	CC1(C)CC[C@@]2(CC[C@]3(C)C(=CCC4[C@@]5(C)CC[C@H](O)C(C)(C)C5[C@H](O)C[C@]43C)[C@@H]2C1)C(=O)O	0			1+	NA	473.363
+CCMSLIB00000080611	"""MLS001139320-01!(2S)-2-[2-[(4-methyl-6-oxo-7,8,9,10-tetrahydrobenzo[c]chromen-3-yl)oxy]propanoylamino]-2-phenylacetic acid"" M+H"	CC(Oc1ccc2c3CCCCc3c(=O)oc2c1C)C(=O)N[C@H](C(=O)O)c4ccccc4	0			1+	NA	436.176
+CCMSLIB00000080506	"""MLS001049045-01!5,7-dihydroxy-6-methoxy-2-(4-methoxyphenyl)chromen-4-one"" M+H"	COc1ccc(cc1)c2cc(=O)c3c(O)c(OC)c(O)cc3o2	0			1+	NA	315.087
+CCMSLIB00000080510	MLS000863636-01! M+H	COC(=O)C1(CO)C2Cc3c(C4CC1/C(=C\C)/CN42)n(C)c5ccccc35	0			1+	NA	367.202
+CCMSLIB00000080513	"""MLS001049004-01!2,3-dihydroxy-N,N'-diphenylbutanediamide"" M+H"	OC(C(O)C(=O)Nc1ccccc1)C(=O)Nc2ccccc2	0			1+	NA	301.119
+CCMSLIB00000080527	MLS002694604-01! M+H	CC1CCC2C(OC(=O)C2=C)C3(C)C(=O)C=CC13O	0			1+	NA	263.128
+CCMSLIB00000080519	"""MLS000876794-01!5-methoxy-2,2-dimethylpyrano[3,2-g]chromen-8-one"" M+H"	COc1c2C=CC(C)(C)Oc2cc3oc(=O)ccc13	0			1+	NA	259.097
+CCMSLIB00000080520	"""MLS001140720-01!3-(4-chlorophenyl)-2-[2-[[2-(7-methoxy-4,8-dimethyl-2-oxochromen-3-yl)acetyl]amino]butanoylamino]propanoic acid"" M+H"	CCC(NC(=O)Cc1c(C)c2ccc(OC)c(C)c2oc1=O)C(=O)NC(Cc3ccc(Cl)cc3)C(=O)O	0			1+	NA	529.174
+CCMSLIB00000080522	MLS001141315-01! M+H	CSCC[C@H](NC(=O)[C@@H]1Cc2c([nH]c3ccccc23)C4N1C(=O)c5ccccc45)C(=O)NCC6CCCO6	0			1+	NA	533.222
+CCMSLIB00000080524	"""MLS001141249-01!3-(4-chlorophenyl)-2-[[2-[(4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]acetyl]amino]propanoic acid"" M+H"	OC(=O)C(Cc1ccc(Cl)cc1)NC(=O)COc2ccc3c4CCCc4c(=O)oc3c2	0			1+	NA	442.106
+CCMSLIB00000080526	"""MLS000876977-01!5,8-dihydroxy-2-(4-hydroxy-3-methoxyphenyl)-6,7-dimethoxychromen-4-one"" M+H"	COc1cc(ccc1O)c2cc(=O)c3c(O)c(OC)c(OC)c(O)c3o2	0			1+	NA	361.092
+CCMSLIB00000080528	MLS000863578-01!7-[(E)-3-methyl-4-(4-methyl-5-oxo-2H-furan-2-yl)but-2-enoxy]chromen-2-one M+H	C/C(=C\COc1ccc2ccc(=O)oc2c1)/CC3OC(=O)C(=C3)C	0			1+	NA	327.123
+CCMSLIB00000080529	MLS000863654-01! M+H	COC(=O)[C@@]12C(=C(C)C(=O)[C@@]2(C)C(=CC3[C@]45CC[C@@H](OC(=O)C)C(C)(C)C5C(C[C@]31C)OC4=O)C)O	0			1+	NA	501.249
+CCMSLIB00000080530	MLS001140579-01!2-(2-oxo-4-phenylchromen-7-yl)oxy-N-(pyridin-2-ylmethyl)acetamide M+H	O=C(COc1ccc2c(cc(=O)oc2c1)c3ccccc3)NCc4ccccn4	0			1+	NA	387.134
+CCMSLIB00000080534	MLS000728636-01! M+H	CN1CC2=CC(O)CC3Oc4c(c(C1)ccc4O)[C@@]32C	0			1+	NA	274.144
+CCMSLIB00000080538	MLS000697602-01! M+H	CC1(C)Oc2c(O)cc(cc2C=C1)c3coc4cc(O)cc(O)c4c3=O	0			1+	NA	353.103
+CCMSLIB00000080619	MLS000876956-01! M+H	CC(C)CC1NC(=O)C23C1C(C)C(=CC3C=C(C)CCC(O)C(O)C=CC2=O)C	0			1+	NA	402.264
+CCMSLIB00000080544	"""MLS001142405-01!(2S)-2-[2-[(6-methyl-4-oxo-2,3-dihydro-1H-cyclopenta[c]chromen-7-yl)oxy]propanoylamino]-3-phenylpropanoic acid"" M+H"	CC(Oc1ccc2c3CCCc3c(=O)oc2c1C)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	436.176
+CCMSLIB00000080545	MLS001141008-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2R)-1-oxo-1-(1-phenylethylamino)propan-2-yl]piperidine-4-carboxamide M+H	CSCC[C@H](N)C(=O)N1CCC(CC1)C(=O)N[C@H](C)C(=O)NC(C)c2ccccc2	0			1+	NA	435.243
+CCMSLIB00000080546	MLS001141236-01!1-[2-(6-oxobenzo[c]chromen-3-yl)oxyacetyl]piperidine-4-carboxylic acid M+H	OC(=O)C1CCN(CC1)C(=O)COc2ccc3c(c2)oc(=O)c4ccccc43	0			1+	NA	382.129
+CCMSLIB00000080547	"""MLS001141376-01!(2R)-2-[3-[(10aS)-1,3-dioxo-10,10a-dihydro-5H-imidazo[1,5-b]isoquinolin-2-yl]propanoylamino]-3-phenylpropanoic acid"" M+H"	OC(=O)[C@@H](Cc1ccccc1)NC(=O)CCN2C(=O)[C@@H]3Cc4ccccc4CN3C2=O	0			1+	NA	422.172
+CCMSLIB00000080549	"""MLS000736891-01!1-(2,4-dihydroxyphenyl)-2-(4-methoxyphenyl)ethanone"" M+H"	COc1ccc(CC(=O)c2ccc(O)cc2O)cc1	0			1+	NA	259.097
+CCMSLIB00000080550	MLS001142717-01! M+H	CC(NC(=O)[C@H](C)N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)c5ccccc5	0			1+	NA	431.208
+CCMSLIB00000080551	MLS001075064-01! M+H	OC(=O)c1ccc(NC(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3)cc1	0			1+	NA	354.145
+CCMSLIB00000080557	MLS001141087-01!1-[(2S)-2-amino-4-methylsulfanylbutanoyl]-N-[(2S)-1-[(4-methoxyphenyl)methylamino]-1-oxopropan-2-yl]piperidine-4-carboxamide M+H	COc1ccc(CNC(=O)[C@H](C)NC(=O)C2CCN(CC2)C(=O)[C@@H](N)CCSC)cc1	0			1+	NA	451.238
+CCMSLIB00000080558	"""MLS001159164-01!(2R)-2-[[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]butanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@H](Cc3ccccc3)C(=O)O	0			1+	NA	439.198
+CCMSLIB00000080564	MLS001048867-01!1H-indole-3-carboxamide M+H	NC(=O)c1c[nH]c2ccccc12	0			1+	NA	161.071
+CCMSLIB00000080570	MLS000766281-01! M+H	COc1ccc2CN(C)CCC34C=CC(O)CC4Oc1c23	0			1+	NA	288.16
+CCMSLIB00000080572	MLS001075309-01! M+H	FC(F)(F)c1cccc(c1)C(=O)N2C[C@H]3C[C@@H](C2)c4cccc(=O)n4C3	0			1+	NA	363.132
+CCMSLIB00000080575	"""MLS001159172-01!(2R)-1-[(2S)-3-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]pyrrolidine-2-carboxylic acid"" M+H"	CCC(C)[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N3CCC[C@@H]3C(=O)O	0			1+	NA	403.198
+CCMSLIB00000080577	"""MLS001076806-01!2-[2-[(1S)-6,7-dimethoxy-1-methyl-3,4-dihydro-1H-isoquinolin-2-yl]-2-oxoethyl]sulfanyl-4-hydroxy-5-propan-2-yl-1H-pyrimidin-6-one"" M+H"	COc1cc2CCN([C@@H](C)c2cc1OC)C(=O)CSc3nc(O)c(C(C)C)c(O)n3	0			1+	NA	434.175
+CCMSLIB00000080579	MLS001142797-01! M+H	C[C@H](N1C(=O)N2CCc3c([nH]c4ccccc34)[C@@]2(C)C1=O)C(=O)NCc5ccco5	0			1+	NA	407.172
+CCMSLIB00000080580	MLS001142426-01! M+H	COc1ccc(OC)c(c1)c2[nH]c(cc3c4ccccc4nc23)C(=O)NCC5CCCO5	0			1+	NA	432.192
+CCMSLIB00000080597	"""MLS000728595-01!(12bS)-9,10-dimethoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3-a]quinolizine"" M+H"	COc1cc2[nH]c3[C@@H]4CCCCN4CCc3c2cc1OC	0			1+	NA	287.176
+CCMSLIB00000080598	MLS001140335-01!3-(7-hydroxy-4-methyl-2-oxochromen-3-yl)-N-[3-(2-oxopyrrolidin-1-yl)propyl]propanamide M+H	Cc1c(CCC(=O)NCCCN2CCCC2=O)c(=O)oc3cc(O)ccc13	0			1+	NA	373.176
+CCMSLIB00000080599	"""MLS001141061-01!1-[3-(3,5-dimethyl-7-oxofuro[3,2-g]chromen-6-yl)propanoyl]-4-phenylpiperidine-4-carboxylic acid"" M+H"	Cc1coc2cc3oc(=O)c(CCC(=O)N4CCC(CC4)(C(=O)O)c5ccccc5)c(C)c3cc12	0			1+	NA	474.192
+CCMSLIB00000080600	"""MLS001158640-01!(2R)-2-[[(2S)-4-methyl-2-[(3-oxo-2,4-dihydroquinoxaline-1-carbonyl)amino]pentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)N1CC(=O)Nc2ccccc12)C(=O)N[C@H](Cc3ccccc3)C(=O)O	0			1+	NA	453.214
+CCMSLIB00000080602	"""MLS000863608-01!5-(1,2,4a,5-tetramethyl-7-oxo-3,4,8,8a-tetrahydro-2H-naphthalen-1-yl)-3-methylpentanoic acid"" M+H"	CC(CCC1(C)C(C)CCC2(C)C1CC(=O)C=C2C)CC(=O)O	0			1+	NA	321.243
+CCMSLIB00000080606	"""MLS001140258-01!(2S)-2-[[(2S)-4-methyl-2-[[2-(2,3,5,9-tetramethyl-7-oxofuro[3,2-g]chromen-6-yl)acetyl]amino]pentanoyl]amino]-3-phenylpropanoic acid"" M+H"	CC(C)C[C@H](NC(=O)Cc1c(C)c2cc3c(C)c(C)oc3c(C)c2oc1=O)C(=O)N[C@@H](Cc4ccccc4)C(=O)O	0			1+	NA	561.26
+CCMSLIB00000080610	MLS001158424-01! M+H	COc1ccc2c3nccc4c5cc(OC(C)C(=O)NCCN6CCOCC6)ccc5n(c(=O)c2c1OC)c43	0			1+	NA	531.224
+CCMSLIB00000080614	"""MLS000876965-01!(6aR,9R,9aR)-9-acetyl-3-[(1E,3E,5S)-3,5-dimethylhepta-1,3-dienyl]-6a-methyl-9,9a-dihydrofuro[2,3-h]isochromene-6,8-dione"" M+H"	CC[C@H](C)/C=C(\C)/C=C/C1=CC2=CC(=O)[C@]3(C)OC(=O)[C@H]([C@@H]3C2=CO1)C(=O)C	0			1+	NA	383.186
