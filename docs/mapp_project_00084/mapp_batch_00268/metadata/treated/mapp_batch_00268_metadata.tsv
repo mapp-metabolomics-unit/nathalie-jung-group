@@ -1,0 +1,43 @@
+filename	sample_id	sample_type	ATTRIBUTE_treatment	ATTRIBUTE_phase	ATTRIBUTE_sample_name	source_taxon
+20260624_CVOL_bk_mapp_pre_04.mzML	bk_mapp_pre_04	blank	NA	inf_1	blank_inf_1	NA
+20260624_CVOL_Darleen_A549_110626_PET05.mzML			NA	inf_2	blank_inf_2	NA
+20260624_CVOL_Darleen_A549_110626_PET100.mzML			mock	inf_1	mock_inf_1	Homo sapiens
+20260624_CVOL_Darleen_A549_110626_PS05.mzML			mock	inf_2	mock_inf_2	Homo sapiens
+20260624_CVOL_Darleen_A549_110626_PS100.mzML			untreated	inf_1	untreated_inf_1	Homo sapiens
+20260624_CVOL_Darleen_A549_110626_untreated.mzML			untreated	inf_2	untreated_inf_2	Homo sapiens
+20260624_CVOL_Darleen_A549_180626_PET05.mzML			PET	inf_1	PET_inf_1	Homo sapiens
+20260624_CVOL_Darleen_A549_180626_PET100.mzML			PET	inf_2	PET_inf_2	Homo sapiens
+20260624_CVOL_Darleen_A549_180626_PS05.mzML			NA	NA	bk_mapp	NA
+20260624_CVOL_Darleen_A549_180626_PS100.mzML						
+20260624_CVOL_Darleen_A549_180626_untreated.mzML						
+20260624_CVOL_Darleen_A549_210626_PET05.mzML						
+20260624_CVOL_Darleen_A549_210626_PET100.mzML						
+20260624_CVOL_Darleen_A549_210626_PS05.mzML						
+20260624_CVOL_Darleen_A549_210626_PS100.mzML						
+20260624_CVOL_Darleen_A549_210626_untreated.mzML						
+20260624_CVOL_Darleen_bk.mzML						
+20260624_CVOL_Darleen_MDM_160526_PET05.mzML						
+20260624_CVOL_Darleen_MDM_160526_PET100.mzML						
+20260624_CVOL_Darleen_MDM_160526_PS05.mzML						
+20260624_CVOL_Darleen_MDM_160526_PS100.mzML						
+20260624_CVOL_Darleen_MDM_160526_untreated.mzML						
+20260624_CVOL_Darleen_MDM_A_190626_PET05.mzML						
+20260624_CVOL_Darleen_MDM_A_190626_PET100.mzML						
+20260624_CVOL_Darleen_MDM_A_190626_PS05.mzML						
+20260624_CVOL_Darleen_MDM_A_190626_PS100.mzML						
+20260624_CVOL_Darleen_MDM_A_190626_untreated.mzML						
+20260624_CVOL_Darleen_MDM_B_120626_PS05.mzML						
+20260624_CVOL_Darleen_MDM_B_190626_PET05.mzML						
+20260624_CVOL_Darleen_MDM_B_190626_PET100.mzML						
+20260624_CVOL_Darleen_MDM_B_190626_PS100.mzML						
+20260624_CVOL_Darleen_MDM_B_190626_untreated.mzML						
+20260624_CVOL_Darleen_mock.mzML						
+20260624_CVOL_Darleen_QC_01.mzML						
+20260624_CVOL_Darleen_QC_02.mzML						
+20260624_CVOL_Darleen_QC_03.mzML						
+20260624_CVOL_Darleen_QC_04.mzML						
+20260624_CVOL_Darleen_QC_05.mzML						
+20260624_CVOL_Darleen_QC_06.mzML						
+20260624_CVOL_Darleen_QC_07.mzML						
+20260624_CVOL_Darleen_QC_08.mzML						
+20260624_CVOL_Darleen_QC_09.mzML						
