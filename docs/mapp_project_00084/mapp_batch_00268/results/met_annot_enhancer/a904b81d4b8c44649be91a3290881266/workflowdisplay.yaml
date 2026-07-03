@@ -1,0 +1,369 @@
+name: feature_based_molecular_networking_workflow
+displayname: STUFF
+Views:
+-   name: Cluster Summary
+    displayname: Cluster Summary
+    viewname: clustersummary
+    displaytype: datatable
+    parameters:
+        filename: nf_output/networking/clustersummary_with_network.tsv
+        columns:
+            -   title: "View"
+                data: 
+            -   title: "Cluster"
+                data: "cluster index"
+            -   title: "Parent mass"
+                data: "parent mass"
+            -   title: "RT"
+                data: "RTMean"
+            -   title: "Compound_Name"
+                data: "Compound_Name"
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <a target="_blank" href="https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["cluster index"]}">View Spectrum</a>
+            <br>
+            <a target="_blank" href="https://plotter.gnps2.org/?gnps_quant_table_usi=mzspec:GNPS2:TASK-${task}-nf_output/clustering/featuretable_reformated.csv&gnps_metadata_table_usi=mzspec:GNPS2:TASK-${task}-nf_output/metadata/merged_metadata.tsv&feature=${row["cluster index"]}">View Box Plot</a>
+        `;}}]'
+
+-   name: Library Results
+    displayname: Library Results
+    viewname: librarymatches
+    displaytype: datatable
+    parameters:
+        filename: nf_output/library/merged_results_with_gnps.tsv
+        columns:
+            -   title: "View"
+                data: 
+            -   title: "#Scan#"
+                data: "#Scan#"
+            -   title: "Compound_Name"
+                data: "Compound_Name"
+            -   title: "Ion"
+                data: Ion_Source
+            -   title: "Adduct"
+                data: Adduct
+            -   title: "Library"
+                data: Organism
+            -   title: "Precursor m/z"
+                data: SpecMZ
+            -   title: "Cosine"
+                data: MQScore
+            -   title: "Shared Peaks"
+                data: SharedPeaks
+            -   title: "MassDiff"
+                data: MassDiff
+            -   title: "SpectrumID"
+                data: SpectrumID
+            -   title: "Smiles"
+                data: Smiles
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <a target="_blank" href="https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["#Scan#"]}&usi2=mzspec:GNPS:GNPS-LIBRARY:accession:${row["SpectrumID"]}">View Mirror</a>
+        `;}},
+        {"targets": 2,"data": null,"render": function ( data, type, row, meta ) {
+        var name = row["Compound_Name"] || "";
+        var match = name.match(/LMFA\d{8}/);
+        if (match) {
+            return `<a target="_blank" href="https://wang-bioinformatics-lab.github.io/GNPS2_Documentation/html/library_linkout.html?accession=${match[0]}">${name}</a>`;
+        }
+        return name;
+        }},
+        {"targets": 11,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <img src="https://structure.gnps2.org/structureimg?smiles=${encodeURIComponent(row["Smiles"])}"/>
+        `;}},]'
+
+-   name: Files Summary
+    displayname: Files Summary
+    viewname: filesummary
+    displaytype: datatable
+    parameters:
+        filename: nf_output/filesummary/summaryresult.tsv
+        columns:
+            -   title: "Visualize"
+                data: 
+            -   title: "Filename"
+                data: "Filename"
+            -   title: "Vendor"
+                data: "Vendor"
+            -   title: "Model"
+                data: "Model"
+            -   title: "MS1s"
+                data: "MS1s"
+            -   title: "MS2s"
+                data: "MS2s"
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <a target="_blank" href="https://dashboard.gnps2.org/?usi=mzspec:GNPS2:TASK-${task}-input_raw_spectra/${row["Filename"]}">View LCMS Run</a>
+        `;}}]'
+
+-   name: Network Pairs List
+    displayname: Pairs List
+    viewname: pairslist
+    displaytype: datatable_serverbig
+    parameters:
+        filename: nf_output/networking/filtered_pairs.tsv
+        columns:
+            -   title: "View"
+                data: 
+            -   title: "CLUSTERID1"
+                data: CLUSTERID1
+            -   title: "CLUSTERID2"
+                data: CLUSTERID2
+            -   title: "DeltaMZ"
+                data: DeltaMZ
+            -   title: "DeltaMZ"
+                data: DeltaMZ
+            -   title: "Cosine"
+                data: Cosine
+            -   title: "MatchedPeaks"
+                data: MatchedPeaks
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <a target="_blank" href="https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["CLUSTERID1"]}&usi2=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["CLUSTERID2"]}">View Mirror</a>
+        `;}}]'
+
+-   name: Network Unfiltered Pairs List
+    displayname: Pairs Unfiltered List
+    viewname: unfilteredpairslist
+    displaytype: datatable_serverbig
+    parameters:
+        filename: nf_output/networking/merged_pairs.tsv
+        columns:
+            -   title: "View"
+                data: 
+            -   title: "CLUSTERID1"
+                data: CLUSTERID1
+            -   title: "CLUSTERID2"
+                data: CLUSTERID2
+            -   title: "DeltaMZ"
+                data: DeltaMZ
+            -   title: "DeltaMZ"
+                data: DeltaMZ
+            -   title: "Cosine"
+                data: Cosine
+            -   title: "MatchedPeaks"
+                data: MatchedPeaks
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        return `
+            <a target="_blank" href="https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["CLUSTERID1"]}&usi2=mzspec:GNPS2:TASK-${task}-nf_output/clustering/spectra_reformatted.mgf:scan:${row["CLUSTERID2"]}">View Mirror</a>
+        `;}}]'
+
+# Creating all features tall table
+-   name: All Quantification Features
+    displayname: All Quantification Features
+    viewname: allfeaturestall
+    displaytype: datatable_serverbig
+    parameters:
+        filename: nf_output/clustering/tall_raw_data.tsv
+        columns:
+            -   title: "View"
+                data: 
+            -   title: "Feature ID"
+                data: "row ID"
+            -   title: "filename"
+                data: filename
+            -   title: "area"
+                data: area
+            -   title: "m/z"
+                data: "row m/z"
+            -   title: "rt"
+                data: "row retention time"
+            -   title: "Has Raw Data"
+                data: raw_data
+        columnDefs: '[ {"targets": 0,"data": null,"render": function ( data, type, row, meta ) {
+        // If raw data is 1, then lets link, otherwise no link
+
+        if(row["raw_data"] == 1) {
+            return `
+                <a target="_blank" href="https://dashboard.gnps2.org/?usi=mzspec:GNPS2:TASK-${task}-input_raw_spectra/${row["filename"]}&xic_mz=${row["row m/z"]}&xic_rt_window=${row["row retention time"]}">View LCMS Run</a>
+            `;
+        } else {
+            return `No Original mzML Data`;
+        }
+        }}]'
+
+-   name: section
+    displayname: Network Visualizations
+    viewname: section
+    displaytype: section
+
+-   name: Visualize Network in Browser
+    displayname: Visualize Full Network in Browser
+    viewname: visualizefullnetwork
+    displaytype: linkout
+    parameters:
+        baseurl: /dashboards/networkviewer
+        urlparam:
+            -   usi:mzdata:GNPS2:TASK-[task]-nf_output/networking/network.graphml
+            -   usi-mgf:mzdata:GNPS2:TASK-[task]-nf_output/clustering/spectra_reformatted.mgf
+
+-   name: Visualize Network w/ Singletons in Browser
+    displayname: Visualize Full Network w/ Singletons in Browser
+    viewname: visualizefullsingletonnetwork
+    displaytype: linkout
+    parameters:
+        baseurl: /dashboards/networkviewer
+        urlparam:
+            -   usi:mzdata:GNPS2:TASK-[task]-nf_output/networking/network_singletons.graphml
+            -   usi-mgf:mzdata:GNPS2:TASK-[task]-nf_output/clustering/spectra_reformatted.mgf
+
+
+-   name: Export Network in Cytoscape
+    displayname: Export Network in Cytoscape
+    viewname: visualizecytoscape
+    displaytype: linkout
+    parameters:
+        baseurl: https://cytoscape.gnps2.org/process
+        urlparam:
+            -   task:[task]
+
+-   name: Export Network in Cytoscape with Singletons
+    displayname: Export Network in Cytoscape with Singletons
+    viewname: visualizecytoscapesingleton
+    displaytype: linkout
+    parameters:
+        baseurl: https://cytoscape.gnps2.org/process
+        urlparam:
+            -   task:[task]
+            -   override_path:nf_output/networking/network_singletons.graphml
+
+
+-   name: section
+    displayname: Download Network Files
+    viewname: section
+    displaytype: section
+
+-   name: Download Network GraphML
+    displayname: Download Network GraphML
+    viewname: graphml
+    displaytype: download
+    parameters:
+        filename: nf_output/networking/network.graphml
+
+-   name: Download Network with Singletons GraphML
+    displayname: Download Network with Singletons GraphML
+    viewname: graphmlsingletons
+    displaytype: download
+    parameters:
+        filename: nf_output/networking/network_singletons.graphml
+
+-   name: Download Consensus MS/MS MGF
+    displayname: Download Consensus MS/MS MGF
+    viewname: specms
+    displaytype: download
+    parameters:
+        filename: nf_output/clustering/spectra_reformatted.mgf
+
+-   name: Download Quantification File
+    displayname: Download Quantification File
+    viewname: quantificationdownload
+    displaytype: download
+    parameters:
+        filename: nf_output/clustering/featuretable_reformated.csv
+
+-   name: section
+    displayname: Downstream Analysis
+    viewname: section
+    displaytype: section
+
+-   name: Downstream Analysis - Run Chemwalker Analysis
+    displayname: Downstream Analysis - Run Chemwalker Analysis
+    viewname: downstreamchemwalker
+    displaytype: linkout
+    parameters:
+        baseurl: /workflowinput
+        urlparam:
+            -   workflowname:chemwalker_nextflow_workflow
+        hashparam:
+            -   taskid:[task]
+            -   workflow:GNPS2
+            -   description:Downstream from [task] Feature Based Molecular Networking
+
+-   name: Downstream Analysis - Hitchhiker Statistics Guide
+    displayname: Downstream Analysis - Hitchhiker Statistics Guide
+    viewname: downstreamhitchhiker
+    displaytype: linkout
+    parameters:
+        baseurl: https://fbmn-statsguide.gnps2.org/Data_Preparation
+
+-   name: Downstream Analysis - FBMN Simple Plotter
+    displayname: Downstream Analysis - FBMN Simple Plotter
+    viewname: downstreamplotter
+    displaytype: linkout
+    parameters:
+        baseurl: https://plotter.gnps2.org/
+        urlparam:
+            -   gnps_quant_table_usi:mzspec:GNPS2:TASK-[task]-nf_output/clustering/featuretable_reformated.csv
+            -   gnps_metadata_table_usi:mzspec:GNPS2:TASK-[task]-nf_output/metadata/merged_metadata.tsv
+
+-   name: Downstream Analysis - Run Transitive Alignments
+    displayname: Downstream Analysis - Run Transitive Alignments
+    viewname: downstreamtransitive
+    displaytype: linkout
+    parameters:
+        baseurl: /workflowinput
+        urlparam:
+            -   workflowname:Transitive_alignment_workflow
+        hashparam:
+            -   input_graphml:TASKLOCATION/[task]/nf_output/networking/network_singletons.graphml
+            -   input_pairs:TASKLOCATION/[task]/nf_output/networking/merged_pairs.tsv
+            -   input_spectra:TASKLOCATION/[task]/nf_output/clustering/spectra_reformatted.mgf
+            -   description:Downstream from [task] Feature Based Molecular Networking
+
+-   name: Downstream Analysis - Overlay Custom Network
+    displayname: Downstream Analysis - Overlay Custom Network
+    viewname: downstreamoverlay
+    displaytype: linkout
+    parameters:
+        baseurl: /workflowinput
+        urlparam:
+            -   workflowname:gnps2_network_overlay_workflow
+        hashparam:
+            -   input_graphml:TASKLOCATION/[task]/nf_output/networking/network_singletons.graphml
+            -   input_mgf:TASKLOCATION/[task]/nf_output/clustering/spectra_reformatted.mgf
+            -   description:Downstream from [task] Feature Based Molecular Networking
+
+
+# CMMC Linkouts
+-   name: Downstream Analysis - CMMC Enrichment Analysis
+    displayname: Downstream Analysis - CMMC Enrichment Analysis
+    viewname: downstreamcmmc
+    displaytype: linkout
+    parameters:
+        baseurl: /workflowinput
+        urlparam:
+            -   workflowname:cmmc_gnps_network_enrichment_workflow
+        hashparam:
+            -   gnps2_graphml:TASKLOCATION/[task]/nf_output/networking/network_singletons.graphml
+            -   gnps2_mgf:TASKLOCATION/[task]/nf_output/clustering/spectra_reformatted.mgf
+            -   gnps2_task:[task]
+            -   datasource:GNPS2
+            -   description:Downstream from [task] Feature Based Molecular Networking
+
+-   name: PostNetworking - MassQL Interactive Analysis
+    displayname: PostNetworking - MassQL Interactive Analysis
+    viewname: massqlpostmn
+    displaytype: linkout
+    parameters:
+        baseurl: "https://massqlpostmn.gnps2.org"
+        urlparam:
+            -   task_id:[task]
+
+-   name: PostNetworking - Multistep MassQL Interactive Analysis
+    displayname: PostNetworking - Multistep MassQL Interactive Analysis
+    viewname: massqlpostmnmultistep
+    displaytype: linkout
+    parameters:
+        baseurl: "https://multistep-massql.gnps2.org/"
+        urlparam:
+            -   task_id:[task]
+
+-   name: PostNetworking - Drug Readout Interactive Analysis
+    displayname: PostNetworking - Drug Readout Interactive Analysis
+    viewname: massqlpostmndrugreadout
+    displaytype: linkout
+    parameters:
+        baseurl: "https://drugreadouts.gnps2.org/"
+        urlparam:
+            -   task_id:[task]

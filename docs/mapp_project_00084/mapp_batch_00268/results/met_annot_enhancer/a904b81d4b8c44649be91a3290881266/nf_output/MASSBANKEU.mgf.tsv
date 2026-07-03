@@ -1,0 +1,755 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00000841362	MassbankEU:ET270101 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841363	MassbankEU:ET270102 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841364	MassbankEU:ET270103 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841365	MassbankEU:ET270104 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841366	MassbankEU:ET270105 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841367	MassbankEU:ET270106 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841368	MassbankEU:ET270107 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841369	MassbankEU:ET270108 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841370	MassbankEU:ET270109 CBDZ-M|Lobendazole|ethyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	O=C(NC1=NC2=CC=CC=C2N1)OCC	0			1+	NA	206.092
+CCMSLIB00000841371	MassbankEU:ET280101 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841372	MassbankEU:ET280102 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841373	MassbankEU:ET280103 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841374	MassbankEU:ET280104 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841375	MassbankEU:ET280105 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841376	MassbankEU:ET280106 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841377	MassbankEU:ET280107 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841378	MassbankEU:ET280108 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841379	MassbankEU:ET280109 MPL-dm|O-Demethylmetoprolol|1-[4-(2-hydroxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(NCC(O)COC1=CC=C(CCO)C=C1)C	0			1+	NA	254.175
+CCMSLIB00000841380	MassbankEU:ET290101 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841381	MassbankEU:ET290102 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841382	MassbankEU:ET290103 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841383	MassbankEU:ET290104 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841384	MassbankEU:ET290105 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841385	MassbankEU:ET290106 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841386	MassbankEU:ET290107 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841387	MassbankEU:ET290108 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841388	MassbankEU:ET290109 BEZ-da|41859-57-8|4-chloro-N-[2-(4-hydroxyphenyl)ethyl]benzamide [M+H]+	OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1	0			1+	NA	276.079
+CCMSLIB00000841389	MassbankEU:ET290201 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841390	MassbankEU:ET290202 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841391	MassbankEU:ET290203 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841392	MassbankEU:ET290204 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841393	MassbankEU:ET290205 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841394	MassbankEU:ET290206 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841395	MassbankEU:ET290207 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841396	MassbankEU:ET290208 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841397	MassbankEU:ET290209 BEZ-M [M+H]+	CC(C(OC)=O)(OC1=CC=C(CCNC(C2=CC=C(Cl)C=C2)=O)C=C1)C	0			1+	NA	376.131
+CCMSLIB00000841398	MassbankEU:ET300101 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841399	MassbankEU:ET300102 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841400	MassbankEU:ET300103 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841401	MassbankEU:ET300104 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841402	MassbankEU:ET300105 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841403	MassbankEU:ET300106 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841404	MassbankEU:ET300107 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841405	MassbankEU:ET300108 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841406	MassbankEU:ET300109 RAN-dm|Desmethyl Ranitidine|(E)-1-N-methyl-1-N`-[2-[[5-(methylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine [M+H]+	CN/C(NCCSCC1=CC=C(CNC)O1)=C\[N+]([O-])=O	0			1+	NA	301.133
+CCMSLIB00000841407	MassbankEU:ET310201 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841408	MassbankEU:ET310202 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841409	MassbankEU:ET310203 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841410	MassbankEU:ET310204 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841411	MassbankEU:ET310205 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841412	MassbankEU:ET310206 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841413	MassbankEU:ET310207 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841414	MassbankEU:ET310208 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841415	MassbankEU:ET310209 SMZ-Pt [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	429.109
+CCMSLIB00000841416	MassbankEU:ET310251 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841417	MassbankEU:ET310252 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841418	MassbankEU:ET310253 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841419	MassbankEU:ET310254 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841420	MassbankEU:ET310255 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841421	MassbankEU:ET310256 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841422	MassbankEU:ET310257 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841423	MassbankEU:ET310258 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841424	MassbankEU:ET310259 SMZ-Pt [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(N)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	427.094
+CCMSLIB00000841425	MassbankEU:ET310301 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841426	MassbankEU:ET310302 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841427	MassbankEU:ET310303 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841428	MassbankEU:ET310304 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841429	MassbankEU:ET310305 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841430	MassbankEU:ET310306 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841431	MassbankEU:ET310307 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841432	MassbankEU:ET310308 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841433	MassbankEU:ET310309 SMZ-PtO [M+H]+	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	430.093
+CCMSLIB00000841434	MassbankEU:ET310351 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841435	MassbankEU:ET310352 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841436	MassbankEU:ET310353 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841437	MassbankEU:ET310354 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841438	MassbankEU:ET310355 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841439	MassbankEU:ET310356 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841440	MassbankEU:ET310357 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841441	MassbankEU:ET310358 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841442	MassbankEU:ET310359 SMZ-PtO [M-H]-	CC1=CC(NS(=O)(C2=CC=C(NCC3=NC(C(NC(O)=N4)=O)=C4N=C3)C=C2)=O)=NO1	0			1+	NA	428.078
+CCMSLIB00000841443	MassbankEU:ET310401 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841444	MassbankEU:ET310402 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841445	MassbankEU:ET310403 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841446	MassbankEU:ET310404 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841447	MassbankEU:ET310405 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841448	MassbankEU:ET310406 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841449	MassbankEU:ET310407 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841450	MassbankEU:ET310408 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841451	MassbankEU:ET310409 SMZ-AcOH [M+H]+	NA	0			1+	NA	312.065
+CCMSLIB00000841452	MassbankEU:ET310451 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841453	MassbankEU:ET310452 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841454	MassbankEU:ET310453 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841455	MassbankEU:ET310454 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841456	MassbankEU:ET310455 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841457	MassbankEU:ET310456 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841458	MassbankEU:ET310457 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841459	MassbankEU:ET310458 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841460	MassbankEU:ET310459 SMZ-AcOH [M-H]-	NA	0			1+	NA	310.05
+CCMSLIB00000841461	MassbankEU:ET320101 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841462	MassbankEU:ET320102 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841463	MassbankEU:ET320103 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841464	MassbankEU:ET320104 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841465	MassbankEU:ET320105 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841466	MassbankEU:ET320106 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841467	MassbankEU:ET320107 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841468	MassbankEU:ET320108 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841469	MassbankEU:ET320109 MEF-Glu [M+H]+	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	371.16
+CCMSLIB00000841470	MassbankEU:ET320151 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841471	MassbankEU:ET320152 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841472	MassbankEU:ET320153 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841473	MassbankEU:ET320154 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841474	MassbankEU:ET320155 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841475	MassbankEU:ET320156 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841476	MassbankEU:ET320157 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841477	MassbankEU:ET320158 MEF-Glu [M-H]-	O=C(CCC(NC(C1=C(C=CC=C1)NC2=CC=CC(C)=C2C)=O)C(O)=O)O	0			1+	NA	369.146
+CCMSLIB00000841478	MassbankEU:SM800003 1,2,3-Triazole|1H-1,2,3-Triazole|2H-triazole [M+H]+	N1C=CN=N1	0			1+	NA	70.04
+CCMSLIB00000841479	MassbankEU:SM800201 1-Naphthylamine|1-Aminonaphthalene|naphthalen-1-amine [M+H]+	NC1=CC=CC2=CC=CC=C12	0			1+	NA	144.081
+CCMSLIB00000841480	MassbankEU:SM800553 2,3-Dihydroxybiphenyl|Biphenyl-2,3-diol|3-phenylbenzene-1,2-diol [M-H]-	OC1=CC=CC(=C1O)C1=CC=CC=C1	0			1+	NA	185.061
+CCMSLIB00000841481	MassbankEU:SM800653 2,4-Dibromphenol [M-H]-	OC1=C(Br)C=C(Br)C=C1	0			1+	NA	248.856
+CCMSLIB00000841482	MassbankEU:SM800802 2-Aminoanthracene|2-Aminoanthracene|anthracen-2-amine [M+H]+	NC1=CC2=CC3=CC=CC=C3C=C2C=C1	0			1+	NA	194.096
+CCMSLIB00000841483	MassbankEU:SM800901 2-Aminobenzoic acid|anthranilic acid|2-azaniumylbenzoate [M+H]+	NC1=C(C=CC=C1)C(O)=O	0			1+	NA	138.055
+CCMSLIB00000841484	MassbankEU:SM801001 2-Aminobiphenyl|2-phenylaniline [M+H]+	NC1=C(C=CC=C1)C1=CC=CC=C1	0			1+	NA	170.096
+CCMSLIB00000841485	MassbankEU:SM801101 2-Aminophenol [M+H]+	NC1=C(O)C=CC=C1	0			1+	NA	110.06
+CCMSLIB00000841486	MassbankEU:SM801201 2-Aminopyridine|2-AMINOPYRIDINE|pyridin-2-amine [M+H]+	NC1=NC=CC=C1	0			1+	NA	95.0604
+CCMSLIB00000841487	MassbankEU:SM801601 2`-Methylacetanilide|o-Acetotoluidide|N-(2-methylphenyl)acetamide [M+H]+	CC(=O)NC1=C(C)C=CC=C1	0			1+	NA	150.091
+CCMSLIB00000841488	MassbankEU:SM801701 2-Methylimidazole|2-METHYLIMIDAZOLE|2-methyl-1H-imidazole [M+H]+	CC1=NC=CN1	0			1+	NA	83.0604
+CCMSLIB00000841489	MassbankEU:SM801802 2-Methylindole|2-METHYLINDOLE|2-methyl-1H-indole [M+H]+	CC1=CC2=CC=CC=C2N1	0			1+	NA	132.081
+CCMSLIB00000841490	MassbankEU:SM802253 4-Phenoxyphenol [M-H]-	OC1=CC=C(OC2=CC=CC=C2)C=C1	0			1+	NA	185.061
+CCMSLIB00000841491	MassbankEU:SM802401 5-Methyl-1-(propan-2-yl)-1H-indole-2,3dione|F1707-0083|5-methyl-1-propan-2-ylindole-2,3-dione [M+H]+	CC(C)N1C(=O)C(=O)C2=CC(C)=CC=C12	0			1+	NA	204.102
+CCMSLIB00000841492	MassbankEU:SM802503 9-Acetylanthracene|9-Acetylanthracen|1-anthracen-9-ylethanone [M+H]+	CC(=O)C1=C2C=CC=CC2=CC2=CC=CC=C12	0			1+	NA	221.096
+CCMSLIB00000841493	MassbankEU:SM802652 9-Anthracenecarboxylic acid|Anthracene-9-carboxylic acid [M-H]-	OC(=O)C1=C2C=CC=CC2=CC2=CC=CC=C12	0			1+	NA	221.061
+CCMSLIB00000841494	MassbankEU:SM802851 Alizarin|1,2-Dihydroxyanthracene-9,10-dione [M-H]-	OC1=CC=C2C(=O)C3=CC=CC=C3C(=O)C2=C1O	0			1+	NA	239.035
+CCMSLIB00000841495	MassbankEU:SM802903 Anthrone|10H-anthracen-9-one [M+H]+	O=C1C2=CC=CC=C2CC2=CC=CC=C12	0			1+	NA	195.08
+CCMSLIB00000841496	MassbankEU:SM803002 Benzo[a]acridine|Benz[a]acridine [M+H]+	C1=CC=C2C(C=CC3=NC4=CC=CC=C4C=C23)=C1	0			1+	NA	230.096
+CCMSLIB00000841497	MassbankEU:SM803101 1-Naphthoic acid methyl ester [M+H]+	COC(=O)C1=CC=CC2=CC=CC=C12	0			1+	NA	187.075
+CCMSLIB00000841498	MassbankEU:SM803501 3`-Aminoacetophenone|1-(3-aminophenyl)ethanone [M+H]+	CC(=O)C1=CC(N)=CC=C1	0			1+	NA	136.076
+CCMSLIB00000841499	MassbankEU:SM804001 3-Methylpyrazole|5-methyl-1H-pyrazole|3-Methyl-1H-pyrazole [M+H]+	CC1=NNC=C1	0			1+	NA	83.0604
+CCMSLIB00000841500	MassbankEU:SM804101 3-Methylpyrazole|5-methyl-1H-pyrazole|3-Methyl-1H-pyrazole [M+H]+	CC1=NNC=C1	0			1+	NA	83.0604
+CCMSLIB00000841501	MassbankEU:SM804205 3-Methylpyridazine|3-methylpyridazine [M+H]+	CC1=CC=CN=N1	0			1+	NA	95.0604
+CCMSLIB00000841502	MassbankEU:SM804503 3-Pyridinol|3-Hydroxypyridine|pyridin-3-ol [M+H]+	OC1=CC=CN=C1	0			1+	NA	96.0444
+CCMSLIB00000841503	MassbankEU:SM804853 4,4`-Thiodiphenol|4-(4-hydroxyphenyl)sulfanylphenol [M-H]-	OC1=CC=C(SC2=CC=C(O)C=C2)C=C1	0			1+	NA	217.033
+CCMSLIB00000841504	MassbankEU:SM804901 4,7-Phenanthroline|4,7-phenanthrolin [M+H]+	C1=CN=C2C=CC3=NC=CC=C3C2=C1	0			1+	NA	181.076
+CCMSLIB00000841505	MassbankEU:SM805001 4-Acetamidophenol|Acetaminophen|N-(4-hydroxyphenyl)acetamide [M+H]+	CC(=O)NC1=CC=C(O)C=C1	0			1+	NA	152.071
+CCMSLIB00000841506	MassbankEU:SM805302 4`-Aminoacetanilide [M+H]+	CC(=O)NC1=CC=C(N)C=C1	0			1+	NA	151.087
+CCMSLIB00000841507	MassbankEU:SM805401 4-Fluoraniline [M+H]+	NC1=CC=C(F)C=C1	0			1+	NA	112.056
+CCMSLIB00000841508	MassbankEU:SM805752 4-Iodphenol [M-H]-	OC1=CC=C(I)C=C1	0			1+	NA	218.931
+CCMSLIB00000841509	MassbankEU:SM805801 4-Methoxy-1-Naphthaldehyde|4-methoxynaphthalene-1-carbaldehyde [M+H]+	COC1=CC=C(C=O)C2=CC=CC=C12	0			1+	NA	187.075
+CCMSLIB00000841510	MassbankEU:SM806006 Aniline|Anilin [M+H]+	NC1=CC=CC=C1	0			1+	NA	94.0651
+CCMSLIB00000841511	MassbankEU:SM806451 2,3,5-Trichlorphenol [M-H]-	OC1=C(Cl)C(Cl)=CC(Cl)=C1	0			1+	NA	194.918
+CCMSLIB00000841512	MassbankEU:SM806602 2,4,6-Trimethylpyridine|2,4,6-trimethylpyridin [M+H]+	CC1=CC(C)=NC(C)=C1	0			1+	NA	122.096
+CCMSLIB00000841513	MassbankEU:SM806853 2,4-Dichloro-6-Methylphenol [M-H]-	CC1=CC(Cl)=CC(Cl)=C1O	0			1+	NA	174.972
+CCMSLIB00000841514	MassbankEU:SM807051 2,4-Dinitrophenol [M-H]-	OC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O	0			1+	NA	183.005
+CCMSLIB00000841515	MassbankEU:SM807301 2,6-Dimethylpyridine|2,6-dimethylpyridine [M+H]+	CC1=CC=CC(C)=N1	0			1+	NA	108.081
+CCMSLIB00000841516	MassbankEU:SM808001 Benzamide [M+H]+	NC(=O)C1=CC=CC=C1	0			1+	NA	122.06
+CCMSLIB00000841517	MassbankEU:SM808102 Benzanilide|N-phenylbenzamide [M+H]+	O=C(NC1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	198.091
+CCMSLIB00000841518	MassbankEU:SM808401 Benzylamine|phenylmethanamine|phenylmethanamine [M+H]+	NCC1=CC=CC=C1	0			1+	NA	108.081
+CCMSLIB00000841519	MassbankEU:SM808501 Quinoxaline|Chinoxalin [M+H]+	C1=CC=C2N=CC=NC2=C1	0			1+	NA	131.06
+CCMSLIB00000841520	MassbankEU:SM808601 Diphenylamine|N-phenylaniline [M+H]+	N(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	170.096
+CCMSLIB00000841521	MassbankEU:SM808701 Diphenylsulfone|Diphenyl sulfone|Benzenesulfonylbenzene [M+H]+	O=S(=O)(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	219.047
+CCMSLIB00000841522	MassbankEU:SM808801 Diphenylsulfoxide|Diphenyl sulfoxide|Benzenesulfinylbenzene [M+H]+	O=S(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	203.053
+CCMSLIB00000841523	MassbankEU:SM808902 Flavone|2-phenylchromen-4-one [M+H]+	O=C1C=C(OC2=CC=CC=C12)C1=CC=CC=C1	0			1+	NA	223.075
+CCMSLIB00000841524	MassbankEU:SM809101 Imidazole|1H-imidazole [M+H]+	N1C=CN=C1	0			1+	NA	69.0447
+CCMSLIB00000841525	MassbankEU:SM809305 Oxazol|1,3-oxazole [M+H]+	O1C=CN=C1	0			1+	NA	70.0287
+CCMSLIB00000841526	MassbankEU:SM809453 Pentabromphenol|2,3,4,5,6-pentabromophenol [M-H]-	OC1=C(Br)C(Br)=C(Br)C(Br)=C1Br	0			1+	NA	482.587
+CCMSLIB00000841527	MassbankEU:SM809756 2,4-diaminobenzenesulfonic acid [M-H]-	C1=CC(=C(C=C1N)N)S(=O)(=O)O	0			1+	NA	187.018
+CCMSLIB00000841528	MassbankEU:SM809801 2,6-Xylidine|2,6-dimethylaniline [M+H]+	CC1=C(C(=CC=C1)C)N	0			1+	NA	122.096
+CCMSLIB00000841529	MassbankEU:SM809901 2-Nitrobenzamide|2-Nitrobenzamid [M+H]+	NC(=O)C1=C(C=CC=C1)[N+]([O-])=O	0			1+	NA	167.045
+CCMSLIB00000841530	MassbankEU:SM810352 3,4,5-Trichlorphenol [M-H]-	OC1=CC(Cl)=C(Cl)C(Cl)=C1	0			1+	NA	194.918
+CCMSLIB00000841531	MassbankEU:SM810401 3,4-Dichloroaniline [M+H]+	C1=CC(=C(C=C1N)Cl)Cl	0			1+	NA	161.987
+CCMSLIB00000841532	MassbankEU:SM810601 3-Acetylphenanthrene|1-phenanthren-3-ylethanone [M+H]+	CC(=O)C1=CC=C2C=CC3=CC=CC=C3C2=C1	0			1+	NA	221.096
+CCMSLIB00000841533	MassbankEU:SM810703 3-Amino-1,2,4-triazole|1H-1,2,4-triazol-5-amine [M+H]+	NC1=NNC=N1	0			1+	NA	85.0509
+CCMSLIB00000841534	MassbankEU:SM810801 3-Bromo-N,N-dimethylaniline [M+H]+	CN(C)C1=CC(Br)=CC=C1	0			1+	NA	200.007
+CCMSLIB00000841535	MassbankEU:SM811101 4,4`-Thiodianiline|4-(4-aminophenyl)sulfanylaniline [M+H]+	C1=CC(=CC=C1N)SC2=CC=C(C=C2)N	0			1+	NA	217.079
+CCMSLIB00000841536	MassbankEU:SM811203 4`-Aminoacetanilide|N-(4-aminophenyl)acetamide [M+H]+	CC(=O)NC1=CC=C(C=C1)N	0			1+	NA	151.087
+CCMSLIB00000841537	MassbankEU:SM811302 4-Aminoazobenzene|4-phenyldiazenylaniline [M+H]+	C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N	0			1+	NA	198.103
+CCMSLIB00000841538	MassbankEU:SM811402 4-Aminobenzamide [M+H]+	C1=CC(=CC=C1C(=O)N)N	0			1+	NA	137.071
+CCMSLIB00000841539	MassbankEU:SM811502 4-Chloroaniline [M+H]+	C1=CC(=CC=C1N)Cl	0			1+	NA	128.026
+CCMSLIB00000841540	MassbankEU:SM811601 4-Isopropylaniline|4-propan-2-ylaniline [M+H]+	CC(C)C1=CC=C(C=C1)N	0			1+	NA	136.112
+CCMSLIB00000841541	MassbankEU:SM811901 Benz[c]acridine|Benzo[c]acridine [M+H]+	C1=CC=C2C(C=CC3=CC4=CC=CC=C4N=C23)=C1	0			1+	NA	230.096
+CCMSLIB00000841542	MassbankEU:SM812005 Benzimidazole|1H-Benzimidazole [M+H]+	N1C=NC2=CC=CC=C12	0			1+	NA	119.06
+CCMSLIB00000841543	MassbankEU:SM812203 Isophorone diamine|3-(aminomethyl)-3,5,5-trimethylcyclohexan-1-amine [M+H]+	CC1(CC(CC(C1)(C)CN)N)C	0			1+	NA	171.186
+CCMSLIB00000841544	MassbankEU:SM812301 Michler`s ketone|bis[4-(dimethylamino)phenyl]methanone [M+H]+	CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C	0			1+	NA	269.165
+CCMSLIB00000841545	MassbankEU:SM812601 N-Methylaniline [M+H]+	CNC1=CC=CC=C1	0			1+	NA	108.081
+CCMSLIB00000841546	MassbankEU:SM812701 N-phenyl-1-naphthylamine|N-phenylnaphthalen-1-amine [M+H]+	C1=CC=C(C=C1)NC2=CC=CC3=CC=CC=C32	0			1+	NA	220.112
+CCMSLIB00000841547	MassbankEU:SM812904 Phenazine [M+H]+	C1=CC2=NC3=CC=CC=C3N=C2C=C1	0			1+	NA	181.076
+CCMSLIB00000841548	MassbankEU:SM813501 Pyridine [M+H]+	C1=CC=NC=C1	0			1+	NA	80.0495
+CCMSLIB00000841549	MassbankEU:SM813751 2,4,6-Trichlorphenol [M-H]-	OC1=C(Cl)C=C(Cl)C=C1Cl	0			1+	NA	194.918
+CCMSLIB00000841550	MassbankEU:SM814053 2-Benzyl-4-chlorophenol [M-H]-	OC1=C(CC2=CC=CC=C2)C=C(Cl)C=C1	0			1+	NA	217.043
+CCMSLIB00000841551	MassbankEU:SM814103 Octocrylene|2-Ethylhexyl 2-cyano-3,3-diphenylprop-2-enoate|2-Ethylhexyl 2-cyano-3,3-diphenylacrylate [M+H]+	CCCCC(CC)COC(=O)C(C#N)=C(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	362.211
+CCMSLIB00000841552	MassbankEU:SM814303 Oxybenzone|2-hydroxy-4-methoxy-benzophenone|(2-hydroxy-4-methoxyphenyl)-phenylmethanone [M+H]+	COC1=CC(O)=C(C=C1)C(=O)C1=CC=CC=C1	0			1+	NA	229.086
+CCMSLIB00000841553	MassbankEU:SM814453 2-Hydroxyanthraquinone|2-Hydroxyanthrachinon|2-hydroxyanthracene-9,10-dione [M-H]-	OC1=CC2=C(C=C1)C(=O)C1=CC=CC=C1C2=O	0			1+	NA	223.04
+CCMSLIB00000841554	MassbankEU:SM814501 2-Methoxy-1-naphthaldehyde|2-methoxynaphthalene-1-carbaldehyde [M+H]+	COC1=C(C=O)C2=CC=CC=C2C=C1	0			1+	NA	187.075
+CCMSLIB00000841555	MassbankEU:SM814802 2-Methylnaphtho(1,2-d)thiazole|2-Methylnaphtho[1,2-d]thiazole|2-methylbenzo[e][1,3]benzothiazole [M+H]+	CC1=NC2=C(S1)C=CC1=CC=CC=C21	0			1+	NA	200.053
+CCMSLIB00000841556	MassbankEU:SM814901 3-Phenoxyphenol [M+H]+	OC1=CC(OC2=CC=CC=C2)=CC=C1	0			1+	NA	187.075
+CCMSLIB00000841557	MassbankEU:SM815301 Indazole|1H-indazole [M+H]+	N1N=CC2=CC=CC=C12	0			1+	NA	119.06
+CCMSLIB00000841558	MassbankEU:SM815402 Pyrazol [M+H]+	N1C=CC=N1	0			1+	NA	69.0447
+CCMSLIB00000841559	MassbankEU:SM815506 Pyrrol [M+H]+	N1C=CC=C1	0			1+	NA	68.0495
+CCMSLIB00000841560	MassbankEU:SM815601 Theophylline|1,3-dimethyl-7H-purine-2,6-dione [M+H]+	CN1C2=C(NC=N2)C(=O)N(C)C1=O	0			1+	NA	181.072
+CCMSLIB00000841561	MassbankEU:SM815654 Theophylline|1,3-dimethyl-7H-purine-2,6-dione [M-H]-	CN1C2=C(NC=N2)C(=O)N(C)C1=O	0			1+	NA	179.057
+CCMSLIB00000841562	MassbankEU:SM815801 Thiazole|1,3-thiazole [M+H]+	S1C=CN=C1	0			1+	NA	86.0059
+CCMSLIB00000841563	MassbankEU:SM816201 2,2-Dipyridyl|2,2`-Bipyridine|2-pyridin-2-ylpyridine [M+H]+	C1=CC=C(N=C1)C1=CC=CC=N1	0			1+	NA	157.076
+CCMSLIB00000841564	MassbankEU:SM816551 2,3-Dinitrophenol [M-H]-	OC1=C(C(=CC=C1)[N+]([O-])=O)[N+]([O-])=O	0			1+	NA	183.005
+CCMSLIB00000841565	MassbankEU:SM816651 2,4,5-Trichlorphenol [M-H]-	OC1=C(Cl)C=C(Cl)C(Cl)=C1	0			1+	NA	194.918
+CCMSLIB00000841566	MassbankEU:SM816753 2,4,6-Tribromphenol [M-H]-	OC1=C(Br)C=C(Br)C=C1Br	0			1+	NA	326.766
+CCMSLIB00000841567	MassbankEU:SM817001 9-Acetylphenanthren|9-Acetylphenanthrene|1-phenanthren-9-ylethanone [M+H]+	CC(=O)C1=CC2=CC=CC=C2C2=CC=CC=C12	0			1+	NA	221.096
+CCMSLIB00000841568	MassbankEU:SM817153 Anthraflavic acid|2,6-dihydroxyanthracene-9,10-dione [M-H]-	OC1=CC=C2C(=O)C3=CC(O)=CC=C3C(=O)C2=C1	0			1+	NA	239.035
+CCMSLIB00000841569	MassbankEU:SM817301 Benzo[g]quinoline|Benzo[h]chinolin [M+H]+	C1=CC2=CC3=CC=CN=C3C=C2C=C1	0			1+	NA	180.081
+CCMSLIB00000841570	MassbankEU:SM817401 Benzylidenacetone|4-Phenyl-but-3-en-2-one|4-phenylbut-3-en-2-one [M+H]+	CC(=O)C=CC1=CC=CC=C1	0			1+	NA	147.08
+CCMSLIB00000841571	MassbankEU:SM817603 Butylamine|Butan-1-amine [M+H]+	CCCCN	0			1+	NA	74.0964
+CCMSLIB00000841572	MassbankEU:SM817703 Chlorpyrifos|Diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-$l^{5}-phosphane [M+H]+	CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl	0			1+	NA	349.934
+CCMSLIB00000841573	MassbankEU:SM817801 Cinnamamide|(E)-3-phenylprop-2-enamide [M+H]+	NC(=O)\C=C\C1=CC=CC=C1	0			1+	NA	148.076
+CCMSLIB00000841574	MassbankEU:SM817901 Cumarin|Coumarin|chromen-2-one [M+H]+	O=C1OC2=CC=CC=C2C=C1	0			1+	NA	147.044
+CCMSLIB00000841575	MassbankEU:SM818002 Dibenz[a,j]acridine [M+H]+	C1=CC=C2C(C=CC3=NC4=C(C=C23)C2=CC=CC=C2C=C4)=C1	0			1+	NA	280.112
+CCMSLIB00000841576	MassbankEU:SM818201 Candesartan|2-Ethoxy-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]benzimidazole-4-carboxylic acid [M+H]+	CCOC1=Nc2cccc(C(O)=O)c2N1Cc1ccc(-c2ccccc2C2NN=NN=2)cc1	0			1+	NA	441.167
+CCMSLIB00000841577	MassbankEU:SM818251 Candesartan|2-Ethoxy-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]benzimidazole-4-carboxylic acid [M-H]-	CCOC1=Nc2cccc(C(O)=O)c2N1Cc1ccc(-c2ccccc2C2NN=NN=2)cc1	0			1+	NA	439.152
+CCMSLIB00000841578	MassbankEU:SM818301 Climbazole|1-(4-chlorophenoxy)-1-imidazol-1-yl-3,3-dimethylbutan-2-one [M+H]+	CC(C)(C)C(=O)C(N1C=CN=C1)Oc1ccc(Cl)cc1	0			1+	NA	293.105
+CCMSLIB00000841579	MassbankEU:SM818403 Cotinine|1-methyl-5-pyridin-3-ylpyrrolidin-2-one [M+H]+	CN1C(c2cccnc2)CCC1=O	0			1+	NA	177.102
+CCMSLIB00000841580	MassbankEU:SM818501 Di(2-ethylhexyl)phthalate (DEHP)|DEHP|Bis(2-ethylhexyl) benzene-1,2-dicarboxylate [M+H]+	CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC	0			1+	NA	391.284
+CCMSLIB00000841581	MassbankEU:SM818656 Dinoseb|2-Butan-2-yl-4,6-dinitrophenol [M-H]-	CCC(C)c1cc(cc(c1O)N(=O)=O)N(=O)=O	0			1+	NA	239.067
+CCMSLIB00000841582	MassbankEU:SM818701 Irbesartan|2-butyl-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]-1,3-diazaspiro[4.4]non-1-en-4-one [M+H]+	CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2C2NN=NN=2)cc1	0			1+	NA	429.24
+CCMSLIB00000841583	MassbankEU:SM818756 Irbesartan|2-butyl-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]-1,3-diazaspiro[4.4]non-1-en-4-one [M-H]-	CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2C2NN=NN=2)cc1	0			1+	NA	427.225
+CCMSLIB00000841584	MassbankEU:SM818801 Labetalol|2-hydroxy-5-[1-hydroxy-2-(4-phenylbutan-2-ylamino)ethyl]benzamide [M+H]+	CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1	0			1+	NA	329.186
+CCMSLIB00000841585	MassbankEU:SM818851 Labetalol|2-hydroxy-5-[1-hydroxy-2-(4-phenylbutan-2-ylamino)ethyl]benzamide [M-H]-	CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1	0			1+	NA	327.171
+CCMSLIB00000841586	MassbankEU:SM818901 Losartan|[2-butyl-5-chloro-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol [M+H]+	CCCCC1=NC(Cl)=C(CO)N1Cc1ccc(-c2ccccc2C2=NNN=N2)cc1	0			1+	NA	423.169
+CCMSLIB00000841587	MassbankEU:SM818951 Losartan|[2-butyl-5-chloro-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol [M-H]-	CCCCC1=NC(Cl)=C(CO)N1Cc1ccc(-c2ccccc2C2=NNN=N2)cc1	0			1+	NA	421.155
+CCMSLIB00000841588	MassbankEU:SM819101 Telmisartan|2-[4-[[4-methyl-6-(1-methylbenzimidazol-2-yl)-2-propylbenzimidazol-1-yl]methyl]phenyl]benzoic acid [M+H]+	CCCC1=Nc2c(C)cc(C3=Nc4ccccc4N3C)cc2N1Cc1ccc(-c2ccccc2C(O)=O)cc1	0			1+	NA	515.244
+CCMSLIB00000841589	MassbankEU:SM819151 Telmisartan|2-[4-[[4-methyl-6-(1-methylbenzimidazol-2-yl)-2-propylbenzimidazol-1-yl]methyl]phenyl]benzoic acid [M-H]-	CCCC1=Nc2c(C)cc(C3=Nc4ccccc4N3C)cc2N1Cc1ccc(-c2ccccc2C(O)=O)cc1	0			1+	NA	513.23
+CCMSLIB00000841590	MassbankEU:SM819202 Torasemide|N-[4-(3-methylanilino)pyridin-1-ium-3-yl]sulfonyl-N`-propan-2-ylcarbamimidate [M+H]+	CC(C)NC(=O)NS(=O)(=O)c1cnccc1Nc1cccc(C)c1	0			1+	NA	349.133
+CCMSLIB00000841591	MassbankEU:SM819252 Torasemide|N-[4-(3-methylanilino)pyridin-1-ium-3-yl]sulfonyl-N`-propan-2-ylcarbamimidate [M-H]-	CC(C)NC(=O)NS(=O)(=O)c1cnccc1Nc1cccc(C)c1	0			1+	NA	347.118
+CCMSLIB00000841592	MassbankEU:SM819401 Tris(1,3-dichlorisopropyl)phosphate (TDCPP)|TDCPP|Tris(1,3-dichloropropan-2-yl) phosphate [M+H]+	O=P(OC(CCl)CCl)(OC(CCl)CCl)OC(CCl)CCl	0			1+	NA	428.891
+CCMSLIB00000841593	MassbankEU:SM819701 1H-Benzotriazole|2H-Benzotriazole|Benzotriazole [M+H]+	N1N=NC2=CC=CC=C12	0			1+	NA	120.056
+CCMSLIB00000841594	MassbankEU:SM820101 2-Benzothiazolesulfonic acid|Benzothiazole-2-sulfonic acid|1,3-benzothiazole-2-sulfonic acid [M+H]+	OS(=O)(=O)C1=NC2=CC=CC=C2S1	0			1+	NA	215.978
+CCMSLIB00000841595	MassbankEU:SM820151 2-Benzothiazolesulfonic acid|Benzothiazole-2-sulfonic acid|1,3-benzothiazole-2-sulfonic acid [M-H]-	OS(=O)(=O)C1=NC2=CC=CC=C2S1	0			1+	NA	213.964
+CCMSLIB00000841596	MassbankEU:SM820301 2-Isopropyl-6-methyl-pyrimidin-4-ol|6-methyl-2-propan-2-yl-1H-pyrimidin-4-one [M+H]+	CC(C)C1=NC(=O)C=C(C)N1	0			1+	NA	153.102
+CCMSLIB00000841597	MassbankEU:SM820403 2-Isopropylthioxanthone|2-propan-2-ylthioxanthen-9-one [M+H]+	CC(C)C1=CC2=C(SC3=CC=CC=C3C2=O)C=C1	0			1+	NA	255.084
+CCMSLIB00000841598	MassbankEU:SM820501 2-Mercaptobenzimidazole|1,3-dihydrobenzimidazole-2-thione [M+H]+	SC1=NC2=CC=CC=C2N1	0			1+	NA	151.032
+CCMSLIB00000841599	MassbankEU:SM820603 2-Mercaptobenzothiazole|3H-1,3-benzothiazole-2-thione [M+H]+	SC1=NC2=CC=CC=C2S1	0			1+	NA	167.994
+CCMSLIB00000841600	MassbankEU:SM820653 2-Mercaptobenzothiazole|3H-1,3-benzothiazole-2-thione [M-H]-	SC1=NC2=CC=CC=C2S1	0			1+	NA	165.979
+CCMSLIB00000841601	MassbankEU:SM821001 Octhilinone|2-Octyl-4-isothiazolin-3-one|2-octyl-1,2-thiazol-3-one [M+H]+	CCCCCCCCN1SC=CC1=O	0			1+	NA	214.126
+CCMSLIB00000841602	MassbankEU:SM821102 3-Iodopropynyl butylcarbamate|3-iodoprop-1-ynyl N-butylcarbamate [M+H]+	CCCCNC(=O)OC#CCI	0			1+	NA	281.999
+CCMSLIB00000841603	MassbankEU:SM821201 4-Amino-N,N-dimethylbenzenesulfonamide [M+H]+	CN(C)S(=O)(=O)C1=CC=C(N)C=C1	0			1+	NA	201.069
+CCMSLIB00000841604	MassbankEU:SM821301 4-Hydroxybenzotriazole [M+H]+	OC1=C2N=NNC2=CC=C1	0			1+	NA	136.051
+CCMSLIB00000841605	MassbankEU:SM821404 4-Methoxycinnamic acid|(E)-3-(4-methoxyphenyl)prop-2-enoic acid [M+H]+	COC1=CC=C(\C=C\C(O)=O)C=C1	0			1+	NA	179.07
+CCMSLIB00000841606	MassbankEU:SM821501 4-Methylcoumarin|4-methylchromen-2-one [M+H]+	CC1=CC(=O)OC2=CC=CC=C12	0			1+	NA	161.06
+CCMSLIB00000841607	MassbankEU:SM821601 5-Methyl-1H-benzotriazole|5-Methylbenzotriazole [M+H]+	CC1=CC=C2NN=NC2=C1	0			1+	NA	134.071
+CCMSLIB00000841608	MassbankEU:SM821703 6-Ethoxy-2-mercaptobenzothiazole|6-ethoxy-3H-1,3-benzothiazole-2-thione [M+H]+	CCOC1=CC=C2N=C(S)SC2=C1	0			1+	NA	212.02
+CCMSLIB00000841609	MassbankEU:SM821753 6-Ethoxy-2-mercaptobenzothiazole|6-ethoxy-3H-1,3-benzothiazole-2-thione [M-H]-	CCOC1=CC=C2N=C(S)SC2=C1	0			1+	NA	210.005
+CCMSLIB00000841610	MassbankEU:SM821801 Acid Orange 7 (free acid) [M+H]+	OC1=CC=C2C=CC=CC2=C1N=NC1=CC=C(C=C1)S(O)(=O)=O	0			1+	NA	329.059
+CCMSLIB00000841611	MassbankEU:SM821851 Acid Orange 7 (free acid) [M-H]-	OC1=CC=C2C=CC=CC2=C1N=NC1=CC=C(C=C1)S(O)(=O)=O	0			1+	NA	327.044
+CCMSLIB00000841612	MassbankEU:SM822051 Benzophenone-4|Sulisobenzone|5-benzoyl-4-hydroxy-2-methoxybenzenesulfonic acid [M-H]-	COC1=CC(O)=C(C=C1S(O)(=O)=O)C(=O)C1=CC=CC=C1	0			1+	NA	307.028
+CCMSLIB00000841613	MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide [M+H]+	CCN(CC)C(=O)C1=CC(C)=CC=C1	0			1+	NA	192.138
+CCMSLIB00000841614	MassbankEU:SM822401 Dibutyl phthalate|dibutyl benzene-1,2-dicarboxylate [M+H]+	CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC	0			1+	NA	279.159
+CCMSLIB00000841615	MassbankEU:SM822501 Diphenyl phosphate|diphenyl hydrogen phosphate [M+H]+	OP(=O)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	251.047
+CCMSLIB00000841616	MassbankEU:SM822551 Diphenyl phosphate|diphenyl hydrogen phosphate [M-H]-	OP(=O)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	249.032
+CCMSLIB00000841617	MassbankEU:SM822601 Hexa(methoxymethyl)melamine|2-N,2-N,4-N,4-N,6-N,6-N-hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine [M+H]+	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC	0			1+	NA	391.23
+CCMSLIB00000841618	MassbankEU:SM822901 Icaridin|Bbutan-2-yl 2-(2-hydroxyethyl)piperidine-1-carboxylate [M+H]+	CCC(C)OC(=O)N1CCCCC1CCO	0			1+	NA	230.175
+CCMSLIB00000841619	MassbankEU:SM823104 Monobenzyl phthalate|2-phenylmethoxycarbonylbenzoic acid [M+H]+	OC(=O)C1=CC=CC=C1C(=O)OCC1=CC=CC=C1	0			1+	NA	257.081
+CCMSLIB00000841620	MassbankEU:SM823154 Monobenzyl phthalate|2-phenylmethoxycarbonylbenzoic acid [M-H]-	OC(=O)C1=CC=CC=C1C(=O)OCC1=CC=CC=C1	0			1+	NA	255.066
+CCMSLIB00000841621	MassbankEU:SM823251 Monoethyl phthalate|2-ethoxycarbonylbenzoic acid [M-H]-	CCOC(=O)C1=CC=CC=C1C(O)=O	0			1+	NA	193.051
+CCMSLIB00000841622	MassbankEU:SM823305 Monoisobutyl phthalate|Isobutyl hydrogen phthalate|2-(2-methylpropoxycarbonyl)benzoic acid [M+H]+	CC(C)COC(=O)C1=CC=CC=C1C(O)=O	0			1+	NA	223.096
+CCMSLIB00000841623	MassbankEU:SM823351 Monoisobutyl phthalate|Isobutyl hydrogen phthalate|2-(2-methylpropoxycarbonyl)benzoic acid [M-H]-	CC(C)COC(=O)C1=CC=CC=C1C(O)=O	0			1+	NA	221.082
+CCMSLIB00000841624	MassbankEU:SM823401 N-Butylbenzenesulfonamide [M+H]+	CCCCNS(=O)(=O)C1=CC=CC=C1	0			1+	NA	214.09
+CCMSLIB00000841625	MassbankEU:SM823601 N-Ethyl-o-toluenesulfonamide|N-ethyl-2-methylbenzenesulfonamide [M+H]+	CCNS(=O)(=O)C1=C(C)C=CC=C1	0			1+	NA	200.074
+CCMSLIB00000841626	MassbankEU:SM823751 Perfluorobutanoic acid|Heptafluorobutyric acid|2,2,3,3,4,4,4-heptafluorobutanoic acid [M-H]-	OC(=O)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	212.979
+CCMSLIB00000841627	MassbankEU:SM823802 Phenylbenzimidazole sulfonic acid|27503-81-7|2-phenyl-3H-benzimidazol-1-ium-5-sulfonate [M+H]+	OS(=O)(=O)C1=CC=C2N=C(NC2=C1)C1=CC=CC=C1	0			1+	NA	275.048
+CCMSLIB00000841628	MassbankEU:SM823851 Phenylbenzimidazole sulfonic acid|27503-81-7|2-phenyl-3H-benzimidazol-1-ium-5-sulfonate [M-H]-	OS(=O)(=O)C1=CC=C2N=C(NC2=C1)C1=CC=CC=C1	0			1+	NA	273.034
+CCMSLIB00000841629	MassbankEU:SM824253 Tetrabromobisphenol A|2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol [M-H]-	CC(C)(C1=CC(Br)=C(O)C(Br)=C1)C1=CC(Br)=C(O)C(Br)=C1	0			1+	NA	538.75
+CCMSLIB00000841630	MassbankEU:SM824351 Tetrachlorosalicylanilide|2,3,4,5-tetrachloro-6-hydroxy-N-phenylbenzamide [M-H]-	OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1C(=O)NC1=CC=CC=C1	0			1+	NA	347.916
+CCMSLIB00000841631	MassbankEU:SM824402 Tri(butoxyethyl) phosphate|tris(2-butoxyethyl) phosphate [M+H]+	CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC	0			1+	NA	399.251
+CCMSLIB00000841632	MassbankEU:SM824552 Triclocarban|1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea [M-H]-	ClC1=CC=C(NC(=O)NC2=CC=C(Cl)C(Cl)=C2)C=C1	0			1+	NA	312.971
+CCMSLIB00000841633	MassbankEU:SM824651 Triclosan|5-chloro-2-(2,4-dichlorophenoxy)phenol [M-H]-	OC1=CC(Cl)=CC=C1OC1=CC=C(Cl)C=C1Cl	0			1+	NA	286.944
+CCMSLIB00000841634	MassbankEU:SM824801 Tri-isobutyl phosphate|Triisobutyl phosphate|tris(2-methylpropyl) phosphate [M+H]+	CC(C)COP(=O)(OCC(C)C)OCC(C)C	0			1+	NA	267.172
+CCMSLIB00000841635	MassbankEU:SM824902 Triphenylphosphate|Triphenyl phosphate [M+H]+	O=P(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	327.078
+CCMSLIB00000841636	MassbankEU:SM825001 Triphenylphosphine oxide|Diphenylphosphorylbenzene [M+H]+	O=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	279.093
+CCMSLIB00000841637	MassbankEU:SM825201 Tris(2-chloroethyl)phosphate|Tris(2-chloroethyl) phosphate [M+H]+	ClCCOP(=O)(OCCCl)OCCCl	0			1+	NA	284.961
+CCMSLIB00000841638	MassbankEU:SM825501 4-Aminophenol [M+H]+	NC1=CC=C(O)C=C1	0			1+	NA	110.06
+CCMSLIB00000841639	MassbankEU:SM825601 4`-Bromacetanilide|4`-Bromoacetanilid|N-(4-bromophenyl)acetamide [M+H]+	CC(=O)NC1=CC=C(Br)C=C1	0			1+	NA	213.986
+CCMSLIB00000841640	MassbankEU:SM825651 4`-Bromacetanilide|4`-Bromoacetanilid|N-(4-bromophenyl)acetamide [M-H]-	CC(=O)NC1=CC=C(Br)C=C1	0			1+	NA	211.972
+CCMSLIB00000841641	MassbankEU:SM825801 4-Chloroaniline [M+H]+	NC1=CC=C(Cl)C=C1	0			1+	NA	128.026
+CCMSLIB00000841642	MassbankEU:SM826401 4-Methylpyrimidine|4-Methylpyrimidin [M+H]+	CC1=CC=NC=N1	0			1+	NA	95.0604
+CCMSLIB00000841643	MassbankEU:SM826601 Cyclohexylamine [M+H]+	NC1CCCCC1	0			1+	NA	100.112
+CCMSLIB00000841644	MassbankEU:SM826701 Dibenz[a,h]acridine|Dibenzo[a,h]acridine [M+H]+	C1=CC=C2C(C=CC3=NC4=C(C=CC5=CC=CC=C45)C=C23)=C1	0			1+	NA	280.112
+CCMSLIB00000841645	MassbankEU:SM827002 Dicyclohexyl phthalate|Dicyclohexyl benzene-1,2-dicarboxylate [M+H]+	O=C(OC1CCCCC1)C1=CC=CC=C1C(=O)OC1CCCCC1	0			1+	NA	331.19
+CCMSLIB00000841646	MassbankEU:SM827301 Benzocaine|Ethyl-p-aminobenzoate|Ethyl 4-aminobenzoate [M+H]+	CCOC(=O)C1=CC=C(N)C=C1	0			1+	NA	166.086
+CCMSLIB00000841647	MassbankEU:SM827751 1,3-Dihydroxyanthraquinone|Xanthopurpurin|1,3-dihydroxyanthracene-9,10-dione [M-H]-	Oc1cc(O)c2C(=O)c3ccccc3C(=O)c2c1	0			1+	NA	239.035
+CCMSLIB00000841648	MassbankEU:SM828202 Benzanthrone|1,9-Benz-10-anthrone|Benzo[a]phenalen-7-one [M+H]+	O=C1c2ccccc2-c2cccc3cccc1c23	0			1+	NA	231.08
+CCMSLIB00000841649	MassbankEU:SM828302 10-Azabenzo[a]pyrene|10-Azabenzo(a)pyrene|pyreno[1,2-b]pyridine [M+H]+	c1cnc2c(c1)cc1ccc3cccc4ccc2c1c34	0			1+	NA	254.096
+CCMSLIB00000841650	MassbankEU:SM828451 1-Hydroxyanthraquinone|1-hydroxyanthracene-9,10-dione [M-H]-	Oc1cccc2C(=O)c3ccccc3C(=O)c12	0			1+	NA	223.04
+CCMSLIB00000841651	MassbankEU:SM828951 2-Hydroxyanthraquinone|2-hydroxyanthracene-9,10-dione [M-H]-	Oc1ccc2C(=O)c3ccccc3C(=O)c2c1	0			1+	NA	223.04
+CCMSLIB00000841652	MassbankEU:SM829401 4-Nitroquinoline-1-oxide|4-Nitroquinoline N-oxide|4-nitro-1-oxidoquinolin-1-ium [M+H]+	[O-][N+](=O)c1cc[n+]([O-])c2ccccc12	0			1+	NA	191.045
+CCMSLIB00000841653	MassbankEU:SM830402 Acridinone|1-Acridinol|10H-acridin-1-one [M+H]+	O=c1cccc2[nH]c3ccccc3cc12	0			1+	NA	196.076
+CCMSLIB00000841654	MassbankEU:SM830451 Acridinone|1-Acridinol|10H-acridin-1-one [M-H]-	O=c1cccc2[nH]c3ccccc3cc12	0			1+	NA	194.061
+CCMSLIB00000841655	MassbankEU:SM830601 Benz(c)acridine|Benz[c]acridine|benzo[c]acridine [M+H]+	c1ccc2nc3c(ccc4ccccc34)cc2c1	0			1+	NA	230.096
+CCMSLIB00000841656	MassbankEU:SM830901 Dibenzo[a,j]acridine|Dibenz[a,j]acridine [M+H]+	c1ccc2c(c1)ccc1nc3ccc4ccccc4c3cc21	0			1+	NA	280.112
+CCMSLIB00000841657	MassbankEU:SM831203 Indazole|1H-indazole [M+H]+	c1n[nH]c2ccccc12	0			1+	NA	119.06
+CCMSLIB00000841658	MassbankEU:SM831701 PHIP|1-methyl-6-phenylimidazo[4,5-b]pyridin-2-amine [M+H]+	Cn1c2cc(cnc2[nH]c1=N)-c1ccccc1	0			1+	NA	225.113
+CCMSLIB00000841659	MassbankEU:SM831754 PHIP|1-methyl-6-phenylimidazo[4,5-b]pyridin-2-amine [M-H]-	Cn1c2cc(cnc2[nH]c1=N)-c1ccccc1	0			1+	NA	223.099
+CCMSLIB00000841660	MassbankEU:SM831806 Chloramphenicol|2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide [M+H]+	OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O	0			1+	NA	323.02
+CCMSLIB00000841661	MassbankEU:SM831851 Chloramphenicol|2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide [M-H]-	OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O	0			1+	NA	321.005
+CCMSLIB00000841662	MassbankEU:SM832103 Fluoxetine|N-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine [M+H]+	CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1	0			1+	NA	310.141
+CCMSLIB00000841663	MassbankEU:SM832201 Venlafaxine [M+H]+	COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1	0			1+	NA	278.211
+CCMSLIB00000841664	MassbankEU:SM832302 2,4-Toluene diisocyanate|2,4-diisocyanato-1-methylbenzene [M+H]+	CC1=C(C=C(C=C1)N=C=O)N=C=O	0			1+	NA	175.05
+CCMSLIB00000841665	MassbankEU:SM832451 4-Methylumbelliferyl sulfate|(4-methyl-2-oxochromen-7-yl) hydrogen sulfate [M-H]-	CC1=CC(=O)OC2=CC(OS(O)(=O)=O)=CC=C12	0			1+	NA	254.997
+CCMSLIB00000841666	MassbankEU:SM832552 Estrone-3-(beta-D-glucuronide)|Estrone glucuronide|(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[[(8R,9S,13S,14S)-13-methyl-17-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-yl]oxy]oxane-2-ca [M-H]-	C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)=C4)[C@@H]1CCC2=O	0			1+	NA	445.187
+CCMSLIB00000841667	MassbankEU:SM832651 Estrone-3-sulfate|[6,7-3H] E1S|(13-methyl-17-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-yl) hydrogen sulfate [M-H]-	CC12CCC3C(CCC4=CC(OS(O)(=O)=O)=CC=C34)C1CCC2=O	0			1+	NA	349.112
+CCMSLIB00000841668	MassbankEU:SM832751 4-Methylumbelliferyl glucuronide|(2S,3R,4S,5R,6S)-3,4,5-trihydroxy-6-(4-methyl-2-oxochromen-7-yl)oxyoxane-2-carboxylic acid [M-H]-	CC1=CC(=O)OC2=CC(O[C@@H]3O[C@@H]([C@H](O)[C@H](O)[C@H]3O)C(O)=O)=CC=C12	0			1+	NA	351.072
+CCMSLIB00000841669	MassbankEU:SM832851 Azathioprine|6-(3-methyl-5-nitroimidazol-4-yl)sulfanyl-7H-purine [M-H]-	CN1C=NC(=C1SC1=C2NC=NC2=NC=N1)[N+]([O-])=O	0			1+	NA	276.031
+CCMSLIB00000841670	MassbankEU:SM833051 1-Naphthol-5-sulfonic acid|5-hydroxynaphthalene-1-sulfonic acid [M-H]-	OC1=CC=CC2=C(C=CC=C12)S(O)(=O)=O	0			1+	NA	223.007
+CCMSLIB00000841671	MassbankEU:SM833151 2,2`,4,4`-Tetrahydroxybenzophenone|bis(2,4-dihydroxyphenyl)methanone [M-H]-	OC1=CC(O)=C(C=C1)C(=O)C1=C(O)C=C(O)C=C1	0			1+	NA	245.046
+CCMSLIB00000841672	MassbankEU:SM833201 2,4-Dihydroxybenzophenone|(2,4-dihydroxyphenyl)-phenylmethanone [M+H]+	OC1=CC(O)=C(C=C1)C(=O)C1=CC=CC=C1	0			1+	NA	215.07
+CCMSLIB00000841673	MassbankEU:SM833251 2,4-Dihydroxybenzophenone|(2,4-dihydroxyphenyl)-phenylmethanone [M-H]-	OC1=CC(O)=C(C=C1)C(=O)C1=CC=CC=C1	0			1+	NA	213.056
+CCMSLIB00000841674	MassbankEU:SM833401 Omeprazole|6-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole [M+H]+	COC1=CC=C2N=C(NC2=C1)S(=O)CC1=NC=C(C)C(OC)=C1C	0			1+	NA	346.122
+CCMSLIB00000841675	MassbankEU:SM833453 Omeprazole|6-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole [M-H]-	COC1=CC=C2N=C(NC2=C1)S(=O)CC1=NC=C(C)C(OC)=C1C	0			1+	NA	344.107
+CCMSLIB00000841676	MassbankEU:SM833501 Nonivamide|N-[(4-hydroxy-3-methoxyphenyl)methyl]nonanamide [M+H]+	CCCCCCCCC(=O)NCC1=CC=C(O)C(OC)=C1	0			1+	NA	294.206
+CCMSLIB00000841677	MassbankEU:SM833601 Pantoprazole|6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole [M+H]+	COC1=CC=NC(CS(=O)C2=NC3=CC=C(OC(F)F)C=C3N2)=C1OC	0			1+	NA	384.082
+CCMSLIB00000841678	MassbankEU:SM833651 Pantoprazole|6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole [M-H]-	COC1=CC=NC(CS(=O)C2=NC3=CC=C(OC(F)F)C=C3N2)=C1OC	0			1+	NA	382.068
+CCMSLIB00000841679	MassbankEU:SM833703 Abietic acid|(1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylic acid [M+H]+	CC(C)C1=CC2=CC[C@@H]3[C@](C)(CCC[C@@]3(C)C(O)=O)[C@H]2CC1	0			1+	NA	303.232
+CCMSLIB00000841680	MassbankEU:SM834151 5-Aminonaphthalene-2-sulfonic acid|5-Amino-2-naphthalenesulfonic acid [M-H]-	NC1=C2C=CC(=CC2=CC=C1)S(O)(=O)=O	0			1+	NA	222.023
+CCMSLIB00000841681	MassbankEU:SM834202 6-Bromo-2(1H)-quinolinone|6-Bromoquinolin-2(1H)-one|6-Bromo-1H-quinolin-2-one [M+H]+	BrC1=CC2=C(NC(=O)C=C2)C=C1	0			1+	NA	223.971
+CCMSLIB00000841682	MassbankEU:SM834302 Capecitabine|pentyl N-[1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-methyloxolan-2-yl]-5-fluoro-2-oxopyrimidin-4-yl]carbamate [M+H]+	CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]1O[C@H](C)[C@@H](O)[C@H]1O	0			1+	NA	360.156
+CCMSLIB00000841683	MassbankEU:SM834351 Capecitabine|pentyl N-[1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-methyloxolan-2-yl]-5-fluoro-2-oxopyrimidin-4-yl]carbamate [M-H]-	CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]1O[C@H](C)[C@@H](O)[C@H]1O	0			1+	NA	358.142
+CCMSLIB00000841684	MassbankEU:SM834451 m-Xylene-4-sulfonic acid|2,4-dimethylbenzenesulfonic acid [M-H]-	Cc1ccc(c(c1)C)S(=O)(=O)O	0			1+	NA	185.028
+CCMSLIB00000841685	MassbankEU:SM834653 Secobarbital|5-Pentan-2-yl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione [M-H]-	CCCC(C)C1(CC=C)C(=O)NC(=O)NC1=O	0			1+	NA	237.124
+CCMSLIB00000841686	MassbankEU:SM834702 Warfarin|4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one [M+H]+	CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O	0			1+	NA	309.112
+CCMSLIB00000841687	MassbankEU:SM834752 Warfarin|4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one [M-H]-	CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O	0			1+	NA	307.098
+CCMSLIB00000841688	MassbankEU:SM834801 2-Methyl-6-phenyl-4H-pyran-4-one|2-methyl-6-phenylpyran-4-one [M+H]+	CC1=CC(=O)C=C(O1)C1=CC=CC=C1	0			1+	NA	187.075
+CCMSLIB00000841689	MassbankEU:SM834853 2-Methyl-6-phenyl-4H-pyran-4-one|2-methyl-6-phenylpyran-4-one [M-H]-	CC1=CC(=O)C=C(O1)C1=CC=CC=C1	0			1+	NA	185.061
+CCMSLIB00000841690	MassbankEU:SM835001 3,3`-Biphenol [M+H]+	OC1=CC(=CC=C1)C1=CC(O)=CC=C1	0			1+	NA	187.075
+CCMSLIB00000841691	MassbankEU:SM835053 3,3`-Biphenol [M-H]-	OC1=CC(=CC=C1)C1=CC(O)=CC=C1	0			1+	NA	185.061
+CCMSLIB00000841692	MassbankEU:SM835301 Diethyl phthalate|Diethyl benzene-1,2-dicarboxylate [M+H]+	CCOC(=O)C1=CC=CC=C1C(=O)OCC	0			1+	NA	223.096
+CCMSLIB00000841693	MassbankEU:SM835553 Hexachlorophene|Hexachlorophen|3,4,6-trichloro-2-[(2,3,5-trichloro-6-hydroxyphenyl)methyl]phenol [M-H]-	OC1=C(CC2=C(Cl)C(Cl)=CC(Cl)=C2O)C(Cl)=C(Cl)C=C1Cl	0			1+	NA	402.843
+CCMSLIB00000841694	MassbankEU:SM835601 Hexazinone|3-Cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-dione [M+H]+	CN(C)C1=NC(=O)N(C2CCCCC2)C(=O)N1C	0			1+	NA	253.166
+CCMSLIB00000841695	MassbankEU:SM836003 Indoline|Indoline|2,3-dihydro-1H-indole [M+H]+	C1CC2=CC=CC=C2N1	0			1+	NA	120.081
+CCMSLIB00000841696	MassbankEU:SM836401 Methyl pyrazine 2-carboxylate|Methyl pyrazine-2-carboxylate [M+H]+	COC(=O)C1=CN=CC=N1	0			1+	NA	139.05
+CCMSLIB00000841697	MassbankEU:SM836501 Morpholine|Morpholin [M+H]+	C1COCCN1	0			1+	NA	88.0757
+CCMSLIB00000841698	MassbankEU:SM836601 N-Phenyl-2-naphthylamine|N-Phenylnaphthalen-2-amine [M+H]+	N(C1=CC=CC=C1)C1=CC2=CC=CC=C2C=C1	0			1+	NA	220.112
+CCMSLIB00000841699	MassbankEU:SM836801 Phenyltetrazole|5-Phenyl-1H-tetrazole|5-phenyl-2H-tetrazole [M+H]+	N1N=NN=C1C1=CC=CC=C1	0			1+	NA	147.066
+CCMSLIB00000841700	MassbankEU:SM836901 Benzyl butyl phthalate|2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate|2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate [M+H]+	CCCCOC(=O)C1=CC=CC=C1C(=O)OCC1=CC=CC=C1	0			1+	NA	313.143
+CCMSLIB00000841701	MassbankEU:SM837002 Diallyl phthalate|bis(prop-2-enyl) benzene-1,2-dicarboxylate|bis(prop-2-enyl) benzene-1,2-dicarboxylate [M+H]+	C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C	0			1+	NA	247.096
+CCMSLIB00000841702	MassbankEU:SM837103 Piperidine [M+H]+	C1CCNCC1	0			1+	NA	86.0964
+CCMSLIB00000841703	MassbankEU:SM837253 Purpurin|1,2,4-trihydroxyanthracene-9,10-dione [M-H]-	OC1=CC(O)=C2C(=O)C3=CC=CC=C3C(=O)C2=C1O	0			1+	NA	255.03
+CCMSLIB00000841704	MassbankEU:SM837451 Sulcotrione|2-(2-chloro-4-methylsulfonylbenzoyl)cyclohexane-1,3-dione [M-H]-	CS(=O)(=O)C1=CC=C(C(=O)C2C(=O)CCCC2=O)C(Cl)=C1	0			1+	NA	327.01
+CCMSLIB00000841705	MassbankEU:SM837601 Tribenzylamine|N,N-dibenzyl-1-phenylmethanamine [M+H]+	C(N(CC1=CC=CC=C1)CC1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	288.175
+CCMSLIB00000841706	MassbankEU:SM837851 2,4-Dichlorophenoxyacetic acid|2-(2,4-dichlorophenoxy)acetic acid [M-H]-	OC(=O)COc1ccc(Cl)cc1Cl	0			1+	NA	218.962
+CCMSLIB00000841707	MassbankEU:SM837901 Dimethoate|2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide [M+H]+	CNC(=O)CSP(=S)(OC)OC	0			1+	NA	230.007
+CCMSLIB00000841708	MassbankEU:SM838051 Bentazone|Bentazon|2,2-dioxo-3-propan-2-yl-1H-2$l^{6},1,3-benzothiadiazin-4-one [M-H]-	CC(C)N1C(=O)c2ccccc2NS1(=O)=O	0			1+	NA	239.05
+CCMSLIB00000841709	MassbankEU:SM838102 Isoproturon|1,1-dimethyl-3-(4-propan-2-ylphenyl)urea [M+H]+	CC(C)c1ccc(NC(=O)N(C)C)cc1	0			1+	NA	207.149
+CCMSLIB00000841710	MassbankEU:SM838201 Chlorotoluron|3-(3-chloro-4-methylphenyl)-1,1-dimethylurea [M+H]+	CN(C)C(=O)Nc1ccc(C)c(Cl)c1	0			1+	NA	213.079
+CCMSLIB00000841711	MassbankEU:SM838301 Myclobutanil|2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile [M+H]+	CCCCC(Cn1cncn1)(C#N)c1ccc(Cl)cc1	0			1+	NA	289.121
+CCMSLIB00000841712	MassbankEU:SM838403 Diflufenican|N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide [M+H]+	Fc1ccc(NC(=O)c2cccnc2Oc2cccc(c2)C(F)(F)F)c(F)c1	0			1+	NA	395.081
+CCMSLIB00000841713	MassbankEU:SM838502 Flusilazole|bis(4-fluorophenyl)-methyl-(1,2,4-triazol-1-ylmethyl)silane [M+H]+	C[Si](Cn1cncn1)(c1ccc(F)cc1)c1ccc(F)cc1	0			1+	NA	316.108
+CCMSLIB00000841714	MassbankEU:SM838602 Trifloxystrobin|methyl (2Z)-2-methoxyimino-2-[2-[[(E)-1-[3-(trifluoromethyl)phenyl]ethylideneamino]oxymethyl]phenyl]acetate [M+H]+	CO\N=C(/C(=O)OC)c1ccccc1CO\N=C(/C)c1cccc(c1)C(F)(F)F	0			1+	NA	409.137
+CCMSLIB00000841715	MassbankEU:SM838703 Propoxycarbazone|methyl 2-[(4-methyl-5-oxo-3-propoxy-1,2,4-triazole-1-carbonyl)sulfamoyl]benzoate [M+H]+	CCCOC1=NN(C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C(=O)N1C	0			1+	NA	399.097
+CCMSLIB00000841716	MassbankEU:SM838751 Propoxycarbazone|methyl 2-[(4-methyl-5-oxo-3-propoxy-1,2,4-triazole-1-carbonyl)sulfamoyl]benzoate [M-H]-	CCCOC1=NN(C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C(=O)N1C	0			1+	NA	397.082
+CCMSLIB00000841717	MassbankEU:SM838801 Metribuzin|4-amino-6-tert-butyl-3-methylsulfanyl-1,2,4-triazin-5-one [M+H]+	CSC1=NN=C(C(=O)N1N)C(C)(C)C	0			1+	NA	215.096
+CCMSLIB00000841718	MassbankEU:SM838902 Prochloraz|N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide [M+H]+	CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1	0			1+	NA	376.038
+CCMSLIB00000841719	MassbankEU:SM839002 Dimethenamid|2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-(1-methoxypropan-2-yl)acetamide [M+H]+	COCC(C)N(C(=O)CCl)C1=C(C)SC=C1C	0			1+	NA	276.082
+CCMSLIB00000841720	MassbankEU:SM839102 Metalaxyl|methyl 2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate [M+H]+	COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C	0			1+	NA	280.154
+CCMSLIB00000841721	MassbankEU:SM839351 Dichlorprop|2-(2,4-dichlorophenoxy)propanoic acid [M-H]-	CC(Oc1ccc(Cl)cc1Cl)C(O)=O	0			1+	NA	232.978
+CCMSLIB00000841722	MassbankEU:SM839401 Imidacloprid|N-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide [M+H]+	[O-][N+](=O)NC1=NCCN1Cc1ccc(Cl)nc1	0			1+	NA	256.06
+CCMSLIB00000841723	MassbankEU:SM839454 Imidacloprid|N-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide [M-H]-	[O-][N+](=O)NC1=NCCN1Cc1ccc(Cl)nc1	0			1+	NA	254.045
+CCMSLIB00000841724	MassbankEU:SM839501 Dimethachlor|2-chloro-N-(2,6-dimethylphenyl)-N-(2-methoxyethyl)acetamide [M+H]+	COCCN(C(=O)CCl)C1=C(C)C=CC=C1C	0			1+	NA	256.11
+CCMSLIB00000841725	MassbankEU:SM839603 Flufenacet|N-(4-fluorophenyl)-N-propan-2-yl-2-[[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl]oxy]acetamide [M+H]+	CC(C)N(C(=O)COc1nnc(s1)C(F)(F)F)c1ccc(F)cc1	0			1+	NA	364.074
+CCMSLIB00000841726	MassbankEU:SM839705 Propachlor|2-chloro-N-phenyl-N-propan-2-ylacetamide [M+H]+	CC(C)N(C(=O)CCl)c1ccccc1	0			1+	NA	212.084
+CCMSLIB00000841727	MassbankEU:SM839802 Prosulfocarb|S-benzyl N,N-dipropylcarbamothioate [M+H]+	CCCN(CCC)C(=O)SCc1ccccc1	0			1+	NA	252.142
+CCMSLIB00000841728	MassbankEU:SM839902 Pethoxamid|2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl)acetamide [M+H]+	CCOCCN(C(=O)CCl)C(=C(C)C)c1ccccc1	0			1+	NA	296.141
+CCMSLIB00000841729	MassbankEU:SM840003 Ethofumesate|(2-ethoxy-3,3-dimethyl-2H-1-benzofuran-5-yl) methanesulfonate [M+H]+	CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C	0			1+	NA	287.095
+CCMSLIB00000841730	MassbankEU:SM840101 Metamitron|4-amino-3-methyl-6-phenyl-1,2,4-triazin-5-one [M+H]+	CC1=NN=C(C(=O)N1N)c1ccccc1	0			1+	NA	203.093
+CCMSLIB00000841731	MassbankEU:SM840201 Chloridazon|5-amino-4-chloro-2-phenylpyridazin-3-one [M+H]+	NC1=C(Cl)C(=O)N(N=C1)c1ccccc1	0			1+	NA	222.043
+CCMSLIB00000841732	MassbankEU:SM840252 Chloridazon|5-amino-4-chloro-2-phenylpyridazin-3-one [M-H]-	NC1=C(Cl)C(=O)N(N=C1)c1ccccc1	0			1+	NA	220.028
+CCMSLIB00000841733	MassbankEU:SM840301 Spiroxamine|N-[(8-tert-butyl-1,4-dioxaspiro[4.5]decan-3-yl)methyl]-N-ethylpropan-1-amine [M+H]+	CCCN(CC)CC1COC2(CCC(CC2)C(C)(C)C)O1	0			1+	NA	298.274
+CCMSLIB00000841734	MassbankEU:SM840401 Simetryn|2-N,4-N-diethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(NCC)nc(SC)n1	0			1+	NA	214.112
+CCMSLIB00000841735	MassbankEU:SM840502 Azoxystrobin|methyl (E)-2-[2-[6-(2-cyanophenoxy)pyrimidin-4-yl]oxyphenyl]-3-methoxyprop-2-enoate [M+H]+	CO\C=C(\C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1	0			1+	NA	404.124
+CCMSLIB00000841736	MassbankEU:SM840601 Fenpropimorph|(2R,6S)-4-[3-(4-tert-butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine [M+H]+	CC(CN1C[C@H](C)O[C@H](C)C1)Cc1ccc(cc1)C(C)(C)C	0			1+	NA	304.263
+CCMSLIB00000841737	MassbankEU:SM840702 Epoxiconazole|1-[[3-(2-chlorophenyl)-2-(4-fluorophenyl)oxiran-2-yl]methyl]-1,2,4-triazole [M+H]+	FC1=CC=C(C=C1)C1(CN2C=NC=N2)OC1C1=CC=CC=C1Cl	0			1+	NA	330.08
+CCMSLIB00000841738	MassbankEU:SM840801 Desethylatrazine|Deethylatrazine|6-chloro-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine [M+H]+	CC(C)Nc1nc(N)nc(Cl)n1	0			1+	NA	188.07
+CCMSLIB00000841739	MassbankEU:SM840901 Desethylterbutylazine|Terbuthylazin-desethyl|2-N-tert-butyl-6-chloro-1,3,5-triazine-2,4-diamine [M+H]+	CC(C)(C)Nc1nc(N)nc(Cl)n1	0			1+	NA	202.085
+CCMSLIB00000841740	MassbankEU:SM841002 Pirimiphos-methyl|4-dimethoxyphosphinothioyloxy-N,N-diethyl-6-methylpyrimidin-2-amine [M+H]+	CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1	0			1+	NA	306.104
+CCMSLIB00000841741	MassbankEU:SM841101 Desisopropylatrazine|6-chloro-2-N-ethyl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(N)nc(Cl)n1	0			1+	NA	174.054
+CCMSLIB00000841742	MassbankEU:SM841202 Linuron|3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea [M+H]+	CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	249.019
+CCMSLIB00000841743	MassbankEU:SM841303 Terbuthylazine|2-N-tert-butyl-6-chloro-4-N-ethyl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(Cl)nc(NC(C)(C)C)n1	0			1+	NA	230.117
+CCMSLIB00000841744	MassbankEU:SM841401 Atrazine|6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(Cl)nc(NC(C)C)n1	0			1+	NA	216.101
+CCMSLIB00000841745	MassbankEU:SM841502 Propiconazole|1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole [M+H]+	CCCC1COC(Cn2cncn2)(O1)c1ccc(Cl)cc1Cl	0			1+	NA	342.077
+CCMSLIB00000841746	MassbankEU:SM841601 Metazachlor|2-chloro-N-(2,6-dimethylphenyl)-N-(pyrazol-1-ylmethyl)acetamide [M+H]+	Cc1cccc(C)c1N(Cn1cccn1)C(=O)CCl	0			1+	NA	278.105
+CCMSLIB00000841747	MassbankEU:SM841701 Pirimicarb|[2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl] N,N-dimethylcarbamate [M+H]+	CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C	0			1+	NA	239.15
+CCMSLIB00000841748	MassbankEU:SM841801 Metolachlor|2-chloro-N-(2-ethyl-6-methylphenyl)-N-(1-methoxypropan-2-yl)acetamide [M+H]+	CCc1cccc(C)c1N(C(C)COC)C(=O)CCl	0			1+	NA	284.141
+CCMSLIB00000841749	MassbankEU:SM841901 Simazine|6-chloro-2-N,4-N-diethyl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(Cl)nc(NCC)n1	0			1+	NA	202.085
+CCMSLIB00000841750	MassbankEU:SM842051 Mecoprop|2-(4-chloro-2-methylphenoxy)propanoic acid [M-H]-	CC(Oc1ccc(Cl)cc1C)C(O)=O	0			1+	NA	213.032
+CCMSLIB00000841751	MassbankEU:SM842156 MCPA|2-(4-chloro-2-methylphenoxy)acetic acid [M-H]-	Cc1cc(Cl)ccc1OCC(O)=O	0			1+	NA	199.017
+CCMSLIB00000841752	MassbankEU:SM842251 Chlorothalonil-4-hydroxy|4-Hydroxychlorothalonil|2,4,5-trichloro-6-hydroxybenzene-1,3-dicarbonitrile [M-H]-	Oc1c(Cl)c(Cl)c(C#N)c(Cl)c1C#N	0			1+	NA	244.908
+CCMSLIB00000841753	MassbankEU:SM842302 Tebuconazole|1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol [M+H]+	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cncn1	0			1+	NA	308.152
+CCMSLIB00000841754	MassbankEU:SM842402 Thiacloprid|[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide [M+H]+	Clc1ccc(CN2CCSC2=NC#N)cn1	0			1+	NA	253.031
+CCMSLIB00000841755	MassbankEU:SM842501 Fenuron|1,1-dimethyl-3-phenylurea [M+H]+	CN(C)C(=O)Nc1ccccc1	0			1+	NA	165.102
+CCMSLIB00000841756	MassbankEU:SM842603 Chloroxuron|3-[4-(4-chlorophenoxy)phenyl]-1,1-dimethylurea|3-[4-(4-chlorophenoxy)phenyl]-1,1-dimethylurea [M+H]+	CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1	0			1+	NA	291.09
+CCMSLIB00000841757	MassbankEU:SM842702 Lenacil|3-cyclohexyl-1,5,6,7-tetrahydrocyclopenta[d]pyrimidine-2,4-dione|3-cyclohexyl-1,5,6,7-tetrahydrocyclopenta[d]pyrimidine-2,4-dione [M+H]+	O=C1NC2=C(CCC2)C(=O)N1C1CCCCC1	0			1+	NA	235.144
+CCMSLIB00000841758	MassbankEU:SM842801 Ametryn|4-N-ethyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine|4-N-ethyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine [M+H]+	CCNc1nc(NC(C)C)nc(SC)n1	0			1+	NA	228.128
+CCMSLIB00000841759	MassbankEU:SM842901 2,6-Dichlorobenzamide [M+H]+	NC(=O)c1c(Cl)cccc1Cl	0			1+	NA	189.982
+CCMSLIB00000841760	MassbankEU:SM843003 3,4-Dichlorophenylurea|1-(3,4-Dichlorophenyl)urea|(3,4-dichlorophenyl)urea [M+H]+	NC(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	204.993
+CCMSLIB00000841761	MassbankEU:SM843053 3,4-Dichlorophenylurea|1-(3,4-Dichlorophenyl)urea|(3,4-dichlorophenyl)urea [M-H]-	NC(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	202.978
+CCMSLIB00000841762	MassbankEU:SM843104 Quinoxyfen|5,7-dichloro-4-(4-fluorophenoxy)quinoline [M+H]+	Fc1ccc(Oc2ccnc3cc(Cl)cc(Cl)c23)cc1	0			1+	NA	308.004
+CCMSLIB00000841763	MassbankEU:SM843201 Clomazone|2-[(2-chlorophenyl)methyl]-4,4-dimethyl-1,2-oxazolidin-3-one [M+H]+	CC1(C)CON(Cc2ccccc2Cl)C1=O	0			1+	NA	240.079
+CCMSLIB00000841764	MassbankEU:SM843301 Methiocarb|(3,5-dimethyl-4-methylsulfanylphenyl) N-methylcarbamate [M+H]+	CNC(=O)Oc1cc(C)c(SC)c(C)c1	0			1+	NA	226.09
+CCMSLIB00000841765	MassbankEU:SM843503 Pendimethalin|3,4-dimethyl-2,6-dinitro-N-pentan-3-ylaniline [M+H]+	CCC(CC)Nc1c(cc(C)c(C)c1[N+]([O-])=O)[N+]([O-])=O	0			1+	NA	282.145
+CCMSLIB00000841766	MassbankEU:SM843603 Boscalid|2-chloro-N-[2-(4-chlorophenyl)phenyl]pyridine-3-carboxamide [M+H]+	Clc1ccc(cc1)-c1ccccc1NC(=O)c1cccnc1Cl	0			1+	NA	343.04
+CCMSLIB00000841767	MassbankEU:SM843701 Prothioconazole-desthio|2-(1-chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1,2,4-triazol-1-yl)propan-2-ol [M+H]+	OC(Cc1ccccc1Cl)(Cn1cncn1)C1(Cl)CC1	0			1+	NA	312.066
+CCMSLIB00000841768	MassbankEU:SM843802 Flurtamone|5-(methylamino)-2-phenyl-4-[3-(trifluoromethyl)phenyl]furan-3-one [M+H]+	CNC1=C(C(=O)C(O1)c1ccccc1)c1cccc(c1)C(F)(F)F	0			1+	NA	334.105
+CCMSLIB00000841769	MassbankEU:SM843853 Flurtamone|5-(methylamino)-2-phenyl-4-[3-(trifluoromethyl)phenyl]furan-3-one [M-H]-	CNC1=C(C(=O)C(O1)c1ccccc1)c1cccc(c1)C(F)(F)F	0			1+	NA	332.09
+CCMSLIB00000841770	MassbankEU:SM843903 Picolinafen|N-(4-fluorophenyl)-6-[3-(trifluoromethyl)phenoxy]pyridine-2-carboxamide [M+H]+	FC1=CC=C(NC(=O)C2=NC(OC3=CC=CC(=C3)C(F)(F)F)=CC=C2)C=C1	0			1+	NA	377.091
+CCMSLIB00000841771	MassbankEU:SM844052 Bromoxynil|3,5-dibromo-4-hydroxybenzonitrile [M-H]-	Oc1c(Br)cc(cc1Br)C#N	0			1+	NA	273.851
+CCMSLIB00000841772	MassbankEU:SM844101 2-Hydroxyatrazine|Hydroxyatrazine|2-(ethylamino)-6-(propan-2-ylamino)-1H-1,3,5-triazin-4-one [M+H]+	CCNC1=NC(=O)N=C(NC(C)C)N1	0			1+	NA	198.135
+CCMSLIB00000841773	MassbankEU:SM844151 2-Hydroxyatrazine|Hydroxyatrazine|2-(ethylamino)-6-(propan-2-ylamino)-1H-1,3,5-triazin-4-one [M-H]-	CCNC1=NC(=O)N=C(NC(C)C)N1	0			1+	NA	196.12
+CCMSLIB00000841774	MassbankEU:SM844202 Triadimenol|1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol [M+H]+	CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n1cncn1	0			1+	NA	296.116
+CCMSLIB00000841775	MassbankEU:SM844602 Metconazole|5-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol [M+H]+	CC1(C)CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1	0			1+	NA	320.152
+CCMSLIB00000841776	MassbankEU:SM844702 Benalaxyl|methyl 2-(2,6-dimethyl-N-(2-phenylacetyl)anilino)propanoate [M+H]+	COC(=O)C(C)N(C(=O)Cc1ccccc1)c1c(C)cccc1C	0			1+	NA	326.175
+CCMSLIB00000841777	MassbankEU:SM844801 Acetamiprid|N-[(6-chloropyridin-3-yl)methyl]-N`-cyano-N-methylethanimidamide [M+H]+	CN(Cc1ccc(Cl)nc1)C(C)=NC#N	0			1+	NA	223.074
+CCMSLIB00000841778	MassbankEU:SM844901 Terbuthylazine-2-hydroxy|Hydroxyterbuthylazine|2-(tert-butylamino)-6-(ethylamino)-1H-1,3,5-triazin-4-one [M+H]+	CCNC1=NC(=O)N=C(NC(C)(C)C)N1	0			1+	NA	212.151
+CCMSLIB00000841779	MassbankEU:SM845003 Chlorpropham|propan-2-yl N-(3-chlorophenyl)carbamate [M+H]+	CC(C)OC(=O)Nc1cccc(Cl)c1	0			1+	NA	214.063
+CCMSLIB00000841780	MassbankEU:SM845102 Clopyralid|3,6-Dichloropicolinic acid|3,6-dichloropyridine-2-carboxylic acid [M+H]+	OC(=O)c1nc(Cl)ccc1Cl	0			1+	NA	191.961
+CCMSLIB00000841781	MassbankEU:SM845151 Clopyralid|3,6-Dichloropicolinic acid|3,6-dichloropyridine-2-carboxylic acid [M-H]-	OC(=O)c1nc(Cl)ccc1Cl	0			1+	NA	189.947
+CCMSLIB00000841782	MassbankEU:SM845203 Picoxystrobin|methyl 3-methoxy-2-[2-[[6-(trifluoromethyl)pyridin-2-yl]oxymethyl]phenyl]prop-2-enoate [M+H]+	COC=C(C(=O)OC)C1=CC=CC=C1COC1=CC=CC(=N1)C(F)(F)F	0			1+	NA	368.11
+CCMSLIB00000841783	MassbankEU:SM845351 Bifenox free acid|Bifenox acid|5-(2,4-dichlorophenoxy)-2-nitrobenzoic acid [M-H]-	OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(Cl)C=C2)=C1)[N+]([O-])=O	0			1+	NA	325.963
+CCMSLIB00000841784	MassbankEU:SM845402 Bupirimate|[5-butyl-2-(ethylamino)-6-methylpyrimidin-4-yl] N,N-dimethylsulfamate [M+H]+	CCCCC1=C(C)N=C(NCC)N=C1OS(=O)(=O)N(C)C	0			1+	NA	317.164
+CCMSLIB00000841785	MassbankEU:SM845501 Clothianidin|1-[(2-chloro-1,3-thiazol-5-yl)methyl]-2-methyl-3-nitroguanidine [M+H]+	CN=C(NCC1=CN=C(Cl)S1)N[N+]([O-])=O	0			1+	NA	250.016
+CCMSLIB00000841786	MassbankEU:SM845551 Clothianidin|1-[(2-chloro-1,3-thiazol-5-yl)methyl]-2-methyl-3-nitroguanidine [M-H]-	CN=C(NCC1=CN=C(Cl)S1)N[N+]([O-])=O	0			1+	NA	248.001
+CCMSLIB00000841787	MassbankEU:SM845603 Cyromazine|2-N-cyclopropyl-1,3,5-triazine-2,4,6-triamine [M+H]+	NC1=NC(NC2CC2)=NC(N)=N1	0			1+	NA	167.104
+CCMSLIB00000841788	MassbankEU:SM845701 Difenoconazole|1-[[2-[2-chloro-4-(4-chlorophenoxy)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole [M+H]+	CC1COC(CN2C=NC=N2)(O1)C1=C(Cl)C=C(OC2=CC=C(Cl)C=C2)C=C1	0			1+	NA	406.072
+CCMSLIB00000841789	MassbankEU:SM845803 Diflubenzuron|N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide [M+H]+	FC1=CC=CC(F)=C1C(=O)NC(=O)NC1=CC=C(Cl)C=C1	0			1+	NA	311.039
+CCMSLIB00000841790	MassbankEU:SM845852 Diflubenzuron|N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide [M-H]-	FC1=CC=CC(F)=C1C(=O)NC(=O)NC1=CC=C(Cl)C=C1	0			1+	NA	309.025
+CCMSLIB00000841791	MassbankEU:SM845901 Dodemorph|4-cyclododecyl-2,6-dimethylmorpholine [M+H]+	CC1CN(CC(C)O1)C1CCCCCCCCCCC1	0			1+	NA	282.279
+CCMSLIB00000841792	MassbankEU:SM846001 Fenoxycarb|ethyl N-[2-(4-phenoxyphenoxy)ethyl]carbamate [M+H]+	CCOC(=O)NCCOC1=CC=C(OC2=CC=CC=C2)C=C1	0			1+	NA	302.139
+CCMSLIB00000841793	MassbankEU:SM846103 Fenpropidin|1-[3-(4-tert-butylphenyl)-2-methylpropyl]piperidine [M+H]+	CC(CN1CCCCC1)CC1=CC=C(C=C1)C(C)(C)C	0			1+	NA	274.253
+CCMSLIB00000841794	MassbankEU:SM846202 Fluoxastrobin|(E)-1-[2-[6-(2-chlorophenoxy)-5-fluoropyrimidin-4-yl]oxyphenyl]-1-(5,6-dihydro-1,4,2-dioxazin-3-yl)-N-methoxymethanimine [M+H]+	CO\N=C(\C1=NOCCO1)C1=C(OC2=C(F)C(OC3=C(Cl)C=CC=C3)=NC=N2)C=CC=C1	0			1+	NA	459.087
+CCMSLIB00000841795	MassbankEU:SM846301 Imidacloprid urea|1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-one [M+H]+	c1cc(ncc1CN2CCN=C2O)Cl	0			1+	NA	212.059
+CCMSLIB00000841796	MassbankEU:SM846503 Oryzalin|4-(dipropylamino)-3,5-dinitrobenzenesulfonamide [M+H]+	CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)S(N)(=O)=O)[N+]([O-])=O	0			1+	NA	347.102
+CCMSLIB00000841797	MassbankEU:SM846552 Oryzalin|4-(dipropylamino)-3,5-dinitrobenzenesulfonamide [M-H]-	CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)S(N)(=O)=O)[N+]([O-])=O	0			1+	NA	345.087
+CCMSLIB00000841798	MassbankEU:SM846603 Oxadiazone|5-tert-butyl-3-(2,4-dichloro-5-propan-2-yloxyphenyl)-1,3,4-oxadiazol-2-one [M+H]+	CC(C)OC1=CC(N2N=C(OC2=O)C(C)(C)C)=C(Cl)C=C1Cl	0			1+	NA	345.077
+CCMSLIB00000841799	MassbankEU:SM846703 Propyzamide|3,5-dichloro-N-(2-methylbut-3-yn-2-yl)benzamide [M+H]+	CC(C)(NC(=O)C1=CC(Cl)=CC(Cl)=C1)C#C	0			1+	NA	256.029
+CCMSLIB00000841800	MassbankEU:SM846802 Pyraclostrobin|methyl N-[2-[[1-(4-chlorophenyl)pyrazol-3-yl]oxymethyl]phenyl]-N-methoxycarbamate [M+H]+	CON(C(=O)OC)C1=C(COC2=NN(C=C2)C2=CC=C(Cl)C=C2)C=CC=C1	0			1+	NA	388.106
+CCMSLIB00000841801	MassbankEU:SM846901 quinmerac|7-chloro-3-methylquinoline-8-carboxylic acid [M+H]+	CC1=CC2=C(N=C1)C(C(O)=O)=C(Cl)C=C2	0			1+	NA	222.032
+CCMSLIB00000841802	MassbankEU:SM847002 Thiacloprid amide|[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]urea [M+H]+	NC(=O)N=C1SCCN1CC1=CN=C(Cl)C=C1	0			1+	NA	271.042
+CCMSLIB00000841803	MassbankEU:SM847101 Thiamethoxam|(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide [M+H]+	CN1COCN(CC2=CN=C(Cl)S2)\C1=N\[N+]([O-])=O	0			1+	NA	292.027
+CCMSLIB00000841804	MassbankEU:SM847202 Dichlorvos|2,2-dichloroethenyl dimethyl phosphate [M+H]+	COP(=O)(OC)OC=C(Cl)Cl	0			1+	NA	220.953
+CCMSLIB00000841805	MassbankEU:SM847302 Azinphos methyl|Azinphos-methyl|3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one [M+H]+	COP(=S)(OC)SCN1N=Nc2ccccc2C1=O	0			1+	NA	318.013
+CCMSLIB00000841806	MassbankEU:SM847401 Hexazinone|3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-dione [M+H]+	CN(C)C1=NC(=O)N(C2CCCCC2)C(=O)N1C	0			1+	NA	253.166
+CCMSLIB00000841807	MassbankEU:SM847502 Pyrazophos|ethyl 2-diethoxyphosphinothioyloxy-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylate [M+H]+	CCOC(=O)c1cn2nc(OP(=S)(OCC)OCC)cc2nc1C	0			1+	NA	374.093
+CCMSLIB00000841808	MassbankEU:SM847601 Bendiocarb|(2,2-dimethyl-1,3-benzodioxol-4-yl) N-methylcarbamate [M+H]+	CNC(=O)Oc1cccc2OC(C)(C)Oc12	0			1+	NA	224.092
+CCMSLIB00000841809	MassbankEU:SM847702 Ethion|diethoxyphosphinothioylsulfanylmethylsulfanyl-diethoxy-sulfanylidene-$l^{5}-phosphane [M+H]+	CCOP(=S)(OCC)SCSP(=S)(OCC)OCC	0			1+	NA	384.995
+CCMSLIB00000841810	MassbankEU:SM847802 Ethyl azinphos|3-(diethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one [M+H]+	CCOP(=S)(OCC)SCN1N=Nc2ccccc2C1=O	0			1+	NA	346.044
+CCMSLIB00000841811	MassbankEU:SM847901 Chlorfenvinphos|[(Z)-2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate [M+H]+	CCOP(=O)(OCC)O\C(=C/Cl)c1ccc(Cl)cc1Cl	0			1+	NA	358.977
+CCMSLIB00000841812	MassbankEU:SM848001 Fenthion|dimethoxy-(3-methyl-4-methylsulfanylphenoxy)-sulfanylidene-$l^{5}-phosphane [M+H]+	COP(=S)(OC)Oc1ccc(SC)c(C)c1	0			1+	NA	279.027
+CCMSLIB00000841813	MassbankEU:SM848103 Parathion-methyl|dimethoxy-(4-nitrophenoxy)-sulfanylidene-$l^{5}-phosphane [M+H]+	COP(=S)(OC)Oc1ccc(cc1)[N+]([O-])=O	0			1+	NA	264.009
+CCMSLIB00000841814	MassbankEU:SM848201 Acetochlor|2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide [M+H]+	CCOCN(C(=O)CCl)c1c(C)cccc1CC	0			1+	NA	270.125
+CCMSLIB00000841815	MassbankEU:SM848402 Propanil|N-(3,4-dichlorophenyl)propanamide [M+H]+	CCC(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	218.013
+CCMSLIB00000841816	MassbankEU:SM848453 Propanil|N-(3,4-dichlorophenyl)propanamide [M-H]-	CCC(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	215.999
+CCMSLIB00000841817	MassbankEU:SM848503 Procymidone|3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione [M+H]+	CC12CC1(C)C(=O)N(C2=O)c1cc(Cl)cc(Cl)c1	0			1+	NA	284.024
+CCMSLIB00000841818	MassbankEU:SM848553 Procymidone|3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione [M-H]-	CC12CC1(C)C(=O)N(C2=O)c1cc(Cl)cc(Cl)c1	0			1+	NA	282.009
+CCMSLIB00000841819	MassbankEU:SM848601 Carbaryl|naphthalen-1-yl N-methylcarbamate [M+H]+	CNC(=O)Oc1cccc2ccccc12	0			1+	NA	202.086
+CCMSLIB00000841820	MassbankEU:SM848701 Flufenoxuron|N-[[4-[2-chloro-4-(trifluoromethyl)phenoxy]-2-fluorophenyl]carbamoyl]-2,6-difluorobenzamide [M+H]+	FC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F	0			1+	NA	489.043
+CCMSLIB00000841821	MassbankEU:SM848751 Flufenoxuron|N-[[4-[2-chloro-4-(trifluoromethyl)phenoxy]-2-fluorophenyl]carbamoyl]-2,6-difluorobenzamide [M-H]-	FC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F	0			1+	NA	487.029
+CCMSLIB00000841822	MassbankEU:SM848803 Triallate|S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate [M+H]+	CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl	0			1+	NA	304.009
+CCMSLIB00000841823	MassbankEU:SM848903 Ioperamide|4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-N,N-dimethyl-2,2-diphenylbutanamide [M+H]+	CN(C)C(=O)C(CCN1CCC(O)(CC1)c1ccc(Cl)cc1)(c1ccccc1)c1ccccc1	0			1+	NA	477.23
+CCMSLIB00000841824	MassbankEU:SM849001 Promethazin|N,N-dimethyl-1-phenothiazin-10-ylpropan-2-amine [M+H]+	CC(CN1C2=C(SC3=C1C=CC=C3)C=CC=C2)N(C)C	0			1+	NA	285.142
+CCMSLIB00000841825	MassbankEU:SM849101 Bifonazol|Bifonazole|1-[phenyl-(4-phenylphenyl)methyl]imidazole [M+H]+	C1=CN(C=N1)C(C1=CC=CC=C1)C1=CC=C(C=C1)C1=CC=CC=C1	0			1+	NA	311.154
+CCMSLIB00000841826	MassbankEU:SM849201 Ambroxol|4-[(2-amino-3,5-dibromophenyl)methylamino]cyclohexan-1-ol [M+H]+	NC1=C(Br)C=C(Br)C=C1CNC1CCC(O)CC1	0			1+	NA	376.986
+CCMSLIB00000841827	MassbankEU:SM849302 Ebastin|4-(4-benzhydryloxypiperidin-1-yl)-1-(4-tert-butylphenyl)butan-1-one [M+H]+	CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN1CCC(CC1)OC(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	470.305
+CCMSLIB00000841828	MassbankEU:SM849401 Melperon|1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one [M+H]+	CC1CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1	0			1+	NA	264.176
+CCMSLIB00000841829	MassbankEU:SM849703 Oxybutynin|4-(diethylamino)but-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenylacetate [M+H]+	CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1	0			1+	NA	358.238
+CCMSLIB00000841830	MassbankEU:SM849802 Nitrendipin|Nitrendipine|5-O-ethyl 3-O-methyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate [M+H]+	CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)OC	0			1+	NA	361.139
+CCMSLIB00000841831	MassbankEU:SM849851 Nitrendipin|Nitrendipine|5-O-ethyl 3-O-methyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate [M-H]-	CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)OC	0			1+	NA	359.125
+CCMSLIB00000841832	MassbankEU:SM849951 Monensin [M-H]-	CC[C@]1(CC[C@@H](O1)[C@@]1(C)CC[C@]2(C[C@H](O)[C@@H](C)[C@H](O2)[C@H](C)[C@H](OC)[C@@H](C)C(O)=O)O1)[C@H]1O[C@@H](C[C@H]1C)[C@H]1O[C@@](O)(CO)[C@H](C)C[C@@H]1C	0			1+	NA	669.422
+CCMSLIB00000841833	MassbankEU:SM850104 Furosemide|4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid [M+H]+	NS(=O)(=O)c1cc(C(O)=O)c(NCc2ccco2)cc1Cl	0			1+	NA	331.015
+CCMSLIB00000841834	MassbankEU:SM850151 Furosemide|4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid [M-H]-	NS(=O)(=O)c1cc(C(O)=O)c(NCc2ccco2)cc1Cl	0			1+	NA	329.0
+CCMSLIB00000841835	MassbankEU:SM850201 Primidone|5-ethyl-5-phenyl-1,3-diazinane-4,6-dione [M+H]+	CCC1(C(=O)NCNC1=O)c1ccccc1	0			1+	NA	219.113
+CCMSLIB00000841836	MassbankEU:SM850301 Sulfamethazine|4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide [M+H]+	Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1	0			1+	NA	279.091
+CCMSLIB00000841837	MassbankEU:SM850501 7-Hydroxymethotrexat|7-Hydroxy Methotrexate|2-[[4-[(2,4-diamino-7-oxo-8H-pteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid [M+H]+	CN(CC1=Nc2c(N)nc(N)nc2NC1=O)c1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O	0			1+	NA	471.173
+CCMSLIB00000841838	MassbankEU:SM850551 7-Hydroxymethotrexat|7-Hydroxy Methotrexate|2-[[4-[(2,4-diamino-7-oxo-8H-pteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid [M-H]-	CN(CC1=Nc2c(N)nc(N)nc2NC1=O)c1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O	0			1+	NA	469.159
+CCMSLIB00000841839	MassbankEU:SM850803 Azelastine|4-[(4-chlorophenyl)methyl]-2-(1-methylazepan-4-yl)phthalazin-1-one [M+H]+	CN1CCCC(CC1)N1N=C(Cc2ccc(Cl)cc2)c2ccccc2C1=O	0			1+	NA	382.168
+CCMSLIB00000841840	MassbankEU:SM850903 Duloxetine|(3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine [M+H]+	CNCC[C@H](Oc1cccc2ccccc12)c1cccs1	0			1+	NA	298.126
+CCMSLIB00000841841	MassbankEU:SM851101 Glibenclamide|Glyburide|5-chloro-N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-2-methoxybenzamide [M+H]+	COC1=C(C=C(Cl)C=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1	0			1+	NA	494.151
+CCMSLIB00000841842	MassbankEU:SM851151 Glibenclamide|Glyburide|5-chloro-N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-2-methoxybenzamide [M-H]-	COC1=C(C=C(Cl)C=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1	0			1+	NA	492.137
+CCMSLIB00000841843	MassbankEU:SM851202 Glimepiride|4-ethyl-3-methyl-N-[2-[4-[(4-methylcyclohexyl)carbamoylsulfamoyl]phenyl]ethyl]-5-oxo-2H-pyrrole-1-carboxamide [M+H]+	CCC1=C(C)CN(C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC2CCC(C)CC2)C1=O	0			1+	NA	491.232
+CCMSLIB00000841844	MassbankEU:SM851253 Glimepiride|4-ethyl-3-methyl-N-[2-[4-[(4-methylcyclohexyl)carbamoylsulfamoyl]phenyl]ethyl]-5-oxo-2H-pyrrole-1-carboxamide [M-H]-	CCC1=C(C)CN(C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC2CCC(C)CC2)C1=O	0			1+	NA	489.218
+CCMSLIB00000841845	MassbankEU:SM851301 Risperidone|3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one [M+H]+	CC1=C(CCN2CCC(CC2)c2noc3cc(F)ccc23)C(=O)N2CCCCC2=N1	0			1+	NA	411.219
+CCMSLIB00000841846	MassbankEU:SM851503 Bosentan|4-tert-butyl-N-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-2-pyrimidin-2-ylpyrimidin-4-yl]benzenesulfonamide [M+H]+	COC1=CC=CC=C1OC1=C(OCCO)N=C(N=C1NS(=O)(=O)C1=CC=C(C=C1)C(C)(C)C)C1=NC=CC=N1	0			1+	NA	552.191
+CCMSLIB00000841847	MassbankEU:SM851552 Bosentan|4-tert-butyl-N-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-2-pyrimidin-2-ylpyrimidin-4-yl]benzenesulfonamide [M-H]-	COC1=CC=CC=C1OC1=C(OCCO)N=C(N=C1NS(=O)(=O)C1=CC=C(C=C1)C(C)(C)C)C1=NC=CC=N1	0			1+	NA	550.177
+CCMSLIB00000841848	MassbankEU:SM851602 Celecoxib|4-[5-(4-methylphenyl)-3-(trifluoromethyl)pyrazol-1-yl]benzenesulfonamide [M+H]+	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	0			1+	NA	382.083
+CCMSLIB00000841849	MassbankEU:SM851653 Celecoxib|4-[5-(4-methylphenyl)-3-(trifluoromethyl)pyrazol-1-yl]benzenesulfonamide [M-H]-	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	0			1+	NA	380.069
+CCMSLIB00000841850	MassbankEU:SM851701 Domperidone|6-chloro-3-[1-[3-(2-oxo-3H-benzimidazol-1-yl)propyl]piperidin-4-yl]-1H-benzimidazol-2-one [M+H]+	ClC1=CC2=C(C=C1)N(C1CCN(CCCN3C(=O)NC4=C3C=CC=C4)CC1)C(=O)N2	0			1+	NA	426.169
+CCMSLIB00000841851	MassbankEU:SM851751 Domperidone|6-chloro-3-[1-[3-(2-oxo-3H-benzimidazol-1-yl)propyl]piperidin-4-yl]-1H-benzimidazol-2-one [M-H]-	ClC1=CC2=C(C=C1)N(C1CCN(CCCN3C(=O)NC4=C3C=CC=C4)CC1)C(=O)N2	0			1+	NA	424.155
+CCMSLIB00000841852	MassbankEU:SM851803 Efavirenz|(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-1H-3,1-benzoxazin-2-one [M+H]+	FC(F)(F)[C@]1(OC(=O)NC2=C1C=C(Cl)C=C2)C#CC1CC1	0			1+	NA	316.035
+CCMSLIB00000841853	MassbankEU:SM851853 Efavirenz|(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-1H-3,1-benzoxazin-2-one [M-H]-	FC(F)(F)[C@]1(OC(=O)NC2=C1C=C(Cl)C=C2)C#CC1CC1	0			1+	NA	314.02
+CCMSLIB00000841854	MassbankEU:SM851903 Fluvoxamine|2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine [M+H]+	COCCCC\C(=N/OCCN)C1=CC=C(C=C1)C(F)(F)F	0			1+	NA	319.163
+CCMSLIB00000841855	MassbankEU:SM852103 Imatinib|4-[(4-methylpiperazin-1-yl)methyl]-N-[4-methyl-3-[(4-pyridin-3-ylpyrimidin-2-yl)amino]phenyl]benzamide [M+H]+	CN1CCN(CC2=CC=C(C=C2)C(=O)NC2=CC(NC3=NC(=CC=N3)C3=CN=CC=C3)=C(C)C=C2)CC1	0			1+	NA	494.266
+CCMSLIB00000841856	MassbankEU:SM852253 L-Thyroxine|DL-Thyroxine|2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoic acid [M-H]-	NC(CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O	0			1+	NA	775.679
+CCMSLIB00000841857	MassbankEU:SM852303 Mebeverine|4-[ethyl-[1-(4-methoxyphenyl)propan-2-yl]amino]butyl 3,4-dimethoxybenzoate [M+H]+	CCN(CCCCOC(=O)C1=CC(OC)=C(OC)C=C1)C(C)CC1=CC=C(OC)C=C1	0			1+	NA	430.259
+CCMSLIB00000841858	MassbankEU:SM852501 Ondansetron [M+H]+	CN1C2=C(C3=C1C=CC=C3)C(=O)C(CN1C=CN=C1C)CC2	0			1+	NA	294.16
+CCMSLIB00000841859	MassbankEU:SM852602 Pioglitazone|5-[[4-[2-(5-ethylpyridin-2-yl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione [M+H]+	CCC1=CC=C(CCOC2=CC=C(CC3SC(=O)NC3=O)C=C2)N=C1	0			1+	NA	357.127
+CCMSLIB00000841860	MassbankEU:SM852651 Pioglitazone|5-[[4-[2-(5-ethylpyridin-2-yl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione [M-H]-	CCC1=CC=C(CCOC2=CC=C(CC3SC(=O)NC3=O)C=C2)N=C1	0			1+	NA	355.112
+CCMSLIB00000841861	MassbankEU:SM852853 Vardenafil [M-H]-	CCCC1=NC(C)=C2N1NC(=NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(CC)CC1	0			1+	NA	487.213
+CCMSLIB00000841862	MassbankEU:SM852903 Ziprasidone|5-[2-[4-(1,2-benzothiazol-3-yl)piperazin-1-yl]ethyl]-6-chloro-1,3-dihydroindol-2-one [M+H]+	ClC1=CC2=C(CC(=O)N2)C=C1CCN1CCN(CC1)C1=NSC2=C1C=CC=C2	0			1+	NA	413.12
+CCMSLIB00000841863	MassbankEU:SM853101 Clopidogrel|methyl 2-(2-chlorophenyl)-2-(6,7-dihydro-4H-thieno[3,2-c]pyridin-5-yl)acetate [M+H]+	COC(=O)C(N1CCc2sccc2C1)c1ccccc1Cl	0			1+	NA	322.066
+CCMSLIB00000841864	MassbankEU:SM853202 Anastrozole|2-[3-(2-cyanopropan-2-yl)-5-(1,2,4-triazol-1-ylmethyl)phenyl]-2-methylpropanenitrile [M+H]+	CC(C)(C#N)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N	0			1+	NA	294.171
+CCMSLIB00000841865	MassbankEU:SM853301 Flumequine [M+H]+	CC1CCc2cc(F)cc3C(=O)C(=CN1c23)C(O)=O	0			1+	NA	262.087
+CCMSLIB00000841866	MassbankEU:SM853401 Mebendazole|methyl N-(6-benzoyl-1H-benzimidazol-2-yl)carbamate [M+H]+	COC(=O)Nc1nc2ccc(cc2[nH]1)C(=O)c1ccccc1	0			1+	NA	296.103
+CCMSLIB00000841867	MassbankEU:SM853455 Mebendazole|methyl N-(6-benzoyl-1H-benzimidazol-2-yl)carbamate [M-H]-	COC(=O)Nc1nc2ccc(cc2[nH]1)C(=O)c1ccccc1	0			1+	NA	294.088
+CCMSLIB00000841868	MassbankEU:SM853502 Albendazole|methyl N-(6-propylsulfanyl-1H-benzimidazol-2-yl)carbamate [M+H]+	CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1	0			1+	NA	266.096
+CCMSLIB00000841869	MassbankEU:SM853555 Albendazole|methyl N-(6-propylsulfanyl-1H-benzimidazol-2-yl)carbamate [M-H]-	CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1	0			1+	NA	264.081
+CCMSLIB00000841870	MassbankEU:SM853603 Raloxifene|[6-hydroxy-2-(4-hydroxyphenyl)-1-benzothiophen-3-yl]-[4-(2-piperidin-1-ylethoxy)phenyl]methanone [M+H]+	Oc1ccc(cc1)-c1sc2cc(O)ccc2c1C(=O)c1ccc(OCCN2CCCCC2)cc1	0			1+	NA	474.173
+CCMSLIB00000841871	MassbankEU:SM853653 Raloxifene|[6-hydroxy-2-(4-hydroxyphenyl)-1-benzothiophen-3-yl]-[4-(2-piperidin-1-ylethoxy)phenyl]methanone [M-H]-	Oc1ccc(cc1)-c1sc2cc(O)ccc2c1C(=O)c1ccc(OCCN2CCCCC2)cc1	0			1+	NA	472.159
+CCMSLIB00000841872	MassbankEU:SM854101 Orlistat|[(2S)-1-[(2S,3S)-3-hexyl-4-oxooxetan-2-yl]tridecan-2-yl] (2S)-2-formamido-4-methylpentanoate [M+H]+	CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O	0			1+	NA	496.4
+CCMSLIB00000841873	MassbankEU:SM854202 Sulfadimethoxine|4-amino-N-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide [M+H]+	COC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC(OC)=N1	0			1+	NA	311.081
+CCMSLIB00000841874	MassbankEU:SM854253 Sulfadimethoxine|4-amino-N-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide [M-H]-	COC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC(OC)=N1	0			1+	NA	309.066
+CCMSLIB00000841875	MassbankEU:SM854306 4-Fluorobenzoylpropionic acid|3-(4-Fluorobenzoyl)propionic acid|4-(4-fluorophenyl)-4-oxobutanoic acid [M+H]+	OC(=O)CCC(=O)C1=CC=C(F)C=C1	0			1+	NA	197.061
+CCMSLIB00000841876	MassbankEU:SM854355 4-Fluorobenzoylpropionic acid|3-(4-Fluorobenzoyl)propionic acid|4-(4-fluorophenyl)-4-oxobutanoic acid [M-H]-	OC(=O)CCC(=O)C1=CC=C(F)C=C1	0			1+	NA	195.046
+CCMSLIB00000841877	MassbankEU:SM854403 Naproxen|2-(6-methoxynaphthalen-2-yl)propanoic acid [M+H]+	COc1ccc2cc(ccc2c1)C(C)C(O)=O	0			1+	NA	231.102
+CCMSLIB00000841878	MassbankEU:SM854601 Phenazone [M+H]+	CN1N(C(=O)C=C1C)c1ccccc1	0			1+	NA	189.102
+CCMSLIB00000841879	MassbankEU:SM854751 Clofibric acid|2-(4-chlorophenoxy)-2-methylpropanoic acid [M-H]-	CC(C)(Oc1ccc(Cl)cc1)C(O)=O	0			1+	NA	213.032
+CCMSLIB00000841880	MassbankEU:SM854802 Bezafibrate|2-[4-[2-[(4-chlorobenzoyl)amino]ethyl]phenoxy]-2-methylpropanoic acid [M+H]+	CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(O)=O	0			1+	NA	362.115
+CCMSLIB00000841881	MassbankEU:SM854852 Bezafibrate|2-[4-[2-[(4-chlorobenzoyl)amino]ethyl]phenoxy]-2-methylpropanoic acid [M-H]-	CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(O)=O	0			1+	NA	360.101
+CCMSLIB00000841882	MassbankEU:SM854903 Clotrimazole|1-[(2-chlorophenyl)-diphenylmethyl]imidazole [M+H]+	Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1	0			1+	NA	345.115
+CCMSLIB00000841883	MassbankEU:SM855001 Propyphenazone|1,5-dimethyl-2-phenyl-4-propan-2-ylpyrazol-3-one [M+H]+	CC(C)C1=C(C)N(C)N(C1=O)c1ccccc1	0			1+	NA	231.149
+CCMSLIB00000841884	MassbankEU:SM855502 Paroxetine|(3S,4R)-3-(1,3-benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine [M+H]+	Fc1ccc(cc1)[C@@H]1CCNC[C@H]1COc1ccc2OCOc2c1	0			1+	NA	330.15
+CCMSLIB00000841885	MassbankEU:SM855601 Propranolol|1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol [M+H]+	CC(C)NCC(O)COc1cccc2ccccc12	0			1+	NA	260.164
+CCMSLIB00000841886	MassbankEU:SM855703 Verapamil|2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile [M+H]+	COc1ccc(CCN(C)CCCC(C#N)(C(C)C)c2ccc(OC)c(OC)c2)cc1OC	0			1+	NA	455.29
+CCMSLIB00000841887	MassbankEU:SM855853 Pravastatin|(3R,5R)-7-[(1S,2S,6S,8S,8aR)-6-hydroxy-2-methyl-8-[(2S)-2-methylbutanoyl]oxy-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid [M-H]-	CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12	0			1+	NA	423.239
+CCMSLIB00000841888	MassbankEU:SM856001 Diazepam|7-chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one [M+H]+	CN1c2ccc(Cl)cc2C(=NCC1=O)c1ccccc1	0			1+	NA	285.079
+CCMSLIB00000841889	MassbankEU:SM856202 Ketoprofen|2-(3-benzoylphenyl)propanoic acid [M+H]+	CC(C(O)=O)c1cccc(c1)C(=O)c1ccccc1	0			1+	NA	255.102
+CCMSLIB00000841890	MassbankEU:SM856255 Ketoprofen|2-(3-benzoylphenyl)propanoic acid [M-H]-	CC(C(O)=O)c1cccc(c1)C(=O)c1ccccc1	0			1+	NA	253.087
+CCMSLIB00000841891	MassbankEU:SM856302 Sulfamethoxazole|4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide [M+H]+	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	0			1+	NA	254.059
+CCMSLIB00000841892	MassbankEU:SM856602 2-(2-(Chlorophenyl)amino)benzaldehyde|2-(2-chloroanilino)benzaldehyde [M+H]+	ClC1=CC=CC=C1NC1=CC=CC=C1C=O	0			1+	NA	232.052
+CCMSLIB00000841893	MassbankEU:SM856754 Flutamide|2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide [M-H]-	CC(C)C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+]([O-])=O	0			1+	NA	275.065
+CCMSLIB00000841894	MassbankEU:SM856902 Diclofenac|2-[2-(2,6-dichloroanilino)phenyl]acetic acid [M+H]+	OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl	0			1+	NA	296.024
+CCMSLIB00000841895	MassbankEU:SM856951 Diclofenac|2-[2-(2,6-dichloroanilino)phenyl]acetic acid [M-H]-	OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl	0			1+	NA	294.009
+CCMSLIB00000841896	MassbankEU:SM857001 Mefenamic acid|2-(2,3-dimethylanilino)benzoic acid [M+H]+	Cc1cccc(Nc2ccccc2C(O)=O)c1C	0			1+	NA	242.118
+CCMSLIB00000841897	MassbankEU:SM857053 Mefenamic acid|2-(2,3-dimethylanilino)benzoic acid [M-H]-	Cc1cccc(Nc2ccccc2C(O)=O)c1C	0			1+	NA	240.103
+CCMSLIB00000841898	MassbankEU:SM857403 Ketoconazole|1-[4-[4-[[(2S,4R)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone [M+H]+	CC(=O)N1CCN(CC1)c1ccc(OC[C@@H]2CO[C@](Cn3ccnc3)(O2)c2ccc(Cl)cc2Cl)cc1	0			1+	NA	531.156
+CCMSLIB00000841899	MassbankEU:SM857701 Mycophenolic acid|(E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1H-2-benzofuran-5-yl)-4-methylhex-4-enoic acid [M+H]+	COc1c(C)c2COC(=O)c2c(O)c1C\C=C(/C)CCC(O)=O	0			1+	NA	321.133
+CCMSLIB00000841900	MassbankEU:SM857754 Mycophenolic acid|(E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1H-2-benzofuran-5-yl)-4-methylhex-4-enoic acid [M-H]-	COc1c(C)c2COC(=O)c2c(O)c1C\C=C(/C)CCC(O)=O	0			1+	NA	319.119
+CCMSLIB00000841901	MassbankEU:SM858002 Crotamiton|(E)-N-ethyl-N-(2-methylphenyl)but-2-enamide [M+H]+	CCN(C(=O)\C=C\C)c1ccccc1C	0			1+	NA	204.138
+CCMSLIB00000841902	MassbankEU:SM858102 10,11-Dihydro-10,11-dihydroxycarbamazepine|Dihydroxycarbazepine|5,6-dihydroxy-5,6-dihydrobenzo[b][1]benzazepine-11-carboxamide [M+H]+	NC(=O)N1c2ccccc2C(O)C(O)c2ccccc12	0			1+	NA	271.108
+CCMSLIB00000841903	MassbankEU:SM858203 Cetirizine|2-[2-[4-[(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]acetic acid [M+H]+	OC(=O)COCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1	0			1+	NA	389.163
+CCMSLIB00000841904	MassbankEU:SM858253 Cetirizine|2-[2-[4-[(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]acetic acid [M-H]-	OC(=O)COCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1	0			1+	NA	387.148
+CCMSLIB00000841905	MassbankEU:SM858353 2-Hydroxycarbamazepine|Oxcarbazepine|5-oxo-6H-benzo[b][1]benzazepine-11-carboxamide [M-H]-	NC(=O)N1c2ccccc2CC(=O)c2ccccc12	0			1+	NA	251.083
+CCMSLIB00000841906	MassbankEU:SM858801 Finasteride|(1S,3aS,3bS,5aR,9aR,9bS,11aS)-N-tert-butyl-9a,11a-dimethyl-7-oxo-1,2,3,3a,3b,4,5,5a,6,9b,10,11-dodecahydroindeno[5,4-f]quinoline-1-carboxamide [M+H]+	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2/C(=N/C(C)(C)C)/O)CC[C@@H]4[C@@]3(C=CC(=N4)O)C	0			1+	NA	256.17
+CCMSLIB00000841907	MassbankEU:SM858902 Diphenhydramine|2-benzhydryloxy-N,N-dimethylethanamine [M+H]+	CN(C)CCOC(c1ccccc1)c1ccccc1	0			1+	NA	296.07
+CCMSLIB00000841908	MassbankEU:SM858951 Diphenhydramine|2-benzhydryloxy-N,N-dimethylethanamine [M-H]-	CN(C)CCOC(c1ccccc1)c1ccccc1	0			1+	NA	294.055
+CCMSLIB00000841909	MassbankEU:SM859002 Acetyl-sulfamethoxazole|N-[4-[(5-methyl-1,2-oxazol-3-yl)sulfamoyl]phenyl]acetamide [M+H]+	Cc1cc(no1)NS(=O)(=O)c2ccc(cc2)/N=C(\C)/O	0			1+	NA	325.171
+CCMSLIB00000841910	MassbankEU:SM859203 Amitriptyline|3-(5,6-dihydrodibenzo[2,1-b:2`,1`-f][7]annulen-11-ylidene)-N,N-dimethylpropan-1-amine [M+H]+	CN(C)CCC=C1c2ccccc2CCc2ccccc12	0			1+	NA	278.19
+CCMSLIB00000841911	MassbankEU:SM859301 Atorvastatin|(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid [M+H]+	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(O)=O)-c1ccccc1	0			1+	NA	559.26
+CCMSLIB00000841912	MassbankEU:SM859351 Atorvastatin|(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid [M-H]-	CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(O)=O)-c1ccccc1	0			1+	NA	557.246
+CCMSLIB00000841913	MassbankEU:SM859501 Bisoprolol|1-(propan-2-ylamino)-3-[4-(2-propan-2-yloxyethoxymethyl)phenoxy]propan-2-ol [M+H]+	CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1	0			1+	NA	326.233
+CCMSLIB00000841914	MassbankEU:SM859601 Bupropion|2-(tert-butylamino)-1-(3-chlorophenyl)propan-1-one [M+H]+	CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1	0			1+	NA	240.115
+CCMSLIB00000841915	MassbankEU:SM859701 Desloratadine|8-chloro-11-piperidin-4-ylidene-5,6-dihydrobenzo[1,2]cyclohepta[2,4-b]pyridine [M+H]+	Clc1ccc2c(CCc3cccnc3C2=C2CCNCC2)c1	0			1+	NA	311.131
+CCMSLIB00000841916	MassbankEU:SM859801 fluconazole|2-(2,4-difluorophenyl)-1,3-bis(1,2,4-triazol-1-yl)propan-2-ol [M+H]+	OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F	0			1+	NA	307.111
+CCMSLIB00000841917	MassbankEU:SM859851 fluconazole|2-(2,4-difluorophenyl)-1,3-bis(1,2,4-triazol-1-yl)propan-2-ol [M-H]-	OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F	0			1+	NA	305.097
+CCMSLIB00000841918	MassbankEU:SM860002 Lorazepam|7-chloro-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-1,4-benzodiazepin-2-one [M+H]+	OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O	0			1+	NA	321.019
+CCMSLIB00000841919	MassbankEU:SM860053 Lorazepam|7-chloro-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-1,4-benzodiazepin-2-one [M-H]-	OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O	0			1+	NA	319.005
+CCMSLIB00000841920	MassbankEU:SM860101 Memantine|3,5-dimethyladamantan-1-amine [M+H]+	CC12CC3CC(C)(C1)CC(N)(C3)C2	0			1+	NA	180.175
+CCMSLIB00000841921	MassbankEU:SM860201 Miconazole|1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]imidazole [M+H]+	Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1	0			1+	NA	414.993
+CCMSLIB00000841922	MassbankEU:SM860402 Oxazepam|7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one [M+H]+	OC1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O	0			1+	NA	287.058
+CCMSLIB00000841923	MassbankEU:SM860452 Oxazepam|7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one [M-H]-	OC1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O	0			1+	NA	285.044
+CCMSLIB00000841924	MassbankEU:SM860501 Temazepam|7-chloro-3-hydroxy-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one [M+H]+	CN1c2ccc(Cl)cc2C(=NC(O)C1=O)c1ccccc1	0			1+	NA	301.074
+CCMSLIB00000841925	MassbankEU:SM860602 Fenofibrate|propan-2-yl 2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoate [M+H]+	CC(C)OC(=O)C(C)(C)Oc1ccc(cc1)C(=O)c1ccc(Cl)cc1	0			1+	NA	361.12
+CCMSLIB00000841926	MassbankEU:SM860702 Losartan|[2-butyl-5-chloro-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol [M+H]+	CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NNN=N1	0			1+	NA	423.169
+CCMSLIB00000841927	MassbankEU:SM860752 Losartan|[2-butyl-5-chloro-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol [M-H]-	CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NNN=N1	0			1+	NA	421.155
+CCMSLIB00000841928	MassbankEU:SM860801 Valsartan|(2S)-3-methyl-2-[pentanoyl-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]amino]butanoic acid [M+H]+	CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)[C@@H](C(C)C)C(O)=O	0			1+	NA	436.234
+CCMSLIB00000841929	MassbankEU:SM860851 Valsartan|(2S)-3-methyl-2-[pentanoyl-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]amino]butanoic acid [M-H]-	CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)[C@@H](C(C)C)C(O)=O	0			1+	NA	434.22
+CCMSLIB00000841930	MassbankEU:SM860901 Terbinafine|(E)-N,6,6-trimethyl-N-(naphthalen-1-ylmethyl)hept-2-en-4-yn-1-amine [M+H]+	CN(C\C=C\C#CC(C)(C)C)Cc1cccc2ccccc12	0			1+	NA	292.206
+CCMSLIB00000841931	MassbankEU:SM861001 Clozapine|3-chloro-6-(4-methylpiperazin-1-yl)-5H-benzo[b][1,4]benzodiazepine [M+H]+	CN1CCN(CC1)C1=C2C=CC=CC2=Nc2ccc(Cl)cc2N1	0			1+	NA	327.137
+CCMSLIB00000841932	MassbankEU:SM861101 Indometacin|2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid [M+H]+	COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(O)=O)c2c1	0			1+	NA	358.084
+CCMSLIB00000841933	MassbankEU:SM861152 Indometacin|2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid [M-H]-	COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(O)=O)c2c1	0			1+	NA	356.069
+CCMSLIB00000841934	MassbankEU:SM861203 Tamoxifen|2-[4-[(Z)-1,2-diphenylbut-1-enyl]phenoxy]-N,N-dimethylethanamine [M+H]+	CC\C(=C(/c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1	0			1+	NA	372.232
+CCMSLIB00000841935	MassbankEU:SM861402 Pentoxifylline|3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione [M+H]+	CN1c2ncn(C)c2C(=O)N(CCCCC(C)=O)C1=O	0			1+	NA	279.145
+CCMSLIB00000841936	MassbankEU:SM861551 Bicalutamide|N-[4-cyano-3-(trifluoromethyl)phenyl]-3-(4-fluorophenyl)sulfonyl-2-hydroxy-2-methylpropanamide [M-H]-	CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(c1)C(F)(F)F	0			1+	NA	429.054
+CCMSLIB00000841937	MassbankEU:SM861601 Enalapril|(2S)-1-[(2S)-2-[[(2S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]azaniumyl]propanoyl]pyrrolidine-2-carboxylate [M+H]+	CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O	0			1+	NA	377.207
+CCMSLIB00000841938	MassbankEU:SM861651 Enalapril|(2S)-1-[(2S)-2-[[(2S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]azaniumyl]propanoyl]pyrrolidine-2-carboxylate [M-H]-	CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O	0			1+	NA	375.193
+CCMSLIB00000841939	MassbankEU:SM861901 Captopril|(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid [M+H]+	C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O	0			1+	NA	218.085
+CCMSLIB00000841940	MassbankEU:SM861951 Captopril|(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid [M-H]-	C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O	0			1+	NA	216.07
+CCMSLIB00000841941	MassbankEU:SM862001 Tetracain|2-(dimethylamino)ethyl 4-(butylamino)benzoate [M+H]+	CCCCNc1ccc(cc1)C(=O)OCCN(C)C	0			1+	NA	265.191
+CCMSLIB00000841942	MassbankEU:SM862104 Mesalazine|5-Aminosalicylic acid|5-amino-2-hydroxybenzoic acid [M+H]+	NC1=CC(C(O)=O)=C(O)C=C1	0			1+	NA	154.05
+CCMSLIB00000841943	MassbankEU:SM862204 N-Acetyl Mesalazine|5-Acetamidosalicylic acid|5-acetamido-2-hydroxybenzoic acid [M+H]+	CC(=O)NC1=CC=C(O)C(=C1)C(O)=O	0			1+	NA	196.06
+CCMSLIB00000841944	MassbankEU:SM862251 N-Acetyl Mesalazine|5-Acetamidosalicylic acid|5-acetamido-2-hydroxybenzoic acid [M-H]-	CC(=O)NC1=CC=C(O)C(=C1)C(O)=O	0			1+	NA	194.046
+CCMSLIB00000841945	MassbankEU:SM862301 Benzocaine|Benzocain|ethyl 4-aminobenzoate [M+H]+	CCOC(=O)C1=CC=C(N)C=C1	0			1+	NA	166.086
+CCMSLIB00000841946	MassbankEU:SM862703 Sertraline|(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine [M+H]+	CN[C@H]1CC[C@@H](C2=CC=C(Cl)C(Cl)=C2)C2=C1C=CC=C2	0			1+	NA	306.081
+CCMSLIB00000841947	MassbankEU:SM862902 Benzophenone-3|Oxybenzone|(2-hydroxy-4-methoxyphenyl)-phenylmethanone [M+H]+	COc1ccc(C(=O)c2ccccc2)c(O)c1	0			1+	NA	229.086
+CCMSLIB00000841948	MassbankEU:SM863253 Triclosan|5-chloro-2-(2,4-dichlorophenoxy)phenol [M-H]-	Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl	0			1+	NA	286.944
+CCMSLIB00000841949	MassbankEU:SM863453 Chlorophene|2-Benzyl-4-chlorophenol [M-H]-	Oc1ccc(Cl)cc1Cc1ccccc1	0			1+	NA	217.043
+CCMSLIB00000841950	MassbankEU:SM863551 Ethylparaben|Ethyl 4-hydroxybenzoate|ethyl 4-hydroxybenzoate [M-H]-	CCOC(=O)c1ccc(O)cc1	0			1+	NA	165.056
+CCMSLIB00000841951	MassbankEU:SM863853 Tetrabromobisphenol A|2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol [M-H]-	CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1	0			1+	NA	538.75
+CCMSLIB00000841952	MassbankEU:SM863955 Butylparaben|Butyl 4-hydroxybenzoate [M-H]-	CCCCOC(=O)c1ccc(O)cc1	0			1+	NA	193.087
+CCMSLIB00000841953	MassbankEU:SM864051 Tetrachlorosalicylanilide|TCSA|3,5-dichloro-N-(3,4-dichlorophenyl)-2-hydroxybenzamide [M-H]-	Oc1c(Cl)cc(Cl)cc1C(=O)Nc1ccc(Cl)c(Cl)c1	0			1+	NA	347.916
+CCMSLIB00000841954	MassbankEU:SM864251 2,4-Dichlorophenol [M-H]-	Oc1ccc(Cl)cc1Cl	0			1+	NA	160.957
+CCMSLIB00000841955	MassbankEU:SM864401 Bisphenol S|4,4`-Sulfonyldiphenol|4-(4-hydroxyphenyl)sulfonylphenol [M+H]+	Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1	0			1+	NA	251.037
+CCMSLIB00000841956	MassbankEU:SM864456 Bisphenol S|4,4`-Sulfonyldiphenol|4-(4-hydroxyphenyl)sulfonylphenol [M-H]-	Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1	0			1+	NA	249.023
+CCMSLIB00000841957	MassbankEU:SM864653 Propylparaben|Propyl 4-hydroxybenzoate [M-H]-	CCCOC(=O)c1ccc(O)cc1	0			1+	NA	179.071
+CCMSLIB00000841958	MassbankEU:SM864752 3,4,5-Trichlorphenol [M-H]-	OC1=CC(Cl)=C(Cl)C(Cl)=C1	0			1+	NA	194.918
+CCMSLIB00000841959	MassbankEU:SM864952 Bromochlorophen [M-H]-	Oc1c(Br)cc(Cl)cc1Cc1cc(Cl)cc(Br)c1O	0			1+	NA	422.819
+CCMSLIB00000841960	MassbankEU:SM865051 4-Bromophenol [M-H]-	Oc1ccc(Br)cc1	0			1+	NA	170.945
+CCMSLIB00000841961	MassbankEU:SM865252 Dichlorophen [M-H]-	OC1=CC=C(Cl)C=C1CC1=C(O)C=CC(Cl)=C1	0			1+	NA	266.999
+CCMSLIB00000841962	MassbankEU:SM865504 Isophorone diamine|3-(aminomethyl)-3,5,5-trimethylcyclohexan-1-amine [M+H]+	CC1(C)CC(N)CC(C)(CN)C1	0			1+	NA	171.186
+CCMSLIB00000841963	MassbankEU:SM865601 4`-Aminoacetanilide|N-(4-aminophenyl)acetamide [M+H]+	CC(=O)Nc1ccc(N)cc1	0			1+	NA	151.087
+CCMSLIB00000841964	MassbankEU:SM865753 2,4-Diaminobenzenesulfonic acid [M-H]-	Nc1ccc(c(N)c1)S(O)(=O)=O	0			1+	NA	187.018
+CCMSLIB00000841965	MassbankEU:SM865801 Sulcotrione|2-(2-chloro-4-methylsulfonylbenzoyl)cyclohexane-1,3-dione [M+H]+	CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1	0			1+	NA	329.025
+CCMSLIB00000841966	MassbankEU:SM865851 Sulcotrione|2-(2-chloro-4-methylsulfonylbenzoyl)cyclohexane-1,3-dione [M-H]-	CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1	0			1+	NA	327.01
+CCMSLIB00000841967	MassbankEU:SM865901 4-Aminobenzamide [M+H]+	NC(=O)c1ccc(N)cc1	0			1+	NA	137.071
+CCMSLIB00000841968	MassbankEU:SM866001 4-Aminoantipyrine|4-amino-1,5-dimethyl-2-phenylpyrazol-3-one [M+H]+	CN1N(C(=O)C(N)=C1C)c1ccccc1	0			1+	NA	204.113
+CCMSLIB00000841969	MassbankEU:SM866451 Diatrizoate|Diatrizoic acid|3,5-diacetamido-2,4,6-triiodobenzoic acid [M-H]-	CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(O)=O)c1I	0			1+	NA	612.762
+CCMSLIB00000841970	MassbankEU:SM866601 Caffeine [M+H]+	CN1c2ncn(C)c2C(=O)N(C)C1=O	0			1+	NA	195.088
+CCMSLIB00000841971	MassbankEU:SM866701 Acetaminophen|N-(4-hydroxyphenyl)acetamide [M+H]+	CC(=O)Nc1ccc(O)cc1	0			1+	NA	152.071
+CCMSLIB00000841972	MassbankEU:SM867051 Saccharin|1,1-dioxo-1,2-benzothiazol-3-one [M-H]-	O=C1NS(=O)(=O)c2ccccc12	0			1+	NA	181.992
+CCMSLIB00000841973	MassbankEU:SM867151 Cyclamate|Cyclamic acid|cyclohexylsulfamic acid [M-H]-	OS(=O)(=O)NC1CCCCC1	0			1+	NA	178.054
+CCMSLIB00000841974	MassbankEU:SM867751 2,7-Naphthalenedisulfonic acid|Naphthalene-2,7-disulfonic acid [M-H]-	OS(=O)(=O)c1ccc2ccc(cc2c1)S(O)(=O)=O	0			1+	NA	286.969
+CCMSLIB00000841975	MassbankEU:SM867803 Metformin [M+H]+	CN(C)C(=N)N=C(N)N	0			1+	NA	130.109
+CCMSLIB00000841976	MassbankEU:SM867901 Triglyme|1-methoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane [M+H]+	COCCOCCOCCOC	0			1+	NA	179.128
+CCMSLIB00000841977	MassbankEU:SM868004 Creatinine|2-Amino-3-methyl-4H-imidazol-5-one [M+H]+	CN1CC(=O)N=C1N	0			1+	NA	114.066
+CCMSLIB00000841978	MassbankEU:SM868101 4-Hydroxybenzotriazole|1,2-dihydrobenzotriazol-4-one [M+H]+	O=C1C=CC=C2NNN=C12	0			1+	NA	136.051
+CCMSLIB00000841979	MassbankEU:SM868501 Metolachlor OA|2-[2-ethyl-N-(1-methoxypropan-2-yl)-6-methylanilino]-2-oxoacetic acid [M+H]+	CCC1=CC=CC(C)=C1N(C(C)COC)C(=O)C(O)=O	0			1+	NA	280.154
+CCMSLIB00000841980	MassbankEU:SM868551 Metolachlor OA|2-[2-ethyl-N-(1-methoxypropan-2-yl)-6-methylanilino]-2-oxoacetic acid [M-H]-	CCC1=CC=CC(C)=C1N(C(C)COC)C(=O)C(O)=O	0			1+	NA	278.14
+CCMSLIB00000841981	MassbankEU:SM868601 Metolachlor ESA|2-[2-ethyl-N-(1-methoxypropan-2-yl)-6-methylanilino]-2-oxoethanesulfonic acid [M+H]+	CCC1=CC=CC(C)=C1N(C(C)COC)C(=O)CS(O)(=O)=O	0			1+	NA	330.137
+CCMSLIB00000841982	MassbankEU:SM868651 Metolachlor ESA|2-[2-ethyl-N-(1-methoxypropan-2-yl)-6-methylanilino]-2-oxoethanesulfonic acid [M-H]-	CCC1=CC=CC(C)=C1N(C(C)COC)C(=O)CS(O)(=O)=O	0			1+	NA	328.122
+CCMSLIB00000841983	MassbankEU:SM868901 N-Nitrosomorpholine|4-nitrosomorpholine [M+H]+	O=NN1CCOCC1	0			1+	NA	117.066
+CCMSLIB00000841984	MassbankEU:SM869405 Cotinine|S-(-)-Cotinine|1-methyl-5-pyridin-3-ylpyrrolidin-2-one [M+H]+	CN1C(CCC1=O)c1cccnc1	0			1+	NA	177.102
+CCMSLIB00000841985	MassbankEU:SM869553 Benzenesulfonic acid [M-H]-	OS(=O)(=O)C1=CC=CC=C1	0			1+	NA	156.997
+CCMSLIB00000841986	MassbankEU:SM869701 N-Methyl-2-pyrrolidone|1-Methyl-2-Pyrrolidinone|1-Methylpyrrolidin-2-one [M+H]+	CN1CCCC1=O	0			1+	NA	100.076
+CCMSLIB00000841987	MassbankEU:SM869903 Melamine|1,3,5-triazine-2,4,6-triamine [M+H]+	Nc1nc(N)nc(N)n1	0			1+	NA	127.073
+CCMSLIB00000841988	MassbankEU:SM870004 Phthalamic acid|2-carbamoylbenzoic acid [M+H]+	NC(=O)C1=CC=CC=C1C(O)=O	0			1+	NA	166.05
+CCMSLIB00000841989	MassbankEU:SM870051 Phthalamic acid|2-carbamoylbenzoic acid [M-H]-	NC(=O)C1=CC=CC=C1C(O)=O	0			1+	NA	164.035
+CCMSLIB00000841990	MassbankEU:SM870403 Ethylenethiourea|2-Imidazolidinethione|Imidazolidine-2-thione [M+H]+	S=C1NCCN1	0			1+	NA	103.032
+CCMSLIB00000841991	MassbankEU:SM870902 Guanylurea|Amidinourea|Diaminomethylideneurea [M+H]+	NC(=N)NC(N)=O	0			1+	NA	103.061
+CCMSLIB00000841992	MassbankEU:SM871101 1-(3-carboxypropyl)-3,7-dimethylxanthine|4-(3,7-dimethyl-2,6-dioxopurin-1-yl)butanoic acid [M+H]+	CN1C=NC2=C1C(=O)N(CCCC(O)=O)C(=O)N2C	0			1+	NA	267.109
+CCMSLIB00000841993	MassbankEU:SM871201 2-Hydroxybenzothiazole|Benzothiazolone|3H-1,3-benzothiazol-2-one [M+H]+	O=C1NC2=C(S1)C=CC=C2	0			1+	NA	152.016
+CCMSLIB00000841994	MassbankEU:SM871901 Estrone [M+H]+	C[C@]12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CCC2=O	0			1+	NA	271.169
+CCMSLIB00000841995	MassbankEU:SM872102 17-alpha-Ethinylestradiol [M+H]+	CC12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CC[C@]2(O)C#C	0			1+	NA	297.185
+CCMSLIB00000841996	MassbankEU:SM872301 Norethindrone|17-Ethynyl-17-hydroxyestr-4-en-3-one|17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one [M+H]+	CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C	0			1+	NA	299.201
+CCMSLIB00000841997	MassbankEU:SM872401 Progesterone|(4-14c)pregn-4-ene-3,20-dione|17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one [M+H]+	CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	0			1+	NA	315.232
+CCMSLIB00000841998	MassbankEU:SM872801 Dexamethasone|9-Fluoro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione|9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren- [M+H]+	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	0			1+	NA	393.207
+CCMSLIB00000841999	MassbankEU:SM873001 Testosterone|17-Hydroxyandrost-4-en-3-one|17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one [M+H]+	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2O	0			1+	NA	289.216
+CCMSLIB00000842000	MassbankEU:SM873101 Canrenone|Spirolactone SC 14266|10,13-dimethylspiro[2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthrene-17,5`-oxolane]-2`,3-dione [M+H]+	CC12CCC3C(C=CC4=CC(=O)CCC34C)C1CCC21CCC(=O)O1	0			1+	NA	341.211
+CCMSLIB00000842001	MassbankEU:SM873201 4-Androstene-3,17-dione|10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione [M+H]+	CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2=O	0			1+	NA	287.201
+CCMSLIB00000842002	MassbankEU:SM873501 Triamcinolone|9-Fluoro-11,16,17,21-tetrahydroxypregna-1,4-diene-3,20-dione|9-fluoro-11,16,17-trihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one [M+H]+	CC12CC(O)C3(F)C(CCC4=CC(=O)C=CC34C)C1CC(O)C2(O)C(=O)CO	0			1+	NA	395.186
+CCMSLIB00000842003	MassbankEU:SM873701 Norgestrel|13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one [M+H]+	CCC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C	0			1+	NA	313.216
+CCMSLIB00000842004	MassbankEU:SM873802 Exemestane|10,13-dimethyl-6-methylidene-7,8,9,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,17-dione [M+H]+	CC12CCC3C(CC(=C)C4=CC(=O)C=CC34C)C1CCC2=O	0			1+	NA	297.185
+CCMSLIB00000842005	MassbankEU:SM873901 Medroxyprogesterone|17-acetyl-17-hydroxy-6,10,13-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one|17-acetyl-17-hydroxy-6,10,13-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydr [M+H]+	CC1CC2C3CCC(O)(C(C)=O)C3(C)CCC2C2(C)CCC(=O)C=C12	0			1+	NA	345.242
+CCMSLIB00000842006	MassbankEU:SM874002 Gestoden|13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,13,14,17-dodecahydro-3h-cyclopenta[a]phenanthren-3-one(non-preferred name)|13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14-decahydro [M+H]+	CCC12CCC3C(CCC4=CC(=O)CCC34)C1C=CC2(O)C#C	0			1+	NA	311.201
+CCMSLIB00000842007	MassbankEU:SM874102 Drospirenone [M+H]+	CC12CCC3C(C4CC4C4=CC(=O)CCC34C)C1C1CC1C21CCC(=O)O1	0			1+	NA	367.227
+CCMSLIB00000842008	MassbankEU:SM874301 Bethamethasone|9-Fluoro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione|9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren [M+H]+	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	0			1+	NA	393.207
+CCMSLIB00000842009	MassbankEU:SM874401 Prednisone|Fernisone|17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione [M+H]+	CC12CC(=O)C3C(CCC4=CC(=O)C=CC34C)C1CCC2(O)C(=O)CO	0			1+	NA	359.185
+CCMSLIB00000842010	MassbankEU:SM874454 Prednisone|Fernisone|17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione [M-H]-	CC12CC(=O)C3C(CCC4=CC(=O)C=CC34C)C1CCC2(O)C(=O)CO	0			1+	NA	357.171
+CCMSLIB00000842011	MassbankEU:SM874501 Cyproterone [M+H]+	CC(=O)C1(O)CCC2C3C=C(Cl)C4=CC(=O)C5CC5C4(C)C3CCC12C	0			1+	NA	375.172
+CCMSLIB00000842012	MassbankEU:SM874601 Trenbolone|17-hydroxy-13-methyl-2,6,7,8,14,15,16,17-octahydro-1H-cyclopenta[a]phenanthren-3-one [M+H]+	CC12C=CC3=C4CCC(=O)C=C4CCC3C1CCC2O	0			1+	NA	271.169
+CCMSLIB00000842013	MassbankEU:SM874701 Dydrogesterone|(8S,9R,10S,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-3-one [M+H]+	CC(=O)[C@H]1CC[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@@]4(C)[C@@H]3CC[C@]12C	0			1+	NA	313.216
+CCMSLIB00000842014	MassbankEU:SM874801 Hydrocortisonacetate|Hydrocortisone acetate|[2-[(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] aceta [M+H]+	CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@]12C	0			1+	NA	405.227
+CCMSLIB00000842015	MassbankEU:SM874903 Medroxyprogesteroneacetate|Medroxyprogesterone acetate|[(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate [M+H]+	C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12	0			1+	NA	387.253
+CCMSLIB00000842016	MassbankEU:SM875001 Megestrol-17-acetate|Megestrol acetate|[(8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate [M+H]+	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O	0			1+	NA	385.237
+CCMSLIB00000842017	MassbankEU:SM876153 Dodecyl sulfate [M-H]-	CCCCCCCCCCCCOS(O)(=O)=O	0			1+	NA	265.148
+CCMSLIB00000842018	MassbankEU:SM876251 Dodecylbenzenesulfonic acid [M-H]-	CCCCCCCCCCCCC1=CC=C(C=C1)S(O)(=O)=O	0			1+	NA	325.184
+CCMSLIB00000842019	MassbankEU:SM876601 Lauric isopropanolamide|N-(2-hydroxypropyl)dodecanamide [M+H]+	CCCCCCCCCCCC(=O)NCC(C)O	0			1+	NA	258.243
+CCMSLIB00000842020	MassbankEU:SM876702 Lauryl diethanolamide|N,N-bis(2-hydroxyethyl)dodecanamide [M+H]+	CCCCCCCCCCCC(=O)N(CCO)CCO	0			1+	NA	288.253
+CCMSLIB00000842021	MassbankEU:SM876801 N,N-Dimethyldodecylamine N-oxide|Lauramine oxide|N,N-dimethyldodecan-1-amine oxide [M+H]+	CCCCCCCCCCCC[N+](C)(C)[O-]	0			1+	NA	230.248
+CCMSLIB00000842022	MassbankEU:SM876951 Perfluorodecanoic acid|Perfluorocapric acid|2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoic acid [M-H]-	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	512.96
+CCMSLIB00000842023	MassbankEU:SM877154 Perfluorohexanoic acid|2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid [M-H]-	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	312.973
+CCMSLIB00000842024	MassbankEU:SM877253 Perfluorooctanesulfonic acid|1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid [M-H]-	OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	498.93
+CCMSLIB00000842025	MassbankEU:SM877354 Perfluorooctanoic acid|2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid [M-H]-	OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	412.966
+CCMSLIB00000842026	MassbankEU:SM877701 Diuron|3-(3,4-dichlorophenyl)-1,1-dimethylurea [M+H]+	CN(C)C(=O)NC1=CC=C(Cl)C(Cl)=C1	0			1+	NA	233.024
+CCMSLIB00000842027	MassbankEU:SM877753 Diuron|3-(3,4-dichlorophenyl)-1,1-dimethylurea [M-H]-	CN(C)C(=O)NC1=CC=C(Cl)C(Cl)=C1	0			1+	NA	231.01
+CCMSLIB00000842028	MassbankEU:SM877901 Diazinone|diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidene-$l^{5}-phosphane [M+H]+	CCOP(=S)(OCC)OC1=CC(C)=NC(=N1)C(C)C	0			1+	NA	305.108
+CCMSLIB00000842029	MassbankEU:SM878003 Iminostilbene|11H-benzo[b][1]benzazepine [M+H]+	N1C2=CC=CC=C2C=CC2=CC=CC=C12	0			1+	NA	194.096
+CCMSLIB00000842030	MassbankEU:SM878101 Triethylcitrate|triethyl 2-hydroxypropane-1,2,3-tricarboxylate [M+H]+	CCOC(=O)CC(O)(CC(=O)OCC)C(=O)OCC	0			1+	NA	277.128
+CCMSLIB00000842031	MassbankEU:SM878201 Imazalil|1-[2-(2,4-dichlorophenyl)-2-prop-2-enoxyethyl]imidazole [M+H]+	ClC1=CC=C(C(CN2C=CN=C2)OCC=C)C(Cl)=C1	0			1+	NA	297.056
+CCMSLIB00000842032	MassbankEU:SM878353 Fipronil|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile [M-H]-	NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F	0			1+	NA	434.931
+CCMSLIB00000842033	MassbankEU:SM878401 4-Amino-N,N-dimethylbenzenesulfonamide [M+H]+	CN(C)S(=O)(=O)C1=CC=C(N)C=C1	0			1+	NA	201.069
+CCMSLIB00000842034	MassbankEU:SM878502 2-Mercaptobenzothiazole|3H-1,3-benzothiazole-2-thione [M+H]+	SC1=NC2=CC=CC=C2S1	0			1+	NA	167.994
+CCMSLIB00000842035	MassbankEU:SM878551 2-Mercaptobenzothiazole|3H-1,3-benzothiazole-2-thione [M-H]-	SC1=NC2=CC=CC=C2S1	0			1+	NA	165.979
+CCMSLIB00000842036	MassbankEU:SM878603 2-Methylbenzothiazole|2-methyl-1,3-benzothiazole [M+H]+	CC1=NC2=CC=CC=C2S1	0			1+	NA	150.037
+CCMSLIB00000842037	MassbankEU:SM878701 Phenylbenzimidazolesulfonic acid|2-phenyl-3H-benzimidazol-1-ium-5-sulfonate [M+H]+	OS(=O)(=O)C1=CC=C2N=C(NC2=C1)C1=CC=CC=C1	0			1+	NA	275.048
+CCMSLIB00000842038	MassbankEU:SM878751 Phenylbenzimidazolesulfonic acid|2-phenyl-3H-benzimidazol-1-ium-5-sulfonate [M-H]-	OS(=O)(=O)C1=CC=C2N=C(NC2=C1)C1=CC=CC=C1	0			1+	NA	273.034
+CCMSLIB00000842039	MassbankEU:SM878801 Thiabendazole|4-(1H-benzimidazol-2-yl)-1,3-thiazole [M+H]+	N1C2=CC=CC=C2N=C1C1=CSC=N1	0			1+	NA	202.043
+CCMSLIB00000842040	MassbankEU:SM878901 N-Butylbenzenesulfonamide [M+H]+	CCCCNS(=O)(=O)C1=CC=CC=C1	0			1+	NA	214.09
+CCMSLIB00000842041	MassbankEU:SM879001 Tris(2-chloroethyl)phosphate [M+H]+	ClCCOP(=O)(OCCCl)OCCCl	0			1+	NA	284.961
+CCMSLIB00000842042	MassbankEU:SM879201 Carbendazim|Methyl N-(1H-benzimidazol-2-yl)carbamate|methyl N-(1H-benzimidazol-2-yl)carbamate [M+H]+	COC(=O)NC1=NC2=CC=CC=C2N1	0			1+	NA	192.077
+CCMSLIB00000842043	MassbankEU:SM879401 Terbutryn|2-N-tert-butyl-4-N-ethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine [M+H]+	CCNC1=NC(NC(C)(C)C)=NC(SC)=N1	0			1+	NA	242.143
+CCMSLIB00000842044	MassbankEU:SM879502 Triphenylphosphate|Triphenyl phosphate [M+H]+	O=P(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	327.078
+CCMSLIB00000842045	MassbankEU:SM879601 Octhilinone|2-Octyl-4-isothiazolin-3-one|2-Octyl-1,2-thiazol-3-one [M+H]+	CCCCCCCCN1SC=CC1=O	0			1+	NA	214.126
+CCMSLIB00000842046	MassbankEU:SM879706 DEET|N,N-diethyl-3-methylbenzamide [M+H]+	CCN(CC)C(=O)C1=CC(C)=CC=C1	0			1+	NA	192.138
+CCMSLIB00000842047	MassbankEU:SM879801 Irgarol|Cybutryne|2-N-tert-butyl-4-N-cyclopropyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine [M+H]+	CSC1=NC(NC2CC2)=NC(NC(C)(C)C)=N1	0			1+	NA	254.143
+CCMSLIB00000842048	MassbankEU:SM879903 Benzotriazole|1H-Benzotriazole|2H-benzotriazole [M+H]+	N1N=NC2=CC=CC=C12	0			1+	NA	120.056
+CCMSLIB00000842049	MassbankEU:SM880001 2-Isopropylthioxanthone|2-propan-2-ylthioxanthen-9-one [M+H]+	CC(C)C1=CC2=C(SC3=CC=CC=C3C2=O)C=C1	0			1+	NA	255.084
+CCMSLIB00000842050	MassbankEU:SM880101 5-Methylbenzotriazole|5-Methyl-1H-benzotriazole|5-Methyl-2H-benzotriazole [M+H]+	CC1=CC=C2NN=NC2=C1	0			1+	NA	134.071
+CCMSLIB00000842051	MassbankEU:SM880203 Benzophenone-4|Sulisobenzone|5-benzoyl-4-hydroxy-2-methoxybenzenesulfonic acid [M+H]+	COC1=CC(O)=C(C=C1S(O)(=O)=O)C(=O)C1=CC=CC=C1	0			1+	NA	309.043
+CCMSLIB00000842052	MassbankEU:SM880251 Benzophenone-4|Sulisobenzone|5-benzoyl-4-hydroxy-2-methoxybenzenesulfonic acid [M-H]-	COC1=CC(O)=C(C=C1S(O)(=O)=O)C(=O)C1=CC=CC=C1	0			1+	NA	307.028
+CCMSLIB00000842053	MassbankEU:SM880301 Ethyl-4-dimethylaminobenzoate|Ethyl 4-dimethylaminobenzoate|Ethyl 4-(dimethylamino)benzoate [M+H]+	CCOC(=O)C1=CC=C(C=C1)N(C)C	0			1+	NA	194.118
+CCMSLIB00000842054	MassbankEU:SM880402 3-Iodopropynyl butylcarbamate|3-iodoprop-1-ynyl N-butylcarbamate [M+H]+	CCCCNC(=O)OC#CCI	0			1+	NA	281.999
+CCMSLIB00000842055	MassbankEU:SM880502 p-Toluenesulfonamide|4-methylbenzenesulfonimidic acid|4-methylbenzenesulfonimidic acid [M+H]+	CC1=CC=C(C=C1)S(N)(=O)=O	0			1+	NA	172.043
+CCMSLIB00000842056	MassbankEU:SM880602 Tri(butoxyethyl)phosphate|Tris(2-butoxyethyl) phosphate [M+H]+	CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC	0			1+	NA	399.251
+CCMSLIB00000842057	MassbankEU:SM880703 Triclocarban|1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea [M+H]+	ClC1=CC=C(NC(=O)NC2=CC=C(Cl)C(Cl)=C2)C=C1	0			1+	NA	314.985
+CCMSLIB00000842058	MassbankEU:SM880751 Triclocarban|1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea [M-H]-	ClC1=CC=C(NC(=O)NC2=CC=C(Cl)C(Cl)=C2)C=C1	0			1+	NA	312.971
+CCMSLIB00000842059	MassbankEU:SM880801 Tri-isobutylphosphate|Triisobutyl phosphate|Tris(2-methylpropyl) phosphate [M+H]+	CC(C)COP(=O)(OCC(C)C)OCC(C)C	0			1+	NA	267.172
+CCMSLIB00000842060	MassbankEU:SM880902 TDCPP|Tris(1,3-dichloropropan-2-yl) phosphate [M+H]+	ClCC(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl	0			1+	NA	428.891
+CCMSLIB00000842061	MassbankEU:SM881002 Tris(1-chloro-2-propyl)phosphate|Tris(1-chloropropan-2-yl) phosphate [M+H]+	CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl	0			1+	NA	327.008
+CCMSLIB00000842062	MassbankEU:SM881155 2-Naphthalene sulfonic acid|Naphthalene-2-sulfonic acid [M-H]-	OS(=O)(=O)C1=CC2=CC=CC=C2C=C1	0			1+	NA	207.012
+CCMSLIB00000842063	MassbankEU:SM881201 Hexa(methoxymethyl)melamine|2-N,2-N,4-N,4-N,6-N,6-N-hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine [M+H]+	COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC	0			1+	NA	391.23
+CCMSLIB00000842064	MassbankEU:SM881301 Triphenylphosphine oxide|Diphenylphosphorylbenzene [M+H]+	O=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1	0			1+	NA	279.093
+CCMSLIB00000842065	MassbankEU:SM881401 2-Isopropyl-6-methyl-pyrimidin-4-ol|6-Methyl-2-propan-2-yl-1H-pyrimidin-4-one [M+H]+	CC(C)C1=NC(O)=CC(C)=N1	0			1+	NA	153.102
+CCMSLIB00000842066	MassbankEU:SM881501 Diphenylphosphate|Diphenyl hydrogen phosphate [M+H]+	OP(=O)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	251.047
+CCMSLIB00000842067	MassbankEU:SM881554 Diphenylphosphate|Diphenyl hydrogen phosphate [M-H]-	OP(=O)(OC1=CC=CC=C1)OC1=CC=CC=C1	0			1+	NA	249.032
+CCMSLIB00000842068	MassbankEU:SM881601 N-Ethyl-o-toluenesulfonamide|N-ethyl-2-methylbenzenesulfonamide [M+H]+	CCNS(=O)(=O)C1=C(C)C=CC=C1	0			1+	NA	200.074
+CCMSLIB00000842069	MassbankEU:SM881701 2-(Methylthio)benzothiazole|2-methylsulfanyl-1,3-benzothiazole [M+H]+	CSC1=NC2=CC=CC=C2S1	0			1+	NA	182.009
+CCMSLIB00000842070	MassbankEU:SM881901 Methylchloroisothiazolinone|5-Chloro-2-methyl-4-isothiazolin-3-one|5-Chloro-2-methyl-1,2-thiazol-3-one [M+H]+	CN1SC(Cl)=CC1=O	0			1+	NA	149.977
+CCMSLIB00000842071	MassbankEU:SM882102 Benzothiazole|1,3-benzothiazole [M+H]+	S1C=NC2=CC=CC=C12	0			1+	NA	136.021
+CCMSLIB00000842072	MassbankEU:SM882201 4-Isopropylaniline|4-propan-2-ylaniline [M+H]+	CC(C)C1=CC=C(N)C=C1	0			1+	NA	136.112
+CCMSLIB00000842073	MassbankEU:SM882351 2,4-Dinitrophenol [M-H]-	OC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O	0			1+	NA	183.005
+CCMSLIB00000842074	MassbankEU:SM882401 2,6-Xylidine|2,6-Dimethylaniline [M+H]+	CC1=CC=CC(C)=C1N	0			1+	NA	122.096
+CCMSLIB00000842075	MassbankEU:SM882501 Icaridin|Butan-2-yl 2-(2-hydroxyethyl)piperidine-1-carboxylate [M+H]+	CCC(C)OC(=O)N1CCCCC1CCO	0			1+	NA	230.175
+CCMSLIB00000842076	MassbankEU:SM882601 2-Benzothiazolesulfonic acid|Benzothiazole-2-sulfonic acid|1,3-benzothiazole-2-sulfonic acid [M+H]+	OS(=O)(=O)C1=NC2=CC=CC=C2S1	0			1+	NA	215.978
+CCMSLIB00000842077	MassbankEU:SM882651 2-Benzothiazolesulfonic acid|Benzothiazole-2-sulfonic acid|1,3-benzothiazole-2-sulfonic acid [M-H]-	OS(=O)(=O)C1=NC2=CC=CC=C2S1	0			1+	NA	213.964
+CCMSLIB00000842078	MassbankEU:SM882702 Genistein|5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one [M+H]+	OC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O	0			1+	NA	271.06
+CCMSLIB00000842079	MassbankEU:SM882751 Genistein|5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one [M-H]-	OC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O	0			1+	NA	269.046
+CCMSLIB00000842080	MassbankEU:SM882802 Daidzein|7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one [M+H]+	OC1=CC=C(C=C1)C1=COC2=CC(O)=CC=C2C1=O	0			1+	NA	255.065
+CCMSLIB00000842081	MassbankEU:SM882851 Daidzein|7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one [M-H]-	OC1=CC=C(C=C1)C1=COC2=CC(O)=CC=C2C1=O	0			1+	NA	253.051
+CCMSLIB00000842082	MassbankEU:SM883101 Triethylphosphate|Triethyl phosphate [M+H]+	CCOP(=O)(OCC)OCC	0			1+	NA	183.078
+CCMSLIB00000842083	MassbankEU:SM883201 Tricresylphosphate|Tri-o-cresyl phosphate|Tris(2-methylphenyl) phosphate [M+H]+	CC1=C(OP(=O)(OC2=C(C)C=CC=C2)OC2=C(C)C=CC=C2)C=CC=C1	0			1+	NA	369.125
+CCMSLIB00000842084	MassbankEU:SM883301 Bis(2-ethylhexyl)phosphate|Bis(2-ethylhexyl) hydrogen phosphate [M+H]+	CCCCC(CC)COP(O)(=O)OCC(CC)CCCC	0			1+	NA	323.235
+CCMSLIB00000842085	MassbankEU:SM883355 Bis(2-ethylhexyl)phosphate|Bis(2-ethylhexyl) hydrogen phosphate [M-H]-	CCCCC(CC)COP(O)(=O)OCC(CC)CCCC	0			1+	NA	321.22
+CCMSLIB00000842086	MassbankEU:SM883402 DCOIT|4,5-dichloro-2-octyl-1,2-thiazol-3-one [M+H]+	CCCCCCCCN1SC(Cl)=C(Cl)C1=O	0			1+	NA	282.048
+CCMSLIB00000842087	MassbankEU:SM883551 Perfluorooctanesulfonamide|1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonamide [M-H]-	NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	497.946
+CCMSLIB00000842088	MassbankEU:SM883655 6:2 Fluorotelomer sulfonic acid|3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfonic acid [M-H]-	[H]C([H])(C([H])([H])S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	0			1+	NA	426.968
+CCMSLIB00000842089	MassbankEU:SM883701 Tetraglyme|1-methoxy-2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethane [M+H]+	COCCOCCOCCOCCOC	0			1+	NA	223.154
+CCMSLIB00000842090	MassbankEU:SM883903 4-(Dimethylamino)pyridine|4-Dimethylaminopyridine|N,N-dimethylpyridin-4-amine [M+H]+	CN(C)C1=CC=NC=C1	0			1+	NA	123.092
+CCMSLIB00000842091	MassbankEU:SM884001 7-Amino-4-methylcoumarin|7-amino-4-methylchromen-2-one [M+H]+	CC1=CC(=O)OC2=CC(N)=CC=C12	0			1+	NA	176.071
+CCMSLIB00000842092	MassbankEU:SM884101 2-(4-Morpholinyl)benzothiazole|4-(1,3-benzothiazol-2-yl)morpholine [M+H]+	C1CN(CCO1)C1=NC2=CC=CC=C2S1	0			1+	NA	221.074
+CCMSLIB00000842093	MassbankEU:SM884202 2-Morpholinothiobenzothiazole|2-(Morpholinothio)benzothiazole|4-(1,3-benzothiazol-2-ylsulfanyl)morpholine [M+H]+	C1CN(CCO1)SC1=NC2=CC=CC=C2S1	0			1+	NA	253.046
+CCMSLIB00000842094	MassbankEU:SM884302 7-Diethylamino-4-methylcoumarin|7-(Diethylamino)-4-methylchromen-2-one [M+H]+	CCN(CC)C1=CC=C2C(C)=CC(=O)OC2=C1	0			1+	NA	232.133
+CCMSLIB00000842095	MassbankEU:SM884401 Anthranilic acid|2-Azaniumylbenzoate [M+H]+	NC1=CC=CC=C1C(O)=O	0			1+	NA	138.055
+CCMSLIB00000842096	MassbankEU:SM884552 Fipronil sulfide|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfanyl)pyrazole-3-carbonitrile|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfanyl)pyr [M-H]-	C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)SC(F)(F)F)N)Cl)C(F)(F)F	0			1+	NA	418.936
+CCMSLIB00000842097	MassbankEU:SM884652 Fipronil sulfone|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfonyl)pyrazole-3-carbonitrile|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfonyl)pyr [M-H]-	C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)(=O)C(F)(F)F)N)Cl)C(F)(F)F	0			1+	NA	450.926
+CCMSLIB00000842098	MassbankEU:SM884701 N-Cyclohexyl-2-benzothiazol-amine|N-cyclohexyl-1,3-benzothiazol-2-amine [M+H]+	C1CCC(CC1)NC1=NC2=CC=CC=C2S1	0			1+	NA	233.111
+CCMSLIB00000842099	MassbankEU:SM884952 Fipronil desulfinyl|5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethyl)pyrazole-3-carbonitrile [M-H]-	NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)C(F)(F)F	0			1+	NA	386.964
+CCMSLIB00000579185	MassbankEU:UA004403 1-hydroxypyrene|pyren-1-ol [M+H]+	Oc4ccc2ccc1cccc3c1c2c4cc3	0			1+	NA	219.08
+CCMSLIB00000579186	MassbankEU:UA004501 3-hydroxybenzo(a)pyrene|benzo[a]pyren-3-ol [M+H]+	Oc5ccc3ccc2c1ccccc1cc4c2c3c5cc4	0			1+	NA	269.096
+CCMSLIB00000579187	MassbankEU:UA004502 3-hydroxybenzo(a)pyrene|benzo[a]pyren-3-ol [M-H]-	Oc5ccc3ccc2c1ccccc1cc4c2c3c5cc4	0			1+	NA	267.082
+CCMSLIB00000579188	MassbankEU:UA004503 3-hydroxybenzo(a)pyrene|benzo[a]pyren-3-ol [M+H]+	Oc5ccc3ccc2c1ccccc1cc4c2c3c5cc4	0			1+	NA	269.096
+CCMSLIB00000579189	MassbankEU:UA004504 3-hydroxybenzo(a)pyrene|benzo[a]pyren-3-ol [M-H]-	Oc5ccc3ccc2c1ccccc1cc4c2c3c5cc4	0			1+	NA	267.082
+CCMSLIB00000579190	MassbankEU:UA004601 1-Naphthol|naphthalen-1-ol [M+H]+	C1=CC=C2C(=C1)C=CC=C2O	0			1+	NA	145.065
+CCMSLIB00000579191	MassbankEU:UA004603 1-Naphthol|naphthalen-1-ol [M+H]+	C1=CC=C2C(=C1)C=CC=C2O	0			1+	NA	145.065
+CCMSLIB00000579192	MassbankEU:UA004604 1-Naphthol|naphthalen-1-ol [M-H]-	C1=CC=C2C(=C1)C=CC=C2O	0			1+	NA	143.05
+CCMSLIB00000579193	MassbankEU:UA004801 2-naphthoic acid|naphthalene-2-carboxylic acid [M+H]+	C1=CC=C2C=C(C=CC2=C1)C(=O)O	0			1+	NA	173.06
+CCMSLIB00000579194	MassbankEU:UA004802 2-naphthoic acid|naphthalene-2-carboxylic acid [M-H]-	C1=CC=C2C=C(C=CC2=C1)C(=O)O	0			1+	NA	171.045
+CCMSLIB00000579195	MassbankEU:UA004803 2-naphthoic acid|naphthalene-2-carboxylic acid [M+H]+	C1=CC=C2C=C(C=CC2=C1)C(=O)O	0			1+	NA	173.06
+CCMSLIB00000579196	MassbankEU:UA004804 2-naphthoic acid|naphthalene-2-carboxylic acid [M-H]-	C1=CC=C2C=C(C=CC2=C1)C(=O)O	0			1+	NA	171.045
+CCMSLIB00000579197	MassbankEU:UA004901 3,3`-dichlorobenzidine|4-(4-amino-3-chlorophenyl)-2-chloroaniline [M+H]+	Clc2cc(c1ccc(N)c(Cl)c1)ccc2N	0			1+	NA	253.029
+CCMSLIB00000579198	MassbankEU:UA004903 3,3`-dichlorobenzidine|4-(4-amino-3-chlorophenyl)-2-chloroaniline [M+H]+	Clc2cc(c1ccc(N)c(Cl)c1)ccc2N	0			1+	NA	253.029
+CCMSLIB00000579199	MassbankEU:UA005001 Caffeine|1,3,7-trimethylpurine-2,6-dione [M+H]+	Cn1cnc2c1c(=O)n(c(=O)n2C)C	0			1+	NA	195.088
+CCMSLIB00000579200	MassbankEU:UA005003 Caffeine|1,3,7-trimethylpurine-2,6-dione [M+H]+	Cn1cnc2c1c(=O)n(c(=O)n2C)C	0			1+	NA	195.088

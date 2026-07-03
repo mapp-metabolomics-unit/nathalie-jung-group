@@ -1,0 +1,276 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00000079127	"""3-[1-[4-(4-fluorophenyl)-4-oxobutyl]-3,6-dihydro-2H-pyridin-4-yl]-1H-benzimidazol-2-one"" [M+H]"	Oc1nc2ccccc2n1C3=CCN(CCCC(=O)c4ccc(F)cc4)CC3	0			1+	NA	380.177
+CCMSLIB00000079236	"""8-Chloro-11-piperidin-4-ylidene-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine"" [M+2H]"	Clc1ccc2C(=C3CCNCC3)c4ncccc4CCc2c1	0			1+	NA	156.07
+CCMSLIB00000079217	IMATINIB MESYLATE [M+2H]	CN1CCN(Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3)CC1	0			1+	NA	247.637
+CCMSLIB00000078902	NAFTOPIDIL [M+H]	COc1ccccc1N2CCN(CC(O)COc3cccc4ccccc34)CC2	0			1+	NA	393.217
+CCMSLIB00000078903	NAFTOPIDIL [M+2H]	COc1ccccc1N2CCN(CC(O)COc3cccc4ccccc34)CC2	0			1+	NA	197.113
+CCMSLIB00000079229	R(+)-SCH-23390 hydrochloride [M+H]	CN1CCc2cc(Cl)c(O)cc2[C@H](C1)c3ccccc3	0			1+	NA	288.115
+CCMSLIB00000078905	BICALUTAMIDE [M+H]	CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc2ccc(C#N)c(c2)C(F)(F)F	0			1+	NA	431.068
+CCMSLIB00000079080	Lofexidine hydrochloride [M+H]	CC(Oc1c(Cl)cccc1Cl)C2=NCCN2	0			1+	NA	259.04
+CCMSLIB00000079178	Trazodone hydrochloride 25332-39-2 [M+H]	Clc1cccc(c1)N2CCN(CCCn3nc4ccccn4c3=O)CC2	0			1+	NA	372.159
+CCMSLIB00000079077	VARDENAFIL CITRATE [M+2H]	CCCc1nc(C)c2c(O)nc(nn12)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC)CC4	0			1+	NA	245.118
+CCMSLIB00000079125	GR 89696 [M+H]	COC(=O)N1CCN(C(CN2CCCC2)C1)C(=O)Cc3ccc(Cl)c(Cl)c3	0			1+	NA	414.135
+CCMSLIB00000079096	Rimcazole [M+H]	C[C@H]1CN(CCCn2c3ccccc3c4ccccc24)C[C@@H](C)N1	0			1+	NA	322.228
+CCMSLIB00000078911	Nobiletin [M+H]	COc1ccc(cc1OC)c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2	0			1+	NA	403.139
+CCMSLIB00000078912	Nobiletin [M+Na]	COc1ccc(cc1OC)c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2	0			1+	NA	425.121
+CCMSLIB00000079247	CCPA [M+H]	OC[C@H]1O[C@H]([C@@H](O)C1O)n2cnc3c(NC4CCCC4)nc(Cl)nc23	0			1+	NA	370.128
+CCMSLIB00000078914	BENIDIPINE HCl [M+H]	CO/C(=C\1/[C@H](C(=C(C)N=C1C)C(=O)O[C@@H]2CCCN(Cc3ccccc3)C2)c4cccc(c4)[N+](=O)[O-])/O	0			1+	NA	506.229
+CCMSLIB00000079075	501-36-0 [M+H]	Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1	0			1+	NA	229.086
+CCMSLIB00000078916	FINASTERIDE [M+H]	CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C	0			1+	NA	373.285
+CCMSLIB00000078917	"""(7R)-7,15,17-trihydroxy-11-methyl-12-oxabicyclo[12.4.0]octadeca-1(14),15,17-trien-13-one"" [M+H]"	CC1CCC[C@H](O)CCCCCc2cc(O)cc(O)c2C(=O)O1	0			1+	NA	323.185
+CCMSLIB00000078918	AMLEXANOX [M+H]	CC(C)c1ccc2oc3nc(N)c(cc3c(=O)c2c1)C(=O)O	0			1+	NA	299.103
+CCMSLIB00000078919	BENAZEPRIL HYDROCHLORIDE [M+H]	CCOC(=O)[C@H](CCc1ccccc1)N[C@H]2CCc3ccccc3N(CC(=O)O)C2=O	0			1+	NA	425.207
+CCMSLIB00000078920	(E)-3-[4-(imidazol-1-ylmethyl)phenyl]prop-2-enoic acid [M+H]	OC(=O)/C=C/c1ccc(Cn2ccnc2)cc1	0			1+	NA	229.097
+CCMSLIB00000078921	"""7-nitro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"" [M+H]"	[O-][N+](=O)c1ccc2NC(=O)CN=C(c3ccccc3)c2c1	0			1+	NA	282.087
+CCMSLIB00000079227	SB 205607 [M+2H]	CN1CC[C@@]2(Cc3nc4ccccc4cc3C[C@H]2C1)c5cccc(O)c5	0			1+	NA	173.102
+CCMSLIB00000078923	BENPROPERINE PHOSPHATE [M+H]	CC(COc1ccccc1Cc2ccccc2)N3CCCCC3	0			1+	NA	310.217
+CCMSLIB00000078924	OLANZAPINE [M+2H]	CN1CCN(CC1)C2=Nc3ccccc3Nc4sc(C)cc24	0			1+	NA	157.078
+CCMSLIB00000078925	OLANZAPINE [M+H]	CN1CCN(CC1)C2=Nc3ccccc3Nc4sc(C)cc24	0			1+	NA	313.148
+CCMSLIB00000078926	RISPERIDONE [M+H]	Cc1nc2CCCCn2c(=O)c1CCN3CCC(CC3)c4noc5cc(F)ccc45	0			1+	NA	411.219
+CCMSLIB00000079009	BISOPROLOL FUMARATE [M+H]	CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1	0			1+	NA	326.233
+CCMSLIB00000078928	ZOLPIDEM TARTRATE [M+H]	CN(C)C(=O)Cc1c(nc2ccc(C)cn12)c3ccc(C)cc3	0			1+	NA	308.176
+CCMSLIB00000078929	LATANOPROST [M+H]	CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCc2ccccc2	0			1+	NA	433.295
+CCMSLIB00000079224	Irinotecan hydrochloride [M+H]	CCc1c2Cn3c(cc4c(COC(=O)[C@]4(O)CC)c3=O)-c2nc5ccc(OC(=O)N6CCC(CC6)N7CCCCC7)cc15	0			1+	NA	587.286
+CCMSLIB00000079185	Prazosin [M+H]	COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)c4ccco4	0			1+	NA	384.167
+CCMSLIB00000079213	VINDESINE SULFATE [M+2H]	CC[C@]1(O)C[C@H]2CN(C1)CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](O)[C@]7(O)C(=O)N	0			1+	NA	377.713
+CCMSLIB00000078933	Nefazodone [M+H]	CCc1nn(CCCN2CCN(CC2)c3cccc(Cl)c3)c(=O)n1CCOc4ccccc4	0			1+	NA	470.232
+CCMSLIB00000079183	Mesoridazine [M+H]	CN1CCCCC1CCN2c3ccccc3Sc4ccc(cc24)S(=O)C	0			1+	NA	387.156
+CCMSLIB00000078936	ICARIIN [M+H]	COc1ccc(cc1)c2oc3c(CC=C(C)C)c(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)cc(O)c3c(=O)c2O[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O	0			1+	NA	677.244
+CCMSLIB00000078937	35212-22-7 [M+H]	CC(C)Oc1ccc2c(=O)c(coc2c1)c3ccccc3	0			1+	NA	281.117
+CCMSLIB00000078938	RIFABUTIN [M+H]	CO[C@H]1C=CO[C@@]2(C)Oc3c(C2=O)c4c5=NC6(CCN(CC(C)C)CC6)N=c5c(NC(=O)C(=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(=O)C)[C@@H]1C)C)c(O)c4c(O)c3C	0			1+	NA	847.449
+CCMSLIB00000079141	QUETIAPINE HEMIFUMARATE [M+H]	OCCOCCN1CCN(CC1)C2=Nc3ccccc3Sc4ccccc24	0			1+	NA	384.174
+CCMSLIB00000078940	SULFASALAZINE [M+H]	OC(=O)c1cc(N=Nc2ccc(cc2)S(=O)(=O)Nc3ccccn3)ccc1O	0			1+	NA	399.076
+CCMSLIB00000078941	"""(3R,5S)-3,5-dimethyladamantan-1-amine"" [M+H]"	C[C@@]1(C[C@@H]2C[C@]3(C)C1)C[C@](N)(C2)C3	0			1+	NA	180.175
+CCMSLIB00000079210	"""N'-benzyl-N,N-dimethyl-N'-pyridin-2-ylethane-1,2-diamine"" [M+H]"	CN(C)CCN(Cc1ccccc1)c2ccccn2	0			1+	NA	256.181
+CCMSLIB00000079184	Naltrindole [M+H]	Oc1ccc2CC3N(CC4CC4)CC[C@]5([C@H]6Oc1c25)[C@@]3(O)Cc7c6[nH]c8ccccc78	0			1+	NA	415.202
+CCMSLIB00000078944	TOPIRAMATE [M+H]	CC1(C)O[C@@H]2CO[C@@]3(COS(=O)(=O)N)OC(C)(C)O[C@H]3[C@@H]2O1	0			1+	NA	340.106
+CCMSLIB00000078988	LETROZOLE [M+H]	N#Cc1ccc(cc1)C(c2ccc(C#N)cc2)n3cncn3	0			1+	NA	286.109
+CCMSLIB00000078946	OXAPROZIN [M+H]	OC(=O)CCc1nc(c(o1)c2ccccc2)c3ccccc3	0			1+	NA	294.112
+CCMSLIB00000079137	"""3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione"" [M+H]"	CC(=O)CCCCn1c(=O)n(C)c2ncn(C)c2c1=O	0			1+	NA	279.145
+CCMSLIB00000079147	Ifenprodil [M+H]	CC(C(O)c1ccc(O)cc1)N2CCC(Cc3ccccc3)CC2	0			1+	NA	326.211
+CCMSLIB00000078949	Carvedilol [M+H]	COc1ccccc1OCCNCC(O)COc2cccc3[nH]c4ccccc4c23	0			1+	NA	407.197
+CCMSLIB00000078950	NELFINAVIR MESYLATE [M+H]	Cc1c(O)cccc1C(=O)N[C@@H](CSc2ccccc2)[C@H](O)CN3C[C@H]4CCCC[C@H]4C[C@H]3C(=O)NC(C)(C)C	0			1+	NA	568.32
+CCMSLIB00000078951	ARGATROBAN [M+H]	C[C@@H]1CCN([C@H](C1)C(=O)O)C(=O)[C@H](CCCN=C(N)N)NS(=O)(=O)c2cccc3CC(C)CNc23	0			1+	NA	509.254
+CCMSLIB00000079171	Indatraline [M+H]	CN[C@@H]1C[C@H](c2ccccc12)c3ccc(Cl)c(Cl)c3	0			1+	NA	292.065
+CCMSLIB00000078953	VORICONAZOLE [M+H]	C[C@@H](c1ncncc1F)[C@](O)(Cn2cncn2)c3ccc(F)cc3F	0			1+	NA	350.122
+CCMSLIB00000078998	CLARITHROMYCIN [M+H]	CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]3O[C@H](C)C[C@@H]([C@H]3O)N(C)C)[C@@](C)(C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O)OC	0			1+	NA	748.484
+CCMSLIB00000078955	Rolipram aka 4-(3-cyclopentyloxy-4-methoxyphenyl)pyrrolidin-2-one M+H	COc1ccc(cc1OC2CCCC2)C3CNC(=O)C3	0			1+	NA	276.159
+CCMSLIB00000079026	CEFPODOXIME PROXETIL [M+H]	COCC1=C(N2[C@H](SC1)[C@H](NC(=O)C(=NOC)c3csc(N)n3)C2=O)C(=O)OC(C)OC(=O)OC(C)C	0			1+	NA	558.132
+CCMSLIB00000078957	FLUTICASONE PROPIONATE [M+H]	CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C)C(=O)SCF	0			1+	NA	501.192
+CCMSLIB00000079222	VINCRISTINE SULFATE [M+H]	CC[C@]1(O)C[C@@H]2CN(C1)CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C=O)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](OC(=O)C)[C@]7(O)C(=O)OC	0			1+	NA	825.407
+CCMSLIB00000078959	VALDECOXIB [M+H]	Cc1onc(c1c2ccc(cc2)S(=O)(=O)N)c3ccccc3	0			1+	NA	315.08
+CCMSLIB00000079052	"""(6R,7R)-7-[[(2R)-2-amino-2-phenylacetyl]amino]-3-chloro-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"" [M+H]"	N[C@@H](C(=O)N[C@H]1[C@H]2SCC(=C(N2C1=O)C(=O)O)Cl)c3ccccc3	0			1+	NA	368.047
+CCMSLIB00000079226	Metylperon [M+H]	CC1CCN(CCCC(=O)c2ccc(F)cc2)CC1	0			1+	NA	264.176
+CCMSLIB00000078963	MOSAPRIDE CITRATE [M+H]	CCOc1cc(N)c(Cl)cc1C(=O)NCC2CN(Cc3ccc(F)cc3)CCO2	0			1+	NA	422.164
+CCMSLIB00000079114	anagrelide hydrochloride [M+H]	Clc1ccc2N=C3NC(=O)CN3Cc2c1Cl	0			1+	NA	256.004
+CCMSLIB00000078966	Ranolazine dihydrochloride [M+H]	COc1ccccc1OCC(O)CN2CCN(CC(=O)Nc3c(C)cccc3C)CC2	0			1+	NA	428.254
+CCMSLIB00000079034	Buflomedil HCl [M+H]	COc1cc(OC)c(C(=O)CCCN2CCCC2)c(OC)c1	0			1+	NA	308.186
+CCMSLIB00000078968	LEVOSULPIRIDE [M+H]	CCN1CCC[C@H]1CNC(=O)c2cc(ccc2OC)S(=O)(=O)N	0			1+	NA	342.148
+CCMSLIB00000079172	Trifluoperazine aka 10-[3-(4-methylpiperazin-1-yl)propyl]-2-(trifluoromethyl)phenothiazine M+H	CN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1	0			1+	NA	408.172
+CCMSLIB00000078971	DOCETAXEL [M+Na]	CC(=O)O[C@]12CO[C@@H]2C[C@H](O)[C@]3(C)[C@@H]1[C@H](OC(=O)c4ccccc4)[C@@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c6ccccc6)C(=C([C@@H](O)C3=O)C5(C)C)C	0			1+	NA	830.336
+CCMSLIB00000078972	DOCETAXEL [M+H]	CC(=O)O[C@]12CO[C@@H]2C[C@H](O)[C@]3(C)[C@@H]1[C@H](OC(=O)c4ccccc4)[C@@]5(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c6ccccc6)C(=C([C@@H](O)C3=O)C5(C)C)C	0			1+	NA	808.354
+CCMSLIB00000078973	"Methyltestosterone aka ""(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"" M+H"	C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C	0			1+	NA	303.232
+CCMSLIB00000078974	FLUBENDAZOLE [M+H]	COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccc(F)cc3	0			1+	NA	314.094
+CCMSLIB00000078975	PICEID [M+H]	OC[C@H]1O[C@@H](Oc2cc(O)cc(/C=C/c3ccc(O)cc3)c2)[C@H](O)[C@@H](O)[C@@H]1O	0			1+	NA	391.139
+CCMSLIB00000079271	vinorelbine??tartrate [M+H]	CCC1=C[C@H]2CN(C1)Cc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](OC(=O)C)[C@]7(O)C(=O)OC	0			1+	NA	779.402
+CCMSLIB00000079237	"""8-Chloro-11-piperidin-4-ylidene-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine"" [M+H]"	Clc1ccc2C(=C3CCNCC3)c4ncccc4CCc2c1	0			1+	NA	311.131
+CCMSLIB00000079164	"""9-AMINO-1,2,3,4-TETRAHYDROACRIDINE HYDROCHLORIDE"" [M+H]"	Nc1c2CCCCc2nc3ccccc13	0			1+	NA	199.123
+CCMSLIB00000079108	"""3-[2-[4-(4-fluorobenzoyl)piperidin-1-yl]ethyl]-2-methylpyrido[1,2-a]pyrimidin-4-one"" [M+H]"	Cc1nc2ccccn2c(=O)c1CCN3CCC(CC3)C(=O)c4ccc(F)cc4	0			1+	NA	394.193
+CCMSLIB00000078980	HONOKIOL [M+H]	Oc1ccc(cc1CC=C)c2cc(CC=C)ccc2O	0			1+	NA	267.138
+CCMSLIB00000078983	HALOMETASONE MONOHYDRATE [M+H]	C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C(=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO)Cl	0			1+	NA	445.159
+CCMSLIB00000078984	TACROLIMUS [M+Na]	CO[C@@H]1C[C@@H](CC[C@H]1O)/C=C(\C)/[C@H]2OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@]4(O)O[C@@H]([C@H](C[C@H]4C)OC)[C@H](C[C@@H](C)CC(=C[C@@H](CC=C)C(=O)C[C@H](O)[C@H]2C)C)OC	0			1+	NA	826.471
+CCMSLIB00000079169	"""Benzeneacetic acid, Alpha-(hydroxymethyl)-, 9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]non-7-yl ester, [7(S)-(1Alpha,2 ,4 ,5Alpha,7 )]- [CAS]"" [M+H]"	CN1[C@H]2CC(C[C@@H]1[C@H]3O[C@H]32)OC(=O)[C@H](CO)c4ccccc4	0			1+	NA	304.154
+CCMSLIB00000078986	RAMIPRIL [M+H]	CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N2[C@@H](C[C@@H]3CCC[C@@H]32)C(=O)O	0			1+	NA	417.238
+CCMSLIB00000079193	"""3(2H)-Pyridazinone, 6-[4-(difluoromethoxy)-3-methoxyphenyl]- [CAS]"" [M+H]"	COc1cc(ccc1OC(F)F)c2ccc(O)nn2	0			1+	NA	269.073
+CCMSLIB00000078989	N-Ethyl-o-crotonotoluidide [M+H]	CCN(C(=O)/C=C/C)c1ccccc1C	0			1+	NA	204.138
+CCMSLIB00000078990	MECILLINAM [M+H]	CC1(C)S[C@@H]2[C@H](N=CN3CCCCCC3)C(=O)N2[C@H]1C(=O)O	0			1+	NA	326.153
+CCMSLIB00000078991	TRICLABENDAZOLE [M+H]	CSc1nc2cc(Cl)c(Oc3cccc(Cl)c3Cl)cc2[nH]1	0			1+	NA	358.957
+CCMSLIB00000078992	Nifekalant hydrochloride [M+H]	Cn1c(NCCN(CCO)CCCc2ccc(cc2)[N+](=O)[O-])cc(=O)n(C)c1=O	0			1+	NA	406.208
+CCMSLIB00000079269	SAQUINAVIR MESYLATE [M+2H]	CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](CC(=O)N)NC(=O)c4ccc5ccccc5n4	0			1+	NA	336.2
+CCMSLIB00000079189	"""N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]"" [M+H]"	CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O	0			1+	NA	455.179
+CCMSLIB00000079039	4-methoxy-2-(5-methoxy-3-methylpyrazol-1-yl)-6-methylpyrimidine [M+H]	COc1cc(C)nn1c2nc(C)cc(OC)n2	0			1+	NA	235.119
+CCMSLIB00000079270	vinorelbine??tartrate [M+2H]	CCC1=C[C@H]2CN(C1)Cc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](OC(=O)C)[C@]7(O)C(=O)OC	0			1+	NA	390.205
+CCMSLIB00000078997	ROFECOXIB [M+H]	CS(=O)(=O)c1ccc(cc1)C2=C(C(=O)OC2)c3ccccc3	0			1+	NA	315.069
+CCMSLIB00000079203	"Prochlorperazine Edisylate aka ""10H-Phenothiazine, 2-chloro-10-[3-(4-methyl-1-piperazinyl)propyl- [CAS]"" M+H"	CN1CCN(CCCN2c3ccccc3Sc4ccc(Cl)cc24)CC1	0			1+	NA	374.145
+CCMSLIB00000079175	"""Glycine, N-[2-[(acetylthio)methyl]-1-oxo-3-phenylpropyl]-,phenylmethyl ester [CAS]"" [M+H]"	CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc2ccccc2	0			1+	NA	386.142
+CCMSLIB00000079194	URAPIDIL HYDROCHLORIDE [M+H]	COc1ccccc1N2CCN(CCCNc3cc(=O)n(C)c(=O)n3C)CC2	0			1+	NA	388.234
+CCMSLIB00000079002	19-Nortestosterone [M+H]	C[C@@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]2CC[C@@H]1O	0			1+	NA	275.201
+CCMSLIB00000079004	ORLISTAT [M+Na]	CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O	0			1+	NA	518.382
+CCMSLIB00000079005	ORLISTAT [M+H]	CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O	0			1+	NA	496.4
+CCMSLIB00000079223	Irinotecan hydrochloride [M+2H]	CCc1c2Cn3c(cc4c(COC(=O)[C@]4(O)CC)c3=O)-c2nc5ccc(OC(=O)N6CCC(CC6)N7CCCCC7)cc15	0			1+	NA	294.147
+CCMSLIB00000079007	PAROXETINE [M+H]	CN1CC[C@H]([C@H](COc2ccc3OCOc3c2)C1)c4ccc(F)cc4	0			1+	NA	344.166
+CCMSLIB00000079008	ARTESUNATE [M+Na]	C[C@@H]1CC[C@H]2[C@@H](C)[C@@H](OC(=O)CCC(=O)O)O[C@@H]3O[C@@]4(C)CC[C@@H]1[C@@]23OO4	0			1+	NA	407.168
+CCMSLIB00000079010	ARIPIPRAZOLE [M+H]	Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl	0			1+	NA	448.155
+CCMSLIB00000079011	"""[(8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate"" [M+H]"	CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C)C(=O)C	0			1+	NA	385.237
+CCMSLIB00000079012	N-[4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl]methanesulfonamide [M+H]	CC(C)NCC(O)c1ccc(NS(=O)(=O)C)cc1	0			1+	NA	273.127
+CCMSLIB00000079013	"""(E)-1-N'-[2-[[2-[(dimethylamino)methyl]-1,3-thiazol-4-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine"" [M+H]"	CN/C(=C\[N+](=O)[O-])/NCCSCc1csc(CN(C)C)n1	0			1+	NA	332.121
+CCMSLIB00000079014	LEVOFLOXACIN [M+H]	C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc4c(=O)c(cn1c24)C(=O)O	0			1+	NA	362.151
+CCMSLIB00000079088	Fluperlapine [M+H]	CN1CCN(CC1)C2=Nc3cc(F)ccc3Cc4ccccc24	0			1+	NA	310.171
+CCMSLIB00000079016	Amisulpride [M+H]	CCN1CCCC1CNC(=O)c2cc(c(N)cc2OC)S(=O)(=O)CC	0			1+	NA	370.18
+CCMSLIB00000079018	Itraconazole!2-butan-2-yl-4-[4-[4-[4-[[2-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one M+H	CCC(C)n1ncn(c2ccc(cc2)N3CCN(CC3)c4ccc(OCC5COC(Cn6cncn6)(O5)c7ccc(Cl)cc7Cl)cc4)c1=O	0			1+	NA	353.127
+CCMSLIB00000079019	"""2-butan-2-yl-4-[4-[4-[4-[[2-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one"" [M+Na]"	CCC(C)n1ncn(c2ccc(cc2)N3CCN(CC3)c4ccc(OCC5COC(Cn6cncn6)(O5)c7ccc(Cl)cc7Cl)cc4)c1=O	0			1+	NA	727.229
+CCMSLIB00000079020	"""2-butan-2-yl-4-[4-[4-[4-[[2-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one"" [M+H]"	CCC(C)n1ncn(c2ccc(cc2)N3CCN(CC3)c4ccc(OCC5COC(Cn6cncn6)(O5)c7ccc(Cl)cc7Cl)cc4)c1=O	0			1+	NA	705.247
+CCMSLIB00000079021	EZETIMIBE [M+H]	O[C@@H](CC[C@@H]1[C@H](N(C1=O)c2ccc(F)cc2)c3ccc(O)cc3)c4ccc(F)cc4	0			1+	NA	410.156
+CCMSLIB00000079121	TEGASEROD MALEATE [M+H]	CCCCCN=C(N)NN=Cc1c[nH]c2ccc(OC)cc12	0			1+	NA	302.198
+CCMSLIB00000079032	CETRAXATE HCl [M+H]	NC[C@H]1CC[C@@H](CC1)C(=O)Oc2ccc(CCC(=O)O)cc2	0			1+	NA	306.17
+CCMSLIB00000079024	rufloxacin monohydrochloride [M+H]	CN1CCN(CC1)c2c(F)cc3c(=O)c(cn4CCSc2c43)C(=O)O	0			1+	NA	364.113
+CCMSLIB00000079025	"""(8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one"" [M+H]"	CC[C@@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]2CC[C@@]1(O)C#C	0			1+	NA	313.216
+CCMSLIB00000079027	TIAGABINE HCl [M+H]	Cc1ccsc1C(=CCCN2CCC[C@H](C2)C(=O)O)c3sccc3C	0			1+	NA	376.14
+CCMSLIB00000079028	"""(5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,4,5,6,7,8,9,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-3-one"" [M+H]"	C[C@]1(O)CC[C@H]2[C@@H]3CC[C@H]4CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C	0			1+	NA	305.247
+CCMSLIB00000079262	Ticlopidine Hydrochloride [M+H]	Clc1ccccc1CN2CCc3sccc3C2	0			1+	NA	264.061
+CCMSLIB00000079047	"""(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,12,14,15,16-decahydrocyclopenta[a]phenanthrene-3,11-dione"" [M+H]"	C[C@@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]2CC[C@]1(O)C(=O)CO	0			1+	NA	361.201
+CCMSLIB00000079031	IDEBENONE [M+H]	COC1=C(OC)C(=O)C(=C(C)C1=O)CCCCCCCCCCO	0			1+	NA	339.217
+CCMSLIB00000079033	PEROSPIRONE HCl [M+H]	O=C1[C@H]2CCCC[C@H]2C(=O)N1CCCCN3CCN(CC3)c4nsc5ccccc45	0			1+	NA	427.216
+CCMSLIB00000079035	idarubicin hydrochloride [M+H]	C[C@@H]1O[C@H](C[C@H](N)[C@@H]1O)O[C@H]2C[C@@](O)(Cc3c(O)c4C(=O)c5ccccc5C(=O)c4c(O)c23)C(=O)C	0			1+	NA	498.176
+CCMSLIB00000079036	alosetron??monohydrochloride [M+H]	Cc1[nH]cnc1CN2CCc3c(C2=O)c4ccccc4n3C	0			1+	NA	295.155
+CCMSLIB00000079115	Milnacipran [M+H]	CCN(CC)C(=O)[C@@]1(C[C@@H]1CN)c2ccccc2	0			1+	NA	247.18
+CCMSLIB00000079038	Tryptoline  M+H	C1Cc2c(CN1)[nH]c3ccccc23	0			1+	NA	173.107
+CCMSLIB00000079040	Homoveratrylamine [M+H]	COc1ccc(CCN)cc1OC	0			1+	NA	182.118
+CCMSLIB00000079041	"""(4R)-4-[(5S,8R,9S,10S,13R,14S,17R)-10,13-dimethyl-3,7,12-trioxo-1,2,4,5,6,8,9,11,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pentanoic acid"" [M+H]"	C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@H]3[C@H](CC(=O)[C@]12C)[C@@]4(C)CCC(=O)C[C@H]4CC3=O	0			1+	NA	403.248
+CCMSLIB00000079042	"""(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-17-hydroxy-6,10,13-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"" [M+H]"	C[C@H]1C[C@H]2[C@@H]3CC[C@](O)(C(=O)C)[C@@]3(C)CC[C@@H]2[C@@]4(C)CCC(=O)C=C14	0			1+	NA	345.242
+CCMSLIB00000079043	Nafadotride [M+H]	CCCCN1CCCC1CNC(=O)c2cc(C#N)c3ccccc3c2OC	0			1+	NA	366.218
+CCMSLIB00000079106	Doxylamine  M+H	CN(C)CCOC(C)(c1ccccc1)c2ccccn2	0			1+	NA	271.18
+CCMSLIB00000079045	N-[4-[1-[2-(6-methylpyridin-2-yl)ethyl]piperidine-4-carbonyl]phenyl]methanesulfonamide [M+2H]	Cc1cccc(CCN2CCC(CC2)C(=O)c3ccc(NS(=O)(=O)C)cc3)n1	0			1+	NA	201.596
+CCMSLIB00000079046	Tramadol [M+H]	COc1cccc(c1)[C@@]2(O)CCCC[C@@H]2CN(C)C	0			1+	NA	264.196
+CCMSLIB00000079048	TOREMIFENE CITRATE [M+H]	CN(C)CCOc1ccc(cc1)/C(=C(/CCCl)\c2ccccc2)/c3ccccc3	0			1+	NA	406.193
+CCMSLIB00000079154	Fluvoxamine [M+H]	COCCCCC(=NOCCN)c1ccc(cc1)C(F)(F)F	0			1+	NA	319.163
+CCMSLIB00000079089	ANASTROZOLE [M+H]	CC(C)(C#N)c1cc(Cn2cncn2)cc(c1)C(C)(C)C#N	0			1+	NA	294.171
+CCMSLIB00000079218	IMATINIB MESYLATE [M+H]	CN1CCN(Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3)CC1	0			1+	NA	494.266
+CCMSLIB00000079053	Pinacidil monohydrate [M+H]	CC(N=C(NC#N)Nc1ccncc1)C(C)(C)C	0			1+	NA	246.171
+CCMSLIB00000079054	"""(8S,9R,10S,11S,13S,14S,16R,17S)-9-fluoro-11-hydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-7,8,11,12,14,15,16,17-octahydro-6H-cyclopenta[a]phenanthren-3-one"" [M+H]"	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@H]1C(=O)CO	0			1+	NA	377.212
+CCMSLIB00000079155	"""N,N'-DIACETYL-1,6-DIAMINOHEXANE"" [M+H]"	CC(=O)NCCCCCCNC(=O)C	0			1+	NA	201.16
+CCMSLIB00000079056	"""2H-Indol-2-one, 1,3-dihydro-1-phenyl-3,3-bis(4-pyridinylmethyl)- [CAS]"" [M+2H]"	O=C1N(c2ccccc2C1(Cc3ccncc3)Cc4ccncc4)c5ccccc5	0			1+	NA	196.592
+CCMSLIB00000079142	"""1H-Imidazole-5-carboxylic acid, 1-(1-phenylethyl)-, ethyl ester, (R)- [CAS]"" [M+H]"	CCOC(=O)c1cncn1[C@H](C)c2ccccc2	0			1+	NA	245.128
+CCMSLIB00000079058	GOSERELIN ACETATE [M+2H]	CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc4c[nH]cn4)NC(=O)C5CCC(=O)N5)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N6CCCC6C(=O)NNC(=O)N	0			1+	NA	635.329
+CCMSLIB00000079059	Palonosetron hydrochloride [M+H]	O=C1N(C[C@H]2CCCc3cccc1c23)[C@@H]4CN5CCC4CC5	0			1+	NA	297.196
+CCMSLIB00000079060	Reichsteins substance S [M+H]	CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO	0			1+	NA	347.222
+CCMSLIB00000079061	DEXCHLORPHENIRAMINE MALEATE [M+H]	CN(C)CC[C@@H](c1ccc(Cl)cc1)c2ccccn2	0			1+	NA	275.131
+CCMSLIB00000079103	DEXBROMPHENIRAMINE MALEATE [M+2H]	CN(C)CC[C@@H](c1ccc(Br)cc1)c2ccccn2	0			1+	NA	160.044
+CCMSLIB00000079063	Beclomethasone [M+H]	CC1CC2C3CCC4=CC(=O)C=CC4(C)[C@@]3(Cl)C(O)CC2(C)C1(O)C(=O)CO	0			1+	NA	409.178
+CCMSLIB00000079148	Zacopride [M+H]	COc1cc(N)c(Cl)cc1C(=O)NC2CN3CCC2CC3	0			1+	NA	310.132
+CCMSLIB00000079066	SECOISOLARICIRESINOL [M+H]	COc1cc(C[C@@H](CO)[C@H](CO)Cc2ccc(O)c(OC)c2)ccc1O	0			1+	NA	363.18
+CCMSLIB00000079168	Duloxetine [M+H]	CNCC[C@H](Oc1cccc2ccccc12)c3cccs3	0			1+	NA	298.126
+CCMSLIB00000079069	Guanidine [M+H]	CCC(C)(C)NC(=NC#N)Nc1cccnc1	0			1+	NA	232.156
+CCMSLIB00000079070	73590-58-6 [M+H]	COc1ccc2[nH]c(nc2c1)S(=O)Cc3ncc(C)c(OC)c3C	0			1+	NA	346.122
+CCMSLIB00000079111	SUMATRIPTAN SUCCINATE [M+H]	CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1	0			1+	NA	296.143
+CCMSLIB00000079072	50-22-6 [M+H]	C[C@@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]2CC[C@@H]1C(=O)CO	0			1+	NA	347.222
+CCMSLIB00000079265	ITOPRIDE HCl [M+H]	COc1ccc(cc1OC)C(=O)NCc2ccc(OCCN(C)C)cc2	0			1+	NA	359.197
+CCMSLIB00000079074	Haloperidol [M+H]	OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Cl)cc3	0			1+	NA	376.147
+CCMSLIB00000079076	VARDENAFIL CITRATE [M+H]	CCCc1nc(C)c2c(O)nc(nn12)c3cc(ccc3OCC)S(=O)(=O)N4CCN(CC)CC4	0			1+	NA	489.228
+CCMSLIB00000079132	Chlorpheniramine [M+H]	CN(C)CCC(c1ccc(Cl)cc1)c2ccccn2	0			1+	NA	275.131
+CCMSLIB00000079082	AM-251 [M+H]	Cc1c(nn(c1c2ccc(I)cc2)c3ccc(Cl)cc3Cl)C(=O)NN4CCCCC4	0			1+	NA	555.021
+CCMSLIB00000079083	Zolmitriptan [M+H]	CN(C)CCc1c[nH]c2ccc(C[C@H]3COC(=O)N3)cc12	0			1+	NA	288.171
+CCMSLIB00000079085	TIBOLONE [M+H]	C[C@@H]1CC2=C(CCC(=O)C2)[C@H]3CC[C@@]4(C)[C@@H](CC[C@@]4(O)C#C)[C@H]13	0			1+	NA	313.216
+CCMSLIB00000079086	"""3-O-(2-methoxyethyl) 5-O-propan-2-yl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"" [M+H]"	COCCO/C(=C\1/C(C(=C(C)N=C1C)C(=O)OC(C)C)c2cccc(c2)[N+](=O)[O-])/O	0			1+	NA	419.181
+CCMSLIB00000079240	"""N-[3-(3-cyanopyrazolo[1,5-a]pyrimidin-7-yl)phenyl]-N-ethylacetamide"" [M+H]"	CCN(C(=O)C)c1cccc(c1)c2ccnc3c(C#N)cnn23	0			1+	NA	306.135
+CCMSLIB00000079092	OLOPATADINE HYDROCHLORIDE [M+H]	CN(C)CC/C=C\1/c2ccccc2COc3ccc(CC(=O)O)cc13	0			1+	NA	338.175
+CCMSLIB00000079093	Brucine [M+Na]	COc1cc2N3[C@H]4[C@H]5[C@H]6C[C@@H]7N(CC[C@@]74c2cc1OC)CC6=CCO[C@H]5CC3=O	0			1+	NA	417.178
+CCMSLIB00000079140	"""7-chloro-3-methyl-4H-1$l^{6},2,4-benzothiadiazine 1,1-dioxide"" [M+H]"	CC1=NS(=O)(=O)c2cc(Cl)ccc2N1	0			1+	NA	230.999
+CCMSLIB00000079098	"""Benzo[a]phenanthridine-10,11-diol, 5,6,6a,7,8,12b-hexahydro-, trans- [CAS]"" [M+H]"	Oc1cc2CC[C@H]3NCc4ccccc4[C@@H]3c2cc1O	0			1+	NA	268.133
+CCMSLIB00000079248	Amlodipine [M+H]	CCO/C(=C\1/C(C(=C(C)N=C1COCCN)C(=O)OC)c2ccccc2Cl)/O	0			1+	NA	409.152
+CCMSLIB00000079101	60628-96-8 [M+H]	c1cn(cn1)C(c2ccccc2)c3ccc(cc3)c4ccccc4	0			1+	NA	311.154
+CCMSLIB00000079104	ZAFIRLUKAST [M+Na]	COc1cc(ccc1Cc2cn(C)c3ccc(NC(=O)OC4CCCC4)cc23)C(=O)NS(=O)(=O)c5ccccc5C	0			1+	NA	598.198
+CCMSLIB00000079105	ZAFIRLUKAST [M+H]	COc1cc(ccc1Cc2cn(C)c3ccc(NC(=O)OC4CCCC4)cc23)C(=O)NS(=O)(=O)c5ccccc5C	0			1+	NA	576.216
+CCMSLIB00000079107	LOTEPREDNOL ETABONATE [M+H]	CCOC(=O)O[C@@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C)C(=O)OCCl	0			1+	NA	467.183
+CCMSLIB00000079109	"""3-[2-[4-(4-fluorobenzoyl)piperidin-1-yl]ethyl]-2-methylpyrido[1,2-a]pyrimidin-4-one"" [M+2H]"	Cc1nc2ccccn2c(=O)c1CCN3CCC(CC3)C(=O)c4ccc(F)cc4	0			1+	NA	197.6
+CCMSLIB00000079110	3-(3-oxo-1H-indol-2-ylidene)-1H-indol-2-one [M+H]	Oc1[nH]c2ccccc2c1C3=Nc4ccccc4C3=O	0			1+	NA	263.082
+CCMSLIB00000079112	DIPHENOXYLATE [M+H]	CCOC(=O)C1(CCN(CCC(C#N)(c2ccccc2)c3ccccc3)CC1)c4ccccc4	0			1+	NA	453.254
+CCMSLIB00000079113	LOMERIZINE DiHCl [M+H]	COc1ccc(CN2CCN(CC2)C(c3ccc(F)cc3)c4ccc(F)cc4)c(OC)c1OC	0			1+	NA	469.23
+CCMSLIB00000079264	RIZATRIPTAN BENZOATE [M+H]	CN(C)CCc1c[nH]c2ccc(Cn3cncn3)cc12	0			1+	NA	270.172
+CCMSLIB00000079235	"Mirtazapine aka ""2-methyl-1,2,3,4,10,14b-hexahydrobenzo[c]pyrazino[1,2-a]pyrido[3,2-f]azepine"" M+H"	CN1CCN2C(C1)c3ccccc3Cc4cccnc24	0			1+	NA	266.165
+CCMSLIB00000079118	EXEMESTANE [M+H]	C[C@@]12CC[C@H]3[C@@H](CC(=C)C4=CC(=O)C=C[C@]34C)[C@@H]2CCC1=O	0			1+	NA	297.185
+CCMSLIB00000079119	Felbamate [M+H]	NC(=O)OCC(COC(=O)N)c1ccccc1	0			1+	NA	239.103
+CCMSLIB00000079120	EFAVIRENZ [M+H]	FC(F)(F)[C@]1(OC(=O)Nc2ccc(Cl)cc21)C#CC3CC3	0			1+	NA	316.035
+CCMSLIB00000079122	ISRADIPINE [M+H]	CO/C(=C\1/C(C(=C(C)N=C1C)C(=O)OC(C)C)c2cccc3nonc23)/O	0			1+	NA	372.155
+CCMSLIB00000079123	"""1H-Imidazol-2-amine, N-(2,6-dichlorophenyl)-4,5-dihydro- [CAS]"" [M+H]"	Clc1cccc(Cl)c1NC2=NCCN2	0			1+	NA	230.025
+CCMSLIB00000079124	BENACTYZINE HYDROCHLORIDE [M+H]	CCN(CC)CCOC(=O)C(O)(c1ccccc1)c2ccccc2	0			1+	NA	328.191
+CCMSLIB00000079126	NITAZOXANIDE [M+H]	CC(=O)Oc1ccccc1C(=O)Nc2ncc(s2)[N+](=O)[O-]	0			1+	NA	308.034
+CCMSLIB00000079128	IRBESARTAN [M+H]	CCCCC1=NC2(CCCC2)C(=O)N1Cc3ccc(cc3)c4ccccc4c5nn[nH]n5	0			1+	NA	429.24
+CCMSLIB00000079129	MILRINONE [M+H]	Cc1nc(O)c(C#N)cc1c2ccncc2	0			1+	NA	212.082
+CCMSLIB00000079130	VALSARTAN [M+Na]	CCCCC(=O)N(Cc1ccc(cc1)c2ccccc2c3nn[nH]n3)[C@@H](C(C)C)C(=O)O	0			1+	NA	458.216
+CCMSLIB00000079131	VALSARTAN [M+H]	CCCCC(=O)N(Cc1ccc(cc1)c2ccccc2c3nn[nH]n3)[C@@H](C(C)C)C(=O)O	0			1+	NA	436.234
+CCMSLIB00000079134	"""1-methyl-7-nitro-5-phenyl-3H-1,4-benzodiazepin-2-one"" [M+H]"	CN1C(=O)CN=C(c2ccccc2)c3cc(ccc13)[N+](=O)[O-]	0			1+	NA	296.103
+CCMSLIB00000079135	"""6H-Pyrido[2,3-b][1,4]benzodiazepin-6-one, 11-[[2-[(diethylamino)methyl]-1-piperidinyl]acetyl]-5,11-dihydro- [CAS]"" [M+H]"	CCN(CC)CC1CCCCN1CC(=O)N2c3ccccc3C(=O)Nc4cccnc24	0			1+	NA	422.255
+CCMSLIB00000079136	"""7-chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one"" [M+H]"	CN1C(=O)CN=C(c2ccccc2)c3cc(Cl)ccc13	0			1+	NA	285.079
+CCMSLIB00000079138	LEVOCETIRIZINE [M+H]	OC(=O)COCCN1CCN(CC1)[C@H](c2ccccc2)c3ccc(Cl)cc3	0			1+	NA	389.163
+CCMSLIB00000079263	Physostigmine [M+H]	CNC(=O)Oc1ccc2N(C)C3N(C)CC[C@@]3(C)c2c1	0			1+	NA	276.171
+CCMSLIB00000079143	Citalopram [M+H]	CN(C)CCCC1(OCc2cc(C#N)ccc21)c3ccc(F)cc3	0			1+	NA	325.171
+CCMSLIB00000079144	FORMOTEROL FUMARATE DIHYDRATE [M+H]	COc1ccc(C[C@H](C)NC[C@@H](O)c2ccc(O)c(NC=O)c2)cc1	0			1+	NA	345.181
+CCMSLIB00000079145	Telmisartan aka 2-[4-[[4-methyl-6-(1-methylbenzimidazol-2-yl)-2-propylbenzimidazol-1-yl]methyl]phenyl]benzoic acid M+H	CCCc1nc2c(C)cc(cc2n1Cc3ccc(cc3)c4ccccc4C(=O)O)c5nc6ccccc6n5C	0			1+	NA	515.244
+CCMSLIB00000079220	Salmeterol [M+H]	OCc1cc(ccc1O)C(O)CNCCCCCCOCCCCc2ccccc2	0			1+	NA	416.28
+CCMSLIB00000079149	Loxapine [M+H]	CN1CCN(CC1)C2=Nc3ccccc3Oc4ccc(Cl)cc24	0			1+	NA	328.121
+CCMSLIB00000079150	Loxapine [M+2H]	CN1CCN(CC1)C2=Nc3ccccc3Oc4ccc(Cl)cc24	0			1+	NA	164.565
+CCMSLIB00000079151	Picrotin - Picrotoxinin [M+H]	CC(C)(O)[C@@H]1[C@H]2OC(=O)[C@@H]1[C@]3(O)C[C@H]4O[C@]45C(=O)O[C@H]2[C@@]53C	0			1+	NA	311.113
+CCMSLIB00000079152	CLOTRIMAZOLE [M+H]	Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4	0			1+	NA	345.115
+CCMSLIB00000079249	"Etoposide aka ""(5S,5aR,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one"" M+H"	COc1cc(cc(OC)c1O)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](O[C@@H]4O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]4O)c6cc7OCOc7cc26	0			1+	NA	589.192
+CCMSLIB00000079156	"""Pyrazinecarboxamide, 3,5-diamino-N-(aminoiminomethyl)-6-chloro- [CAS]"" [M+H]"	NC(=N)NC(=O)c1nc(Cl)c(N)nc1N	0			1+	NA	230.055
+CCMSLIB00000079157	SKF 83566 [M+H]	CN1CCc2cc(Br)c(O)cc2C(C1)c3ccccc3	0			1+	NA	332.064
+CCMSLIB00000079158	Terazosin [M+H]	COc1cc2nc(nc(N)c2cc1OC)N3CCN(CC3)C(=O)C4CCCO4	0			1+	NA	388.198
+CCMSLIB00000079159	Loratadine 79794-75-5 [M+H]	CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc4cccnc24)CC1	0			1+	NA	383.152
+CCMSLIB00000079160	Cisapride [M+2H]	CO[C@H]1CN(CCCOc2ccc(F)cc2)CC[C@H]1NC(=O)c3cc(Cl)c(N)cc3OC	0			1+	NA	233.599
+CCMSLIB00000079161	Cisapride [M+H]	CO[C@H]1CN(CCCOc2ccc(F)cc2)CC[C@H]1NC(=O)c3cc(Cl)c(N)cc3OC	0			1+	NA	466.19
+CCMSLIB00000079162	Doxepin [M+H]	CN(C)CC/C=C\1/c2ccccc2COc3ccccc13	0			1+	NA	280.17
+CCMSLIB00000079163	Diphenhydramine 147-24-0 [M+H]	CN(C)CCOC(c1ccccc1)c2ccccc2	0			1+	NA	256.17
+CCMSLIB00000079166	LOBELINE HYDROCHLORIDE [M+Na]	CN1[C@H](C[C@H](O)c2ccccc2)CCC[C@@H]1CC(=O)c3ccccc3	0			1+	NA	360.193
+CCMSLIB00000079167	AM 404 [M+H]	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)Nc1ccc(O)cc1	0			1+	NA	396.29
+CCMSLIB00000079170	diphenylcyclopropenone [M+H]	O=c1c(c1c2ccccc2)c3ccccc3	0			1+	NA	207.08
+CCMSLIB00000079173	Galanthamine [M+H]	COc1ccc2CN(C)CC[C@]34C=C[C@H](O)C[C@@H]4Oc1c23	0			1+	NA	288.159
+CCMSLIB00000079176	"Verapamil aka ""Benzeneacetonitrile, Alpha-[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-Alpha-(1-methylethyl)-, (R)- [CAS]"" M+H"	COc1ccc(CCN(C)CCCC(C#N)(C(C)C)c2ccc(OC)c(OC)c2)cc1OC	0			1+	NA	455.29
+CCMSLIB00000079177	Riluzole [M+H]	Nc1nc2ccc(OC(F)(F)F)cc2s1	0			1+	NA	235.015
+CCMSLIB00000079180	Indomethacin [M+H]	COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(=O)O)c2c1	0			1+	NA	358.084
+CCMSLIB00000079181	"Ketorolac aka ""5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid"" M+H"	OC(=O)C1CCn2c(ccc12)C(=O)c3ccccc3	0			1+	NA	256.097
+CCMSLIB00000079182	(2R)-N-methyl-1-phenyl-N-prop-2-ynylpropan-2-amine [M+H]	C[C@H](Cc1ccccc1)N(C)CC#C	0			1+	NA	188.143
+CCMSLIB00000079186	LY 171883 [M+H]	CCCc1c(O)c(ccc1OCCCCc2nn[nH]n2)C(=O)C	0			1+	NA	319.176
+CCMSLIB00000079187	TETRAETHYLTHIURAM DISULFIDE [M+H]	CCN(CC)C(=S)SSC(=S)N(CC)CC	0			1+	NA	297.058
+CCMSLIB00000079188	TETRAETHYLTHIURAM DISULFIDE [M+Na]	CCN(CC)C(=S)SSC(=S)N(CC)CC	0			1+	NA	319.04
+CCMSLIB00000079190	"""Oxiranecarboxylic acid, 2-[6-(4-chlorophenoxy)hexyl]-, ethyl ester- [CAS]"" [M+H]"	CCOC(=O)C1(CCCCCCOc2ccc(Cl)cc2)CO1	0			1+	NA	327.136
+CCMSLIB00000079191	"Progesterone aka ""(8S,9S,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"" M+H"	CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	0			1+	NA	315.232
+CCMSLIB00000079192	zucapsaicin [M+H]	COc1cc(CNC(=O)CCCC/C=C\C(C)C)ccc1O	0			1+	NA	306.206
+CCMSLIB00000079196	Maprotiline hydrochloride [M+H]	CNCCCC1(CCC2c3ccccc31)c4ccccc24	0			1+	NA	278.19
+CCMSLIB00000079199	Epigallocatechin gallate [M+H]	Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c4cc(O)c(O)c(O)c4	0			1+	NA	459.092
+CCMSLIB00000079200	Flurbiprofen [M+H]	CC(C(=O)O)c1ccc(c(F)c1)c2ccccc2	0			1+	NA	245.097
+CCMSLIB00000079201	FAMOTIDINE [M+H]	NC(=N)Nc1nc(CSCCC(=N)NS(=O)(=O)N)cs1	0			1+	NA	338.052
+CCMSLIB00000079202	SALBUTAMOL SULFATE [M+H]	CC(C)(C)NCC(O)c1ccc(O)c(CO)c1	0			1+	NA	240.159
+CCMSLIB00000079204	"""1-[4-[4-[[(2R,4S)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone"" [M+2H]"	CC(=O)N1CCN(CC1)c2ccc(OC[C@H]3CO[C@@](Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2	0			1+	NA	266.082
+CCMSLIB00000079205	"""1-[4-[4-[[(2R,4S)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone"" [M+H]"	CC(=O)N1CCN(CC1)c2ccc(OC[C@H]3CO[C@@](Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2	0			1+	NA	531.156
+CCMSLIB00000079256	Altanserin [M+H]	Fc1ccc(cc1)C(=O)C2CCN(CCn3c(=O)c4ccccc4[nH]c3=S)CC2	0			1+	NA	412.149
+CCMSLIB00000079234	"Mirtazapine aka ""2-methyl-1,2,3,4,10,14b-hexahydrobenzo[c]pyrazino[1,2-a]pyrido[3,2-f]azepine"" M+H"	CN1CCN2C(C1)c3ccccc3Cc4cccnc24	0			1+	NA	133.587
+CCMSLIB00000079209	CGS 15943 [M+H]	Nc1nc2ccc(Cl)cc2c3nc(nn13)c4ccco4	0			1+	NA	286.049
+CCMSLIB00000079211	SDM25N M+H	CC(=C)CN1CC[C@]23[C@H]4Oc5c3c(CC1[C@]2(O)Cc6c4[nH]c7ccccc67)ccc5O	0			1+	NA	415.202
+CCMSLIB00000079212	"""Thiophene, 5-bromo-2-(4-fluorophenyl)-3-[4-(methylsulfonyl)phenyl]- [CAS]"" [M+H]"	CS(=O)(=O)c1ccc(cc1)c2cc(Br)sc2c3ccc(F)cc3	0			1+	NA	410.952
+CCMSLIB00000079214	VINDESINE SULFATE [M+H]	CC[C@]1(O)C[C@H]2CN(C1)CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](O)[C@]7(O)C(=O)N	0			1+	NA	754.417
+CCMSLIB00000079243	GLIMEPIRIDE [M+H]	CCC1=C(C)CN(C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)N[C@H]3CC[C@H](C)CC3)C1=O	0			1+	NA	491.232
+CCMSLIB00000079216	3-(1H-imidazol-5-yl)propyl N'-[(4-chlorophenyl)methyl]carbamimidothioate [M+H]	Clc1ccc(CNC(=N)SCCCc2c[nH]cn2)cc1	0			1+	NA	309.094
+CCMSLIB00000079219	5-Nonyloxytryptamine [M+H]	CCCCCCCCCOc1ccc2[nH]cc(CCN)c2c1	0			1+	NA	303.243
+CCMSLIB00000079221	VINCRISTINE SULFATE [M+2H]	CC[C@]1(O)C[C@@H]2CN(C1)CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C=O)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](OC(=O)C)[C@]7(O)C(=O)OC	0			1+	NA	413.208
+CCMSLIB00000079225	"""(5R,9R,Z)-5-amino-11-ethylidene-7-methyl-5,6,9,10-tetrahydro-5,9-methanocycloocta[b]pyridin-2-ol"" [M+H]"	C/C=C\1/[C@@H]2Cc3nc(O)ccc3[C@@]1(N)CC(=C2)C	0			1+	NA	243.149
+CCMSLIB00000079228	SB 205607 [M+H]	CN1CC[C@@]2(Cc3nc4ccccc4cc3C[C@H]2C1)c5cccc(O)c5	0			1+	NA	345.196
+CCMSLIB00000079230	LACIDIPINE [M+Na]	CCO/C(=C\1/C(C(=C(C)N=C1C)C(=O)OCC)c2ccccc2/C=C/C(=O)OC(C)(C)C)/O	0			1+	NA	478.22
+CCMSLIB00000079231	LACIDIPINE [M+H]	CCO/C(=C\1/C(C(=C(C)N=C1C)C(=O)OCC)c2ccccc2/C=C/C(=O)OC(C)(C)C)/O	0			1+	NA	456.238
+CCMSLIB00000079232	Sibutramine hydrochloride [M+H]	CC(C)CC(N(C)C)C1(CCC1)c2ccc(Cl)cc2	0			1+	NA	280.183
+CCMSLIB00000079233	DEHYDROEPIANDROSTERONE [M+H]	C[C@@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]2CCC1=O	0			1+	NA	289.216
+CCMSLIB00000079238	"""7-chloro-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-1,4-benzodiazepin-2-one"" [M+H]"	OC1N=C(c2ccccc2Cl)c3cc(Cl)ccc3NC1=O	0			1+	NA	321.019
+CCMSLIB00000079239	"""(6aR,9R,10aR)-9-(methylsulfanylmethyl)-7-propyl-6,6a,8,9,10,10a-hexahydro-4H-indolo[4,3-fg]quinoline"" [M+H]"	CCCN1C[C@H](CSC)C[C@H]2[C@H]1Cc3c[nH]c4cccc2c34	0			1+	NA	315.189
+CCMSLIB00000079241	"""8-Azaspiro[4.5]decane-7,9-dione, 8-[2-[[(2,3-dihydro-1,4-benzodioxin-2-yl)methyl]amino]ethyl]-, monomethanesulfonate [CAS]"" [M+H]"	O=C1CC2(CCCC2)CC(=O)N1CCNCC3COc4ccccc4O3	0			1+	NA	359.197
+CCMSLIB00000079242	GLIMEPIRIDE [M+Na]	CCC1=C(C)CN(C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)N[C@H]3CC[C@H](C)CC3)C1=O	0			1+	NA	513.214
+CCMSLIB00000079244	"""(8S,11R,13S,14S,17S)-11-(4-(dimethylamino)phenyl)-17-hydroxy-13-methyl-17-(prop-1-yn-1-yl)-6,7,8,11,12,13,14,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-3(2H)-one"" [M+H]"	CC#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@H](C[C@@]21C)c5ccc(cc5)N(C)C	0			1+	NA	430.274
+CCMSLIB00000079245	"""Adenosine, N-(2-hydroxycyclopentyl)-, (1S-trans)- [CAS]"" [M+H]"	OC[C@H]1O[C@H]([C@@H](O)C1O)n2cnc3c(N[C@H]4CCC[C@@H]4O)ncnc23	0			1+	NA	352.162
+CCMSLIB00000079246	ARTEMETHER [M+Na]	CO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@@]24OO3	0			1+	NA	321.167
+CCMSLIB00000079250	19774-82-4 [M+H]	CCCCc1oc2ccccc2c1C(=O)c3cc(I)c(OCCN(CC)CC)c(I)c3	0			1+	NA	646.031
+CCMSLIB00000079251	CGS 12066B [M+2H]	CN1CCN(CC1)c2nc3cc(ccc3n4cccc24)C(F)(F)F	0			1+	NA	168.078
+CCMSLIB00000079252	CGS 12066B [M+H]	CN1CCN(CC1)c2nc3cc(ccc3n4cccc24)C(F)(F)F	0			1+	NA	335.148
+CCMSLIB00000079253	Sibutramine [M+H]	CC(C)CC(N(C)C)C1(CCC1)c2ccc(Cl)cc2	0			1+	NA	280.183
+CCMSLIB00000079254	"""[(1S,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-7-methyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate"" [M+H]"	CC[C@H](C)C(=O)O[C@H]1CCC=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12	0			1+	NA	391.248
+CCMSLIB00000079255	"""(2R,3R,4S,5R)-2-(6-amino-2-chloro-9H-purin-9-yl)-5-(hydroxymethyl)tetrahydrofuran-3,4-diol"" [M+H]"	Nc1nc(Cl)nc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	0			1+	NA	302.066
+CCMSLIB00000079257	"""(Z)-methyl 5-(ethoxy(hydroxy)methylene)-2,6-dimethyl-4-(3-nitrophenyl)-4,5-dihydropyridine-3-carboxylate"" [M+H]"	CCO/C(=C\1/C(C(=C(C)N=C1C)C(=O)OC)c2cccc(c2)[N+](=O)[O-])/O	0			1+	NA	361.14
+CCMSLIB00000079258	RUTIN [M+H]	C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](Oc3c(oc4cc(O)cc(O)c4c3=O)c5ccc(O)c(O)c5)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	0			1+	NA	611.161
+CCMSLIB00000079259	RITONAVIR [M+H]	CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)Cc4ccccc4	0			1+	NA	721.321
+CCMSLIB00000079260	RITONAVIR [M+2H]	CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)Cc4ccccc4	0			1+	NA	361.164
+CCMSLIB00000079261	"""(E)-4-(3,5-dimethoxystyryl)phenol"" [M+H]"	COc1cc(OC)cc(/C=C/c2ccc(O)cc2)c1	0			1+	NA	257.118
+CCMSLIB00000079266	1-chloro-3-(2-methyl-5-nitro-1H-imidazol-1-yl)propan-2-ol [M+H]	Cc1ncc([N+](=O)[O-])n1CC(O)CCl	0			1+	NA	220.049
+CCMSLIB00000079267	"""Acetamide, 2-amino-N-(1-methyl-1,2-diphenylethyl)-, (+/-)- [CAS]"" [M+H]"	CC(Cc1ccccc1)(NC(=O)CN)c2ccccc2	0			1+	NA	269.165
+CCMSLIB00000079268	SAQUINAVIR MESYLATE [M+H]	CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](CC(=O)N)NC(=O)c4ccc5ccccc5n4	0			1+	NA	671.392
+CCMSLIB00000079272	"""1H-Indole-2-propanoic acid, 1-[(4-chlorophenyl)methyl]-3-[(1,1-dimethylethyl)thio]-Alpha,Alpha-dimethyl-5-(1-methylethyl)- [CAS]"" [M+H]"	CC(C)c1ccc2n(Cc3ccc(Cl)cc3)c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c2c1	0			1+	NA	472.208
+CCMSLIB00000079273	RIFAPENTINE [M+H]	CO[C@H]1C=CO[C@@]2(C)Oc3c(C2=O)c4c(O)c(C=NN5CCN(CC5)C6CCCC6)c(NC(=O)C(=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(=O)C)[C@@H]1C)C)c(O)c4c(O)c3C	0			1+	NA	877.46
+CCMSLIB00000079274	RIFAXIMIN [M+H]	CO[C@H]1C=CO[C@@]2(C)Oc3c(C2=O)c4c5nc6cc(C)ccn6c5c(NC(=O)C(=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(=O)C)[C@@H]1C)C)c(O)c4c(O)c3C	0			1+	NA	786.36
+CCMSLIB00000079275	RIFAXIMIN [M+Na]	CO[C@H]1C=CO[C@@]2(C)Oc3c(C2=O)c4c5nc6cc(C)ccn6c5c(NC(=O)C(=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(=O)C)[C@@H]1C)C)c(O)c4c(O)c3C	0			1+	NA	808.342

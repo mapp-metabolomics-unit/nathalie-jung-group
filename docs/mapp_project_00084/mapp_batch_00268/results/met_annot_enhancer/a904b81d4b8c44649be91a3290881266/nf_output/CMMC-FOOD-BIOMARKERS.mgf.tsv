@@ -1,0 +1,568 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00013576096	2,3-dihydroxy-benzoic acid (known structural isomers: 2; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C(=C1)O)O)C(=O)O	0			1+	NA	155.034
+CCMSLIB00013576413	2,3-dihydroxy-benzoic acid (known structural isomers: 2; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C(=C1)O)O)C(=O)O	0			1+	NA	155.034
+CCMSLIB00013576100	2-acetyl-2-thiazoline (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(=O)C1=NCCS1	0			1+	NA	130.032
+CCMSLIB00013576101	2-acetyl-2-thiazoline (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(=O)C1=NCCS1	0			1+	NA	130.032
+CCMSLIB00013576846	gluconic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O	0			1+	NA	197.065
+CCMSLIB00013576103	2-Isobutyramidoacetic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	OC(CNC(C(C)C)=O)=O	0			1+	NA	146.081
+CCMSLIB00013576104	3-Carboxy-4-methyl-5-propyl-2-furanpropionate (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C	0			1+	NA	241.107
+CCMSLIB00013576105	3-Carboxy-4-methyl-5-propyl-2-furanpropionate (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C	0			1+	NA	258.133
+CCMSLIB00013576106	3-Hydroxyhippuric acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=CC(=C1)O)C(=O)NCC(=O)O	0			1+	NA	196.06
+CCMSLIB00013576107	3-methyl-2-oxovaleric acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CCC(C)C(=O)C(=O)O	0			1+	NA	131.07
+CCMSLIB00013576536	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576109	3-p-coumaroylquinic acid (known structural isomers: 2; isobaric peaks in run: 1) [M+Na]+	C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC=C(C=C2)O)O)O	0			1+	NA	361.089
+CCMSLIB00013576110	3-Phenyllactic acid (known structural isomers: 2; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)O	0			1+	NA	167.07
+CCMSLIB00013576111	3-Phenyllactic acid (known structural isomers: 2; isobaric peaks in run: 2) [M+NH4]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)O	0			1+	NA	184.097
+CCMSLIB00013576112	4-Ethylcatechol (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	CCC1=CC(=C(C=C1)O)O	0			1+	NA	139.075
+CCMSLIB00013576441	4-Hydroxyphenylpyruvic acid (known structural isomers: 1; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1CC(=O)C(=O)O)O	0			1+	NA	198.076
+CCMSLIB00013576818	DOPA (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C1=CC(=C(C=C1CC(C(=O)O)N)O)O	0			1+	NA	220.058
+CCMSLIB00013576115	4-Hydroxyphenylpyruvic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+NH4]+	C1=CC(=CC=C1CC(=O)C(=O)O)O	0			1+	NA	198.076
+CCMSLIB00013576118	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	192.065
+CCMSLIB00013576592	Hippuric acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC=C(C=C1)C(=O)NCC(=O)O	0			1+	NA	180.065
+CCMSLIB00013576120	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	209.092
+CCMSLIB00013576121	5-Methylfurfural (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	CC1=CC=C(O1)C=O	0			1+	NA	128.071
+CCMSLIB00013576124	Aconitic acid (known structural isomers: 1; isobaric peaks in run: 2) [M+NH4]+	C(C(=CC(=O)O)C(=O)O)C(=O)O	0			1+	NA	192.05
+CCMSLIB00013576125	Advantame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.212
+CCMSLIB00013576126	Advantame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	481.194
+CCMSLIB00013576127	Agmatine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(CCN=C(N)N)CN	0			1+	NA	131.129
+CCMSLIB00013576128	Alitame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	332.163
+CCMSLIB00013576129	Alitame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	354.145
+CCMSLIB00013576130	Alitame (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	370.12
+CCMSLIB00013576131	Alliin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C=CC[S@](=O)C[C@@H](C(=O)O)N	0			1+	NA	178.053
+CCMSLIB00013576661	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	220.118
+CCMSLIB00013576133	Alpha-Chaconine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	852.509
+CCMSLIB00013576768	Vanillic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=C(C=CC(=C1)C(=O)O)O	0			1+	NA	169.049
+CCMSLIB00013576135	Alpha-Solanine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	868.503
+CCMSLIB00013576136	Amoxicillin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C	0			1+	NA	366.111
+CCMSLIB00013576137	Amoxicillin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C	0			1+	NA	388.093
+CCMSLIB00013576138	Apigenin (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	271.06
+CCMSLIB00013576139	arabitol (known structural isomers: 1; isobaric peaks in run: 0) [M+Na]+	C([C@H](C([C@@H](CO)O)O)O)O	0			1+	NA	175.058
+CCMSLIB00013576140	Arbutin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	273.097
+CCMSLIB00013576141	Arbutin (known structural isomers: 0; isobaric peaks in run: 2) [M+Na]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	295.078
+CCMSLIB00013576142	Arbutin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	290.123
+CCMSLIB00013576489	betaine (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	C[N+](C)(C)CC(=O)[O-]	0			1+	NA	118.086
+CCMSLIB00013576144	Arsenobetaine (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	C[As+](C)(C)CC(=O)[O-]	0			1+	NA	179.005
+CCMSLIB00013576904	Stachyose (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)O[C@]4([C@H]([C@@H]([C@H](O4)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O	0			1+	NA	689.21
+CCMSLIB00013576146	Aspartame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	295.128
+CCMSLIB00013576147	Aspartame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	317.11
+CCMSLIB00013576148	Aspartame (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	333.085
+CCMSLIB00013576581	Glutamine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(CC(=O)N)[C@@H](C(=O)O)N	0			1+	NA	147.076
+CCMSLIB00013576488	Benzoic acid (known structural isomers: 0; isobaric peaks in run: 7) [M+H]+	C1=CC=C(C=C1)C(=O)O	0			1+	NA	123.044
+CCMSLIB00013576439	4-Guanidinobutanoic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C(CC(=O)O)CN=C(N)N	0			1+	NA	146.092
+CCMSLIB00013576152	betaine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	C[N+](C)(C)CC(=O)[O-]	0			1+	NA	118.087
+CCMSLIB00013576537	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576154	Capsaicin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	306.206
+CCMSLIB00013576748	Thiamine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO	0			1+	NA	265.111
+CCMSLIB00013576477	arabitol (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	C([C@H](C([C@@H](CO)O)O)O)O	0			1+	NA	153.075
+CCMSLIB00013576157	Cinnamic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	149.06
+CCMSLIB00013576158	Cinnamic acid (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	166.086
+CCMSLIB00013576159	Citral (known structural isomers: 1; isobaric peaks in run: 4) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.127
+CCMSLIB00013576544	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576161	citric acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C(C(=O)O)C(CC(=O)O)(C(=O)O)O	0			1+	NA	210.061
+CCMSLIB00013576162	Cobalamin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H](C5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](/C(=C(/C4=N5)\C)/[N-]8)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]	0			1+	NA	1355.57
+CCMSLIB00013576163	Cobalamin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H](C5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](/C(=C(/C4=N5)\C)/[N-]8)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]	0			1+	NA	1377.55
+CCMSLIB00013576164	Coumarin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C2C(=C1)C=CC(=O)O2	0			1+	NA	147.044
+CCMSLIB00013576165	Coumarin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C2C(=C1)C=CC(=O)O2	0			1+	NA	147.044
+CCMSLIB00013576166	Coumarin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC=C2C(=C1)C=CC(=O)O2	0			1+	NA	164.07
+CCMSLIB00013576167	Creatine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CN(CC(=O)O)C(=N)N	0			1+	NA	132.077
+CCMSLIB00013576168	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576169	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.054
+CCMSLIB00013576170	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576751	threonine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]([C@@H](C(=O)O)N)O	0			1+	NA	120.066
+CCMSLIB00013576172	Cyclamate (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1CCC(CC1)NS(=O)(=O)O	0			1+	NA	197.095
+CCMSLIB00013576173	Daidzein (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O	0			1+	NA	255.065
+CCMSLIB00013576174	Daidzein (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O	0			1+	NA	277.047
+CCMSLIB00013576176	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576177	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576178	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	221.153
+CCMSLIB00013576919	L-Ergothioneine  (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC(=S)N1)C(=O)[O-]	0			1+	NA	230.095
+CCMSLIB00013576180	Dihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)CCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	308.221
+CCMSLIB00013576823	Erythritol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C([C@H]([C@H](CO)O)O)O	0			1+	NA	123.065
+CCMSLIB00013576183	Dopamine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C=C1CCN)O)O	0			1+	NA	154.086
+CCMSLIB00013576184	Eicosadienoic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+NH4]+	CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O	0			1+	NA	326.305
+CCMSLIB00013576185	Ellagic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O	0			1+	NA	303.013
+CCMSLIB00013576186	Epicatechin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O	0			1+	NA	291.086
+CCMSLIB00013576189	Ferulic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=CC(=C1)/C=C/C(=O)O)O	0			1+	NA	195.065
+CCMSLIB00013576598	Hydroxytyrosol (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=C(C=C1CCO)O)O	0			1+	NA	172.097
+CCMSLIB00013576191	Folic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	464.129
+CCMSLIB00013576192	fructose (known structural isomers: 5; isobaric peaks in run: 1) [M+H]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	181.072
+CCMSLIB00013576193	fructose (known structural isomers: 6; isobaric peaks in run: 1) [M+H]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	181.072
+CCMSLIB00013576693	proline (known structural isomers: 1; isobaric peaks in run: 0) [M+Na]+	C1C[C@H](NC1)C(=O)O	0			1+	NA	138.055
+CCMSLIB00013576195	fructose (known structural isomers: 6; isobaric peaks in run: 1) [M+NH4]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	198.099
+CCMSLIB00013576196	Furaneol (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CC1C(=O)C(=C(O1)C)O	0			1+	NA	129.054
+CCMSLIB00013576197	Furaneol (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CC1C(=O)C(=C(O1)C)O	0			1+	NA	129.055
+CCMSLIB00013576857	Isoleucine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC[C@H](C)[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00013576204	Gallic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=C(C=C(C(=C1O)O)O)C(=O)O	0			1+	NA	171.029
+CCMSLIB00013576205	Gallic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=C(C=C(C(=C1O)O)O)C(=O)O	0			1+	NA	171.029
+CCMSLIB00013576206	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CCCCCCC1CCC(=O)O1	0			1+	NA	171.138
+CCMSLIB00013576208	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576210	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	449.068
+CCMSLIB00013576211	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	471.05
+CCMSLIB00013576212	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	466.094
+CCMSLIB00013576213	Gluconasturtiin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)CCC(=NOS(=O)(=O)O)S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	424.073
+CCMSLIB00013576214	Gluconasturtiin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC=C(C=C1)CCC(=NOS(=O)(=O)O)S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	446.055
+CCMSLIB00013576215	Gluconasturtiin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC=C(C=C1)CCC(=NOS(=O)(=O)O)S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	441.099
+CCMSLIB00013576820	D-quinic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O	0			1+	NA	193.071
+CCMSLIB00013576613	Isomalt (known structural isomers: 2; isobaric peaks in run: 0) [M+H]+	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@H]([C@H]([C@@H](C(CO)O)O)O)O)O)O)O)O	0			1+	NA	345.139
+CCMSLIB00013576218	Glucoraphanin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CS(=O)CCCC/C(=N/OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	455.082
+CCMSLIB00013576223	Glutamine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(CC(=O)N)[C@@H](C(=O)O)N	0			1+	NA	147.076
+CCMSLIB00013576868	N-Acetylornithine (known structural isomers: 1; isobaric peaks in run: 0) [M+Na]+	CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	197.089
+CCMSLIB00013576225	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.085
+CCMSLIB00013576226	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.086
+CCMSLIB00013576227	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.086
+CCMSLIB00013576228	Hesperetin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	325.068
+CCMSLIB00013576229	hesperidin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	611.196
+CCMSLIB00013576230	hesperidin (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	633.178
+CCMSLIB00013576231	hesperidin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	628.222
+CCMSLIB00013576232	Hippuric acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)C(=O)NCC(=O)O	0			1+	NA	180.065
+CCMSLIB00013576233	Histamine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=C(NC=N1)CCN	0			1+	NA	112.087
+CCMSLIB00013576850	Glutamic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(CC(=O)O)[C@@H](C(=O)O)N	0			1+	NA	148.06
+CCMSLIB00013576235	Hydroxyproline (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1[C@H](CN[C@@H]1C(=O)O)O	0			1+	NA	132.065
+CCMSLIB00013576236	Hydroxytyrosol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=C(C=C1CCO)O)O	0			1+	NA	155.07
+CCMSLIB00013576237	Hydroxytyrosol (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=C(C=C1CCO)O)O	0			1+	NA	172.097
+CCMSLIB00013576238	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	247.144
+CCMSLIB00013576239	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	269.125
+CCMSLIB00013576240	Indole-3-acetonitrile (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC=C2C(=C1)C(=CN2)CC#N	0			1+	NA	157.076
+CCMSLIB00013576241	Indole-3-carbinol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C2C(=C1)C(=CN2)CO	0			1+	NA	148.075
+CCMSLIB00013576810	Cyanidin (known structural isomers: 2; isobaric peaks in run: 0) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576247	Isoleucine (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	CC[C@H](C)[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00013576248	Isomalt (known structural isomers: 2; isobaric peaks in run: 0) [M+H]+	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@H]([C@H]([C@@H](C(CO)O)O)O)O)O)O)O)O	0			1+	NA	345.139
+CCMSLIB00013576583	Guanidinoacetate (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(C(=O)O)N=C(N)N	0			1+	NA	118.061
+CCMSLIB00013576614	Isopropylmalic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CC(C)C(CC(=O)O)(C(=O)O)O	0			1+	NA	177.076
+CCMSLIB00013576251	Isopropylmalic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC(C)C(CC(=O)O)(C(=O)O)O	0			1+	NA	199.058
+CCMSLIB00013576431	3-methyl-2-oxovaleric acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CCC(C)C(=O)C(=O)O	0			1+	NA	131.07
+CCMSLIB00013576692	proline (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1C[C@H](NC1)C(=O)O	0			1+	NA	116.071
+CCMSLIB00013576786	4-Hydroxyphenylpyruvic acid (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=CC=C1CC(=O)C(=O)O)O	0			1+	NA	198.076
+CCMSLIB00013576872	Naringin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	603.167
+CCMSLIB00013576706	Pyridoxine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC1=NC=C(C(=C1O)CO)CO	0			1+	NA	170.081
+CCMSLIB00013576804	betaine (known structural isomers: 1; isobaric peaks in run: 0) [M+Na]+	C[N+](C)(C)CC(=O)[O-]	0			1+	NA	140.068
+CCMSLIB00013576267	lysine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C(CCN)C[C@@H](C(=O)O)N	0			1+	NA	169.095
+CCMSLIB00013576485	Aspartame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	317.11
+CCMSLIB00013576271	Malvidin-3-O-galactoside (known structural isomers: 0; isobaric peaks in run: 2) [M+Na]+	COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	515.116
+CCMSLIB00013576272	Mesifurane (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1C(=O)C(=C(O1)C)OC	0			1+	NA	160.097
+CCMSLIB00013576672	Perseitol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C([C@H]([C@H](C([C@@H]([C@H](CO)O)O)O)O)O)O	0			1+	NA	213.097
+CCMSLIB00013576274	methionine (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	CSCC[C@@H](C(=O)O)N	0			1+	NA	167.083
+CCMSLIB00013576275	Methionine sulfoxide (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CS(=O)CCC(C(=O)O)N	0			1+	NA	166.053
+CCMSLIB00013576276	Methyl anthranilate (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC(=O)C1=CC=CC=C1N	0			1+	NA	152.071
+CCMSLIB00013576277	Methyl anthranilate (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC(=O)C1=CC=CC=C1N	0			1+	NA	152.071
+CCMSLIB00013576278	Myricetin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	319.044
+CCMSLIB00013576521	Deoxycarnitine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	C[N+](C)(C)CCCC(=O)[O-]	0			1+	NA	146.117
+CCMSLIB00013576280	Naringenin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	273.075
+CCMSLIB00013576281	Naringenin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	273.075
+CCMSLIB00013576282	Naringenin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	290.102
+CCMSLIB00013576283	Naringin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	581.186
+CCMSLIB00013576284	Naringin (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	603.167
+CCMSLIB00013576285	Naringin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	598.213
+CCMSLIB00013576286	Neotame (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(C)(C)CCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)OC	0			1+	NA	379.223
+CCMSLIB00013576287	Neotame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC(C)(C)CCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)OC	0			1+	NA	401.205
+CCMSLIB00013576289	Nordihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(C)CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	294.206
+CCMSLIB00013576290	Nordihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC(C)CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	316.191
+CCMSLIB00013576291	Oleic Acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	CCCCCCCC/C=C\CCCCCCCC(=O)O	0			1+	NA	300.29
+CCMSLIB00013576293	Oxolinic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O	0			1+	NA	262.071
+CCMSLIB00013576296	Palmitic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCCCCCCCCCCC(=O)O	0			1+	NA	274.274
+CCMSLIB00013576297	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	220.118
+CCMSLIB00013576298	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 4) [M+Na]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	242.1
+CCMSLIB00013576299	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+K]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	258.074
+CCMSLIB00013576869	N-Acetylornithine (known structural isomers: 1; isobaric peaks in run: 0) [M+K]+	CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	213.063
+CCMSLIB00013576304	p-Coumaric acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	165.054
+CCMSLIB00013576500	citric acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C(C(=O)O)C(CC(=O)O)(C(=O)O)O	0			1+	NA	210.06
+CCMSLIB00013576306	p-Coumaric acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	165.055
+CCMSLIB00013576787	4-Hydroxyphenylpyruvic acid (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=CC=C1CC(=O)C(=O)O)O	0			1+	NA	198.076
+CCMSLIB00013576308	p-Coumaric acid (known structural isomers: 1; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	182.081
+CCMSLIB00013576309	Perseitol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C([C@H]([C@H](C([C@@H]([C@H](CO)O)O)O)O)O)O	0			1+	NA	213.096
+CCMSLIB00013576311	phenylalanine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)N	0			1+	NA	188.068
+CCMSLIB00013576422	2-Phenylethanol (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC=C(C=C1)CCO	0			1+	NA	123.081
+CCMSLIB00013576437	3-Phenyllactic acid (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)O	0			1+	NA	167.07
+CCMSLIB00013576647	Naringin (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	603.168
+CCMSLIB00013576317	Phloridzin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	454.17
+CCMSLIB00013576318	Phloridzin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	454.17
+CCMSLIB00013576319	Phloridzin (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	475.1
+CCMSLIB00013576320	Phytic acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	660.868
+CCMSLIB00013576321	Phytic acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	660.868
+CCMSLIB00013576322	Phytic acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	660.868
+CCMSLIB00013576323	Phytic acid (known structural isomers: 0; isobaric peaks in run: 7) [M+Na]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	682.85
+CCMSLIB00013576324	Phytic acid (known structural isomers: 0; isobaric peaks in run: 7) [M+Na]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	682.85
+CCMSLIB00013576325	Phytic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	677.894
+CCMSLIB00013576326	Phytic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	677.895
+CCMSLIB00013576513	Daidzein (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O	0			1+	NA	277.047
+CCMSLIB00013576328	Piperine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	286.144
+CCMSLIB00013576329	Piperine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	308.125
+CCMSLIB00013576332	Progoitrin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C=C[C@@H](CC(=NOS(=O)(=O)O)S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O	0			1+	NA	407.079
+CCMSLIB00013576738	sorbitol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O	0			1+	NA	183.086
+CCMSLIB00013576340	Psilocin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)O	0			1+	NA	205.133
+CCMSLIB00013576341	Psilocybin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O	0			1+	NA	285.099
+CCMSLIB00013576479	Arbutin (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	295.078
+CCMSLIB00013576343	Pyridoxine (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	CC1=NC=C(C(=C1O)CO)CO	0			1+	NA	170.081
+CCMSLIB00013576344	Quercetin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.049
+CCMSLIB00013576345	Quercetin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.049
+CCMSLIB00013576752	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.35
+CCMSLIB00013576347	Quercetin 3-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	0			1+	NA	449.108
+CCMSLIB00013576348	Quercetin 3-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	0			1+	NA	471.089
+CCMSLIB00013576349	Rebaudioside A (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O	0			1+	NA	967.438
+CCMSLIB00013576350	Rebaudioside A (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O	0			1+	NA	989.418
+CCMSLIB00013576351	Rebaudioside A (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O	0			1+	NA	984.464
+CCMSLIB00013576352	Rebaudioside M (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	1291.54
+CCMSLIB00013576353	Rebaudioside M (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	1313.53
+CCMSLIB00013576354	Rebaudioside M (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	1308.57
+CCMSLIB00013576355	Resveratrol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O	0			1+	NA	229.086
+CCMSLIB00013576356	Rubusoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)(C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O	0			1+	NA	643.332
+CCMSLIB00013576357	Rutin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	611.16
+CCMSLIB00013576358	Rutin (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	633.142
+CCMSLIB00013576359	Sakuranetin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O	0			1+	NA	287.091
+CCMSLIB00013576501	citric acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C(C(=O)O)C(CC(=O)O)(C(=O)O)O	0			1+	NA	210.061
+CCMSLIB00013576611	Isoleucine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC[C@H](C)[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00013576362	secoisolariciresinol diglucoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=CC(=C1)C[C@@H](CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)[C@@H](CC3=CC(=C(C=C3)O)OC)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	687.285
+CCMSLIB00013576363	secoisolariciresinol diglucoside (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	COC1=C(C=CC(=C1)C[C@@H](CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)[C@@H](CC3=CC(=C(C=C3)O)OC)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	704.311
+CCMSLIB00013576364	Selenomethionine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[Se]CCC(C(=O)O)N	0			1+	NA	198.003
+CCMSLIB00013576755	trans-Cinnamyl alcohol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)/C=C/CO	0			1+	NA	135.08
+CCMSLIB00013576366	Se-methylselenocysteine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[Se]C[C@@H](C(=O)O)N	0			1+	NA	183.987
+CCMSLIB00013576367	Se-methylselenocysteine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[Se]C[C@@H](C(=O)O)N	0			1+	NA	183.989
+CCMSLIB00013576368	Serotonin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC2=C(C=C1O)C(=CN2)CCN	0			1+	NA	177.102
+CCMSLIB00013576369	Sinapic Acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=CC(=CC(=C1O)OC)C=CC(=O)O	0			1+	NA	225.076
+CCMSLIB00013576921	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CS(=O)CCCCN=C=S	0			1+	NA	200.017
+CCMSLIB00013576780	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	CS(=O)CCCCN=C=S	0			1+	NA	215.991
+CCMSLIB00013576372	Sinapic Acid (known structural isomers: 0; isobaric peaks in run: 3) [M+NH4]+	COC1=CC(=CC(=C1O)OC)C=CC(=O)O	0			1+	NA	242.102
+CCMSLIB00013576373	Sinapine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[N+](C)(C)CCOC(=O)/C=C/C1=CC(=C(C(=C1)OC)O)OC	0			1+	NA	310.164
+CCMSLIB00013576374	sorbitol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O	0			1+	NA	183.086
+CCMSLIB00013576375	Stearic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCCCCCCCCCCCCC(=O)O	0			1+	NA	302.305
+CCMSLIB00013576378	Syringaldehyde (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=CC(=CC(=C1O)OC)C=O	0			1+	NA	183.065
+CCMSLIB00013576383	Taxifolin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	305.065
+CCMSLIB00013576384	Taxifolin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	305.065
+CCMSLIB00013576464	Agmatine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C(CCN=C(N)N)CN	0			1+	NA	153.111
+CCMSLIB00013576387	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.351
+CCMSLIB00013576388	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.352
+CCMSLIB00013576389	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.352
+CCMSLIB00013576390	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.352
+CCMSLIB00013576391	Tomatine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H](CO9)O)O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)C)C)C)NC1	0			1+	NA	1034.55
+CCMSLIB00013576847	gluconic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O	0			1+	NA	214.092
+CCMSLIB00013576395	tryptophan (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	205.097
+CCMSLIB00013576510	Cyclamate (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1CCC(CC1)NS(=O)(=O)O	0			1+	NA	197.095
+CCMSLIB00013576397	tryptophan (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	222.122
+CCMSLIB00013576856	Isoleucine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC[C@H](C)[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00013576404	Vanillic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=C(C=CC(=C1)C(=O)O)O	0			1+	NA	169.049
+CCMSLIB00013576571	Gluconasturtiin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)CCC(=NOS(=O)(=O)O)S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	424.073
+CCMSLIB00013576406	Vanillin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=C(C=CC(=C1)C=O)O	0			1+	NA	153.055
+CCMSLIB00013576407	Vanillin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=C(C=CC(=C1)C=O)O	0			1+	NA	153.055
+CCMSLIB00013576408	Vanillin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC1=C(C=CC(=C1)C=O)O	0			1+	NA	175.037
+CCMSLIB00013576410	Vitexin-2-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O	0			1+	NA	579.171
+CCMSLIB00013576411	Vitexin-2-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O	0			1+	NA	601.152
+CCMSLIB00013576415	2-acetyl-2-thiazoline (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	CC(=O)C1=NCCS1	0			1+	NA	130.032
+CCMSLIB00013576416	2-acetyl-2-thiazoline (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	CC(=O)C1=NCCS1	0			1+	NA	130.032
+CCMSLIB00013576417	2-aminophenol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC=C(C(=C1)N)O	0			1+	NA	110.06
+CCMSLIB00013576419	2-Isobutyramidoacetic acid (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	OC(CNC(C(C)C)=O)=O	0			1+	NA	146.081
+CCMSLIB00013576420	2-Isobutyramidoacetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	OC(CNC(C(C)C)=O)=O	0			1+	NA	168.063
+CCMSLIB00013576881	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	220.118
+CCMSLIB00013576883	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	237.146
+CCMSLIB00013576424	2-Phenylethanol (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC=C(C=C1)CCO	0			1+	NA	123.081
+CCMSLIB00013576425	2-Phenylethanol (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC=C(C=C1)CCO	0			1+	NA	123.081
+CCMSLIB00013576426	2-Phenylethanol (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC=C(C=C1)CCO	0			1+	NA	123.081
+CCMSLIB00013576427	3-Carboxy-4-methyl-5-propyl-2-furanpropionate (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C	0			1+	NA	241.107
+CCMSLIB00013576428	3-Carboxy-4-methyl-5-propyl-2-furanpropionate (known structural isomers: 0; isobaric peaks in run: 2) [M+Na]+	CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C	0			1+	NA	263.089
+CCMSLIB00013576429	3-Carboxy-4-methyl-5-propyl-2-furanpropionate (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C	0			1+	NA	258.133
+CCMSLIB00013576430	3-Hydroxyhippuric acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC(=CC(=C1)O)C(=O)NCC(=O)O	0			1+	NA	196.06
+CCMSLIB00013576432	3-Methylxanthine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CN1C2=C(C(=O)NC1=O)NC=N2	0			1+	NA	167.056
+CCMSLIB00013576788	4-mercapto-4-methyl-2-pentanone (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CC(=O)CC(C)(C)S	0			1+	NA	150.095
+CCMSLIB00013576434	3-p-coumaroylquinic acid (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC=C(C=C2)O)O)O	0			1+	NA	339.107
+CCMSLIB00013576435	3-p-coumaroylquinic acid (known structural isomers: 2; isobaric peaks in run: 2) [M+Na]+	C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC=C(C=C2)O)O)O	0			1+	NA	361.089
+CCMSLIB00013576436	3-Phenyllactic acid (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)O	0			1+	NA	167.07
+CCMSLIB00013576438	3-Phenyllactic acid (known structural isomers: 2; isobaric peaks in run: 3) [M+NH4]+	C1=CC=C(C=C1)C[C@@H](C(=O)O)O	0			1+	NA	184.097
+CCMSLIB00013576440	4-Guanidinobutanoic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C(CC(=O)O)CN=C(N)N	0			1+	NA	146.097
+CCMSLIB00013576442	4-Hydroxyphenylpyruvic acid (known structural isomers: 1; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1CC(=O)C(=O)O)O	0			1+	NA	198.076
+CCMSLIB00013576808	Citral (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.127
+CCMSLIB00013576447	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	192.065
+CCMSLIB00013576448	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	192.065
+CCMSLIB00013576449	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	214.047
+CCMSLIB00013576450	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	209.092
+CCMSLIB00013576451	5-Hydroxyindole-3-acetic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	C1=CC2=C(C=C1O)C(=CN2)CC(=O)O	0			1+	NA	230.021
+CCMSLIB00013576452	5-Methoxyeugenol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=C(C(=C1)CC=C)O)OC	0			1+	NA	195.099
+CCMSLIB00013576453	5-Methylfurfural (known structural isomers: 0; isobaric peaks in run: 3) [M+NH4]+	CC1=CC=C(O1)C=O	0			1+	NA	128.071
+CCMSLIB00013576457	Aconitic acid (known structural isomers: 1; isobaric peaks in run: 3) [M+NH4]+	C(C(=CC(=O)O)C(=O)O)C(=O)O	0			1+	NA	192.051
+CCMSLIB00013576458	Advantame (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.214
+CCMSLIB00013576459	Advantame (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.212
+CCMSLIB00013576460	Advantame (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.214
+CCMSLIB00013576461	Advantame (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.212
+CCMSLIB00013576462	Advantame (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	481.194
+CCMSLIB00013576463	Agmatine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C(CCN=C(N)N)CN	0			1+	NA	131.129
+CCMSLIB00013576465	Alitame (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	332.164
+CCMSLIB00013576466	Alitame (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	332.163
+CCMSLIB00013576467	Alitame (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	370.119
+CCMSLIB00013576468	Alliin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C=CC[S@](=O)C[C@@H](C(=O)O)N	0			1+	NA	178.053
+CCMSLIB00013576469	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CCCCCC(=O)OCC=C	0			1+	NA	157.122
+CCMSLIB00013576470	alpha ketoglutaric acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C(CC(=O)O)C(=O)C(=O)O	0			1+	NA	164.056
+CCMSLIB00013576471	Alpha-Chaconine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	852.509
+CCMSLIB00013576472	Alpha-Solanine (known structural isomers: 0; isobaric peaks in run: 10) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	868.504
+CCMSLIB00013576473	Alpha-Solanine (known structural isomers: 0; isobaric peaks in run: 10) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	868.507
+CCMSLIB00013576474	Alpha-Solanine (known structural isomers: 0; isobaric peaks in run: 10) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	868.504
+CCMSLIB00013576475	Alpha-Solanine (known structural isomers: 0; isobaric peaks in run: 10) [M+H]+	C[C@H]1CC[C@@H]2[C@H]([C@H]3[C@@H](N2C1)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C	0			1+	NA	868.504
+CCMSLIB00013576476	Apigenin (known structural isomers: 1; isobaric peaks in run: 4) [M+H]+	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	271.06
+CCMSLIB00013576478	Arbutin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	273.097
+CCMSLIB00013576480	Arbutin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	290.123
+CCMSLIB00013576481	Arginine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(C[C@@H](C(=O)O)N)CN=C(N)N	0			1+	NA	175.119
+CCMSLIB00013576484	Aspartame (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	295.128
+CCMSLIB00013576486	Aspartame (known structural isomers: 0; isobaric peaks in run: 1) [M+K]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	333.084
+CCMSLIB00013576487	Aspartic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C([C@@H](C(=O)O)N)C(=O)O	0			1+	NA	134.045
+CCMSLIB00013576490	Bis(2-Methyl-3-furyl) disulfide (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CC1=C(C=CO1)SSC2=C(OC=C2)C	0			1+	NA	244.046
+CCMSLIB00013576491	Capsaicin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	306.206
+CCMSLIB00013576803	betaine (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	C[N+](C)(C)CC(=O)[O-]	0			1+	NA	118.086
+CCMSLIB00013576493	Cinnamic acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	149.06
+CCMSLIB00013576494	Cinnamic acid (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	149.06
+CCMSLIB00013576495	Cinnamic acid (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	166.086
+CCMSLIB00013576496	Cinnamic acid (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	C1=CC=C(C=C1)/C=C/C(=O)O	0			1+	NA	166.086
+CCMSLIB00013576497	Citral (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.126
+CCMSLIB00013576498	Citral (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.127
+CCMSLIB00013576499	Citral (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.127
+CCMSLIB00013576502	Cobalamin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H](C5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](/C(=C(/C4=N5)\C)/[N-]8)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]	0			1+	NA	1355.57
+CCMSLIB00013576828	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CCCCCCC1CCC(=O)O1	0			1+	NA	193.12
+CCMSLIB00013576504	Coumarin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C2C(=C1)C=CC(=O)O2	0			1+	NA	147.044
+CCMSLIB00013576905	Stachyose (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)O[C@]4([C@H]([C@@H]([C@H](O4)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O	0			1+	NA	684.255
+CCMSLIB00013576506	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576507	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576508	Cyanidin (known structural isomers: 2; isobaric peaks in run: 2) [M+H]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	287.055
+CCMSLIB00013576509	Cyanidin (known structural isomers: 2; isobaric peaks in run: 1) [M+Na]+	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	0			1+	NA	309.036
+CCMSLIB00013576511	Cyclamate (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1CCC(CC1)NS(=O)(=O)O	0			1+	NA	197.095
+CCMSLIB00013576512	Daidzein (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O	0			1+	NA	255.065
+CCMSLIB00013576515	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576516	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576517	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576518	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576519	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	199.169
+CCMSLIB00013576520	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 3) [M+NH4]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	216.196
+CCMSLIB00013576522	Dihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)CCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	308.221
+CCMSLIB00013576523	Dipropyl disulfide (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCSSCCC	0			1+	NA	151.062
+CCMSLIB00013576864	Methyl anthranilate (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC(=O)C1=CC=CC=C1N	0			1+	NA	152.071
+CCMSLIB00013576527	Dopamine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C=C1CCN)O)O	0			1+	NA	154.086
+CCMSLIB00013576528	Eicosadienoic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+NH4]+	CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O	0			1+	NA	326.305
+CCMSLIB00013576529	Ellagic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O	0			1+	NA	303.013
+CCMSLIB00013576530	Epicatechin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O	0			1+	NA	291.086
+CCMSLIB00013576534	Ferulic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=CC(=C1)/C=C/C(=O)O)O	0			1+	NA	195.065
+CCMSLIB00013576535	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.146
+CCMSLIB00013576538	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.146
+CCMSLIB00013576539	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576540	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576541	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576542	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.147
+CCMSLIB00013576543	Folic Acid (known structural isomers: 0; isobaric peaks in run: 11) [M+H]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	442.145
+CCMSLIB00013576545	Folic Acid (known structural isomers: 0; isobaric peaks in run: 8) [M+Na]+	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	0			1+	NA	464.129
+CCMSLIB00013576546	fructose (known structural isomers: 6; isobaric peaks in run: 1) [M+H]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	181.072
+CCMSLIB00013576547	fructose (known structural isomers: 6; isobaric peaks in run: 1) [M+H]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	181.072
+CCMSLIB00013576824	Erythritol (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C([C@H]([C@H](CO)O)O)O	0			1+	NA	140.091
+CCMSLIB00013576549	fructose (known structural isomers: 6; isobaric peaks in run: 2) [M+NH4]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	198.098
+CCMSLIB00013576550	Furaneol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CC1C(=O)C(=C(O1)C)O	0			1+	NA	129.055
+CCMSLIB00013576551	Furaneol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CC1C(=O)C(=C(O1)C)O	0			1+	NA	129.055
+CCMSLIB00013576552	Furaneol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CC1C(=O)C(=C(O1)C)O	0			1+	NA	129.055
+CCMSLIB00013576907	Taurine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(CS(=O)(=O)O)N	0			1+	NA	126.022
+CCMSLIB00013576559	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCCCC1CCC(=O)O1	0			1+	NA	171.138
+CCMSLIB00013576560	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	CCCCCCC1CCC(=O)O1	0			1+	NA	188.164
+CCMSLIB00013576561	Gamma-Heptalactone (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CCCC1CCC(=O)O1	0			1+	NA	129.091
+CCMSLIB00013576563	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576564	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576566	Gamma-Octalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCC1CCC(=O)O1	0			1+	NA	143.107
+CCMSLIB00013576568	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	449.068
+CCMSLIB00013576569	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	471.05
+CCMSLIB00013576570	Glucobrassicin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	0			1+	NA	466.094
+CCMSLIB00013576572	Gluconasturtiin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=CC=C(C=C1)CCC(=NOS(=O)(=O)O)S[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	446.055
+CCMSLIB00013576801	Aspartame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	295.129
+CCMSLIB00013576574	Glucoraphanin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CS(=O)CCCC/C(=N/OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	438.057
+CCMSLIB00013576844	Gamma-Octalactone (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCC1CCC(=O)O1	0			1+	NA	160.133
+CCMSLIB00013576576	Glucoraphanin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	CS(=O)CCCC/C(=N/OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	455.082
+CCMSLIB00013576582	Glycitein (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O	0			1+	NA	285.075
+CCMSLIB00013576584	Heptanal (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCC=O	0			1+	NA	132.138
+CCMSLIB00013576585	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.085
+CCMSLIB00013576586	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.086
+CCMSLIB00013576796	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 3) [M+H]+	CCCCCC(=O)OCC=C	0			1+	NA	157.122
+CCMSLIB00013576588	Hesperetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	303.086
+CCMSLIB00013576589	hesperidin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	611.196
+CCMSLIB00013576590	hesperidin (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	633.178
+CCMSLIB00013576591	hesperidin (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	0			1+	NA	628.223
+CCMSLIB00013576593	Histamine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=C(NC=N1)CCN	0			1+	NA	112.087
+CCMSLIB00013576594	Histamine (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C1=C(NC=N1)CCN	0			1+	NA	134.069
+CCMSLIB00013576853	Hydroxyproline (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1[C@H](CN[C@@H]1C(=O)O)O	0			1+	NA	132.066
+CCMSLIB00013576597	Hydroxyproline (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1[C@H](CN[C@@H]1C(=O)O)O	0			1+	NA	132.066
+CCMSLIB00013576599	Hydroxytyrosol (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1=CC(=C(C=C1CCO)O)O	0			1+	NA	172.097
+CCMSLIB00013576600	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	247.144
+CCMSLIB00013576601	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	247.144
+CCMSLIB00013576602	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	247.144
+CCMSLIB00013576603	Hypaphorine (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C[N+](C)(C)[C@@H](CC1=CNC2=CC=CC=C21)C(=O)[O-]	0			1+	NA	269.125
+CCMSLIB00013576604	Indolepropionate (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C1=CC=C2C(=C1)C(=CN2)CCC(=O)O	0			1+	NA	190.086
+CCMSLIB00013576605	Indolepropionate (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C1=CC=C2C(=C1)C(=CN2)CCC(=O)O	0			1+	NA	190.086
+CCMSLIB00013576606	Indolepropionate (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C1=CC=C2C(=C1)C(=CN2)CCC(=O)O	0			1+	NA	190.086
+CCMSLIB00013576612	Isoleucine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC[C@H](C)[C@@H](C(=O)O)N	0			1+	NA	132.102
+CCMSLIB00013576615	Isopropylmalic acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CC(C)C(CC(=O)O)(C(=O)O)O	0			1+	NA	194.102
+CCMSLIB00013576621	Lactose (known structural isomers: 3; isobaric peaks in run: 0) [M+NH4]+	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@H]([C@@H](CO)O)[C@@H]([C@H](C=O)O)O)O)O)O)O	0			1+	NA	360.15
+CCMSLIB00013576901	serine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C([C@@H](C(=O)O)N)O	0			1+	NA	106.05
+CCMSLIB00013576631	Malvidin-3-O-galactoside (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	493.134
+CCMSLIB00013576632	Malvidin-3-O-galactoside (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O	0			1+	NA	493.133
+CCMSLIB00013576633	Mesifurane (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1C(=O)C(=C(O1)C)OC	0			1+	NA	160.097
+CCMSLIB00013576634	methionine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CSCC[C@@H](C(=O)O)N	0			1+	NA	150.058
+CCMSLIB00013576635	methionine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CSCC[C@@H](C(=O)O)N	0			1+	NA	150.058
+CCMSLIB00013576636	methionine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CSCC[C@@H](C(=O)O)N	0			1+	NA	150.058
+CCMSLIB00013576637	methionine (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CSCC[C@@H](C(=O)O)N	0			1+	NA	167.084
+CCMSLIB00013576639	Methyl anthranilate (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC(=O)C1=CC=CC=C1N	0			1+	NA	152.071
+CCMSLIB00013576865	Methyleugenol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CC1=CC(=C(C=C1CC=C)OC)O	0			1+	NA	179.106
+CCMSLIB00013576783	3-Methylxanthine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CN1C2=C(C(=O)NC1=O)NC=N2	0			1+	NA	167.056
+CCMSLIB00013576643	Naringenin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	273.075
+CCMSLIB00013576644	Naringenin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	273.076
+CCMSLIB00013576645	Naringenin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	290.102
+CCMSLIB00013576646	Naringin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	581.186
+CCMSLIB00013576648	Naringin (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	598.212
+CCMSLIB00013576649	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	583.198
+CCMSLIB00013576650	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	605.183
+CCMSLIB00013576651	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	600.228
+CCMSLIB00013576652	Neotame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC(C)(C)CCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)OC	0			1+	NA	379.222
+CCMSLIB00013576653	Neotame (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	CC(C)(C)CCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)OC	0			1+	NA	401.204
+CCMSLIB00013576654	Neotame (known structural isomers: 0; isobaric peaks in run: 1) [M+K]+	CC(C)(C)CCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)OC	0			1+	NA	417.179
+CCMSLIB00013576656	Nordihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(C)CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	294.206
+CCMSLIB00013576657	Oxolinic Acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O	0			1+	NA	262.071
+CCMSLIB00013576658	Oxolinic Acid (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O	0			1+	NA	284.053
+CCMSLIB00013576660	Palmitic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCCCCCCCCCCC(=O)O	0			1+	NA	274.274
+CCMSLIB00013576662	Pantothenic acid (known structural isomers: 1; isobaric peaks in run: 2) [M+Na]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	242.1
+CCMSLIB00013576663	Pantothenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+K]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	258.074
+CCMSLIB00013576668	p-Coumaric acid (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	165.055
+CCMSLIB00013576669	p-Coumaric acid (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	165.054
+CCMSLIB00013576670	p-Coumaric acid (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	165.055
+CCMSLIB00013576671	p-Coumaric acid (known structural isomers: 1; isobaric peaks in run: 4) [M+NH4]+	C1=CC(=CC=C1/C=C/C(=O)O)O	0			1+	NA	182.081
+CCMSLIB00013576675	Phenylethylamine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)CCN	0			1+	NA	122.097
+CCMSLIB00013576679	Phloridzin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	437.144
+CCMSLIB00013576680	Phloridzin (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	454.17
+CCMSLIB00013576681	Phloridzin (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	454.171
+CCMSLIB00013576682	Phytic acid (known structural isomers: 0; isobaric peaks in run: 9) [M+H]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	660.868
+CCMSLIB00013576683	Phytic acid (known structural isomers: 0; isobaric peaks in run: 9) [M+H]+	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	0			1+	NA	660.866
+CCMSLIB00013576684	Pinoresinol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O	0			1+	NA	359.149
+CCMSLIB00013576685	Piperine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	286.144
+CCMSLIB00013576686	Piperine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	286.144
+CCMSLIB00013576687	Piperine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	286.143
+CCMSLIB00013576688	Piperine (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	303.17
+CCMSLIB00013576699	Psilocin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)O	0			1+	NA	205.133
+CCMSLIB00013576700	Psilocin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)O	0			1+	NA	205.133
+CCMSLIB00013576701	Psilocin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)O	0			1+	NA	205.133
+CCMSLIB00013576702	Psilocybin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O	0			1+	NA	285.099
+CCMSLIB00013576703	Psilocybin (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O	0			1+	NA	285.099
+CCMSLIB00013576704	Psilocybin (known structural isomers: 0; isobaric peaks in run: 4) [M+Na]+	CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O	0			1+	NA	307.081
+CCMSLIB00013576705	Pyridoxine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC1=NC=C(C(=C1O)CO)CO	0			1+	NA	170.081
+CCMSLIB00013576707	Quercetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.049
+CCMSLIB00013576708	Quercetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.049
+CCMSLIB00013576709	Quercetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00013576710	Quercetin (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00013576711	Quercetin 3-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	0			1+	NA	449.107
+CCMSLIB00013576712	Quercetin 3-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	0			1+	NA	449.108
+CCMSLIB00013576713	Quercetin 3-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 5) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	0			1+	NA	449.107
+CCMSLIB00013576714	Rebaudioside A (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O	0			1+	NA	967.438
+CCMSLIB00013576715	Rebaudioside M (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O	0			1+	NA	1291.54
+CCMSLIB00013576716	Resveratrol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O	0			1+	NA	229.086
+CCMSLIB00013576717	Rubusoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)(C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O	0			1+	NA	643.335
+CCMSLIB00013576718	Rutin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	611.16
+CCMSLIB00013576719	Rutin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O	0			1+	NA	633.142
+CCMSLIB00013576720	Sakuranetin (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O	0			1+	NA	287.09
+CCMSLIB00013576721	Sakuranetin (known structural isomers: 1; isobaric peaks in run: 4) [M+H]+	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O	0			1+	NA	287.091
+CCMSLIB00013576722	Sakuranetin (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O	0			1+	NA	287.091
+CCMSLIB00013576723	S-Allylcysteine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C=CCSC[C@@H](C(=O)O)N	0			1+	NA	162.058
+CCMSLIB00013576724	secoisolariciresinol diglucoside (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=C(C=CC(=C1)C[C@@H](CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)[C@@H](CC3=CC(=C(C=C3)O)OC)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	687.285
+CCMSLIB00013576725	secoisolariciresinol diglucoside (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC1=C(C=CC(=C1)C[C@@H](CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)[C@@H](CC3=CC(=C(C=C3)O)OC)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	709.267
+CCMSLIB00013576726	secoisolariciresinol diglucoside (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	COC1=C(C=CC(=C1)C[C@@H](CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)[C@@H](CC3=CC(=C(C=C3)O)OC)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	0			1+	NA	704.312
+CCMSLIB00013576727	Selenomethionine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[Se]CCC(C(=O)O)N	0			1+	NA	198.001
+CCMSLIB00013576728	Selenomethionine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[Se]CCC(C(=O)O)N	0			1+	NA	198.003
+CCMSLIB00013576729	Selenomethionine (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[Se]CCC(C(=O)O)N	0			1+	NA	215.031
+CCMSLIB00013576730	Se-methylselenocysteine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[Se]C[C@@H](C(=O)O)N	0			1+	NA	183.987
+CCMSLIB00013576731	Se-methylselenocysteine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[Se]C[C@@H](C(=O)O)N	0			1+	NA	183.988
+CCMSLIB00013576732	Serotonin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC2=C(C=C1O)C(=CN2)CCN	0			1+	NA	177.102
+CCMSLIB00013576733	Sinapic Acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=CC(=CC(=C1O)OC)C=CC(=O)O	0			1+	NA	225.075
+CCMSLIB00013576734	Sinapic Acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=CC(=CC(=C1O)OC)C=CC(=O)O	0			1+	NA	225.075
+CCMSLIB00013576736	Sinapine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[N+](C)(C)CCOC(=O)/C=C/C1=CC(=C(C(=C1)OC)O)OC	0			1+	NA	310.165
+CCMSLIB00013576737	Sinapine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[N+](C)(C)CCOC(=O)/C=C/C1=CC(=C(C(=C1)OC)O)OC	0			1+	NA	310.164
+CCMSLIB00013576740	Syringaldehyde (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=CC(=CC(=C1O)OC)C=O	0			1+	NA	183.065
+CCMSLIB00013576749	Thiamine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO	0			1+	NA	265.112
+CCMSLIB00013576753	Tomatidine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.352
+CCMSLIB00013576806	Cinnamaldehyde (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)/C=C/C=O	0			1+	NA	133.065
+CCMSLIB00013576758	Trigonelline (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	C[N+]1=CC=CC(=C1)C(=O)[O-]	0			1+	NA	176.013
+CCMSLIB00013576759	tryptophan (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	205.097
+CCMSLIB00013576760	tryptophan (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	205.097
+CCMSLIB00013576761	tryptophan (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	227.079
+CCMSLIB00013576762	tryptophan (known structural isomers: 0; isobaric peaks in run: 3) [M+Na]+	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	0			1+	NA	227.079
+CCMSLIB00013576763	Tyramine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1CCN)O	0			1+	NA	138.091
+CCMSLIB00013576764	Tyramine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1CCN)O	0			1+	NA	138.091
+CCMSLIB00013576767	Vanillic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	COC1=C(C=CC(=C1)C(=O)O)O	0			1+	NA	169.049
+CCMSLIB00013576769	Vanillin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	COC1=C(C=CC(=C1)C=O)O	0			1+	NA	153.055
+CCMSLIB00013576770	Vanillin (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	COC1=C(C=CC(=C1)C=O)O	0			1+	NA	175.037
+CCMSLIB00013576773	Vitexin-2-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O	0			1+	NA	579.171
+CCMSLIB00013576774	Vitexin-2-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O	0			1+	NA	601.152
+CCMSLIB00013576776	L-Ergothioneine  (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[N+](C)(C)[C@@H](CC1=CNC(=S)N1)C(=O)[O-]	0			1+	NA	230.095
+CCMSLIB00013576777	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CS(=O)CCCCN=C=S	0			1+	NA	178.035
+CCMSLIB00013576778	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CS(=O)CCCCN=C=S	0			1+	NA	178.035
+CCMSLIB00013576779	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CS(=O)CCCCN=C=S	0			1+	NA	195.062
+CCMSLIB00013576781	2,5-Dimethylpyrazine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CC1=CN=C(C=N1)C	0			1+	NA	109.076
+CCMSLIB00013576782	2-Phenylethanol (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)CCO	0			1+	NA	123.081
+CCMSLIB00013576784	3-Methylxanthine (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CN1C2=C(C(=O)NC1=O)NC=N2	0			1+	NA	184.083
+CCMSLIB00013576785	4-Ethylcatechol (known structural isomers: 1; isobaric peaks in run: 0) [M+H]+	CCC1=CC(=C(C=C1)O)O	0			1+	NA	139.075
+CCMSLIB00013576789	Aconitic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+NH4]+	C(C(=CC(=O)O)C(=O)O)C(=O)O	0			1+	NA	192.051
+CCMSLIB00013576790	Advantame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	459.212
+CCMSLIB00013576791	Advantame (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	COC1=C(C=C(C=C1)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)OC)O	0			1+	NA	481.195
+CCMSLIB00013576792	Alitame (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H](C(=O)NC1C(SC1(C)C)(C)C)NC(=O)[C@H](CC(=O)O)N	0			1+	NA	332.163
+CCMSLIB00013576793	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 3) [M+H]+	CCCCCC(=O)OCC=C	0			1+	NA	157.122
+CCMSLIB00013576794	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 3) [M+H]+	CCCCCC(=O)OCC=C	0			1+	NA	157.122
+CCMSLIB00013576795	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 3) [M+H]+	CCCCCC(=O)OCC=C	0			1+	NA	157.122
+CCMSLIB00013576797	Allyl hexanoate (known structural isomers: 1; isobaric peaks in run: 1) [M+NH4]+	CCCCCC(=O)OCC=C	0			1+	NA	174.149
+CCMSLIB00013576798	Apigenin (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O	0			1+	NA	271.06
+CCMSLIB00013576799	Arbutin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	273.096
+CCMSLIB00013576800	Arbutin (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	0			1+	NA	295.079
+CCMSLIB00013576802	Benzyl alcohol (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)CO	0			1+	NA	109.065
+CCMSLIB00013576805	Cinnamaldehyde (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C1=CC=C(C=C1)/C=C/C=O	0			1+	NA	133.065
+CCMSLIB00013576807	Citral (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	CC(=CCC/C(=C/C=O)/C)C	0			1+	NA	153.127
+CCMSLIB00013576809	citric acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C(C(=O)O)C(CC(=O)O)(C(=O)O)O	0			1+	NA	210.062
+CCMSLIB00013576812	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	216.196
+CCMSLIB00013576813	Delta-Dodecalactone (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	CCCCCCCC1CCCC(=O)O1	0			1+	NA	216.196
+CCMSLIB00013576814	Deoxycarnitine (known structural isomers: 1; isobaric peaks in run: 2) [M+H]+	C[N+](C)(C)CCCC(=O)[O-]	0			1+	NA	146.117
+CCMSLIB00013576815	Dipropyl trisulfide (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	CCCSCCC	0			1+	NA	119.09
+CCMSLIB00013576819	Dopamine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=C(C=C1CCN)O)O	0			1+	NA	154.086
+CCMSLIB00013576821	D-quinic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O	0			1+	NA	215.052
+CCMSLIB00013576822	D-quinic acid (known structural isomers: 0; isobaric peaks in run: 1) [M+NH4]+	C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O	0			1+	NA	210.097
+CCMSLIB00013576825	fructose (known structural isomers: 6; isobaric peaks in run: 0) [M+H]+	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	0			1+	NA	181.072
+CCMSLIB00013576827	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCCCC1CCC(=O)O1	0			1+	NA	171.138
+CCMSLIB00013576829	Gamma-Decalactone (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCC1CCC(=O)O1	0			1+	NA	188.164
+CCMSLIB00013576830	Gamma-Heptalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCC1CCC(=O)O1	0			1+	NA	129.091
+CCMSLIB00013576831	Gamma-Heptalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCC1CCC(=O)O1	0			1+	NA	129.091
+CCMSLIB00013576832	Gamma-Heptalactone (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CCCC1CCC(=O)O1	0			1+	NA	129.091
+CCMSLIB00013576834	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576835	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576836	gamma-Linolenic acid (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	0			1+	NA	279.232
+CCMSLIB00013576842	Gamma-Octalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCC1CCC(=O)O1	0			1+	NA	143.107
+CCMSLIB00013576843	Gamma-Octalactone (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCCCC1CCC(=O)O1	0			1+	NA	143.106
+CCMSLIB00013576848	Glucono-Delta-Lactone (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C(C1C(C(C(C(=O)O1)O)O)O)O	0			1+	NA	179.055
+CCMSLIB00013576851	Heptanal (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCC=O	0			1+	NA	132.138
+CCMSLIB00013576852	Hippuric acid (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC=C(C=C1)C(=O)NCC(=O)O	0			1+	NA	180.065
+CCMSLIB00013576854	Hydroxyproline (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1[C@H](CN[C@@H]1C(=O)O)O	0			1+	NA	132.066
+CCMSLIB00013576861	Limonene (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC1=CCC(CC1)C(=C)C	0			1+	NA	137.132
+CCMSLIB00013576863	Mesifurane (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]1C(=O)C(=C(O1)C)OC	0			1+	NA	143.07
+CCMSLIB00013576866	Methyleugenol (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	CC1=CC(=C(C=C1CC=C)OC)O	0			1+	NA	179.106
+CCMSLIB00013576867	N-Acetylornithine (known structural isomers: 1; isobaric peaks in run: 1) [M+H]+	CC(=O)N[C@@H](CCCN)C(=O)O	0			1+	NA	175.108
+CCMSLIB00013576870	Naringenin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	0			1+	NA	273.075
+CCMSLIB00013576871	Naringin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	581.186
+CCMSLIB00013576873	Naringin (known structural isomers: 0; isobaric peaks in run: 4) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	598.212
+CCMSLIB00013576874	Naringin (known structural isomers: 0; isobaric peaks in run: 4) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	0			1+	NA	598.212
+CCMSLIB00013576875	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	583.201
+CCMSLIB00013576876	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 1) [M+Na]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	605.183
+CCMSLIB00013576877	Naringin Dihydrochalcone (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	0			1+	NA	600.228
+CCMSLIB00013576878	Nordihydrocapsaicin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC(C)CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC	0			1+	NA	294.206
+CCMSLIB00013576879	Oxolinic Acid (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O	0			1+	NA	262.071
+CCMSLIB00013576880	Palmitic Acid (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CCCCCCCCCCCCCCCC(=O)O	0			1+	NA	274.274
+CCMSLIB00013576882	Pantothenic acid (known structural isomers: 1; isobaric peaks in run: 0) [M+Na]+	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	0			1+	NA	242.1
+CCMSLIB00013576885	Phenylethylamine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)CCN	0			1+	NA	122.097
+CCMSLIB00013576886	Phenylethylamine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)CCN	0			1+	NA	122.097
+CCMSLIB00013576887	Phenylethylamine (known structural isomers: 0; isobaric peaks in run: 3) [M+H]+	C1=CC=C(C=C1)CCN	0			1+	NA	122.097
+CCMSLIB00013576888	Phloridzin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	0			1+	NA	437.145
+CCMSLIB00013576889	Piperine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3	0			1+	NA	286.143
+CCMSLIB00013576893	Quercetin (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	303.05
+CCMSLIB00013576894	Quercetin (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	320.076
+CCMSLIB00013576895	Resveratrol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O	0			1+	NA	229.088
+CCMSLIB00013576896	Resveratrol (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O	0			1+	NA	246.112
+CCMSLIB00013576897	Resveratrol (known structural isomers: 0; isobaric peaks in run: 2) [M+NH4]+	C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O	0			1+	NA	246.112
+CCMSLIB00013576898	Retinol (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C	0			1+	NA	287.237
+CCMSLIB00013576900	S-Allylcysteine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C=CCSC[C@@H](C(=O)O)N	0			1+	NA	162.058
+CCMSLIB00013576903	Sinapine (known structural isomers: 0; isobaric peaks in run: 2) [M+H]+	C[N+](C)(C)CCOC(=O)/C=C/C1=CC(=C(C(=C1)OC)O)OC	0			1+	NA	310.164
+CCMSLIB00013576908	Taurine (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	C(CS(=O)(=O)O)N	0			1+	NA	143.049
+CCMSLIB00013576909	Taxifolin (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	0			1+	NA	305.065
+CCMSLIB00013576913	threonine (known structural isomers: 0; isobaric peaks in run: 1) [M+H]+	C[C@H]([C@@H](C(=O)O)N)O	0			1+	NA	120.066
+CCMSLIB00013576914	Tomatidine (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1	0			1+	NA	416.352
+CCMSLIB00013576918	Vitexin-2-O-rhamnoside (known structural isomers: 0; isobaric peaks in run: 0) [M+H]+	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2C3=C(C=C(C4=C3OC(=CC4=O)C5=CC=C(C=C5)O)O)O)CO)O)O)O)O)O	0			1+	NA	579.17
+CCMSLIB00013576920	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 4) [M+H]+	CS(=O)CCCCN=C=S	0			1+	NA	178.035
+CCMSLIB00013576922	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 0) [M+NH4]+	CS(=O)CCCCN=C=S	0			1+	NA	195.062
+CCMSLIB00013576923	Sulforaphane  (known structural isomers: 0; isobaric peaks in run: 0) [M+K]+	CS(=O)CCCCN=C=S	0			1+	NA	215.991

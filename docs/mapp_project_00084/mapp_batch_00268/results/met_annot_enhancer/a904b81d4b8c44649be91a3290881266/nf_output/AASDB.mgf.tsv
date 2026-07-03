@@ -1,0 +1,2 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00013580872	N_epi_glucuronide_stanozolol M+H	O[C@H]1[C@@H]([C@H](O[C@H]([C@@H]1O)N2C3=C(C=N2)C[C@@]4(C)[C@](CC[C@@]5([C@](CC[C@]6([C@]5(CC[C@]6(C)O)[H])C)4[H])[H])([H])C3)C(O)=O)O	0			1+	NA	505.291

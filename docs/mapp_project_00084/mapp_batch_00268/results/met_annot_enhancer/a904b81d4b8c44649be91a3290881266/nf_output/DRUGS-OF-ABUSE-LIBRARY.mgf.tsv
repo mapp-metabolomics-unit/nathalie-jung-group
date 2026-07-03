@@ -1,0 +1,2 @@
+spectrum_id	compound_name	smiles	collision_energy	instrument	ion_source	charge	adduct	precursormz
+CCMSLIB00011429583	Zolpidem M+H	CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C	0			1+	NA	308.175
