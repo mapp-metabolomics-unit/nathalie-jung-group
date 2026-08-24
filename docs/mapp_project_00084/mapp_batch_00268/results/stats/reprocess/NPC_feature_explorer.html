@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<link href="NPC_feature_explorer.html_files/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet" />
+<script src="NPC_feature_explorer.html_files/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="NPC_feature_explorer.html_files/plotly-binding-4.10.4/plotly.js"></script>
+<script src="NPC_feature_explorer.html_files/typedarray-0.1/typedarray.min.js"></script>
+<script src="NPC_feature_explorer.html_files/jquery-3.5.1/jquery.min.js"></script>
+<link href="NPC_feature_explorer.html_files/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet" />
+<script src="NPC_feature_explorer.html_files/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+<link href="NPC_feature_explorer.html_files/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="NPC_feature_explorer.html_files/plotly-main-2.11.1/plotly-latest.min.js"></script>
+  <title>NPC feature explorer</title>
+  <style>
+          :root { color-scheme: light; }
+          body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: #111827;
+            background: #F3F4F6;
+          }
+          .feature-shell { max-width: 1480px; margin: 0 auto; padding: 18px; }
+          .feature-topbar {
+            display: grid;
+            grid-template-columns: minmax(320px, 0.8fr) minmax(640px, 1.2fr);
+            gap: 16px;
+            align-items: start;
+            padding: 14px 0;
+          }
+          h1 { margin: 0; font-size: 20px; line-height: 1.2; font-weight: 700; }
+          .feature-summary { margin-top: 6px; font-size: 12px; color: #4B5563; }
+          .feature-controls {
+            display: grid;
+            gap: 10px;
+            padding: 12px;
+            background: white;
+            border: 1px solid #E5E7EB;
+            border-radius: 8px;
+            box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+          }
+          .feature-row { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+          .feature-row.feature-main-row { grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr); }
+          .feature-control { min-width: 0; display: grid; gap: 4px; }
+          .feature-control-label {
+            color: #374151;
+            font-size: 11px;
+            font-weight: 700;
+            line-height: 1.2;
+          }
+          .feature-select,
+          .feature-input {
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px solid #D1D5DB;
+            border-radius: 6px;
+            padding: 8px 10px;
+            font-size: 12px;
+            background: white;
+            color: #111827;
+          }
+          .feature-select:focus,
+          .feature-input:focus {
+            outline: 2px solid #BFDBFE;
+            border-color: #2563EB;
+          }
+          .feature-values { min-height: 38px; max-height: 92px; }
+          .feature-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 380px); gap: 14px; align-items: start; }
+          .feature-panel,
+          .feature-info {
+            background: white;
+            border: 1px solid #E5E7EB;
+            border-radius: 8px;
+            box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+            min-width: 0;
+          }
+          .feature-panel {
+            padding: 8px;
+          }
+          #featurePlot {
+            width: 100%;
+            height: min(72vh, 720px);
+            min-height: 560px;
+          }
+          .feature-info {
+            padding: 12px;
+            font-size: 12px;
+            line-height: 1.45;
+          }
+          .feature-info h2 {
+            margin: 0 0 8px;
+            font-size: 14px;
+            line-height: 1.25;
+            overflow-wrap: anywhere;
+          }
+          .feature-info table { width: 100%; table-layout: fixed; border-collapse: collapse; }
+          .feature-info th,
+          .feature-info td {
+            padding: 5px 0;
+            border-bottom: 1px solid #F3F4F6;
+            vertical-align: top;
+            text-align: left;
+            overflow-wrap: anywhere;
+            word-break: break-word;
+          }
+          .feature-info th { width: 38%; color: #6B7280; font-weight: 700; padding-right: 8px; }
+          .feature-muted { color: #6B7280; font-size: 12px; }
+          .driver-list { display: grid; gap: 6px; }
+          .driver-button {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 8px;
+            align-items: center;
+            width: 100%;
+            border: 1px solid #E5E7EB;
+            border-radius: 6px;
+            padding: 7px 8px;
+            background: #F9FAFB;
+            color: #111827;
+            font: inherit;
+            text-align: left;
+            cursor: pointer;
+          }
+          .driver-button:hover { border-color: #9CA3AF; background: white; }
+          .driver-button span {
+            min-width: 0;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+          }
+          .driver-button strong { color: #064E3B; font-size: 11px; }
+          .hidden-dependency { display: none; }
+          @media (max-width: 980px) {
+            .feature-topbar,
+            .feature-layout { grid-template-columns: 1fr; }
+            .feature-row.feature-main-row,
+            .feature-row { grid-template-columns: 1fr; }
+            #featurePlot { height: 520px; }
+          }
+        </style>
+  <script>
+          (function () {
+            document.write('<script src="feature_explorer_data/index.js"><\/script>');
+          }());
+        </script>
+  <script>
+          let npcFeatureExplorerPendingDriver = null;
+          document.addEventListener('DOMContentLoaded', function () {
+            function loadDataset(dataUrl, driverValue) {
+              if (!dataUrl) return false;
+              npcFeatureExplorerPendingDriver = driverValue || null;
+              window.NPC_FEATURE_EXPLORER_DATA = null;
+              const script = document.createElement('script');
+              script.src = dataUrl;
+              script.onload = function () {
+                if (!window.NPC_FEATURE_EXPLORER_DATA) {
+                  showLoadError('Dataset loaded, but no explorer payload was found.');
+                  return;
+                }
+                initialiseFeatureExplorer(window.NPC_FEATURE_EXPLORER_DATA);
+              };
+              script.onerror = function () {
+                showLoadError('Could not load dataset: ' + dataUrl);
+              };
+              document.head.appendChild(script);
+              return true;
+            }
+            function showLoadError(message) {
+              document.body.innerHTML = '<main class="feature-shell"><section class="feature-panel"><h1>NPC feature explorer</h1><p class="feature-muted">' + message + '</p></section></main>';
+            }
+            const urlParams = new URLSearchParams(window.location.search);
+            const requestedData = urlParams.get('data');
+            const requestedDriver = urlParams.get('driver') || decodeURIComponent((window.location.hash || '').replace(/^#driver=/, ''));
+            if (requestedData && loadDataset(requestedData, requestedDriver)) {
+              return;
+            }
+            if (!window.NPC_FEATURE_EXPLORER_DATA) {
+              const datasetIndex = window.NPC_FEATURE_EXPLORER_INDEX || [];
+              if (datasetIndex.length && loadDataset(datasetIndex[0].data, requestedDriver)) {
+                return;
+              }
+              showLoadError('No dataset index was found. Re-run the stats processing to create feature_explorer_data/index.js.');
+              return;
+            }
+            npcFeatureExplorerPendingDriver = requestedDriver;
+            initialiseFeatureExplorer(window.NPC_FEATURE_EXPLORER_DATA);
+          });
+
+          function initialiseFeatureExplorer(state) {
+            const featureSelect = document.querySelector('[data-feature-select]');
+            const featureSearch = document.querySelector('[data-feature-search]');
+            const datasetSelect = document.querySelector('[data-dataset-select]');
+            const groupSelect = document.querySelector('[data-group-select]');
+            const colorSelect = document.querySelector('[data-color-select]');
+            const facetSelect = document.querySelector('[data-facet-select]');
+            const filterColumnSelect = document.querySelector('[data-filter-column-select]');
+            const filterValuesSelect = document.querySelector('[data-filter-values-select]');
+            const plotTypeSelect = document.querySelector('[data-plot-type-select]');
+            const transformSelect = document.querySelector('[data-transform-select]');
+            const pointToggle = document.querySelector('[data-point-toggle]');
+            const driverContextSelect = document.querySelector('[data-driver-context-select]');
+            const driverList = document.querySelector('[data-driver-list]');
+            const countLabel = document.querySelector('[data-feature-count]');
+            const titleLabel = document.querySelector('[data-explorer-title]');
+            const totalFeatureLabel = document.querySelector('[data-feature-total]');
+            const info = document.querySelector('[data-feature-info]');
+            if (titleLabel) titleLabel.textContent = state.title || 'NPC feature explorer';
+            if (totalFeatureLabel) totalFeatureLabel.textContent = state.feature_metadata.length + ' features';
+
+            function waitForPlotly(callback) {
+              if (window.Plotly) callback();
+              else setTimeout(function () { waitForPlotly(callback); }, 50);
+            }
+            function valueText(value) {
+              return value === null || value === undefined || value === '' ? 'NA' : String(value);
+            }
+            function uniqueSorted(values) {
+              return Array.from(new Set(values.map(valueText))).sort(function(a, b) { return a.localeCompare(b); });
+            }
+            function addOption(select, value, label) {
+              const option = document.createElement('option');
+              option.value = value;
+              option.textContent = label || value;
+              select.appendChild(option);
+            }
+            function prettyColumn(column) {
+              if (!column) return 'None';
+              return column.replace(/^attribute_/, '').replace(/_/g, ' ');
+            }
+            function metadataValue(sample, column) {
+              return valueText(sample[column]);
+            }
+            function featureValue(feature, column) {
+              return valueText(feature[column]);
+            }
+            function populateMetadataSelect(select, includeNone) {
+              if (includeNone) addOption(select, '', 'None');
+              state.metadata_columns.forEach(function(column) { addOption(select, column, prettyColumn(column)); });
+            }
+            function populateColorSelect() {
+              colorSelect.innerHTML = '';
+              addOption(colorSelect, '__group__', 'Same as x-axis grouping');
+              state.metadata_columns.forEach(function(column) { addOption(colorSelect, column, prettyColumn(column)); });
+            }
+            function populateDatasetSelect() {
+              const datasetIndex = window.NPC_FEATURE_EXPLORER_INDEX || [];
+              datasetSelect.innerHTML = '';
+              if (!datasetIndex.length) {
+                addOption(datasetSelect, '', 'Current dataset');
+                datasetSelect.disabled = true;
+                return;
+              }
+              datasetIndex.forEach(function(dataset) { addOption(datasetSelect, dataset.data, dataset.label); });
+              const currentData = new URLSearchParams(window.location.search).get('data') || datasetIndex[0].data;
+              if (Array.from(datasetSelect.options).some(function(option) { return option.value === currentData; })) {
+                datasetSelect.value = currentData;
+              }
+            }
+            function selectedColorColumn() {
+              return colorSelect.value === '__group__' ? groupSelect.value : colorSelect.value;
+            }
+            function populateFeatures(query) {
+              const current = featureSelect.value;
+              featureSelect.innerHTML = '';
+              const queryText = (query || '').trim().toLowerCase();
+              state.feature_metadata
+                .filter(function(feature) {
+                  return !queryText || Object.values(feature).join(' ').toLowerCase().indexOf(queryText) !== -1;
+                })
+                .slice(0, 500)
+                .forEach(function(feature) {
+                  addOption(featureSelect, feature.feature_id, feature.feature_label);
+                });
+              if (current && Array.from(featureSelect.options).some(function(option) { return option.value === current; })) {
+                featureSelect.value = current;
+              }
+            }
+            function populateFilterValues() {
+              filterValuesSelect.innerHTML = '';
+              const column = filterColumnSelect.value;
+              if (!column) return;
+              uniqueSorted(state.sample_metadata.map(function(sample) { return metadataValue(sample, column); }))
+                .forEach(function(value) { addOption(filterValuesSelect, value, value); });
+            }
+            function populateDriverContexts() {
+              driverContextSelect.innerHTML = '';
+              addOption(driverContextSelect, '', 'Driver context: none');
+              if (!state.driver_metadata || !state.driver_metadata.length) return;
+              uniqueSorted(state.driver_metadata.map(function(row) { return valueText(row.npc_term); }))
+                .forEach(function(value) { addOption(driverContextSelect, value, 'Driver context: ' + value); });
+              const driverParam = npcFeatureExplorerPendingDriver;
+              if (driverParam && Array.from(driverContextSelect.options).some(function(option) { return option.value === driverParam; })) {
+                driverContextSelect.value = driverParam;
+              }
+            }
+            function selectFeature(featureId) {
+              featureSearch.value = featureId;
+              populateFeatures(featureId);
+              if (Array.from(featureSelect.options).some(function(option) { return option.value === featureId; })) {
+                featureSelect.value = featureId;
+              }
+              renderPlot();
+            }
+            function renderDriverList() {
+              const context = driverContextSelect.value;
+              if (!context || !state.driver_metadata || !state.driver_metadata.length) {
+                driverList.innerHTML = '<div class="feature-muted">Select an NPC driver context to inspect the ranked features.</div>';
+                return;
+              }
+              const rows = state.driver_metadata
+                .filter(function(row) { return valueText(row.npc_term) === context; })
+                .sort(function(a, b) {
+                  return Number(b.abs_mean_difference_max_min || 0) - Number(a.abs_mean_difference_max_min || 0);
+                })
+                .slice(0, state.driver_top_n || 30);
+              driverList.innerHTML = rows.map(function(row, index) {
+                const contribution = Number(row.contribution_fraction_of_term_difference || 0);
+                const label = valueText(row.feature_id) + ' | ' + valueText(row.feature_id_full_annotated || row.sirius_chebiasciiname || row.sirius_name || '');
+                return '<button class="driver-button" data-driver-feature="' + valueText(row.feature_id) + '">' +
+                  '<span>' + (index + 1) + '. ' + label + '</span>' +
+                  '<strong>' + (contribution ? (100 * contribution).toFixed(1) + '%' : 'NA') + '</strong>' +
+                '</button>';
+              }).join('');
+              Array.from(driverList.querySelectorAll('[data-driver-feature]')).forEach(function(button) {
+                button.addEventListener('click', function() { selectFeature(button.dataset.driverFeature); });
+              });
+            }
+            function selectedFilterValues() {
+              return Array.from(filterValuesSelect.selectedOptions).map(function(option) { return option.value; });
+            }
+            function selectedSamples() {
+              const filterColumn = filterColumnSelect.value;
+              const filterValues = selectedFilterValues();
+              return state.sample_metadata.map(function(sample, index) {
+                return { sample: sample, index: index };
+              }).filter(function(item) {
+                if (!filterColumn || !filterValues.length) return true;
+                return filterValues.indexOf(metadataValue(item.sample, filterColumn)) !== -1;
+              });
+            }
+            function formatIntensity(value) {
+              const numeric = Number(value);
+              if (!Number.isFinite(numeric)) return 'NA';
+              if (transformSelect.value === 'log10_raw' || transformSelect.value === 'log10_processed') return numeric.toPrecision(4);
+              return numeric.toExponential(3);
+            }
+            function activeIntensityValues(featureId) {
+              if (transformSelect.value === 'processed' || transformSelect.value === 'log10_processed') {
+                return state.intensities[featureId] || [];
+              }
+              return (state.raw_intensities && state.raw_intensities[featureId]) || state.intensities[featureId] || [];
+            }
+            function transformValue(value) {
+              const numeric = Number(value);
+              if (!Number.isFinite(numeric)) return null;
+              if (transformSelect.value === 'log10_raw' || transformSelect.value === 'log10_processed') return Math.log10(numeric + 1);
+              return numeric;
+            }
+            function sharedYAxisRange(featureId, sampleItems) {
+              const selectedIndexes = sampleItems.map(function(item) { return item.index; });
+              const allValues = [];
+              const values = activeIntensityValues(featureId);
+              selectedIndexes.forEach(function(index) {
+                const transformed = transformValue(values[index]);
+                if (transformed !== null) allValues.push(transformed);
+              });
+              if (!allValues.length) return null;
+              const minValue = Math.min.apply(null, allValues);
+              const maxValue = Math.max.apply(null, allValues);
+              if (!Number.isFinite(minValue) || !Number.isFinite(maxValue)) return null;
+              if (minValue === maxValue) {
+                const pad = Math.max(Math.abs(maxValue) * 0.05, transformSelect.value.indexOf('log10') === 0 ? 0.1 : 1);
+                return [minValue - pad, maxValue + pad];
+              }
+              const pad = (maxValue - minValue) * 0.06;
+              const lower = transformSelect.value.indexOf('log10') === 0 ? Math.max(0, minValue - pad) : minValue - pad;
+              return [lower, maxValue + pad];
+            }
+            function yAxisConfig(yRange) {
+              const isLog = transformSelect.value === 'log10_raw' || transformSelect.value === 'log10_processed';
+              const isProcessed = transformSelect.value === 'processed' || transformSelect.value === 'log10_processed';
+              return {
+                title: isLog ? (isProcessed ? 'log10 processed value + 1' : 'log10 raw intensity + 1') : (isProcessed ? 'Processed value' : 'Raw intensity'),
+                gridcolor: '#E5E7EB',
+                zeroline: false,
+                range: yRange || undefined,
+                tickformat: isLog ? '.2f' : (isProcessed ? '.3f' : '.2e'),
+                hoverformat: isLog ? '.4f' : (isProcessed ? '.4f' : '.3e')
+              };
+            }
+            function hiddenSharedYAxisConfig(yRange) {
+              const config = yAxisConfig(yRange);
+              config.title = '';
+              config.showticklabels = false;
+              config.ticks = '';
+              return config;
+            }
+            function colorForGroup(group) {
+              return state.colors[group] || '#4B5563';
+            }
+            const fallbackPalette = ['#2563EB', '#DC2626', '#059669', '#7C3AED', '#D97706', '#0891B2', '#BE123C', '#4B5563'];
+            function colorForValue(value, index) {
+              return state.colors[value] || fallbackPalette[index % fallbackPalette.length];
+            }
+            function renderInfo(feature) {
+              const rows = Object.keys(feature).filter(function(key) {
+                return feature[key] !== null && feature[key] !== undefined && feature[key] !== '';
+              }).map(function(key) {
+                return '<tr><th>' + key + '</th><td>' + valueText(feature[key]) + '</td></tr>';
+              }).join('');
+              info.innerHTML = '<h2>' + feature.feature_label + '</h2><table>' + rows + '</table>';
+            }
+            function renderPlot() {
+              const featureId = featureSelect.value || (state.feature_metadata[0] || {}).feature_id;
+              if (!featureId) return;
+              const feature = state.feature_metadata.find(function(item) { return item.feature_id === featureId; });
+              const values = activeIntensityValues(featureId);
+              const selectedSampleItems = selectedSamples();
+              const yRange = sharedYAxisRange(featureId, selectedSampleItems);
+              const samples = selectedSampleItems.map(function(item) {
+                const sample = item.sample;
+                const colorColumn = selectedColorColumn();
+                return {
+                  sample: sample,
+                  value: transformValue(values[item.index]),
+                  group: metadataValue(sample, groupSelect.value),
+                  color: metadataValue(sample, colorColumn),
+                  facet: facetSelect.value ? metadataValue(sample, facetSelect.value) : ''
+                };
+              }).filter(function(item) { return item.value !== null; });
+              countLabel.textContent = samples.length + ' samples';
+              if (feature) renderInfo(feature);
+              const facets = facetSelect.value ? uniqueSorted(samples.map(function(item) { return item.facet; })) : [''];
+              const traces = [];
+              const shapes = [];
+              const annotations = [];
+              const legendShown = new Set();
+              const colorColumn = selectedColorColumn();
+              const globalGroups = uniqueSorted(samples.map(function(item) { return item.group; }));
+              const globalColorValues = colorColumn === groupSelect.value ? globalGroups : uniqueSorted(samples.map(function(item) { return item.color; }));
+              const colorIndexMap = {};
+              globalColorValues.forEach(function(value, index) { colorIndexMap[value] = index; });
+              facets.forEach(function(facetValue, facetIndex) {
+                const facetSamples = samples.filter(function(item) { return item.facet === facetValue; });
+                const groups = globalGroups;
+                globalColorValues.forEach(function(colorValue) {
+                  const groupedSamples = facetSamples.filter(function(item) { return item.color === colorValue; });
+                  if (!groupedSamples.length) return;
+                  const traceGroups = colorColumn === groupSelect.value ? [colorValue] : groups;
+                  traceGroups.forEach(function(group) {
+                  const groupSamples = groupedSamples.filter(function(item) { return item.group === group; });
+                  if (!groupSamples.length) return;
+                  const showLegend = !legendShown.has(colorValue);
+                  legendShown.add(colorValue);
+                  const colorValueIndex = colorIndexMap[colorValue] || 0;
+                  const trace = {
+                    x: groupSamples.map(function(item) { return item.group; }),
+                    y: groupSamples.map(function(item) { return item.value; }),
+                    text: groupSamples.map(function(item) {
+                      const colorColumn = selectedColorColumn();
+                      return 'Sample: ' + valueText(item.sample.sample_id) +
+                        '<br>' + prettyColumn(groupSelect.value) + ': ' + item.group +
+                        '<br>' + prettyColumn(colorColumn) + ': ' + item.color +
+                        '<br>Value: ' + formatIntensity(item.value);
+                    }),
+                    hoverinfo: 'text',
+                    name: colorValue,
+                    marker: { color: colorForValue(colorValue, colorValueIndex), size: 7, opacity: 0.82 },
+                    line: { color: colorForValue(colorValue, colorValueIndex) },
+                    legendgroup: colorValue,
+                    showlegend: showLegend
+                  };
+                  if (plotTypeSelect.value === 'violin') {
+                    trace.type = 'violin';
+                    trace.box = { visible: true };
+                    trace.meanline = { visible: true };
+                    trace.points = pointToggle.checked ? 'all' : false;
+                  } else if (plotTypeSelect.value === 'scatter') {
+                    trace.type = 'scatter';
+                    trace.mode = 'markers';
+                    trace.x = groupSamples.map(function(item) { return item.group + '<br>' + valueText(item.sample.sample_id); });
+                  } else {
+                    trace.type = 'box';
+                    trace.boxpoints = pointToggle.checked ? 'all' : false;
+                  }
+                  if (facetValue) {
+                    const axisSuffix = facetIndex === 0 ? '' : String(facetIndex + 1);
+                    trace.xaxis = 'x' + axisSuffix;
+                    trace.yaxis = 'y' + axisSuffix;
+                  }
+                  traces.push(trace);
+                  });
+                });
+                if (facetValue) {
+                  annotations.push({
+                    text: facetValue,
+                    xref: 'paper',
+                    yref: 'paper',
+                    x: (facetIndex + 0.5) / facets.length,
+                    y: 1.03,
+                    showarrow: false,
+                    font: { size: 12, color: '#111827' }
+                  });
+                }
+              });
+              const layout = {
+                title: { text: feature ? feature.feature_label : featureId, font: { size: 15 }, y: 0.985 },
+                font: { family: 'Arial, sans-serif', size: 11, color: '#111827' },
+                margin: { l: 70, r: 24, t: facets.length > 1 ? 112 : 78, b: 80 },
+                paper_bgcolor: 'white',
+                plot_bgcolor: 'white',
+                yaxis: yAxisConfig(yRange),
+                xaxis: { title: prettyColumn(groupSelect.value), tickangle: -25, zeroline: false },
+                boxmode: 'group',
+                violinmode: 'group',
+                annotations: annotations,
+                legend: {
+                  title: { text: colorColumn === groupSelect.value ? prettyColumn(groupSelect.value) : prettyColumn(colorColumn) },
+                  orientation: 'v',
+                  x: 1.02,
+                  y: 1
+                }
+              };
+              if (facets.length > 1) {
+                layout.grid = { rows: 1, columns: facets.length, pattern: 'independent' };
+                facets.forEach(function(facetValue, facetIndex) {
+                  const suffix = facetIndex === 0 ? '' : String(facetIndex + 1);
+                  layout['xaxis' + suffix] = { title: prettyColumn(groupSelect.value), tickangle: -25, zeroline: false };
+                  layout['yaxis' + suffix] = facetIndex === 0 ? yAxisConfig(yRange) : hiddenSharedYAxisConfig(yRange);
+                });
+              }
+              Plotly.react('featurePlot', traces, layout, { displaylogo: false, responsive: true, scrollZoom: false });
+            }
+
+            populateDatasetSelect();
+            populateMetadataSelect(groupSelect, false);
+            populateColorSelect();
+            populateMetadataSelect(facetSelect, true);
+            populateMetadataSelect(filterColumnSelect, true);
+            populateDriverContexts();
+            groupSelect.value = state.metadata_columns.indexOf(state.default_group) !== -1 ? state.default_group : state.metadata_columns[0];
+            colorSelect.value = '__group__';
+            populateFeatures('');
+            populateFilterValues();
+            renderDriverList();
+            featureSearch.addEventListener('input', function() { populateFeatures(featureSearch.value); renderPlot(); });
+            datasetSelect.addEventListener('change', function() {
+              if (!datasetSelect.value) return;
+              const params = new URLSearchParams();
+              params.set('data', datasetSelect.value);
+              if (driverContextSelect.value) params.set('driver', driverContextSelect.value);
+              window.location.search = params.toString();
+            });
+            featureSelect.addEventListener('change', renderPlot);
+            groupSelect.addEventListener('change', renderPlot);
+            colorSelect.addEventListener('change', renderPlot);
+            facetSelect.addEventListener('change', renderPlot);
+            filterColumnSelect.addEventListener('change', function() { populateFilterValues(); renderPlot(); });
+            filterValuesSelect.addEventListener('change', renderPlot);
+            plotTypeSelect.addEventListener('change', renderPlot);
+            transformSelect.addEventListener('change', renderPlot);
+            pointToggle.addEventListener('change', renderPlot);
+            driverContextSelect.addEventListener('change', renderDriverList);
+            waitForPlotly(renderPlot);
+          }
+        </script>
+</head>
+<html>
+  <body>
+    <main class="feature-shell">
+      <section class="feature-topbar">
+        <div>
+          <h1 data-explorer-title="">NPC feature explorer</h1>
+          <div class="feature-summary">
+            <span data-feature-count="">0 samples</span>
+             - 
+            <span data-feature-total="">0 features</span>
+          </div>
+        </div>
+        <div class="feature-controls">
+          <div class="feature-row feature-main-row">
+            <label class="feature-control">
+              <span class="feature-control-label">Dataset</span>
+              <select class="feature-select" data-dataset-select=""></select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Search features</span>
+              <input class="feature-input" data-feature-search="" type="search" placeholder="feature id, annotation, NPC class"/>
+            </label>
+          </div>
+          <div class="feature-row feature-main-row">
+            <label class="feature-control">
+              <span class="feature-control-label">NPC driver context</span>
+              <select class="feature-select" data-driver-context-select=""></select>
+            </label>
+          </div>
+          <label class="feature-control">
+            <span class="feature-control-label">Feature</span>
+            <select class="feature-select" data-feature-select=""></select>
+          </label>
+          <div class="feature-row">
+            <label class="feature-control">
+              <span class="feature-control-label">Group on x-axis</span>
+              <select class="feature-select" data-group-select=""></select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Color by</span>
+              <select class="feature-select" data-color-select=""></select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Facet by</span>
+              <select class="feature-select" data-facet-select=""></select>
+            </label>
+          </div>
+          <div class="feature-row">
+            <label class="feature-control">
+              <span class="feature-control-label">Filter metadata</span>
+              <select class="feature-select" data-filter-column-select=""></select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Filter values</span>
+              <select class="feature-select feature-values" data-filter-values-select="" multiple="multiple"></select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Plot type</span>
+              <select class="feature-select" data-plot-type-select="">
+                <option value="box">Box</option>
+                <option value="violin">Violin</option>
+                <option value="scatter">Points</option>
+              </select>
+            </label>
+          </div>
+          <div class="feature-row">
+            <label class="feature-control">
+              <span class="feature-control-label">Intensity scale</span>
+              <select class="feature-select" data-transform-select="">
+                <option value="log10_raw">log10 raw intensity + 1</option>
+                <option value="raw">Raw intensity, scientific notation</option>
+                <option value="log10_processed">log10 processed value + 1</option>
+                <option value="processed">Processed value</option>
+              </select>
+            </label>
+            <label class="feature-control">
+              <span class="feature-control-label">Points</span>
+              <span>
+                <input type="checkbox" data-point-toggle="" checked="checked"/>
+                 show individual samples
+              </span>
+            </label>
+          </div>
+        </div>
+      </section>
+      <section class="feature-layout">
+        <div class="feature-panel">
+          <div id="featurePlot"></div>
+        </div>
+        <aside class="feature-info">
+          <div data-feature-info=""></div>
+          <h2>NPC driver features</h2>
+          <div class="driver-list" data-driver-list=""></div>
+        </aside>
+      </section>
+      <div class="hidden-dependency">
+        <div class="plotly html-widget html-fill-item" id="htmlwidget-ac93bfef51f3773493ee" style="width:100%;height:400px;"></div>
+        <script type="application/json" data-for="htmlwidget-ac93bfef51f3773493ee">{"x":{"visdat":{"38963e2ef01a7e":["function () ","plotlyVisDat"]},"cur_data":"38963e2ef01a7e","attrs":{"38963e2ef01a7e":{"x":1,"y":1,"mode":"markers","alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter"}},"layout":{"width":1,"height":1,"margin":{"b":0,"l":0,"t":0,"r":0},"xaxis":{"domain":[0,1],"automargin":true,"title":[]},"yaxis":{"domain":[0,1],"automargin":true,"title":[]},"hovermode":"closest","showlegend":false},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false,"displaylogo":false},"data":[{"x":[1],"y":[1],"mode":"markers","type":"scatter","marker":{"color":"rgba(31,119,180,1)","line":{"color":"rgba(31,119,180,1)"}},"error_y":{"color":"rgba(31,119,180,1)"},"error_x":{"color":"rgba(31,119,180,1)"},"line":{"color":"rgba(31,119,180,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+      </div>
+    </main>
+  </body>
+</html>
+</html>

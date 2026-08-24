@@ -1,0 +1,25 @@
+# Copy this file to params/params_override.yaml and edit only the settings you
+# want to change during stats reprocessing. Values here are recursively merged
+# into each archived params.yaml before rerunning biostat_toolbox.
+#
+# Put settings at the top level to apply them to every reprocessed run.
+
+npc_summed_intensity:
+  pathway: []
+  superclass: []
+  class: []
+  expand_all: TRUE
+  expand_pathway: []
+  expand_levels:
+    - "superclass"
+    - "class"
+  min_probability: 0.7
+  transform: "log10"
+  individual_export: "top"
+  individual_export_top_n: 30
+  static_export_top_n: 40
+  raw_export: TRUE
+  ratios:
+    enabled: TRUE
+    denominator_level: "pathway"
+    pseudocount: 0
