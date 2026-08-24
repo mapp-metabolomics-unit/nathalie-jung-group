@@ -1,0 +1,180 @@
+[1] "/home/allardpm/git_repos/mapp-metabolomics-unit/biostat_toolbox/src/biostat_toolbox.r"
+Directory created:/home/allardpm/git_repos/mapp-metabolomics-unit/biostat_toolbox/../nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/stats/reprocess/d6e0eed6c24ca73c0d380972c5214ce1
+
+Writing params.yaml ...
+[1] TRUE
+[1] TRUE
+New names:
+• `` -> `...56`
+Rows: 3486 Columns: 56
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+dbl (45): row ID, row m/z, row retention time, 20260624_CVOL_Darleen_A549_11...
+lgl (11): row ion mobility, row ion mobility unit, row CCS, correlation grou...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 2723 Columns: 30
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (13): sirius_smiles, sirius_ConfidenceScoreExact, sirius_ConfidenceScore...
+dbl (16): sirius_structurePerIdRank, sirius_formulaRank, sirius_CSI:FingerID...
+lgl  (1): sirius_overallFeatureQuality
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 2723 Columns: 29
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (12): molecularFormula, adduct, precursorFormula, NPC#pathway, NPC#super...
+dbl (16): formulaRank, NPC#pathway Probability, NPC#superclass Probability, ...
+lgl  (1): overallFeatureQuality
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 796 Columns: 49
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (44): rank_spec, msms_score, libname, structure_wikidata, structure_inch...
+dbl  (5): feature_id, component_id, freq_structure_taxonomy_npclassifier_01p...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+[1] "This is a GNPS2 job."
+Rows: 3486 Columns: 45
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr  (1): Compound_Name
+dbl (44): cluster index, parent mass, RTMean, ATTRIBUTE_treatment:GNPSGROUP:...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 643 Columns: 46
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (30): SpectrumID, SpectrumFile, LibraryName, FileScanUniqueID, Compound_...
+dbl (15): #Scan#, MQScore, TIC_Query, RT_Query, MZErrorPPM, SharedPeaks, Mas...
+lgl  (1): tags
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Warning message:
+There were 4 warnings in `mutate()`.
+The first warning was:
+ℹ In argument: `met_annot_msms_score =
+  .Primitive("as.double")(met_annot_msms_score)`.
+Caused by warning:
+! NAs introduced by coercion
+ℹ Run `dplyr::last_dplyr_warnings()` to see the 3 remaining warnings. 
+Rows: 42 Columns: 11
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (10): filename, sample_id, sample_type, ATTRIBUTE_treatment, ATTRIBUTE_c...
+dbl  (1): ATTRIBUTE_collection_dates
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 1 Columns: 1
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (1): taxon
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Outputting X, VM and SM ...
+Saving DE object ...
+DatasetExperiment object properties: 
+Saving DE_original object ...
+DatasetExperiment object properties: 
+Launching PCA calculations ...
+Preparing NPC summed-intensity plots ...
+Joining with `by = join_by(id_class)`
+Joining with `by = join_by(id_superclass)`
+Joining with `by = join_by(id_pathway)`
+There were 50 or more warnings (use warnings() to see the first 50)
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Launching PLSDA calculations ...
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Launching PCoA calculations ...
+Launching Fold Changes and Tukey’s Honest Significant Difference calculations ...
+Calculating logs ...
+Launching Volcano Plots calculations ...
+Warning message:
+In instance$preRenderHook(instance) :
+  It seems your data is too big for client-side DataTables. You may consider server-side processing: https://rstudio.github.io/DT/server.html
+Iterating over the following conditions for the Volcano plots generation:
+
+Generating Volcano plot for condition: PET_vs_PS
+
+Filtered data for condition: PET_vs_PS
+
+
+
+Generating Volcano plot for condition: PET_vs_Untreated
+
+Filtered data for condition: PET_vs_Untreated
+
+
+
+Generating Volcano plot for condition: PS_vs_Untreated
+
+Filtered data for condition: PS_vs_Untreated
+
+
+
+There were 33 warnings (use warnings() to see them)
+Great ! You decided to launch the fc treemaps calculations :) :
+
+Joining with `by = join_by(id_class)`
+Joining with `by = join_by(id_superclass)`
+Joining with `by = join_by(id_pathway)`
+Iterating over the following conditions for the treemaps generation:
+
+Generating treemaps for condition: PET_vs_PS
+Not enough significant features for condition: PET_vs_PS. Skipping treemap generation.
+
+Generating treemaps for condition: PET_vs_Untreated
+Not enough significant features for condition: PET_vs_Untreated. Skipping treemap generation.
+
+Generating treemaps for condition: PS_vs_Untreated
+Filtered data for condition: PS_vs_Untreated:
+
+
+
+`summarise()` has grouped output by 'canopus_npc_pathway'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'canopus_npc_pathway'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+`summarise()` has grouped output by 'fold_dir'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'fold_dir'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'fold_dir'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'fold_dir'. You can override using the
+`.groups` argument.
+Preparing Tree Map ...
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+Launching Random Forest calculations ...
+Preparing p-value selected Box plots ...
+Preparing p-value filtered Heatmap ...
+[1] "Other is not present in the dataframe. We add it directly to the dataframe"
+Matching, by = "canopus_npc_pathway"
+`summarise()` has grouped output by 'canopus_npc_superclass'. You can override
+using the `.groups` argument.
+Outputing Summary Table ...
+... the R session info file ...
+... and the R script file !
+[1] TRUE
+Done !

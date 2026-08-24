@@ -1,0 +1,6 @@
+paths:
+  docs: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs
+  output: /home/allardpm/git_repos/mapp-metabolomics-unit/biostat_toolbox/../nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/stats/reprocess
+operating_system:
+  system: unix
+  pandoc: pandoc

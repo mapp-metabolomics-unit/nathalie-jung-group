@@ -1,0 +1,15 @@
+An rfPermute model
+
+               Type of random forest: classification 
+                     Number of trees: 500 
+No. of variables tried at each split: 7 
+       No. of permutation replicates: 500 
+                          Start time: 2026-08-24 15:43:17 
+                            End time: 2026-08-24 15:43:19 
+                            Run time: 1.5 secs 
+
+          PET Untreated pct.correct LCI_0.95 UCI_0.95
+PET         3         0       100.0    29.24    100.0
+Untreated   1         2        66.7     9.43     99.2
+Overall    NA        NA        83.3    35.88     99.6
+

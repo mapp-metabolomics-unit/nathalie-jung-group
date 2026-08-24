@@ -1,0 +1,7 @@
+A "DatasetExperiment" object
+----------------------------
+name:          mapp_batch_00268 LCMS metabolomics dataset
+description:   Untargeted metabolomics on human cells - nanoplastics exp1 project - Lipido
+data:          42 rows x 3486 columns
+sample_meta:   42 rows x 12 columns
+variable_meta: 3486 rows x 201 columns
