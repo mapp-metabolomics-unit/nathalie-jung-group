@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<link href="data_explorer_files/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet" />
+<script src="data_explorer_files/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="data_explorer_files/plotly-binding-4.10.4/plotly.js"></script>
+<script src="data_explorer_files/typedarray-0.1/typedarray.min.js"></script>
+<script src="data_explorer_files/jquery-3.5.1/jquery.min.js"></script>
+<link href="data_explorer_files/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet" />
+<script src="data_explorer_files/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+<link href="data_explorer_files/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="data_explorer_files/plotly-main-2.11.1/plotly-latest.min.js"></script>
+  <title>MAPP data explorer</title>
+  <link rel="stylesheet" href="data_explorer_assets/data_explorer.css"/>
+  <script src="data_explorer_assets/data_explorer_payload.js"></script>
+</head>
+<html>
+  <body>
+    <div class="app-container">
+      <aside class="app-sidebar">
+        <div class="sidebar-header">
+          <div>
+            <div class="brand-title">MAPP Data Explorer</div>
+            <div class="brand-subtitle">Feature and NPC-level exploration</div>
+          </div>
+        </div>
+        <div class="sidebar-content">
+          <section class="sidebar-card">
+            <div class="card-header">Entity</div>
+            <div class="form-stack">
+              <label class="form-group">
+                <span>Level</span>
+                <select data-level="">
+                  <option value="feature">Feature</option>
+                  <option value="class">NPC class</option>
+                  <option value="superclass">NPC superclass</option>
+                  <option value="pathway">NPC pathway</option>
+                </select>
+              </label>
+              <label class="form-group">
+                <span>Search</span>
+                <input data-search="" type="search" placeholder="Ceramides, feature id, pathway..."/>
+              </label>
+              <label class="form-group">
+                <span>Entity</span>
+                <select data-item=""></select>
+              </label>
+            </div>
+          </section>
+          <section class="sidebar-card">
+            <div class="card-header">Display</div>
+            <div class="form-stack">
+              <label class="form-group">
+                <span>Value</span>
+                <select data-value-mode="">
+                  <option value="percent_total">Relative to sample total (%)</option>
+                  <option value="log10">log10 raw intensity + 1</option>
+                  <option value="raw">Raw intensity</option>
+                </select>
+              </label>
+              <label class="form-group">
+                <span>Plot type</span>
+                <select data-plot-type="">
+                  <option value="box">Box</option>
+                  <option value="violin">Violin</option>
+                  <option value="points">Points</option>
+                </select>
+              </label>
+              <label class="checkbox-row">
+                <input type="checkbox" data-grid-toggle=""/>
+                <span>Grid mode</span>
+              </label>
+              <label class="checkbox-row">
+                <input type="checkbox" data-points-toggle="" checked="checked"/>
+                <span>Show points</span>
+              </label>
+            </div>
+          </section>
+          <section class="sidebar-card">
+            <div class="card-header">Plot mapping</div>
+            <div class="form-stack">
+              <label class="form-group">
+                <span>Group on x-axis</span>
+                <select data-group=""></select>
+              </label>
+              <label class="form-group">
+                <span>Facet by</span>
+                <select data-facet=""></select>
+              </label>
+              <label class="form-group">
+                <span>Color by</span>
+                <select data-color=""></select>
+              </label>
+            </div>
+          </section>
+          <section class="sidebar-card">
+            <div class="card-header">Samples</div>
+            <div class="form-stack">
+              <label class="form-group">
+                <span>Filter metadata</span>
+                <select data-filter-column=""></select>
+              </label>
+              <label class="form-group">
+                <span>Filter values</span>
+                <select data-filter-values="" multiple="multiple"></select>
+              </label>
+            </div>
+          </section>
+          <section class="sidebar-card">
+            <div class="card-header">NPC filters</div>
+            <div class="form-stack">
+              <label class="form-group">
+                <span>Pathway</span>
+                <select data-pathway="" multiple="multiple"></select>
+              </label>
+              <label class="form-group">
+                <span>Superclass</span>
+                <select data-superclass="" multiple="multiple"></select>
+              </label>
+              <label class="form-group">
+                <span>Class</span>
+                <select data-class="" multiple="multiple"></select>
+              </label>
+            </div>
+          </section>
+          <section class="sidebar-card">
+            <div class="card-header">Grid</div>
+            <div class="form-grid">
+              <label class="form-group">
+                <span>Columns</span>
+                <input data-grid-columns="" type="number" min="1" max="8" value="4"/>
+              </label>
+              <label class="form-group">
+                <span>Rows</span>
+                <input data-grid-rows="" type="number" min="1" max="30" value="10"/>
+              </label>
+            </div>
+          </section>
+        </div>
+      </aside>
+      <main class="app-main">
+        <header class="app-header-bar">
+          <div class="header-title">
+            <h1 data-title="">MAPP data explorer</h1>
+            <div class="header-summary" data-summary=""></div>
+            <div class="header-summary" data-count=""></div>
+          </div>
+          <input class="header-search" data-global-search="" type="search" placeholder="Global search"/>
+          <div>
+            <button class="btn" data-fit-plots="">Fit plots</button>
+            <button class="btn" data-clear-filters="">Clear filters</button>
+          </div>
+        </header>
+        <section class="workspace">
+          <section class="selection-panel" data-info=""></section>
+          <div class="plot-grid" data-plot-grid=""></div>
+        </section>
+      </main>
+      <div class="hidden-dependency">
+        <div class="plotly html-widget html-fill-item" id="htmlwidget-9951936686224cac6363" style="width:100%;height:400px;"></div>
+        <script type="application/json" data-for="htmlwidget-9951936686224cac6363">{"x":{"visdat":{"12a67130bb7c9":["function () ","plotlyVisDat"]},"cur_data":"12a67130bb7c9","attrs":{"12a67130bb7c9":{"x":1,"y":1,"mode":"markers","alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"scatter"}},"layout":{"width":1,"height":1,"margin":{"b":0,"l":0,"t":0,"r":0},"xaxis":{"domain":[0,1],"automargin":true,"title":[]},"yaxis":{"domain":[0,1],"automargin":true,"title":[]},"hovermode":"closest","showlegend":false},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false,"displaylogo":false},"data":[{"x":[1],"y":[1],"mode":"markers","type":"scatter","marker":{"color":"rgba(31,119,180,1)","line":{"color":"rgba(31,119,180,1)"}},"error_y":{"color":"rgba(31,119,180,1)"},"error_x":{"color":"rgba(31,119,180,1)"},"line":{"color":"rgba(31,119,180,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+      </div>
+      <script src="data_explorer_assets/data_explorer.js"></script>
+    </div>
+  </body>
+</html>
+</html>
