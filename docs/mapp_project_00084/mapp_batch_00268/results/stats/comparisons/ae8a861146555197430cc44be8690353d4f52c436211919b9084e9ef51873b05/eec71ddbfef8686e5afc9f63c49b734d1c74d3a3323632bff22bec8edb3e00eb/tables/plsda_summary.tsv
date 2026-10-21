@@ -1,0 +1,2 @@
+"model"	"validation"	"selection"	"preprocessing"	"samples"	"groups"	"folds"	"repeats"	"permutations"	"balanced_accuracy"	"accuracy"	"null_mean_balanced_accuracy"	"null_sd_balanced_accuracy"	"permutation_p_value"	"full_fit_components"
+"ropls_pls_da"	"repeated_stratified_cv"	"configured_components_bounded_by_training_rank"	"fold_local_blank_qc_imputation_normalization_transformation_scaling"	30	3	3	5	99	0.211111111111111	0.253333333333333	0.334118967452301	0.0736643481857538	0.98	3

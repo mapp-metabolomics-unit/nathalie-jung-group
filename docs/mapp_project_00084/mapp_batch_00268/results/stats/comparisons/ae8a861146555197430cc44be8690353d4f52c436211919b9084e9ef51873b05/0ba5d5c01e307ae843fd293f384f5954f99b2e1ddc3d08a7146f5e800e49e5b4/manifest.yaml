@@ -1,0 +1,127 @@
+schema_version: 1.0.0
+status: complete
+kind: comparison
+created_at: 2026-10-21 10:56:10 UTC
+dataset_id: mapp_project_00084/mapp_batch_00268
+hashes:
+  dataset_hash: 3b2d07c4f2a7885ec232eee3a97f31a92ae68aa05c7ddd7aa3c85660e235f937
+  preprocess_hash: 01029b52484f071a05d0abf32a4582297990d5b1ddf97ee8b43e9c563c1904fa
+  run_hash: 0ba5d5c01e307ae843fd293f384f5954f99b2e1ddc3d08a7146f5e800e49e5b4
+inputs:
+  metadata: 554fab82afa3f7fd9b501a2bd7b28f72a3f409b041b7a657865a0ac22513e413
+  quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+  annotations:
+    canopus: 9b48c149b3a93193a53b305519a7b86c7a17b40df86594bc5076dd63d88c6305
+    horizontal: 3e3b1b79c4e91b1c15de4e7c9f08f9e7bbff0d2cf43ba0e82c31dad641125d2b
+    met_annot_enhancer: 853fc46ba6373fe19b5896e8b44bc389c11c9a6f0970a2d80cd042be4b71cee0
+    structures: 69a4e07049ba762b7c86ef6499dff2680e75f56045c28da7ea91aa7754ae5c4b
+environment:
+  schema_version: 1.0.0
+  code_sha256:
+    src/biostats/analysis.R: 906a62cc88681da84da6471cfec8498109331f8fffa52f8324e4c455f8a7f40e
+    src/biostats/annotations.R: d5f50520e477ed472d3fa241a61dcbe672539edc841c1bd01ce27dcca4bcf33a
+    src/biostats/config.R: 41d4503e0117c828521f878f37cb87ca78208c390ef03e5aff63bf03589d3176
+    src/biostats/dataset.R: 545f407a07324e76d993c81236e823bfe1d60a87ab9222c29755897eee985c8a
+    src/biostats/export.R: 7289910a34945b30d8f68cf39e834c2442d8b628fecea1ba3b6451c0f3eb955a
+    src/biostats/preprocess.R: 2dece1f7d3290f6f3df09ee86871e70ffdee2e0cf4f5591fe8c446ce9028f301
+    src/biostats/runner.R: ba78bc04789ba2b7761e6c8d9a190192efaf345cb2063911519190e4679654e1
+    src/biostats/supervised.R: bb9619cffa0f8ad6fb4c9c9c4e3d16114843af7a8a08b9549113a0bcac81a63b
+    src/biostats/utils.R: 1a99c35c8030439bcc0f4f50fdc39fd9e4ec972bb173382051edd397cfec8871
+    src/mapp_stats.R: d1dd6b58f2ec13b3743e05cac8ca86993909291214cea78c8f1f262b70f689b5
+  renv_lock_sha256: c36b1dd72c17588f298d01dc6e29441bb3b41483bdca59c66a671602ca8df3bb
+  packages:
+    ropls: 1.44.0
+    yaml: 2.3.12
+    digest: 0.6.39
+    ggplot2: 4.0.3
+    jsonlite: 2.0.0
+  r_version: 4.6.1
+validation:
+  valid: yes
+  dimensions:
+    samples: 42
+    features: 3486
+  role_counts:
+    sample: 30
+    qc: 9
+    blank: 3
+  group_counts:
+    A549: 15
+    MDM: 15
+  zero_fraction: 0.3723055
+  missing_fraction: 0.0
+  issues: []
+effective_dataset:
+  annotations:
+    canopus: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/canopus_structure_summary.tsv
+    horizontal: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/tmp/mapp_batch_00268_met_annot_unified_horizontal.tsv
+    met_annot_enhancer: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/met_annot_enhancer/mapp_batch_00268/mapp_batch_00268_spectral_match_results_repond_flat.tsv
+    structures: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/structure_identifications.tsv
+  batch_dir: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268
+  feature_id_column: row ID
+  id: mapp_project_00084/mapp_batch_00268
+  intensity_measure: height
+  metadata: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/metadata/treated/mapp_batch_00268_metadata.tsv
+  quantification: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/mzmine/mapp_batch_00268_quant.csv
+effective_recipe:
+  analyses:
+    differential:
+      enabled: yes
+    omnibus:
+      enabled: yes
+    plsda:
+      components: 3
+      enabled: yes
+      folds: 3
+      permutations: 99
+      repeats: 5
+  design:
+    contrasts: all
+    group: analysis_group
+  kind: comparison
+  sample_plan:
+    group_column: ATTRIBUTE_cell_type
+    groups:
+    - source: A549
+      target: A549
+    - source: MDM
+      target: MDM
+  seed: 1
+  study_hash: ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05
+  roles:
+    column: sample_type
+    levels:
+      sample: sample
+      qc: QC
+      blank: blank
+  preprocessing:
+    blank_filter:
+      enabled: yes
+      minimum_blank_prevalence: 0.5
+      minimum_sample_to_blank_ratio: 5.0
+    missing_values:
+      method: half_minimum
+    normalization:
+      method: pqn
+    qc_rsd_filter:
+      enabled: yes
+      threshold_percent: 30.0
+    scaling:
+      method: pareto
+    transformation:
+      method: log2
+study_hash: ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05
+outputs:
+  objects/comparison_analyses.rds: 2227ca0f630aa345742e0d0c35a36ca28ed7c9fee7de64a2a9fce4f1f7b21bb4
+  plots/volcano_MDM_vs_A549.pdf: db595680d03a572289996e1493985d5bb1ad8a72aed0037755a1b126fc95279c
+  plots/volcano_MDM_vs_A549.png: 733a1615ced999855019e495195edd41e063ba96f592906596608702583617c5
+  tables/comparison_sample_metadata.tsv: ca3a1a6407b6e35b4cd006a3d7771b57d4c0ec92eba22ce89ae2667ab9802885
+  tables/differential.tsv: cfd02d2a25292927a8a4d26cfe3292ddd3ec977074812f9740accac64f76e89c
+  tables/omnibus.tsv: 502935d2d95dc18611730bbdedd7acb02644267c98eb4082bea8429ca2d6de72
+  tables/plsda_fold_predictions.tsv: 6069849731ab487d098879d67a102a36175431f08c897dd539301720ab97c9c9
+  tables/plsda_loadings.tsv: 0bd45647889ed158157ebba4ed089285c4b12f41ab3a25883806db697a93eb98
+  tables/plsda_permutations.tsv: 98d310767a2f07ae0d8832f5b955e4f7dbbcc4c754e6646fc7653fc87bd2c6e5
+  tables/plsda_scores.tsv: a886e2c80aa4a49ce271b70ef9a3e7647dbc7207e65498ff697a977a9ad7e206
+  tables/plsda_status.tsv: 8a0520976a3e1b2da04ca959e114b3dd3a7a33dfb0ad3c24c902e63486b90d99
+  tables/plsda_summary.tsv: be754d3ea32e20b6dd94dc78e0801210d4b74aa320f483060442a6fa8ee092aa
+  tables/plsda_vip.tsv: b410b011d8ca9f1b6c4ca347faa44273bc1459287649b0441e69b91c0763e4d9

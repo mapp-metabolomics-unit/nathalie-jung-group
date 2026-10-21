@@ -1,0 +1,41 @@
+{
+  "analyses": {
+    "differential": {
+      "enabled": true
+    },
+    "omnibus": {
+      "enabled": true
+    },
+    "plsda": {
+      "components": 3,
+      "enabled": true,
+      "folds": 3,
+      "permutations": 99,
+      "repeats": 5
+    }
+  },
+  "design": {
+    "contrasts": "all",
+    "group": "analysis_group"
+  },
+  "kind": "comparison",
+  "sample_plan": {
+    "group_column": "ATTRIBUTE_treatment",
+    "groups": [
+      {
+        "source": "PET",
+        "target": "PET"
+      },
+      {
+        "source": "PS",
+        "target": "PS"
+      },
+      {
+        "source": "Untreated",
+        "target": "Untreated"
+      }
+    ]
+  },
+  "seed": 1,
+  "study_hash": "ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05"
+}
