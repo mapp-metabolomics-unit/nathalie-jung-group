@@ -1,0 +1,43 @@
+{
+  "analyses": {
+    "pca": {
+      "components": 5,
+      "enabled": true,
+      "include_blanks": false,
+      "include_qc": false
+    },
+    "pcoa": {
+      "components": 5,
+      "distance": "bray",
+      "enabled": true,
+      "include_blanks": false,
+      "include_qc": false,
+      "stage": "normalized"
+    }
+  },
+  "kind": "study",
+  "preprocessing": {
+    "blank_filter": {
+      "enabled": true,
+      "minimum_blank_prevalence": 0.5,
+      "minimum_sample_to_blank_ratio": 5.0
+    },
+    "missing_values": {
+      "method": "half_minimum"
+    },
+    "normalization": {
+      "method": "pqn"
+    },
+    "qc_rsd_filter": {
+      "enabled": true,
+      "threshold_percent": 30.0
+    },
+    "scaling": {
+      "method": "pareto"
+    },
+    "transformation": {
+      "method": "log2"
+    }
+  },
+  "seed": 1
+}

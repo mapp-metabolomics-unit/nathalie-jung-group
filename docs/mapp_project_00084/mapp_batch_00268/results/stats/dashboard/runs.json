@@ -2,6 +2,69 @@
   "schema_version": 1,
   "runs": [
     {
+      "hash": "36b2f1294b0b0de5f55b6c362a7b7fda7ebedd297aced7a08626dc6c8062d6f7",
+      "kind": "study",
+      "study_hash": "36b2f1294b0b0de5f55b6c362a7b7fda7ebedd297aced7a08626dc6c8062d6f7",
+      "hashes": {
+        "dataset_hash": "3b2d07c4f2a7885ec232eee3a97f31a92ae68aa05c7ddd7aa3c85660e235f937",
+        "preprocess_hash": "302c5da993b5cb5fdd5d02dc1098efcdc3ada83537b5519227f2b7940560863b",
+        "run_hash": "36b2f1294b0b0de5f55b6c362a7b7fda7ebedd297aced7a08626dc6c8062d6f7"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-21 13:35:43 UTC",
+      "description": "Shared study (30 biological samples); sample_type display groups",
+      "recipe_sha256": "1db22a46a43801d4e88e6ddbe262ed41e71625ef07eb953c54ce4ac4d203bb4e",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "fa29520e5fa670e9166a2b907d42a6fc79df2afb4c17a9cb6bec58d2c7d1d29a",
+        "objects/dataset.rds": "738b226b7d20acacc812dced93e4869ff05ceb9122f9d47a266f6ee829070096",
+        "objects/processed.rds": "1f611d83d541aab34a3007fdba74ac1ab6226f4caf79d2856115647961ff105b",
+        "plots/pca.pdf": "ee191a1d195ccee5c4d9cda0527e556087f8b3f7687b08c3b982530dc956f996",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "61e1a414f92c343460a097db3eab0fb58d07c61a42cd9f534a43f3b917ff64ae",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "e3571b535d1cf92e2c9b5226b7d35387a6520813c3653c62885b19b3ce3d6f8a",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "fd7a16307eb5ba3569ddd23d494875854c6d914e51521b522a93e419dcd365f3",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "ad377ebc75e4cceb4251d7f68da0a4eb504047330280a7a0c737d763da4b2109",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "3093431d73bb00a1eea9f96aae96c64d6479efd7a9a41818511a120e91092ba5",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd"
+      },
+      "design_group": "sample_type",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_blank_prevalence": 0.5,
+          "minimum_sample_to_blank_ratio": 5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "changes_vs_previous_dataset_run": "recipe.analyses.differential; recipe.analyses.omnibus; recipe.analyses.pca; recipe.analyses.pcoa; recipe.analyses.plsda; recipe.design.contrasts; recipe.design.group; recipe.kind; recipe.sample_plan; recipe.study_hash; code: analysis.R, dataset.R, runner.R, utils.R; environment.git_commit"
+    },
+    {
       "hash": "f6bb709a80e4e6f892bc31045d6924a4c7022798fb8f591104728e52b1485553",
       "kind": "comparison",
       "study_hash": "ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05",

@@ -1,10 +1,16 @@
 # Biostats results
 
-5 completed sealed runs.
+6 completed sealed runs.
 
 [Open the Biostats dashboard](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/)
 
 ## Available statistics
+
+### [Study 36b2f1294b0b0de5f55b6c362a7b7fda7ebedd297aced7a08626dc6c8062d6f7](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=36b2f1294b0b0de5f55b6c362a7b7fda7ebedd297aced7a08626dc6c8062d6f7)
+
+- Validated injections: 42; biological samples: 30; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (sample\_type: sample (30)).
+- Enabled analyses: PCA, PCoA.
 
 ### [Study ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=ae8a861146555197430cc44be8690353d4f52c436211919b9084e9ef51873b05)
 
