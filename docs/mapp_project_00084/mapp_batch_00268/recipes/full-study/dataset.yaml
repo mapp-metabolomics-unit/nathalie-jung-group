@@ -1,0 +1,13 @@
+id: mapp_project_00084/mapp_batch_00268
+batch_dir: ../..
+metadata: metadata/treated/mapp_batch_00268_metadata.tsv
+quantification: results/mzmine/mapp_batch_00268_quant.csv
+feature_id_column: row ID
+intensity_measure: height
+input_sha256:
+  metadata: 162c508c4f7447b01e3a8e81460b50f5993df549a06386a42f8624e0ceb94085
+  quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+annotations:
+  canopus: results/sirius/canopus_structure_summary.tsv
+  structures: results/sirius/structure_identifications.tsv
+  horizontal: results/tmp/mapp_batch_00268_met_annot_unified_horizontal.tsv

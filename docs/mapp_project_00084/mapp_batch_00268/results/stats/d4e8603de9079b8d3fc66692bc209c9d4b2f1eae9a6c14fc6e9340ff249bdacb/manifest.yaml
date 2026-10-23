@@ -1,0 +1,134 @@
+schema_version: 1.0.0
+status: complete
+kind: study
+created_at: 2026-10-23 09:32:33 UTC
+dataset_id: mapp_project_00084/mapp_batch_00268
+hashes:
+  dataset_hash: cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32
+  preprocess_hash: 6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5
+  run_hash: d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb
+inputs:
+  metadata: 162c508c4f7447b01e3a8e81460b50f5993df549a06386a42f8624e0ceb94085
+  quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+  annotations:
+    canopus: 9b48c149b3a93193a53b305519a7b86c7a17b40df86594bc5076dd63d88c6305
+    structures: 69a4e07049ba762b7c86ef6499dff2680e75f56045c28da7ea91aa7754ae5c4b
+    horizontal: 3e3b1b79c4e91b1c15de4e7c9f08f9e7bbff0d2cf43ba0e82c31dad641125d2b
+environment:
+  schema_version: 1.0.0
+  code_sha256:
+    src/biostats/analysis.R: 2cfe6911ba9b2117014e9d0ae8410a931fc81085916a5a63fc2b65abd8726733
+    src/biostats/annotations.R: d5f50520e477ed472d3fa241a61dcbe672539edc841c1bd01ce27dcca4bcf33a
+    src/biostats/config.R: 41d4503e0117c828521f878f37cb87ca78208c390ef03e5aff63bf03589d3176
+    src/biostats/dataset.R: fb122b6199fd28f6f7dbc1c2136d1c66727fe0d462a24fabec5e51126cbb429e
+    src/biostats/export.R: 7289910a34945b30d8f68cf39e834c2442d8b628fecea1ba3b6451c0f3eb955a
+    src/biostats/preprocess.R: 2dece1f7d3290f6f3df09ee86871e70ffdee2e0cf4f5591fe8c446ce9028f301
+    src/biostats/runner.R: 59d1c3f0b1b7c658023ba2477fe3e2b896d15e2408bd6e73a177064fd1f45916
+    src/biostats/supervised.R: bb9619cffa0f8ad6fb4c9c9c4e3d16114843af7a8a08b9549113a0bcac81a63b
+    src/biostats/utils.R: 2f381bcd8613302ee79ca8f8d0f144ff4fcae6d99aa8704e6e471524a38ad189
+    src/mapp_stats.R: d1dd6b58f2ec13b3743e05cac8ca86993909291214cea78c8f1f262b70f689b5
+  renv_lock_sha256: c36b1dd72c17588f298d01dc6e29441bb3b41483bdca59c66a671602ca8df3bb
+  packages:
+    ropls: 1.44.0
+    yaml: 2.3.12
+    digest: 0.6.39
+    ggplot2: 4.0.3
+    jsonlite: 2.0.0
+  r_version: 4.6.1
+  git_commit: 14c08274fede4187f18408bd074e5a4bab7f7a25
+validation:
+  valid: yes
+  dimensions:
+    samples: 42
+    features: 3486
+  role_counts:
+    sample: 30
+    qc: 9
+    blank: 3
+  group_counts:
+    sample: 30
+  zero_fraction: 0.3723055
+  missing_fraction: 0.0
+  issues: []
+effective_dataset:
+  id: mapp_project_00084/mapp_batch_00268
+  batch_dir: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268
+  metadata: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/metadata/treated/mapp_batch_00268_metadata.tsv
+  quantification: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/mzmine/mapp_batch_00268_quant.csv
+  feature_id_column: row ID
+  intensity_measure: height
+  input_sha256:
+    metadata: 162c508c4f7447b01e3a8e81460b50f5993df549a06386a42f8624e0ceb94085
+    quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+  annotations:
+    canopus: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/canopus_structure_summary.tsv
+    structures: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/structure_identifications.tsv
+    horizontal: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/tmp/mapp_batch_00268_met_annot_unified_horizontal.tsv
+effective_recipe:
+  kind: study
+  seed: 1
+  preprocessing:
+    blank_filter:
+      enabled: yes
+      minimum_sample_to_blank_ratio: 5
+      minimum_blank_prevalence: 0.5
+    qc_rsd_filter:
+      enabled: yes
+      threshold_percent: 30
+    missing_values:
+      method: half_minimum
+    normalization:
+      method: pqn
+    transformation:
+      method: log2
+    scaling:
+      method: pareto
+  display_group: sample_type
+  analyses:
+    pca:
+      enabled: yes
+      components: 5
+      include_qc: no
+      include_blanks: no
+    pcoa:
+      enabled: yes
+      stage: normalized
+      distance: bray
+      components: 5
+      include_qc: no
+      include_blanks: no
+  roles:
+    column: sample_type
+    levels:
+      sample: sample
+      qc: QC
+      blank: blank
+  design:
+    group: sample_type
+description: Batch-wide lipidomics study of A549 and MDM samples
+outputs:
+  objects/analyses.rds: 39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028
+  objects/dataset.rds: 4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86
+  objects/processed.rds: fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3
+  plots/pca.pdf: f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd
+  plots/pca.png: 7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083
+  plots/pcoa.pdf: 34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe
+  plots/pcoa.png: 87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466
+  tables/annotation_candidates.tsv: c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337
+  tables/annotation_horizontal.tsv: a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526
+  tables/blank_filter.tsv: 4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f
+  tables/matrix_blank_filtered.tsv: 6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68
+  tables/matrix_imputed.tsv: 95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349
+  tables/matrix_normalized.tsv: be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8
+  tables/matrix_raw.tsv: 0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2
+  tables/matrix_scaled.tsv: 0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb
+  tables/matrix_transformed.tsv: b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b
+  tables/pca_loadings.tsv: feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648
+  tables/pca_scores.tsv: 6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629
+  tables/pca_variance.tsv: 194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4
+  tables/pcoa_scores.tsv: e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226
+  tables/pcoa_variance.tsv: ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc
+  tables/qc_rsd.tsv: 22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367
+  tables/sample_metadata.tsv: 92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60
+  tables/variable_metadata_input.tsv: 5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b
+  tables/variable_metadata.tsv: 46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd

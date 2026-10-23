@@ -1,0 +1,668 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "hash": "ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:37:13 UTC",
+      "description": "MDM PS 0.5 vs untreated (unpaired)",
+      "recipe_sha256": "9ded96a969fd9dd79b0875c4f55f074a5b1ff91b68dec52958453c32f7ee7bbd",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "7adb05711a6a2143cc82512230cad9b9417f6afd8567557fe7426eea54a3a22c",
+        "plots/volcano_treated_vs_control.pdf": "74c595234b10cc09054fec5148f007101a80113c683502f42157fe64618b4b65",
+        "plots/volcano_treated_vs_control.png": "1eec350ff0f92b9c847848aa943aedadf76bd6d17a8ee044e14a3abf9ed8d097",
+        "tables/comparison_sample_metadata.tsv": "5c8b7836e39a2b7c3dcb21e15d86b0138c4ff6386906f2a70306dca449d21051",
+        "tables/differential.tsv": "de02110e41ba27c6944fd401d5c917e7c8fb157ba366e91e3a01c1d54ff29f7d"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified"
+    },
+    {
+      "hash": "8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:37:02 UTC",
+      "description": "MDM PS 0.5 vs untreated (paired)",
+      "recipe_sha256": "d83c7a1005147dbe3333ae284b490b6a26041c4ed12279fb5018543380895177",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "f20919d932ea7b20349c16f7fc9bb36dcf1733e442de817cebf6965dd3e47de7",
+        "plots/volcano_treated_vs_control.pdf": "0972282d605dbc151bf54568db94307b60e91f3c4bd956052dd40e495b562cc1",
+        "plots/volcano_treated_vs_control.png": "9da3849736bd16bd4c4938cb13095d11dd02f40a8072c475d66189160cf8b6cd",
+        "tables/comparison_sample_metadata.tsv": "5c8b7836e39a2b7c3dcb21e15d86b0138c4ff6386906f2a70306dca449d21051",
+        "tables/differential.tsv": "0a7192140acf73c40533a1ecd249419d783b1a85403448deaf3937d365ff28cb"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/8e3175c1f1afab9602cd7670e8710670107c23f6edb478de7040f3a141fcdc94"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified; recipe.sample_plan.groups"
+    },
+    {
+      "hash": "e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:36:52 UTC",
+      "description": "MDM PET 0.5 vs untreated (unpaired)",
+      "recipe_sha256": "6b3947767c580cdb991c4ee0460f071d3bc67b3b3dccb9296d6147d0e12c237f",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "241cb6f5aeac9265538a284a05763007efe010bdc56fe4cf9d3aded29d507274",
+        "plots/volcano_treated_vs_control.pdf": "8be60a9a4fd0576fe93e771ab5323ec128e1f4d1639f226e5bd02dbb189677f2",
+        "plots/volcano_treated_vs_control.png": "575361bd9a5bfbc2367802d6e5d62b33f2f542163cc34d895eac45526899fb06",
+        "tables/comparison_sample_metadata.tsv": "bf637712fc2a343248216139ea9694f7355bbc83b524ee0287467267d4f4edad",
+        "tables/differential.tsv": "9e420fb3ea1cbdfe135ee375004a5272c9386be93170340088e5da5cde9a60b8"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e5283816ba79402dede2c6e9839deabba06e6a2549e5122f1ce1621c2a738ce3"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified"
+    },
+    {
+      "hash": "c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:36:41 UTC",
+      "description": "MDM PET 0.5 vs untreated (paired)",
+      "recipe_sha256": "531e50f465513d0644479cd1450f320a2e188dd7fd83a13cf5a4c1cd73d76634",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "f7d84a0a37a2cc1d590b670b8db503dd27787e56bb9a09099b0358db7eab2e19",
+        "plots/volcano_treated_vs_control.pdf": "3353654edb8053dbe11e102941877367031b07e5e4b28bf09f0c02068a488740",
+        "plots/volcano_treated_vs_control.png": "c91b8e25e1e9979ea3ae00a884ad05bfd2d7018bf69e1d45fdb2691ee649e948",
+        "tables/comparison_sample_metadata.tsv": "bf637712fc2a343248216139ea9694f7355bbc83b524ee0287467267d4f4edad",
+        "tables/differential.tsv": "3eddcbca1a6093748449067773c03b2ad5760035d459c547fb6adc9603771b4e"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/c60310d7dc61a6d7d9802cfcee249f171ad3b8fbb99f6564578d50127d5b7df6"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified; recipe.sample_plan.groups"
+    },
+    {
+      "hash": "2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:36:31 UTC",
+      "description": "A549 PS 0.5 vs untreated (unpaired)",
+      "recipe_sha256": "3fc275a6aa2c36bc89f14cf6a509881048dd356a49d994c243bbbf44c983cc44",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "7bb78ca96c943477fa46f6d93c6bd0be2f0c202b0c1d7a6470a070b2dd4e8814",
+        "plots/volcano_treated_vs_control.pdf": "c086c5e09d0c0000eb9a34e2535b302fae47d052ac0cd42aabbbb858b38d53f3",
+        "plots/volcano_treated_vs_control.png": "67729c5e1a499dfd4e0f979fa52ab666b7c5ab3ef56e1d1b1a4417680d834547",
+        "tables/comparison_sample_metadata.tsv": "63573d554e2dfb865ed28df6494ccdc4845470e5ffe9632eb0ff38a4c4ffeac4",
+        "tables/differential.tsv": "5b6c3c760af17492c64a495150d475e3801d63c5b5e08e09db1dace390ab3613"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/2b1415c3eda7c2e35c7abdbf1adc9371f7274e4101422991091f63db080a69b1"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified"
+    },
+    {
+      "hash": "60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:36:20 UTC",
+      "description": "A549 PS 0.5 vs untreated (paired)",
+      "recipe_sha256": "4818a989fc1808c939b5f9aee544b36401815aa033b8d51d9c379c21ccf42f8d",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "d03f45bb2b419595a0be11fa6dde83f4fd4ea543c5f54fe0db2492fbab5d2a7b",
+        "plots/volcano_treated_vs_control.pdf": "135df219bb64077024191b239456c0a4701ff64abc48003091631896fe008667",
+        "plots/volcano_treated_vs_control.png": "317a7f1128d92198073183dce7d9835fbfd88a41257c1562a03e29c58bf1c906",
+        "tables/comparison_sample_metadata.tsv": "63573d554e2dfb865ed28df6494ccdc4845470e5ffe9632eb0ff38a4c4ffeac4",
+        "tables/differential.tsv": "7360881d95e5b579b2023dff3343154dcca08f7058f88f4b7ea4fd1dfbd2fd38"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/60c126d6869acf75b4dadef5360d4fa04f0c71e682af71474156156d1eba076f"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified; recipe.sample_plan.groups"
+    },
+    {
+      "hash": "e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:36:10 UTC",
+      "description": "A549 PET 0.5 vs untreated (unpaired)",
+      "recipe_sha256": "e356a48a69b1f610a623b1a5b78f4059adcc4c530becaf76a8e680e8ab5c1602",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "d664b68395d43fe8e6f0711f84f2232841f226cb6a1565f6bca6b29da88a25e6",
+        "plots/volcano_treated_vs_control.pdf": "919cfdd12b47d420e8ec6de9744830ea757e86d612652e5a90bb3b3f35cec845",
+        "plots/volcano_treated_vs_control.png": "b136d5d686ef01625404ba309aa1542e64b5cfaf7ca4126a266ad6acf2cd1e7c",
+        "tables/comparison_sample_metadata.tsv": "a1f8d2fb339b2040f272f663783a4456ec7b9fd8c1c519574a82b93a9716e758",
+        "tables/differential.tsv": "64be9144631eb8ea4a4e355aaf7a64cc1ef183ca79889fc1581e91a0acf62090"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/e516d68dbc18be65871ddf02ba240e8f1853ad1b52cbca197ad8b7e746ceecae"
+      },
+      "changes_vs_previous_dataset_run": "recipe.design.block; recipe.design.block_verified"
+    },
+    {
+      "hash": "4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766",
+      "kind": "comparison",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:35:59 UTC",
+      "description": "A549 PET 0.5 vs untreated (paired)",
+      "recipe_sha256": "55bc01726a0363663022cc16d98fcfc218485ef6776aa485cb603c88bfc2183f",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd",
+        "objects/comparison_analyses.rds": "a499ef0f34536b38b4367be3edb4cd86941986f79c9d3a9458a3b22b9377ace1",
+        "plots/volcano_treated_vs_control.pdf": "3309c7a70aaef901b9a009cf4e6c5c0f6871512fe34cef9d59f68a88c0c186b7",
+        "plots/volcano_treated_vs_control.png": "30de547478f0637cab830dbbd7643ba09460fa1ec8afed71f95b80d368fbd3a1",
+        "tables/comparison_sample_metadata.tsv": "a1f8d2fb339b2040f272f663783a4456ec7b9fd8c1c519574a82b93a9716e758",
+        "tables/differential.tsv": "3756175836a0822e6e165ce609b1c53ab1b1eae11db1e4d65aba9fda77dab899"
+      },
+      "design_group": "analysis_group",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "sources": {
+        "objects/comparison_analyses.rds": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766",
+        "plots/volcano_treated_vs_control.pdf": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766",
+        "plots/volcano_treated_vs_control.png": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766",
+        "tables/comparison_sample_metadata.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766",
+        "tables/differential.tsv": "comparisons/d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb/4466bacd3c72ccbe8b13df56f93d394787d078df456fd2b8b96fd9f8fda79766"
+      },
+      "changes_vs_previous_dataset_run": "recipe.analyses.differential; recipe.analyses.omnibus; recipe.analyses.pca; recipe.analyses.pcoa; recipe.analyses.plsda; recipe.design.block; recipe.design.block_verified; recipe.design.contrasts; recipe.design.group; recipe.display_group; recipe.kind; recipe.sample_plan; recipe.study_hash"
+    },
+    {
+      "hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "kind": "study",
+      "study_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb",
+      "hashes": {
+        "dataset_hash": "cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32",
+        "preprocess_hash": "6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5",
+        "run_hash": "d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb"
+      },
+      "dataset_id": "mapp_project_00084/mapp_batch_00268",
+      "created_at": "2026-10-23 09:32:33 UTC",
+      "description": "Batch-wide lipidomics study of A549 and MDM samples",
+      "recipe_sha256": "555cd77bcdb6d598443c4f908a1d147422f5eac13bc7e9c40b821737c06481b5",
+      "schema_version": "1.0.0",
+      "outputs": {
+        "objects/analyses.rds": "39b3ef9c9f0b0c921a83cf22f9c5fe7ede2a70e512270f968ffb38fe96347028",
+        "objects/dataset.rds": "4f6413fa582a513dd968285df0f6801676206c089f174ba58e206d337aaf9e86",
+        "objects/processed.rds": "fe81409271bb65d08798505b1d021a6933c2c0b53c28c78eded53b32c2b0b5c3",
+        "plots/pca.pdf": "f0442031da868433be0d23c4d0db3b57d370e712f77953af5dc1e777d7f2e1dd",
+        "plots/pca.png": "7dbdd973c967d8f0d865ee886dffc8623730fd1614e9f2f2537222d3a3dc9083",
+        "plots/pcoa.pdf": "34772e2fc18ae3d8a462a1e7f23e548ede97bc5a7301bfb5ca767c169f336cbe",
+        "plots/pcoa.png": "87ea5752065aed9bfb36da1710e910e06320cdea1fffe610ea7f94b1ab3d4466",
+        "tables/annotation_candidates.tsv": "c6d469e2f01f89f0eb4fba1362459078fa8ab904dce623cabf8e344c03a74337",
+        "tables/annotation_horizontal.tsv": "a45ad95fd73d7f019a83012454e486577c109348c35275e62bfd55975718f526",
+        "tables/blank_filter.tsv": "4a8eef3d8710118941e43f8c00cd94520f5182cbdbffd575a69c54375967449f",
+        "tables/matrix_blank_filtered.tsv": "6ef20b64daefb7ad724d70b3f20373c1bfb7f8a5579c768216d19dd608503f68",
+        "tables/matrix_imputed.tsv": "95b7ed27ae117aeeb49722c3219b904f6f837cb066a08eb5360674571e630349",
+        "tables/matrix_normalized.tsv": "be797cb11002ee1da98c97cffbfac2157cc55ddaddf5df74efb5b129e40cf7c8",
+        "tables/matrix_raw.tsv": "0f071cca813c7f4188b92b036b6f2a1acaef4afaee44f3f26d9157926d1123d2",
+        "tables/matrix_scaled.tsv": "0bec210a2d3c11dc8e8e70b2dfa887b5fba6a65a2f63c297555c6e3da023d8eb",
+        "tables/matrix_transformed.tsv": "b08219118a1bbd40ced086226be6611c8ce038e79597b4325b30d89583c7af8b",
+        "tables/pca_loadings.tsv": "feea5eebd5581ae082a75fb074bb1cb4d7921d509f634fe444ea9a63f4e5d648",
+        "tables/pca_scores.tsv": "6e6c1e5d3bd705b15be19503496583c02f11bb42c6e972bba66d719b2a9ae629",
+        "tables/pca_variance.tsv": "194f16b3bd109798ed9e003c57d664b923ef334f6102051da8193b2ff3a629c4",
+        "tables/pcoa_scores.tsv": "e72a91adbbd811c537bed35078dca07570755800efde1c09091a13245f04d226",
+        "tables/pcoa_variance.tsv": "ed6549d46164340ddfe306d5eb797d51a16be9de1f3579a95cf62bddaeca4edc",
+        "tables/qc_rsd.tsv": "22316d37b348ad641cc10599d8bdcda5f19bf1d9f8a6f7bc98ae90e18b98d367",
+        "tables/sample_metadata.tsv": "92ca872cec8f0a833095f5ffd5e3a054944ecdaf8e9eeb2b24798dc3634fbf60",
+        "tables/variable_metadata_input.tsv": "5e5f21082331229dc1a423738034c4b29c86b42f04c5e8018eca89627b771f2b",
+        "tables/variable_metadata.tsv": "46b0eb02b75eecea8c6bfcedcd7bae3f1d7b86e3542fe245ceba73e87d889ccd"
+      },
+      "design_group": "sample_type",
+      "intensity_measure": "height",
+      "transformation": "log2",
+      "preprocessing_filters": {
+        "blank_filter": {
+          "enabled": true,
+          "minimum_sample_to_blank_ratio": 5,
+          "minimum_blank_prevalence": 0.5
+        },
+        "qc_rsd_filter": {
+          "enabled": true,
+          "threshold_percent": 30
+        },
+        "missing_values": {
+          "method": "half_minimum"
+        },
+        "normalization": {
+          "method": "pqn"
+        }
+      },
+      "changes_vs_previous_dataset_run": "First published run for dataset"
+    }
+  ]
+}

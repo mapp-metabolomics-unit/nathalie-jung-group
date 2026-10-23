@@ -1,0 +1,121 @@
+schema_version: 1.0.0
+status: complete
+kind: comparison
+created_at: 2026-10-23 09:37:13 UTC
+dataset_id: mapp_project_00084/mapp_batch_00268
+hashes:
+  dataset_hash: cad9a7cdc7babbd5f85d233997d9452f55be971ca3901f64dbd726f707d16f32
+  preprocess_hash: 6ff9744a370bc670f6faadedb8caf174f3992a80077ba30cafd6d605d8fe69a5
+  run_hash: ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83
+inputs:
+  metadata: 162c508c4f7447b01e3a8e81460b50f5993df549a06386a42f8624e0ceb94085
+  quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+  annotations:
+    canopus: 9b48c149b3a93193a53b305519a7b86c7a17b40df86594bc5076dd63d88c6305
+    structures: 69a4e07049ba762b7c86ef6499dff2680e75f56045c28da7ea91aa7754ae5c4b
+    horizontal: 3e3b1b79c4e91b1c15de4e7c9f08f9e7bbff0d2cf43ba0e82c31dad641125d2b
+environment:
+  schema_version: 1.0.0
+  code_sha256:
+    src/biostats/analysis.R: 2cfe6911ba9b2117014e9d0ae8410a931fc81085916a5a63fc2b65abd8726733
+    src/biostats/annotations.R: d5f50520e477ed472d3fa241a61dcbe672539edc841c1bd01ce27dcca4bcf33a
+    src/biostats/config.R: 41d4503e0117c828521f878f37cb87ca78208c390ef03e5aff63bf03589d3176
+    src/biostats/dataset.R: fb122b6199fd28f6f7dbc1c2136d1c66727fe0d462a24fabec5e51126cbb429e
+    src/biostats/export.R: 7289910a34945b30d8f68cf39e834c2442d8b628fecea1ba3b6451c0f3eb955a
+    src/biostats/preprocess.R: 2dece1f7d3290f6f3df09ee86871e70ffdee2e0cf4f5591fe8c446ce9028f301
+    src/biostats/runner.R: 59d1c3f0b1b7c658023ba2477fe3e2b896d15e2408bd6e73a177064fd1f45916
+    src/biostats/supervised.R: bb9619cffa0f8ad6fb4c9c9c4e3d16114843af7a8a08b9549113a0bcac81a63b
+    src/biostats/utils.R: 2f381bcd8613302ee79ca8f8d0f144ff4fcae6d99aa8704e6e471524a38ad189
+    src/mapp_stats.R: d1dd6b58f2ec13b3743e05cac8ca86993909291214cea78c8f1f262b70f689b5
+  renv_lock_sha256: c36b1dd72c17588f298d01dc6e29441bb3b41483bdca59c66a671602ca8df3bb
+  packages:
+    ropls: 1.44.0
+    yaml: 2.3.12
+    digest: 0.6.39
+    ggplot2: 4.0.3
+    jsonlite: 2.0.0
+  r_version: 4.6.1
+  git_commit: 14c08274fede4187f18408bd074e5a4bab7f7a25
+validation:
+  valid: yes
+  dimensions:
+    samples: 18
+    features: 3486
+  role_counts:
+    sample: 6
+    qc: 9
+    blank: 3
+  group_counts:
+    control: 3
+    treated: 3
+  zero_fraction: 0.3934149
+  missing_fraction: 0.0
+  issues: []
+effective_dataset:
+  id: mapp_project_00084/mapp_batch_00268
+  batch_dir: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268
+  metadata: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/metadata/treated/mapp_batch_00268_metadata.tsv
+  quantification: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/mzmine/mapp_batch_00268_quant.csv
+  feature_id_column: row ID
+  intensity_measure: height
+  input_sha256:
+    metadata: 162c508c4f7447b01e3a8e81460b50f5993df549a06386a42f8624e0ceb94085
+    quantification: ff38bc365d55feee7cbf11f85f094a12ec03ca24e6b820ec3bb103a0261b05b3
+  annotations:
+    canopus: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/canopus_structure_summary.tsv
+    structures: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/sirius/structure_identifications.tsv
+    horizontal: /home/allardpm/git_repos/mapp-metabolomics-unit/nathalie-jung-group/docs/mapp_project_00084/mapp_batch_00268/results/tmp/mapp_batch_00268_met_annot_unified_horizontal.tsv
+effective_recipe:
+  kind: comparison
+  study_hash: d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb
+  seed: 1
+  sample_plan:
+    group_column: ATTRIBUTE_cell_type_treatment_concentration
+    groups:
+    - source: MDM_PS_0.5
+      target: treated
+    - source: MDM_Untreated_0
+      target: control
+  design:
+    group: analysis_group
+    contrasts:
+    - name: treated_vs_control
+      numerator: treated
+      denominator: control
+  analyses:
+    omnibus:
+      enabled: no
+    differential:
+      enabled: yes
+    plsda:
+      enabled: no
+  roles:
+    column: sample_type
+    levels:
+      sample: sample
+      qc: QC
+      blank: blank
+  preprocessing:
+    blank_filter:
+      enabled: yes
+      minimum_sample_to_blank_ratio: 5
+      minimum_blank_prevalence: 0.5
+    qc_rsd_filter:
+      enabled: yes
+      threshold_percent: 30
+    missing_values:
+      method: half_minimum
+    normalization:
+      method: pqn
+    transformation:
+      method: log2
+    scaling:
+      method: pareto
+study_hash: d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb
+description: MDM PS 0.5 vs untreated (unpaired)
+outputs:
+  objects/comparison_analyses.rds: 7adb05711a6a2143cc82512230cad9b9417f6afd8567557fe7426eea54a3a22c
+  plots/volcano_treated_vs_control.pdf: 74c595234b10cc09054fec5148f007101a80113c683502f42157fe64618b4b65
+  plots/volcano_treated_vs_control.png: 1eec350ff0f92b9c847848aa943aedadf76bd6d17a8ee044e14a3abf9ed8d097
+  tables/comparison_sample_metadata.tsv: 5c8b7836e39a2b7c3dcb21e15d86b0138c4ff6386906f2a70306dca449d21051
+  tables/differential.tsv: de02110e41ba27c6944fd401d5c917e7c8fb157ba366e91e3a01c1d54ff29f7d
