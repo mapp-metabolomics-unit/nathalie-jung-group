@@ -1,6 +1,6 @@
 # Biostats results
 
-9 completed sealed runs.
+17 completed sealed runs.
 
 [Open the Biostats dashboard](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/)
 
@@ -14,6 +14,70 @@
 - Description: Batch\-wide lipidomics study of A549 and MDM samples
 
 #### Comparisons
+
+- [Comparison 4e9e656d55e10cc05595ecab4341ff01a5f134c33d66f2f945da0ba1e0561624](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=4e9e656d55e10cc05595ecab4341ff01a5f134c33d66f2f945da0ba1e0561624) — MDM PS 100 vs untreated \(unpaired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: MDM PS 100 vs untreated \(unpaired\)
+
+- [Comparison cad9a74e83d2ffb60c41291f85c8b9d292dd33d063ce7f7fa31e3b1cc5fcff97](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=cad9a74e83d2ffb60c41291f85c8b9d292dd33d063ce7f7fa31e3b1cc5fcff97) — MDM PS 100 vs untreated \(paired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: MDM PS 100 vs untreated \(paired\)
+
+- [Comparison 6d744eb4bd70ddec7b9c4d786055e14123fc97a99a46b0fddd5b5910c66e0526](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=6d744eb4bd70ddec7b9c4d786055e14123fc97a99a46b0fddd5b5910c66e0526) — MDM PET 100 vs untreated \(unpaired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: MDM PET 100 vs untreated \(unpaired\)
+
+- [Comparison 8a8bed3d249237f268dcb884f12dccdf3d2b3fa17bf3bca8f36b85a2aa168d02](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=8a8bed3d249237f268dcb884f12dccdf3d2b3fa17bf3bca8f36b85a2aa168d02) — MDM PET 100 vs untreated \(paired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: MDM PET 100 vs untreated \(paired\)
+
+- [Comparison c413fa3ce8f0238740e5dbb1ff00c8c072b73ba052921c5761f6989d2aeb7e41](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=c413fa3ce8f0238740e5dbb1ff00c8c072b73ba052921c5761f6989d2aeb7e41) — A549 PS 100 vs untreated \(unpaired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: A549 PS 100 vs untreated \(unpaired\)
+
+- [Comparison 4ad712e3b349c8c9aae779240ac899a1d2596dd7fc1f4acc844189514c5255ca](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=4ad712e3b349c8c9aae779240ac899a1d2596dd7fc1f4acc844189514c5255ca) — A549 PS 100 vs untreated \(paired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: A549 PS 100 vs untreated \(paired\)
+
+- [Comparison 4aea33a3beaf1e99d7e8b04f7fb1dc161955fce77021d4eecb38fae90abc711e](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=4aea33a3beaf1e99d7e8b04f7fb1dc161955fce77021d4eecb38fae90abc711e) — A549 PET 100 vs untreated \(unpaired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: A549 PET 100 vs untreated \(unpaired\)
+
+- [Comparison 09fe6179200ef991019a0a3d74ef7480003343163f4d569648c3ca8adfdb0d1e](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=09fe6179200ef991019a0a3d74ef7480003343163f4d569648c3ca8adfdb0d1e) — A549 PET 100 vs untreated \(paired\)
+
+- Validated injections: 18; biological samples: 6; QC injections: 9; blank injections: 3; measured features: 3486.
+- Biological groups (analysis\_group: control (3), treated (3)).
+- Selected biological samples: 6.
+- Enabled analyses: differential.
+- Description: A549 PET 100 vs untreated \(paired\)
 
 - [Comparison ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83](https://mapp-metabolomics-unit.github.io/nathalie-jung-group/mapp_project_00084/mapp_batch_00268/results/stats/dashboard/?run=ab3d9b8b86c97a28811f1f6aedf522b64c33c3bcdf45ee73eb72ab59c396da83) — MDM PS 0\.5 vs untreated \(unpaired\)
 
