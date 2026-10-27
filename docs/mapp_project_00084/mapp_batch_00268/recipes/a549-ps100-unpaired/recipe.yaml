@@ -1,0 +1,18 @@
+kind: comparison
+study_hash: d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb
+seed: 1
+presentation:
+  description: A549 PS 100 vs untreated (unpaired)
+sample_plan:
+  group_column: ATTRIBUTE_cell_type_treatment_concentration
+  groups:
+    - {source: A549_PS_100, target: treated}
+    - {source: A549_Untreated_0, target: control}
+design:
+  group: analysis_group
+  contrasts:
+    - {name: treated_vs_control, numerator: treated, denominator: control}
+analyses:
+  omnibus: {enabled: false}
+  differential: {enabled: true}
+  plsda: {enabled: false}

@@ -1,0 +1,20 @@
+kind: comparison
+study_hash: d4e8603de9079b8d3fc66692bc209c9d4b2f1eae9a6c14fc6e9340ff249bdacb
+seed: 1
+presentation:
+  description: MDM PET 100 vs untreated (paired)
+sample_plan:
+  group_column: ATTRIBUTE_cell_type_treatment_concentration
+  groups:
+    - {source: MDM_PET_100, target: treated}
+    - {source: MDM_Untreated_0, target: control}
+design:
+  group: analysis_group
+  block: ATTRIBUTE_experimental_unit
+  block_verified: true
+  contrasts:
+    - {name: treated_vs_control, numerator: treated, denominator: control}
+analyses:
+  omnibus: {enabled: false}
+  differential: {enabled: true}
+  plsda: {enabled: false}
